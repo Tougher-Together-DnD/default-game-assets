@@ -1,13 +1,15 @@
 ﻿<!-- Downtime Activities -->
+<!-- default-game-assets -->
 <!-- handouts -->
+<!-- downtime-activities -->
 
 <!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts "Tougher Together VTTES Files"
+[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/downtime-activities "Tougher Together Files"
 
 <!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/downtime-activities/downtime-activities-banner.png "topic main banner"
-[Crafting Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/downtime-activities/crafting-banner.png
-[Selling Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/downtime-activities/selling-banner.png
+[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/downtime-activities/images/downtime-activities-banner.png "topic main banner"
+[Crafting Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/downtime-activities/images/crafting-banner.png
+[Selling Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/downtime-activities/images/selling-banner.png
 
 <style>
 /* CSS style for NaturalCrit Homebrew render. */
@@ -41,10 +43,12 @@ The description of each activity includes a discussion of complications you can 
 
 Each of these sections has a table that offers possible complications. You can roll to determine a complication randomly, pick one from the table, or devise one of your own, and then share it with the player.
 
-# Example Downtime Activities
+## Example Downtime Activities
 The following activities are suitable for any character who can afford to pursue them. As DM, you have the final say on which activities are available to the characters. The activities you allow might depend on the nature of the area where the characters are located. For example, you might disallow the creation of magic items or decide that the characters are in a town that is too isolated from major markets for them to buy such items.
 
-## Buying a Magic Item
+<br>
+
+### Buying a Magic Item
 Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
 
 **Resources.** Finding magic items to purchase requires at least one workweek of effort and 100 gp in expenses. Spending more time and money increases your chance of finding a high-quality item.
@@ -72,8 +76,6 @@ If the characters seek a specific magic item, first decide if it’s an item you
 | 36-40 | Roll 1d4 times on Magic Item Table H. |
 | 41+ | Roll 1d4 times on Magic Item Table I. |
 
-<br>
-
 ##### Magic Item Price
 | Rarity | Asking Price |
 | :--- | :--- |
@@ -85,11 +87,7 @@ If the characters seek a specific magic item, first decide if it’s an item you
 
 *Halved for a consumable item like a potion or scroll
 
-<br>
-
 **Complications.** The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
-
-<br>
 
 ##### Magic Item Purchase Complications
 | 1d12 | Complications |
@@ -111,7 +109,7 @@ If the characters seek a specific magic item, first decide if it’s an item you
 
 <br>
 
-## Carousing
+### Carousing
 Carousing is a default downtime activity for many characters. Between adventures, who doesn’t want to relax with a few drinks and a group of friends at a tavern?
 
 **Resources.** Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
@@ -163,8 +161,6 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 *Might involve a rival
 
-<br>
-
 ##### Middle-Class Carousing Complications
 | 1d8 | Complication |
 | :--- | :--- |
@@ -195,7 +191,7 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 ![][Crafting Banner]
 
-## Crafting an Item
+### Crafting an Item
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 
 **Resources and Resolution.** In addition to the appropriate tools for the item to be crafted, a character needs raw materials worth half of the item’s selling cost. To determine how many workweeks it takes to create an item, divide its gold piece cost by 50. A character can complete multiple items in a workweek if the items’ combined cost is 50 gp or lower. Items that cost more than 50 gp can be completed over longer periods of time, as long as the work in progress is stored in a safe location.
@@ -279,7 +275,7 @@ Potion of Healing Creation
 
 <br>
 
-## Crime
+### Crime
 Sometimes it pays to be bad. This activity gives a character the chance to make some extra cash, at the risk of arrest.
 
 **Resources.** A character must spend one week and at least 25 gp gathering information on potential targets before committing the intended crime.
@@ -319,17 +315,15 @@ To attempt a crime, the character makes three checks: Dexterity (Stealth), Dexte
 
 *Might involve a rival
 
-<br>
+<r>
 
-## Gambling
+### Gambling
 Games of chance are a way to make a fortune—and perhaps a better way to lose one.
 
 **Resources.** This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 1,000 gp or more, as you see fit.
 
 **Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 The character makes three checks: Wisdom (Insight), Charisma (Deception), and Charisma (Intimidation). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
-
-<br>
 
 ##### Gambling Results
 | Result | Value |
@@ -355,7 +349,7 @@ The character makes three checks: Wisdom (Insight), Charisma (Deception), and Ch
 
 <br>
 
-## Pit Fighting
+### Pit Fighting
 Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. If you want to introduce competitive fighting in a battle-to-the-death situation, the standard combat rules apply to that sort of activity.
 
 **Resources.** Engaging in this activity requires one workweek of effort from a character.
@@ -388,7 +382,7 @@ The character makes three checks: Strength (Athletics), Dexterity (Acrobatics), 
 
 <br>
 
-## Relaxation
+### Relaxation
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don’t want to make use of the downtime system.
 
 **Resources.** Relaxation requires one week. A character needs to maintain at least a modest lifestyle while relaxing to gain the benefit of the activity.
@@ -399,7 +393,7 @@ Sometimes the best thing to do between adventures is relax. Whether a character 
 
 <br>
 
-## Religious Service
+### Religious Service
 Characters with a religious bent might want to spend downtime in service to a temple, either by attending rites or by proselytizing in the community. Someone who undertakes this activity has a chance of winning the favor of the temple’s leaders.
 
 **Resources.** Performing religious service requires access to, and often attendance at, a temple whose beliefs and ethos align with the character’s. If such a place is available, the activity takes one workweek of time but involves no gold piece expenditure.
@@ -433,7 +427,7 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 <br>
 
-## Research
+### Research
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
 
 **Resources.** Typically, a character needs access to a library or a sage to conduct research. Assuming such access is available, conducting research requires one workweek of effort and at least 50 gp spent on materials, bribes, gifts, and other expenses.
@@ -470,7 +464,7 @@ In addition, a character might run into other complications during research. Eve
 
 <br>
 
-## Scribing a Spell Scroll
+### Scribing a Spell Scroll
 With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll.
 
 **Resources.** Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character’s known spells, in order to scribe a scroll of that spell.
@@ -509,7 +503,7 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 ![][Selling Banner]
 
-## Selling a Magic Item
+### Selling a Magic Item
 Selling a magic item is by no means an easy task. Con artists and thieves are always looking out for an easy score, and there’s no guarantee that a character will receive a good offer even if a legitimate buyer is found.
 
 **Resources.** A character can find a buyer for one magic item by spending one workweek and 25 gp, which is used to spread word of the desired sale. A character must pick one item at a time to sell.
@@ -550,7 +544,7 @@ Selling a magic item is by no means an easy task. Con artists and thieves are al
 
 <br>
 
-## Training
+### Training
 Given enough free time and the services of an instructor, a character can learn a language or pick up proficiency with a tool.
 
 **Resources.** Receiving training in a language or tool typically takes at least ten workweeks, but this time is reduced by a number of workweeks equal to the character’s Intelligence modifier (an Intelligence penalty doesn’t increase the time needed). Training costs 25 gp per workweek.
@@ -571,7 +565,7 @@ Given enough free time and the services of an instructor, a character can learn 
 
 <br>
 
-## Work
+### Work
 When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character’s attempt to find temporary work, the quality and wages of which are difficult to predict.
 
 **Resources.** Performing a job requires one workweek of effort.
@@ -600,6 +594,5 @@ When all else fails, an adventurer can turn to an honest trade to earn a living.
 
 *Might involve a rival
 
-### Footnotes
-
+## Footnotes
 1. [Source Files][Repo Files]
