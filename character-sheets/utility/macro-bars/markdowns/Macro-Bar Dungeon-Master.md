@@ -1,7 +1,7 @@
-<!-- Macro-Bar: Speak Languages -->
+<!-- Macro-Bar: Dungeon-Master -->
 <!-- default-game-assets -->
 <!-- utility -->
-<!-- macro-bar -->
+<!-- macro-bars -->
 
 <!-- Reference URLS -->
 [Tougher Together Repo]: https://github.com/Tougher-Together-DnD "Tougher Together DnD"
