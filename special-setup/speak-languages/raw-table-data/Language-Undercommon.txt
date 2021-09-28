@@ -1,0 +1,10 @@
+!import-table --Language-Undercommon --show
+!import-table-item --Language-Undercommon --usawna --1 --
+!import-table-item --Language-Undercommon --nealan --1 --
+!import-table-item --Language-Undercommon --shgun --1 --
+!import-table-item --Language-Undercommon --faulsa --1 --
+!import-table-item --Language-Undercommon --meyso --1 --
+!import-table-item --Language-Undercommon --hungrr --1 --
+!import-table-item --Language-Undercommon --belnapkeen --1 --
+!import-table-item --Language-Undercommon --quayla --1 --
+!import-table-item --Language-Undercommon --nickhaf --1 --

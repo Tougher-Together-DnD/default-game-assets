@@ -1,0 +1,10 @@
+!import-table --Language-Orc --show
+!import-table-item --Language-Orc --ugush --1 --
+!import-table-item --Language-Orc --kloonas --1 --
+!import-table-item --Language-Orc --gashoal --1 --
+!import-table-item --Language-Orc --tosh --1 --
+!import-table-item --Language-Orc --utgool --1 --
+!import-table-item --Language-Orc --thag --1 --
+!import-table-item --Language-Orc --grum --1 --
+!import-table-item --Language-Orc --thorguk --1 --
+!import-table-item --Language-Orc --toash --1 --

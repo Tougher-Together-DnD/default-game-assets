@@ -1,0 +1,10 @@
+!import-table --Language-Dwarvish --show
+!import-table-item --Language-Dwarvish --argal --1 --
+!import-table-item --Language-Dwarvish --helmas --1 --
+!import-table-item --Language-Dwarvish --waslup --1 --
+!import-table-item --Language-Dwarvish --burnaph --1 --
+!import-table-item --Language-Dwarvish --harniplik --1 --
+!import-table-item --Language-Dwarvish --defilok --1 --
+!import-table-item --Language-Dwarvish --vanis --1 --
+!import-table-item --Language-Dwarvish --woermielis --1 --
+!import-table-item --Language-Dwarvish --wotounton --1 --

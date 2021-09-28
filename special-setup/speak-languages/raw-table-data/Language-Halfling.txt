@@ -1,0 +1,10 @@
+!import-table --Language-Halfling --show
+!import-table-item --Language-Halfling --regardez --1 --
+!import-table-item --Language-Halfling --filmeyous --1 --
+!import-table-item --Language-Halfling --connise --1 --
+!import-table-item --Language-Halfling --newar --1 --
+!import-table-item --Language-Halfling --reynion --1 --
+!import-table-item --Language-Halfling --ia --1 --
+!import-table-item --Language-Halfling --inutile --1 --
+!import-table-item --Language-Halfling --entendez --1 --
+!import-table-item --Language-Halfling --quel --1 --

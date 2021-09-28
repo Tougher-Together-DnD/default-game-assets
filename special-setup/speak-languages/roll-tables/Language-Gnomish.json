@@ -1,0 +1,52 @@
+{
+    "name": "Language-Gnomish",
+    "showplayers": true,
+    "id": "-MT1gCBiaHFJIh0e_O1-",
+    "items": {
+        "-MT1gCBl8g4cHUEOVlGY": {
+            "id": "-MT1gCBl8g4cHUEOVlGY",
+            "name": "hylif",
+            "weight": "1"
+        },
+        "-MT1gCBpaVQUtvn3qVzM": {
+            "id": "-MT1gCBpaVQUtvn3qVzM",
+            "name": "magga",
+            "weight": "1"
+        },
+        "-MT1gCBsr10HsbbGRDKu": {
+            "id": "-MT1gCBsr10HsbbGRDKu",
+            "name": "ootfaguah",
+            "weight": "1"
+        },
+        "-MT1gCBxTCxjeksHueMT": {
+            "id": "-MT1gCBxTCxjeksHueMT",
+            "name": "tintin",
+            "weight": "1"
+        },
+        "-MT1gCC038TF6QSbW4de": {
+            "id": "-MT1gCC038TF6QSbW4de",
+            "name": "popunu",
+            "weight": "1"
+        },
+        "-MT1gCC3FZKHTeWMIT6O": {
+            "id": "-MT1gCC3FZKHTeWMIT6O",
+            "name": "amagme",
+            "weight": "1"
+        },
+        "-MT1gCC6DD36L_KttnhZ": {
+            "id": "-MT1gCC6DD36L_KttnhZ",
+            "name": "taylaha",
+            "weight": "1"
+        },
+        "-MT1gCC8fP4-FIKKjfc0": {
+            "id": "-MT1gCC8fP4-FIKKjfc0",
+            "name": "haplo",
+            "weight": "1"
+        },
+        "-MT1gCCBjB6TVI-FfBPl": {
+            "id": "-MT1gCCBjB6TVI-FfBPl",
+            "name": "imharrir",
+            "weight": "1"
+        }
+    }
+}

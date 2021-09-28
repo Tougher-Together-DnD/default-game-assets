@@ -1,0 +1,10 @@
+!import-table --Language-Infernal --show
+!import-table-item --Language-Infernal --swarquey --1 --
+!import-table-item --Language-Infernal --rumgurghup --1 --
+!import-table-item --Language-Infernal --cammariss --1 --
+!import-table-item --Language-Infernal --baulroon --1 --
+!import-table-item --Language-Infernal --kelparnok --1 --
+!import-table-item --Language-Infernal --perslghkeel --1 --
+!import-table-item --Language-Infernal --bghoaurngraw --1 --
+!import-table-item --Language-Infernal --auch --1 --
+!import-table-item --Language-Infernal --bhsflemasnu --1 --

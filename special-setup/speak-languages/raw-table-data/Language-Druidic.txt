@@ -1,0 +1,10 @@
+!import-table --Language-Druidic --show
+!import-table-item --Language-Druidic --twittle --1 --
+!import-table-item --Language-Druidic --vroom --1 --
+!import-table-item --Language-Druidic --layleela --1 --
+!import-table-item --Language-Druidic --brogain --1 --
+!import-table-item --Language-Druidic --ghilgingone --1 --
+!import-table-item --Language-Druidic --nasseen --1 --
+!import-table-item --Language-Druidic --smitharer --1 --
+!import-table-item --Language-Druidic --tutuya --1 --
+!import-table-item --Language-Druidic --ghirt --1 --

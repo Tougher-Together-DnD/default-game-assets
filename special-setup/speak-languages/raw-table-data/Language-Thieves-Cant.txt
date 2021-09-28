@@ -1,0 +1,10 @@
+!import-table --Language-Thieves-Cant --show
+!import-table-item --Language-Thieves-Cant --a-parrot --1 --
+!import-table-item --Language-Thieves-Cant --tooluttle --1 --
+!import-table-item --Language-Thieves-Cant --walkain willy --1 --
+!import-table-item --Language-Thieves-Cant --peaceful pot --1 --
+!import-table-item --Language-Thieves-Cant --gold sashes --1 --
+!import-table-item --Language-Thieves-Cant --one-jump-over --1 --
+!import-table-item --Language-Thieves-Cant --snake-bite --1 --
+!import-table-item --Language-Thieves-Cant --slamhandlejim --1 --
+!import-table-item --Language-Thieves-Cant --smokemgotem --1 --
