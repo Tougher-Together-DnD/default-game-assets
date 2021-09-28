@@ -8,7 +8,7 @@
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/utility/macro-bars "Tougher Together Files"
 
 [Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-icon.webp#icon
-[Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/languages-avatar.webp#avatar
+[Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-avatar.webp#avatar
 [Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/macro-screenshot.webp#screenshot
 [Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
@@ -79,12 +79,12 @@ img[src*="#screenshot"] { vertical-align:middle; width:800px; }
 
 <span>*</span> Copy/paste macro text from [Failsafe][Failsafe-URL] if macro breaks after transfer.
 
-#### Required API Scripts: 
+***Required API Scripts:***  
 <span>1</span> [CarryTokens][CarryTokens-URL]  
 <span>2</span> [CombatMaster][CombatMaster-Custom-URL]  
 <span>3</span> [libTokenMarkers][libTokenMarkers-URL]  
 <span>4</span> [CombatMaster Config][CombatMaster-Config-URL]  
-<span>5</span> [Multi-World Calendar][Multi-World Calendar v6.2.0-URL] *Custom download*  
+<span>5</span> [Multi-World Calendar][Multi-World Calendar v6.2.0-URL]  
 <span>6</span> [RaiseHand][RaiseHand-URL]  
 <span>7</span> [Teleport][Teleport-URL]  
 <span>8</span> [TokenMod][TokenMod-URL]  
