@@ -268,7 +268,7 @@ If all the above requirements are met, the result of the process is a magic item
 
 **Brewing Potions of Healing.** Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-Potion of Healing Creation
+##### Potion of Healing Creation
 | Type | Time | Cost |
 | :--- | :--- | :--- |
 | Healing | 1 day | 25 gp |
