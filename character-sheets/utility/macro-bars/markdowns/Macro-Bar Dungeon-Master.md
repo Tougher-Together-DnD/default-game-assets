@@ -1,24 +1,32 @@
-<!-- Macro Bar: Dungeon-Master -->
+<!-- Macro-Bar: Speak Languages -->
+<!-- default-game-assets -->
+<!-- utility -->
+<!-- macro-bar -->
 
 <!-- Reference URLS -->
-[Character Sheet]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/macros/Macro%20Bar%20Dungeon-Master.json
+[Tougher Together Repo]: https://github.com/Tougher-Together-DnD "Tougher Together DnD"
+[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/utility/macro-bars "Tougher Together Files"
 
-<!-- API URLs -->
-[CarryTokens-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/CarryTokens  
-[CombatMaster-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/CombatMaster  
-[CombatMaster-Config-URL]: https://github.com/Tougher-Together-DnD/common-assets/blob/main/Roll20%20Game%20Files/api-scripts/configs/combat-master-config.json
-[libTokenMarkers-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/libTokenMarkers
-[Magic Store-URL]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/api-scripts/Magic%20Store%20v2.0.0.js
-[Multi-World Calendar v6.2.0-URL]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/api-scripts/Multi-World%20Calendar%20v6.2.0.js
-[RaiseHand-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/HandsUp
-[RecursiveTables-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/RecursiveTable
-[Teleport-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/Teleport
-[TokenMod-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/TokenMod
+[Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-icon.webp#icon
+[Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/languages-avatar.webp#avatar
+[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/macro-screenshot.webp#screenshot
+[Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
 <!-- External Tools -->
 [Github-URL]: https://github.com/Tougher-Together-DnD
 [Firefox-URL]: https://www.mozilla.org
 [VTTES Enhancement Suite-URL]: https://addons.mozilla.org/en-US/firefox/addon/roll20-enhancement-suite/
+
+<!-- API URLs -->
+[Failsafe-URL]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/collections/macros/failsafe-ability-saving-skills.txt
+[CarryTokens-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/CarryTokens  
+[CombatMaster-Custom-URL]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/special-setup/combat-master/Combat%20Master%20Custom.js  
+[CombatMaster-Config-URL]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/combat-master/combat-master-config.txt
+[libTokenMarkers-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/libTokenMarkers
+[Multi-World Calendar v6.2.0-URL]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/api-scripts/Multi-World%20Calendar%20v6.2.0.js
+[RaiseHand-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/HandsUp
+[Teleport-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/Teleport
+[TokenMod-URL]: https://github.com/Roll20/roll20-api-scripts/tree/master/TokenMod
 
 <style>
 /* CSS style for NaturalCrit Homebrew render. */
@@ -31,32 +39,35 @@ span { font-weight:bold; }
 ul li { line-height:2; }
 .phb table tbody tr td { border:1px solid #1C6EA4; }
 th:empty { display:none; }
+
+/* css for markdown */
+img[src*="#icon"] { vertical-align:middle; width:2.5em; height:2.5em; }
+img[src*="#avatar"] { vertical-align:middle; width:250px; height:250px; margin:15px; float:left; }
+img[src*="#screenshot"] { vertical-align:middle; width:800px; }
 </style>
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="" height="1">
+# Dungeon Master
 
-### Macros
+## Macros
 *Note: Macros to be shared between Players and Dungeon Masters, or are intended as universal token actions, should be loaded into game under "Collections" tab.*
 
 * Ability-Check <span>*</span>
-* Apply-Conditions-Short <sup>9</sup>
-* Apply-Spells-Short <sup>9</sup>
-* Apply-Status-Short <sup>9</sup>
-* Calendar <sup>6</sup>
+* Apply-Conditions-Short <sup>8</sup>
+* Apply-Spells-Short <sup>8</sup>
+* Apply-Status-Short <sup>8</sup>
+* Calendar <sup>5</sup>
 * Carry-Tokens-Menu <sup>1</sup>
 * Combat-Master-Menu <sup>2</sup> <sup>3</sup> <sup>4</sup>
-* Combat-Master-Next-Turn <sup>2</sup>
-* Damage-Target <sup>9</sup>
-* Damage-Six-Targets <sup>9</sup>
-* Heal-Target <sup>9</sup>
-* Magic-Store-Menu <sup>5</sup>
-* Make-Default-Token <sup>9</sup>
+* Damage-Target <sup>8</sup>
+* Damage-Six-Targets <sup>8</sup>
+* Heal-Target <sup>8</sup>
+* Make-Default-Token <sup>8</sup>
 * NPC-Info
 * PC-Info
 * Quick-Calculator
-* RaiseHand <sup>7</sup>
-* Resize-Full <sup>9</sup>
-* Resize-Half <sup>9</sup>
+* RaiseHand <sup>6</sup>
+* Resize-Double <sup>8</sup>
+* Resize-Half <sup>8</sup>
 * Roll-Initiative
 * Saving-Throw <span>*</span>
 * Show-URL-Image
@@ -70,57 +81,56 @@ th:empty { display:none; }
 
 #### Required API Scripts: 
 <span>1</span> [CarryTokens][CarryTokens-URL]  
-<span>2</span> [CombatMaster][CombatMaster-URL]  
+<span>2</span> [CombatMaster][CombatMaster-Custom-URL]  
 <span>3</span> [libTokenMarkers][libTokenMarkers-URL]  
-<span>4</span> [CombatMaster Config JSON][CombatMaster-Config-URL]  
-<span>5</span> [Magic Store][Magic Store-URL] *Custom download*  
-<span>6</span> [Multi-World Calendar v6.2.0][Multi-World Calendar v6.2.0-URL] *Custom download*  
-<span>7</span> [RaiseHand][RaiseHand-URL]  
-<span>8</span> [Teleport][Teleport-URL]  
-<span>9</span> [TokenMod][TokenMod-URL]  
+<span>4</span> [CombatMaster Config][CombatMaster-Config-URL]  
+<span>5</span> [Multi-World Calendar][Multi-World Calendar v6.2.0-URL] *Custom download*  
+<span>6</span> [RaiseHand][RaiseHand-URL]  
+<span>7</span> [Teleport][Teleport-URL]  
+<span>8</span> [TokenMod][TokenMod-URL]  
 
-### Footnotes
+<br>
 
-1. [VTTES JSON Character Sheet][Character Sheet]
+## Usage
+If the macros are not available as a token action, a player can use the macros from this character sheet.
 
-<!-- GM Notes --> 
-### About
-Using a character sheet to manage macros is a [Stupid Roll20 Trick](https://app.roll20.net/forum/post/5899495/stupid-roll20-tricks-and-some-clever-ones/?pageforid=7605679#post-7605679). Tools such as the transmogrifier only allow moving pages, characters, decks, handouts , roll tables, and jukebox playlists. However, macros can not be moved.
+1. Go under the *Collections* (![][Collection Icon]) tab and turn on macro bar.
+2. This will display a space at the bottom of the window under player names.
+3. Open this character sheet, go to *Attributes and Abilities*, and select *Show in Macro Bar*.
+4. You can right click on the bar to get options for renaming and changing its color.
 
-It is a tedious error prone process to copy and paste macro code between games. Unless you use some ingenuity or tools like the [Firefox][Firefox-URL] addon, [VTTES Enhancement Suite-URL][VTTES Enhancement Suite-URL].  
+![][Screenshot]
 
-#### Pros:
-* Manage catagories of macros separated into different character sheets.
-* Easily move macros between games.
+<br>
 
-#### Cons:
-* Character sheets are resource intensive. They have many fields that will go unused with this technique. A lot of characters may negatively impact Roll20 performance.
-* Selecting ☐ *Show as Token Action* will only show a macro button for a token representing this character sheet. Not for all tokens like macros in the game-wide *Collection* tab. 
-* If you want Players to use these macros, they need to be added to "Can Be Edited and Controlled By" permission list. They can inadvertently or purposefully alter the macros.
+## Footnotes
+1. [Source Files][Repo Files]
 
-### Setup
+<!-- DM Notes -->
+## Setup
+Load the APIs required for the macros you and your players intend to use. Some macros work without a subscription.
+
+<br>
+
+## Macro-Bar character sheets
 Create a character sheet. Under its *Attributes and Abilities*  tab add macros.
 
-When doing nested macros, be sure to reference other macros in the same character sheet as ~Macro-Name. As opposed to #Macro-Name for game-wide accessible macros stored under the *Collection* tab.
+When doing nested macros, be sure to reference other macros in the same character sheet as ~Macro-Name. As opposed to #Macro-Name for game-wide accessible macros stored under the *Collections* (![][Collection Icon]) tab.
 
 Edit the character sheet by adding the appropriate users in the "In Player's Journal" and "Can Be Edited and Controlled By" fields. This does not have to be done for the GM, as they have permissions to all assets.
 
-### Usage
-When you want to copy all your macros to a new game, move or import this character sheet.
-
-#### Free VTT Move
+### Free VTTES Move
 This technique can be used for free, even with games that have different owners, just swap the JSON file.
 
-1. Using [VTTES Enhancement Suite-URL][VTTES Enhancement Suite-URL] export the character sheet as JSON to your local hard drive.
+1. Using the [Firefox][Firefox-URL] addon, [VTTES Enhancement Suite][VTTES Enhancement Suite-URL] a DM can export macros under *Collections* (![][Collection Icon]) as a JSON file.
 
-1. In the new game create a character to hold your macros. Using VTT go to the "Export & Overwrite" tab, there Overwrite the new character with your JSON file. 
+2. In the new game create a character to hold your macros. Using VTTES go to the "Export & Overwrite" tab, there Overwrite the new character with your JSON file. 
 
-#### Character Vault Move
+### Character Vault Move
 If the owner of the game does not have a Roll20 subscription, their game will have limited vault access.
 
 1. From the Campaign Page, under "Game Settings" they can set *Allow players to import their own Characters?* to "Yes".
-   
-1. Then a subscribed player can import the Macro Character as they do for any characters.
+1. Then a subscribed player can import the Macro Character as they do for any vault characters.
 
-#### Transmogrifier Move
-And finally, the easiest most intuitive move is with the transmogrifier. This only works if you own both games.
+### Transmogrifier Move
+And finally, the easiest most intuitive way is with the transmogrifier. This only works if you create both games.
