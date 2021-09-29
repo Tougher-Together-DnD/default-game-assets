@@ -1,0 +1,1092 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MjXgdCIKhqputqtAE6d",
+        "name": "Mangonel",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/mangonel.webp",
+        "bio": "%3Ch1%20id%3D%22userscript-mangonel%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.987cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EMangonel%3C/h1%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ELarge%20object%3C/em%3E%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EArmor%20Class%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E15%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EHit%20Points%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E100%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EDamage%20Immunities%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Epoison%2C%20psychic%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EA%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Items%3AMangonel%3Fexpansion%3D7583%23content%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3Emangonel%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eis%20a%20type%20of%20Catapult%20that%20hurls%20heavy%20projectiles%20in%20a%20high%20arc.%20This%20payload%20can%20hit%20Targets%20behind%20cover.%20Before%20the%20mangonel%20can%20be%20fired%2C%20it%20must%20be%20loaded%20and%20aimed.%20It%20takes%20two%20Actions%20to%20load%20the%20weapon%2C%20two%20Actions%20to%20aim%20it%2C%20and%20one%20action%20to%20fire%20it.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EA%20mangonel%20typically%20hurls%20a%20heavy%20stone%2C%20although%20it%20can%20hurl%20other%20kinds%20of%20projectiles%2C%20with%20different%20Effects.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EMangonel%20Stone.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3ERanged%20Weapon%20Attack%3A%20+5%20to%20hit%2C%20range%20200/800%20ft.%20%28can%u2019t%20hit%20Targets%20within%2060%20feet%20of%20it%29%2C%20one%20target.%20Hit%3A%2027%20%285d10%29%20bludgeoning%20damage.%3C/p%3E%3Ch2%20id%3D%22userscript-attributes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EAttributes%3C/h2%3E%3Chr%20style%3D%22visibility%3A%20hidden%20%3B%20margin%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20font-size%3A%2011.9811px%20%3B%20font-style%3A%20normal%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cblockquote%20style%3D%22border-width%3A%2010px%20%3B%20border-style%3A%20solid%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%201em%200px%202em%20%3B%20padding%3A%2015px%2010px%205px%20%3B%20quotes%3A%20none%20%3B%20background-color%3A%20rgb%28%20253%20%2C%20241%20%2C%20220%20%29%20%3B%20box-shadow%3A%20rgb%28%20136%20%2C%20136%20%2C%20136%20%29%201px%204px%2014px%20%3B%20z-index%3A%2015%20%3B%20position%3A%20relative%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ch2%20id%3D%22userscript-mangonel%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%20-8px%200px%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%22%3EMangonel%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20z-index%3A%2015%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ELarge%20object%3C/em%3E%3C/p%3E%3Chr%20style%3D%22visibility%3A%20visible%20%3B%20margin%3A%204px%200px%20%3B%20height%3A%206px%20%3B%20background-size%3A%20100%25%20100%25%20%3B%20border%3A%20none%22%3E%3Cul%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.5em%20%3B%20padding%3A%200px%200px%200px%201em%20%3B%20list-style%3A%20outside%20none%20%3B%20text-indent%3A%20-1em%20%3B%20color%3A%20rgb%28%2088%20%2C%2024%20%2C%2013%20%29%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3ECategory%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EItems%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EDamage%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E5d10%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EDamage%20Type%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ebludgeoning%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EModifiers%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3ERanged%20Attacks%20+5%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3ERange%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E200/800%3C/li%3E%3C/ul%3E%3C/blockquote%3E%3Ch3%20id%3D%22userscript-footnotes%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFootnotes%3C/h3%3E%3Col%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.8em%20%3B%20padding%3A%200px%200px%200px%201.4em%20%3B%20list-style%3A%20outside%20decimal%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//github.com/Tougher-Together-DnD/default-game-assets/tree/main/characters/lighting%22%20title%3D%22Tougher%20Together%20VTTES%20Files%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESource%20Files%3C/a%3E%3C/li%3E%3C/ol%3E",
+        "gmnotes": "%3Cp%3E%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"left\":350,\"top\":350,\"width\":140,\"height\":140,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/mangonel.webp\",\"page_id\":\"-MjXZ9Q7Ww-ZPT-q4Bfk\",\"layer\":\"objects\",\"name\":\"Mangonel\",\"represents\":\"-MjXgdCIKhqputqtAE6d\",\"bar1_value\":\"100\",\"bar2_value\":15,\"bar2_link\":\"-MjDzCLAOtjzUh-6KF54\",\"bar3_max\":\"0\",\"bar3_num_permission\":\"everyone\",\"showplayers_bar3\":true,\"lastmove\":\"385,385\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[\"object\",\"siege\",\"map\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "dtype",
+                "current": "full",
+                "max": "",
+                "id": "-MjDz5wzJeSpgjtzYo9G"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MjDz5x1SIQiwr37hZDa"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz5x2k1vw9Jxe-6Ld"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz5x39x2lBNcR9axa"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MjDz5xE50Du98CZhD7O"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_npc_charname_output,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MjDz5xz5fpeMHLYMfSW"
+            },
+            {
+                "name": "spellcasting_ability_name",
+                "current": "0*",
+                "max": "",
+                "id": "-MjDz5zE4bsVNIwhRXCV"
+            },
+            {
+                "name": "mobile_attack_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz5zGdci3ZhK2fG1e"
+            },
+            {
+                "name": "feature_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz5zHFSBkh2I-VUU8"
+            },
+            {
+                "name": "spell_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz5zlTzlhaPhaxMrU"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zoIZg0JTR5MtJw"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zp_WHGI4ORETX1"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zqjsPGKOz3ULCb"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zrSHQqEF7fw-un"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zsdE--UEbUwPPv"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5ztLRnqy3BQMJqX"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zvDo0FAAVfoWco"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz5zwt6zOgXVgRu4l"
+            },
+            {
+                "name": "spells_count_cantrip",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz6-RYqrUwufqOjRk"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz6-wf1dTXv3ERETt"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz6-zPji4wK7oNRFc"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz600RfjQpPG2DzuM"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz600RfjQpPG2DzuN"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz602wrMvQPCidlku"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz603M48u83loCn6c"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz604Y4xWPCzWd_2g"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz606AXfFcoPIbNlf"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz607UuP9RYgW1LV-"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60940hZBvI6w-nD"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60AdB3J7h5aCfL-"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60AdB3J7h5aCfL0"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60BC6oCDSM-I9gk"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60C93rAd_z8dPFO"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60DHAYZTDMWM2uF"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60EPsyENr-8hbTU"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60FHxxd2DCe2aMY"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDz60GQJvaO0bZJMd-"
+            },
+            {
+                "name": "spells_count_1",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz60pwLfxa_kQpvkB"
+            },
+            {
+                "name": "spells_count_2",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz61ZiS5_-N42Xqd-"
+            },
+            {
+                "name": "spells_count_3",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz62I_M5sMHb_CbGc"
+            },
+            {
+                "name": "spells_count_4",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz62nMkkvZFiqdUqS"
+            },
+            {
+                "name": "spells_count_5",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz62pTkp-wO1imkj0"
+            },
+            {
+                "name": "spells_count_6",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz62q2HF0kfzzEbkD"
+            },
+            {
+                "name": "spells_count_7",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz63L2VGKUOi5Ixuq"
+            },
+            {
+                "name": "spells_count_8",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz63NAulPJc_Uu-jj"
+            },
+            {
+                "name": "spells_count_9",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz63OshMg7abfP2m4"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MjDz64mlHpFCm8hI3lM"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MjDz64mlHpFCm8hI3lN"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MjDz64nEFw290FPVBPw"
+            },
+            {
+                "name": "spell_slot_1_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65J2u7-nExFsUzl"
+            },
+            {
+                "name": "spell_slot_1_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65Lo78LBXn2woKe"
+            },
+            {
+                "name": "spell_slot_1_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65MizeepNKSlwwB"
+            },
+            {
+                "name": "spell_slot_1_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65NNINaDMbzCuoH"
+            },
+            {
+                "name": "spell_slot_1_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65OBW5swLBPx2JC"
+            },
+            {
+                "name": "spell_slot_1_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65PKYisL0xdcUI-"
+            },
+            {
+                "name": "spell_slot_1_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65QbG35AWAyoXwL"
+            },
+            {
+                "name": "spell_slot_1_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65QbG35AWAyoXwM"
+            },
+            {
+                "name": "spell_slot_1_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65RP9PTyDI_mYlj"
+            },
+            {
+                "name": "spell_slot_1_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65SxMPaaPVF1i4a"
+            },
+            {
+                "name": "spell_slot_2_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65xrsGqToEA36t5"
+            },
+            {
+                "name": "spell_slot_2_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz65zkkmBCoCD5G8r"
+            },
+            {
+                "name": "spell_slot_2_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66-3gK2XDgROIIe"
+            },
+            {
+                "name": "spell_slot_2_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66-3gK2XDgROIIf"
+            },
+            {
+                "name": "spell_slot_2_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz660sC9VOs14helA"
+            },
+            {
+                "name": "spell_slot_2_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6617jghqAlKfRWt"
+            },
+            {
+                "name": "spell_slot_2_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz662bZtjxKzkZrCA"
+            },
+            {
+                "name": "spell_slot_2_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz663R_RV_tZjpOu7"
+            },
+            {
+                "name": "spell_slot_2_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6643oSCHuLy9iMs"
+            },
+            {
+                "name": "spell_slot_2_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz665KOmw-cbiWFZ1"
+            },
+            {
+                "name": "spell_slot_3_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66diwYqiaiEFauy"
+            },
+            {
+                "name": "spell_slot_3_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66efcDbdCwimg1e"
+            },
+            {
+                "name": "spell_slot_3_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66gLm0CCf-vFXHo"
+            },
+            {
+                "name": "spell_slot_3_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66gLm0CCf-vFXHp"
+            },
+            {
+                "name": "spell_slot_3_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66hcjAXBa3fnBGK"
+            },
+            {
+                "name": "spell_slot_3_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66i1Pmz2gCj1deB"
+            },
+            {
+                "name": "spell_slot_3_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66jb7FoUyU411TC"
+            },
+            {
+                "name": "spell_slot_3_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66kYbVNADhJxcWx"
+            },
+            {
+                "name": "spell_slot_3_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66lJioWrHvZj-GT"
+            },
+            {
+                "name": "spell_slot_3_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz66mXw1c6j3VWGsp"
+            },
+            {
+                "name": "spell_slot_4_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67SAzSDiu-6GsGM"
+            },
+            {
+                "name": "spell_slot_4_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67TQaXXj12ox335"
+            },
+            {
+                "name": "spell_slot_4_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67UlxNJwtWKWrtM"
+            },
+            {
+                "name": "spell_slot_4_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67VISKKE6BjCAEq"
+            },
+            {
+                "name": "spell_slot_4_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67WSW0mvWB_GgHm"
+            },
+            {
+                "name": "spell_slot_4_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67YHYF0GyOw2oi4"
+            },
+            {
+                "name": "spell_slot_4_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67YHYF0GyOw2oi5"
+            },
+            {
+                "name": "spell_slot_4_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67ZdfWRPGiUtdMg"
+            },
+            {
+                "name": "spell_slot_4_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67_GS2hfmjfi2M-"
+            },
+            {
+                "name": "spell_slot_4_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz67aC8uWekgPUuQO"
+            },
+            {
+                "name": "spell_slot_5_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68EomSmxZGxQgvd"
+            },
+            {
+                "name": "spell_slot_5_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68GkP-i1Fw4EPUY"
+            },
+            {
+                "name": "spell_slot_5_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68HMF6ugC9lVeG8"
+            },
+            {
+                "name": "spell_slot_5_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68Ie06CRPlxKM6N"
+            },
+            {
+                "name": "spell_slot_5_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68J7A_R5HQXaDZU"
+            },
+            {
+                "name": "spell_slot_5_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68K_EJjt5FpEPb6"
+            },
+            {
+                "name": "spell_slot_5_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68MxAG8gFXBFKr5"
+            },
+            {
+                "name": "spell_slot_5_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68NDYie2DexgtHB"
+            },
+            {
+                "name": "spell_slot_5_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68OSsJqWhRxyP-7"
+            },
+            {
+                "name": "spell_slot_5_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz68OSsJqWhRxyP-8"
+            },
+            {
+                "name": "spell_slot_6_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz697mSs8S3_1dN0Z"
+            },
+            {
+                "name": "spell_slot_6_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz698pevRi8Vd0uNj"
+            },
+            {
+                "name": "spell_slot_6_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz699N42kP80eUYwn"
+            },
+            {
+                "name": "spell_slot_6_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69AzADWHfhg5DbI"
+            },
+            {
+                "name": "spell_slot_6_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69AzADWHfhg5DbJ"
+            },
+            {
+                "name": "spell_slot_6_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69BSxd9ZrcwCLP8"
+            },
+            {
+                "name": "spell_slot_6_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69CTzsVJCj1zrLz"
+            },
+            {
+                "name": "spell_slot_6_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69DmFZKuJFHZU5f"
+            },
+            {
+                "name": "spell_slot_6_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69EYar6Bpdbmg86"
+            },
+            {
+                "name": "spell_slot_6_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69FXvi-kB4P0Nd7"
+            },
+            {
+                "name": "spell_slot_7_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz69zymku4sjeWHrc"
+            },
+            {
+                "name": "spell_slot_7_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A0BnYUQWKF1m3y"
+            },
+            {
+                "name": "spell_slot_7_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A294ugRnCU2Ijz"
+            },
+            {
+                "name": "spell_slot_7_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A294ugRnCU2Ik-"
+            },
+            {
+                "name": "spell_slot_7_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A3lrOBujLxP0Id"
+            },
+            {
+                "name": "spell_slot_7_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A3lrOBujLxP0Ie"
+            },
+            {
+                "name": "spell_slot_7_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A4M3WJlYROL0vP"
+            },
+            {
+                "name": "spell_slot_7_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A6Q5QGRc-d-3-t"
+            },
+            {
+                "name": "spell_slot_7_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A7H9J0A_LoMwDk"
+            },
+            {
+                "name": "spell_slot_7_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6A8haxgF1FbhJ24"
+            },
+            {
+                "name": "spell_slot_8_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6Amf1rBXml2iLYV"
+            },
+            {
+                "name": "spell_slot_8_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AnCJVUovfwqmhz"
+            },
+            {
+                "name": "spell_slot_8_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AovvKGqmIRkCen"
+            },
+            {
+                "name": "spell_slot_8_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AphftuHzPTcPn9"
+            },
+            {
+                "name": "spell_slot_8_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6Aqf0ADyLbMcq9H"
+            },
+            {
+                "name": "spell_slot_8_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6Aqf0ADyLbMcq9I"
+            },
+            {
+                "name": "spell_slot_8_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AsqYRpfYKVQBeB"
+            },
+            {
+                "name": "spell_slot_8_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AtN30saqUOqImh"
+            },
+            {
+                "name": "spell_slot_8_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AtN30saqUOqImi"
+            },
+            {
+                "name": "spell_slot_8_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6AudqUWe583Bknu"
+            },
+            {
+                "name": "spell_slot_9_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BZiDhzmEXRfEx6"
+            },
+            {
+                "name": "spell_slot_9_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6B_iPoFaFVH3fLm"
+            },
+            {
+                "name": "spell_slot_9_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BbXynTnnHNC3N3"
+            },
+            {
+                "name": "spell_slot_9_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BcIx5dokBQRRSu"
+            },
+            {
+                "name": "spell_slot_9_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BcIx5dokBQRRSv"
+            },
+            {
+                "name": "spell_slot_9_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BdrIL-OlvFkDSn"
+            },
+            {
+                "name": "spell_slot_9_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BeDe06jKuRqxZE"
+            },
+            {
+                "name": "spell_slot_9_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BfcGjvcnIBjzME"
+            },
+            {
+                "name": "spell_slot_9_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6BhvZpTQr9ZyIno"
+            },
+            {
+                "name": "spell_slot_9_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDz6Biv0pP7nf4ACkh"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MjDz6OoBMh0xDr_4i3C"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjDz6UqRl9XWQSwH0ks"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MjDz6VqdMimHdDljDtX"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MjDz8J22xxmqpN3FrIV"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MjDz8KoNrbB5GEmI-NQ"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MjDz8Kp4Alr2k4pp732"
+            },
+            {
+                "name": "npc_name",
+                "current": "Mangonel",
+                "max": "",
+                "id": "-MjDz9e1hfMZfly--XUi"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{npc_name}}}",
+                "max": "",
+                "id": "-MjDz9gC3HfVeZBQuGMd"
+            },
+            {
+                "name": "npc_type",
+                "current": "Large object",
+                "max": "",
+                "id": "-MjDzAzB9NRKBQwmj0Yp"
+            },
+            {
+                "name": "npc_ac",
+                "current": "15",
+                "max": "",
+                "id": "-MjDzCLAOtjzUh-6KF54"
+            },
+            {
+                "name": "npc_actype",
+                "current": "wood",
+                "max": "",
+                "id": "-MjDzDG7PZyPWtgYHUxn"
+            },
+            {
+                "name": "hp",
+                "current": "",
+                "max": "100",
+                "id": "-MjDzE6pVm9X4WThkrEH"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "fixed",
+                "max": "",
+                "id": "-MjDzFeYIAk-3e1RkHLe"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MjDzFpo6O7qij9CWV1f"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MjDzG6jD6cs2ngXPp2H"
+            },
+            {
+                "name": "repeating_npctrait_-MjDzH6Hlkw0Be4F8k3Q_name",
+                "current": "Usage",
+                "max": "",
+                "id": "-MjDzItwVDtJc4D-1I_L"
+            },
+            {
+                "name": "ui_flags",
+                "current": "repeating_npcaction_edit_-1_-mjdzl2kpeswx1v2d3lg",
+                "max": "",
+                "id": "-MjDzIvoZ_MPUIv93uCy"
+            },
+            {
+                "name": "repeating_npctrait_-MjDzH6Hlkw0Be4F8k3Q_description",
+                "current": "A mangonel is a type of Catapult that hurls heavy projectiles in a high arc. This payload can hit Targets behind cover. Before the mangonel can be fired, it must be loaded and aimed. It takes two Actions to load the weapon, two Actions to aim it, and one action to fire it.\n\nA mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different Effects.",
+                "max": "",
+                "id": "-MjDzL17tIJSI0yXTeOh"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDzLpDD0KViDH5hnx_"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_tohitrange",
+                "current": "+5, Range 200/800, one target",
+                "max": "",
+                "id": "-MjDzLrMo64zUFRKelVZ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_onhit",
+                "current": "27 (5d10) bludgeoning damage",
+                "max": "",
+                "id": "-MjDzLrOQ5iz-vYebxp_"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjDzLrOQ5iz-vYebxpa"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_crit",
+                "current": "5d10",
+                "max": "",
+                "id": "-MjDzLrQUl1zVv7pJDpN"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjDzLrQUl1zVv7pJDpO"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDzLrQUl1zVv7pJDpP"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_name",
+                "current": "Mangonel Stone",
+                "max": "",
+                "id": "-MjDzOS5OAAi19SEpbCc"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDzOe64_dFXCcjM_f4"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_range",
+                "current": "200/800",
+                "max": "",
+                "id": "-MjDzR3k6roGagSz4CA1"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_description",
+                "current": "This payload can hit Targets behind cover (can’t hit Targets within 60 feet of it).\n\nA mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different Effects.",
+                "max": "",
+                "id": "-MjDzTLEtffTnbnPc_ds"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_target",
+                "current": "one target",
+                "max": "",
+                "id": "-MjDzVsQrMi8cQibDtpl"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_tohit",
+                "current": "5",
+                "max": "",
+                "id": "-MjDztD540DEgWf2SXZp"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_damage",
+                "current": "5d10",
+                "max": "",
+                "id": "-MjDzuMFQlAufoPBV90p"
+            },
+            {
+                "name": "repeating_npcaction_-MjDzLWtLotgjTnKy8AZ_attack_damagetype",
+                "current": "bludgeoning",
+                "max": "",
+                "id": "-MjDzwYZGFXcLm2DivkH"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjE-9RGN6PbJ74zL59d"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMTdhY21JZNlvkK"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMViniHCFeYHr-x"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMWSkowMiBU_NwA"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMX1KOBOUK5hNBp"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMYMxmNPYN1gIeO"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE-mMZCJQm0Pu6UfBt"
+            }
+        ],
+        "abilities": []
+    }
+}

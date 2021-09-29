@@ -1,0 +1,1086 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MjXgdDBRnsRpsKYS9VO",
+        "name": "Ram",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/covered-ram.webp",
+        "bio": "%3Ch1%20id%3D%22userscript-covered-ram%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.987cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3ECovered%20Ram%3C/h1%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ELarge%20object%3C/em%3E%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EArmor%20Class%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E15%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EHit%20Points%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E100%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EDamage%20Immunities%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Epoison%2C%20psychic%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EA%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Items%3ARam%3Fexpansion%3D7583%23content%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3Ecovered%20ram%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Econsists%20of%20a%20movable%20gallery%20equipped%20with%20a%20heavy%20log%20suspended%20from%20two%20roof%20beams%20by%20chains.%20The%20log%20is%20shod%20in%20iron%20and%20used%20to%20batter%20through%20doors%20and%20barricades.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EIt%20takes%20a%20minimum%20of%20four%20Medium%20creatures%20to%20operate%20a%20ram.%20Because%20of%20the%20gallery%20roof%2C%20these%20operators%20have%20total%20cover%20against%20attacks%20from%20above.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3ERam.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EMelee%20Weapon%20Attack%3A%20+8%20to%20hit%2C%20reach%205%20ft.%2C%20one%20object.%20Hit%3A%2016%20%283d10%29%20bludgeoning%20damage.%3C/p%3E%3Ch2%20id%3D%22userscript-attributes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EAttributes%3C/h2%3E%3Chr%20style%3D%22visibility%3A%20hidden%20%3B%20margin%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20font-size%3A%2011.9811px%20%3B%20font-style%3A%20normal%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cblockquote%20style%3D%22border-width%3A%2010px%20%3B%20border-style%3A%20solid%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%201em%200px%202em%20%3B%20padding%3A%2015px%2010px%205px%20%3B%20quotes%3A%20none%20%3B%20background-color%3A%20rgb%28%20253%20%2C%20241%20%2C%20220%20%29%20%3B%20box-shadow%3A%20rgb%28%20136%20%2C%20136%20%2C%20136%20%29%201px%204px%2014px%20%3B%20z-index%3A%2015%20%3B%20position%3A%20relative%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ch2%20id%3D%22userscript-ram%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%20-8px%200px%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%22%3ERam%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20z-index%3A%2015%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ELarge%20object%3C/em%3E%3C/p%3E%3Chr%20style%3D%22visibility%3A%20visible%20%3B%20margin%3A%204px%200px%20%3B%20height%3A%206px%20%3B%20background-size%3A%20100%25%20100%25%20%3B%20border%3A%20none%22%3E%3Cul%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.5em%20%3B%20padding%3A%200px%200px%200px%201em%20%3B%20list-style%3A%20outside%20none%20%3B%20text-indent%3A%20-1em%20%3B%20color%3A%20rgb%28%2088%20%2C%2024%20%2C%2013%20%29%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3ECategory%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EItems%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EDamage%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E3d10%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EDamage%20Type%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ebludgeoning%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EModifiers%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EMelee%20Attacks%20+8%2C%20Double%20Damage%20against%20Buildings%3C/li%3E%3C/ul%3E%3C/blockquote%3E%3Ch3%20id%3D%22userscript-footnotes%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFootnotes%3C/h3%3E%3Col%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.8em%20%3B%20padding%3A%200px%200px%200px%201.4em%20%3B%20list-style%3A%20outside%20decimal%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//github.com/Tougher-Together-DnD/default-game-assets/tree/main/characters/lighting%22%20title%3D%22Tougher%20Together%20VTTES%20Files%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESource%20Files%3C/a%3E%3C/li%3E%3C/ol%3E",
+        "gmnotes": "%3Cp%3E%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"left\":210,\"top\":245,\"width\":140,\"height\":210,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/covered-ram.webp\",\"page_id\":\"-MjXZ9Q7Ww-ZPT-q4Bfk\",\"layer\":\"objects\",\"name\":\"Ram\",\"represents\":\"-MjXgdDBRnsRpsKYS9VO\",\"bar1_value\":\"100\",\"bar2_value\":15,\"bar2_link\":\"-MjE5EBsgGFqoi1X9hQ0\",\"bar3_max\":\"0\",\"bar3_num_permission\":\"everyone\",\"showplayers_bar3\":true,\"lastmove\":\"175,245\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[\"object\",\"siege\",\"map\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "dtype",
+                "current": "full",
+                "max": "",
+                "id": "-MjE57s-JY5iajszMsaV"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MjE57tMVP4wxWFkj412"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57tPONdq3_Rayn4B"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57tSmGu9D44Y7mlT"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MjE57uJev8hoh1u1TZG"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_npc_charname_output,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MjE57usSdtLP-wUadpu"
+            },
+            {
+                "name": "spellcasting_ability_name",
+                "current": "0*",
+                "max": "",
+                "id": "-MjE57w8lgElbtA9joMG"
+            },
+            {
+                "name": "mobile_attack_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57wk2foKPEq2Cc-N"
+            },
+            {
+                "name": "feature_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57wnwdOl3U8iqoYq"
+            },
+            {
+                "name": "spell_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57woibgZebd5zDjz"
+            },
+            {
+                "name": "spells_count_cantrip",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57xS1aFDaibjEGdB"
+            },
+            {
+                "name": "spells_count_1",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57y68DBGifEeLXe-"
+            },
+            {
+                "name": "spells_count_2",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57ygE8hA7KAMtzUk"
+            },
+            {
+                "name": "spells_count_3",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57ykrQWLDdrom5av"
+            },
+            {
+                "name": "spells_count_4",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57ylELmxU51uY8Wq"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zGckgJBI6KBKOC"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zIE1LBr3Jlq1ZP"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zK0fTCYHKkUVSn"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zLN6-J2bS8P7GA"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zM8atqUjDCkPnd"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zNaVbdtc9TkWvq"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zPzlgMSGIBtDuJ"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE57zQRO9N8ijSm2W8"
+            },
+            {
+                "name": "spells_count_5",
+                "current": 0,
+                "max": "",
+                "id": "-MjE57zxWqG7Vvh4Q-HU"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-2VKVEMzWFN11Z"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-3et_vVsZUZcdq"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-5Ux9HUDQXtgzi"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-6fl7V97Ds124F"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-7rSwXrYpoTf_F"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-9DD_1aj1pyO68"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-AlK77h0SLKbmi"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-BVGQZSjlwqnD8"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-CmYVZSr4OxrSw"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-EMtnJinU-ZTUa"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-FOhSBLXdaR6S8"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-HH7WaUdFqr4RX"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-IaE9g-OBaDMBD"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-K4DzM4s8MmrmX"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-LWV2f9ZAfWkg_"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-MunE4cFuc2Ar7"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-NpvFAA2t6kN8t"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjE58-PDSytClgvzCqn"
+            },
+            {
+                "name": "spells_count_6",
+                "current": 0,
+                "max": "",
+                "id": "-MjE58072O31O5EEADFx"
+            },
+            {
+                "name": "spells_count_7",
+                "current": 0,
+                "max": "",
+                "id": "-MjE5814a5-fxADrCx8Y"
+            },
+            {
+                "name": "spells_count_8",
+                "current": 0,
+                "max": "",
+                "id": "-MjE581jpE_zpYML1Mgl"
+            },
+            {
+                "name": "spells_count_9",
+                "current": 0,
+                "max": "",
+                "id": "-MjE581lR6FHba74RxQz"
+            },
+            {
+                "name": "spell_slot_1_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5862QbDe8er03ivS"
+            },
+            {
+                "name": "spell_slot_1_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58642UD7tb5aRaxf"
+            },
+            {
+                "name": "spell_slot_1_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5865nQa3R2gIXNHp"
+            },
+            {
+                "name": "spell_slot_1_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5866dFDNk852yk7Z"
+            },
+            {
+                "name": "spell_slot_1_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5868AOpO9sdEs30h"
+            },
+            {
+                "name": "spell_slot_1_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5869wnWLOmQ0WNmA"
+            },
+            {
+                "name": "spell_slot_1_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586AO0Am2IdaKmql"
+            },
+            {
+                "name": "spell_slot_1_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586Bgyj4694m7YUv"
+            },
+            {
+                "name": "spell_slot_1_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586CMw4sGaN9rHCw"
+            },
+            {
+                "name": "spell_slot_1_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586EZOsYU-aH4ixv"
+            },
+            {
+                "name": "spell_slot_2_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586jQN55-yjGZBnB"
+            },
+            {
+                "name": "spell_slot_2_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586kgW7v7XcWfcZK"
+            },
+            {
+                "name": "spell_slot_2_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586mkrmKD9qgYzJT"
+            },
+            {
+                "name": "spell_slot_2_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586nyDBmVp7XzCsz"
+            },
+            {
+                "name": "spell_slot_2_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586o3xyYJW8znxe5"
+            },
+            {
+                "name": "spell_slot_2_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586pxSl3b4W8Lgu-"
+            },
+            {
+                "name": "spell_slot_2_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586q1evmRyTzaG2l"
+            },
+            {
+                "name": "spell_slot_2_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586rVarF9bwDtI2J"
+            },
+            {
+                "name": "spell_slot_2_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586sI6U1vRKUf6bq"
+            },
+            {
+                "name": "spell_slot_2_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE586uOWwCCL9uHCZg"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MjE587Rsn6GbLdCWpg3"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MjE587SyjiGXlQ72ncb"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MjE587TLNEu4xOsuMfG"
+            },
+            {
+                "name": "spell_slot_3_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587TLNEu4xOsuMfH"
+            },
+            {
+                "name": "spell_slot_3_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587VrbzW5YvwLkKq"
+            },
+            {
+                "name": "spell_slot_3_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587WTBqYpU6miZ1m"
+            },
+            {
+                "name": "spell_slot_3_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587XiuomjBYnppRK"
+            },
+            {
+                "name": "spell_slot_3_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587YdKoi1LbihKZq"
+            },
+            {
+                "name": "spell_slot_3_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587ZHDGx8SvKQmKM"
+            },
+            {
+                "name": "spell_slot_3_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587b6FFceI7Zn5ad"
+            },
+            {
+                "name": "spell_slot_3_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587c80LaKVNrwHV6"
+            },
+            {
+                "name": "spell_slot_3_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587dpvxXg0iNuIVH"
+            },
+            {
+                "name": "spell_slot_3_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE587dpvxXg0iNuIVI"
+            },
+            {
+                "name": "spell_slot_4_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588M0dsiLEDVzaQQ"
+            },
+            {
+                "name": "spell_slot_4_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588OnFcMG2NecgPZ"
+            },
+            {
+                "name": "spell_slot_4_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588Pz8fKn_lBXH1Z"
+            },
+            {
+                "name": "spell_slot_4_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588QF76DgBPYTlM5"
+            },
+            {
+                "name": "spell_slot_4_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588R18vViJPzcUyV"
+            },
+            {
+                "name": "spell_slot_4_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588SR1c9KZqKbWkU"
+            },
+            {
+                "name": "spell_slot_4_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588U02t_VPI8rYYw"
+            },
+            {
+                "name": "spell_slot_4_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588Vz6TCFYc_iAje"
+            },
+            {
+                "name": "spell_slot_4_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588W2tky-3NC4NKk"
+            },
+            {
+                "name": "spell_slot_4_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE588Xr6q0zSHBn8e0"
+            },
+            {
+                "name": "spell_slot_5_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589FchOg31ZB5WR-"
+            },
+            {
+                "name": "spell_slot_5_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589FchOg31ZB5WR0"
+            },
+            {
+                "name": "spell_slot_5_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589HnOfMLtokGz3K"
+            },
+            {
+                "name": "spell_slot_5_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589IhPCKL8sozj4J"
+            },
+            {
+                "name": "spell_slot_5_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589J0u723kvIqIsO"
+            },
+            {
+                "name": "spell_slot_5_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589KjCfOwAEpkN_K"
+            },
+            {
+                "name": "spell_slot_5_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589L71tvVmyMUu3P"
+            },
+            {
+                "name": "spell_slot_5_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589M4q8Gy1qZZXmx"
+            },
+            {
+                "name": "spell_slot_5_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589OHqvgQrH5ZJbh"
+            },
+            {
+                "name": "spell_slot_5_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE589OHqvgQrH5ZJbi"
+            },
+            {
+                "name": "spell_slot_6_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58A4N25XU8ETQlIZ"
+            },
+            {
+                "name": "spell_slot_6_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58A6KlVZ73PO1_wL"
+            },
+            {
+                "name": "spell_slot_6_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58A7UugufAykjTHp"
+            },
+            {
+                "name": "spell_slot_6_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58A88Dbqfm6A1WlW"
+            },
+            {
+                "name": "spell_slot_6_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58A9fs3PnU2V3y5d"
+            },
+            {
+                "name": "spell_slot_6_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AAVW3IAEcP2QkS"
+            },
+            {
+                "name": "spell_slot_6_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AAVW3IAEcP2QkT"
+            },
+            {
+                "name": "spell_slot_6_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58ABz74DmOkXXoHL"
+            },
+            {
+                "name": "spell_slot_6_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58ACxg0Er38V-OqQ"
+            },
+            {
+                "name": "spell_slot_6_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AEeynmPuYp5uLV"
+            },
+            {
+                "name": "spell_slot_7_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58At2BNti-4h0Oi5"
+            },
+            {
+                "name": "spell_slot_7_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AuGgnd2K98nMyX"
+            },
+            {
+                "name": "spell_slot_7_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AwMYw3ukTBz7Wh"
+            },
+            {
+                "name": "spell_slot_7_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AwMYw3ukTBz7Wi"
+            },
+            {
+                "name": "spell_slot_7_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AxJQ89nzPxXC3K"
+            },
+            {
+                "name": "spell_slot_7_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58AzezwbNsPV3H82"
+            },
+            {
+                "name": "spell_slot_7_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58B-F38AxwNV5VNh"
+            },
+            {
+                "name": "spell_slot_7_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58B0f1ceJlFyoBi8"
+            },
+            {
+                "name": "spell_slot_7_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58B0f1ceJlFyoBi9"
+            },
+            {
+                "name": "spell_slot_7_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58B2xie6-9t8W3ag"
+            },
+            {
+                "name": "spell_slot_8_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bi7qtpHfegue6K"
+            },
+            {
+                "name": "spell_slot_8_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bi7qtpHfegue6L"
+            },
+            {
+                "name": "spell_slot_8_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bk1JtxIOdK_0VG"
+            },
+            {
+                "name": "spell_slot_8_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bk1JtxIOdK_0VH"
+            },
+            {
+                "name": "spell_slot_8_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bml6xRqMt-1r0S"
+            },
+            {
+                "name": "spell_slot_8_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Bml6xRqMt-1r0T"
+            },
+            {
+                "name": "spell_slot_8_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58BppSlpgcXcwNu7"
+            },
+            {
+                "name": "spell_slot_8_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58BppSlpgcXcwNu8"
+            },
+            {
+                "name": "spell_slot_8_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58BqmFDQYSzTdLav"
+            },
+            {
+                "name": "spell_slot_8_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Brb-7W_ONkSxXx"
+            },
+            {
+                "name": "spell_slot_9_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CXMBOk-hVrflbJ"
+            },
+            {
+                "name": "spell_slot_9_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CYqipggrwMaMOm"
+            },
+            {
+                "name": "spell_slot_9_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CZUzGEFCWS6z54"
+            },
+            {
+                "name": "spell_slot_9_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58C_Igg6PUwQGtiu"
+            },
+            {
+                "name": "spell_slot_9_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CawlNnf0PX35Dc"
+            },
+            {
+                "name": "spell_slot_9_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CbqdahD6Kje6Ej"
+            },
+            {
+                "name": "spell_slot_9_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Cck09Dp1wBrr-T"
+            },
+            {
+                "name": "spell_slot_9_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CdoJqY0AjGY9yS"
+            },
+            {
+                "name": "spell_slot_9_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58CeDryG5sIrvU2H"
+            },
+            {
+                "name": "spell_slot_9_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjE58Cf--Avp3SUX7wJ"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MjE58mYUWXyKlZxAaT8"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjE58qMbb3sD8SSWReP"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MjE58r7RYwN1JwHVn-0"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MjE59jUmz_Q6ZUYXFGL"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MjE59lv0HHkOWEdqpCR"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MjE59lv0HHkOWEdqpCS"
+            },
+            {
+                "name": "npc_name",
+                "current": "Ram",
+                "max": "",
+                "id": "-MjE5AzaEj7IBDpriiV9"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{npc_name}}}",
+                "max": "",
+                "id": "-MjE5B0qdEojT93jBCy9"
+            },
+            {
+                "name": "npc_type",
+                "current": "Large object",
+                "max": "",
+                "id": "-MjE5C5MAeKItjeHQUS6"
+            },
+            {
+                "name": "npc_ac",
+                "current": "15",
+                "max": "",
+                "id": "-MjE5EBsgGFqoi1X9hQ0"
+            },
+            {
+                "name": "npc_actype",
+                "current": "wood",
+                "max": "",
+                "id": "-MjE5ExLZXNpvML0mvQj"
+            },
+            {
+                "name": "hp",
+                "current": "",
+                "max": "100",
+                "id": "-MjE5FdLG48aua_cCLcB"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "fixed",
+                "max": "",
+                "id": "-MjE5GXpMordgPiKz4o5"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MjE5Gl_S8IOxgC4zBiD"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MjE5H7TgWs0bsjv7cDw"
+            },
+            {
+                "name": "repeating_npctrait_-MjE5HnDsNPfU-4kCJft_name",
+                "current": "Usage",
+                "max": "",
+                "id": "-MjE5JKX9a4rZnWuzOKK"
+            },
+            {
+                "name": "ui_flags",
+                "current": "repeating_npcaction_edit_-1_-mje5ld5hiwahdbafpub",
+                "max": "",
+                "id": "-MjE5JMY4vvs6gwDwu9P"
+            },
+            {
+                "name": "repeating_npctrait_-MjE5HnDsNPfU-4kCJft_description",
+                "current": "A ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains. The log is shod in iron and used to batter through doors and barricades.\n\nIt takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.",
+                "max": "",
+                "id": "-MjE5LB__or3TBsH5srB"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_name",
+                "current": "Ram",
+                "max": "",
+                "id": "-MjE5MRIyaqU6VJFmFYV"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjE5MT3P4v-hzIwQi-K"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_tohitrange",
+                "current": "+8, Reach 5ft, one target",
+                "max": "",
+                "id": "-MjE5MV99cUs0jsurSSr"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_onhit",
+                "current": "16 (3d10) bludgeoning damage",
+                "max": "",
+                "id": "-MjE5MVBqrKqWGlXiFWU"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjE5MVClxh6Srt7F57h"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_crit",
+                "current": "3d10",
+                "max": "",
+                "id": "-MjE5MVDUmWurOUb1cyV"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjE5MVEUCIM3OGKBG51"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjE5MVFG-xkH-NPF6pN"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_range",
+                "current": "5ft",
+                "max": "",
+                "id": "-MjE5OWKyO5jyru1BDrY"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_tohit",
+                "current": "8",
+                "max": "",
+                "id": "-MjE5Pxz9KpRCOCtRXrz"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_target",
+                "current": "one target",
+                "max": "",
+                "id": "-MjE5S90YHe_SlR6v5Mq"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_damage",
+                "current": "3d10",
+                "max": "",
+                "id": "-MjE5TFcYsbho_oGIUJv"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_attack_damagetype",
+                "current": "bludgeoning",
+                "max": "",
+                "id": "-MjE5URsZdOXb_desw-_"
+            },
+            {
+                "name": "repeating_npcaction_-MjE5LUcmPtaw5Aq0M0X_description",
+                "current": "Double Damage against Buildings.\n\nIt takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.\n",
+                "max": "",
+                "id": "-MjE5Z8sH2I6rORwQiet"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjE5hGZaCkz-A3WH27d"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LCwxVX7hJkSwxEy"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LCxf34hRWRDKxyz"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LCyp-ytKhBSZDzd"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LCzgEYUBfQZNvrL"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LD0m26NLgFzRbfd"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjE6LD0m26NLgFzRbfe"
+            }
+        ],
+        "abilities": []
+    }
+}

@@ -1,0 +1,1464 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MjXgd2COJkNQYlEgihg",
+        "name": "Arcane Cannon",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/arcane-cannon.webp",
+        "bio": "%3Ch1%20id%3D%22userscript-arcane-cannon%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.987cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EArcane%20Cannon%3C/h1%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EWondrous%20item%2C%20very%20rare%3C/em%3E%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EArmor%20Class%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E19%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EHit%20Points%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3E75%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EDamage%20Immunities%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Epoison%2C%20psychic%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EThe%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Items%253AArcane%2520Cannon%3FsharedCompendium%3D11505718%23toc_2%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3Earcane%20cannon%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eis%20imbued%20with%20magic.%20It%20requires%20no%20Ammunition%20and%20doesn%u2019t%20need%20to%20be%20loaded.%20It%20takes%20one%20action%20to%20aim%20the%20Cannon%20and%20one%20action%20to%20fire%20it.%20After%20the%20Cannon%20has%20fired%2C%20it%20must%20Recharge%20for%205%20minutes%20before%20it%20can%20be%20fired%20again.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EThe%20creature%20firing%20the%20Cannon%20chooses%20the%20Effect%20from%20the%20following%20options%3A%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EAcid%20Jet.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20Cannon%20discharges%20acid%20in%20a%20line%20300%20feet%20long%20and%205%20feet%20wide.%20Each%20creature%20in%20that%20line%20must%20make%20a%20DC%2015%20Dexterity%20saving%20throw%2C%20taking%2022%20%284d10%29%20acid%20damage%20on%20a%20failed%20save%2C%20or%20half%20as%20much%20damage%20on%20a%20successful%20one.%20In%20addition%2C%20a%20creature%20that%20fails%20its%20saving%20throw%20takes%2011%20%282d10%29%20acid%20damage%20at%20the%20start%20of%20each%20of%20its%20turns%3B%20a%20creature%20can%20end%20this%20damage%20by%20using%20its%20action%20to%20wash%20off%20the%20acid%20with%20a%20pint%20or%20more%20of%20water.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EFire%20Jet.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20Cannon%20discharges%20fire%20in%20a%20line%20300%20feet%20long%20and%205%20feet%20wide.%20Each%20creature%20in%20the%20area%20must%20make%20a%20DC%2015%20Dexterity%20saving%20throw%2C%20taking%2033%20%286d10%29%20fire%20damage%20on%20a%20failed%20save%2C%20or%20half%20as%20much%20damage%20on%20a%20successful%20one.%20The%20fire%20ignites%20any%20flammable%20Objects%20in%20the%20area%20that%20aren%u2019t%20being%20worn%20or%20carried.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EFrost%20Shot.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20Cannon%20shoots%20a%20ball%20of%20frost%20to%20a%20point%20you%20can%20see%20within%201%2C200%20feet%20of%20the%20Cannon.%20The%20ball%20then%20expands%20to%20form%20a%2030-foot-radius%20Sphere%20centered%20on%20that%20point.%20Each%20creature%20in%20that%20area%20must%20make%20a%20DC%2015%20Constitution%20saving%20throw.%20On%20a%20failed%20save%2C%20a%20creature%20takes%2022%20%284d10%29%20cold%20damage%2C%20and%20its%20speed%20is%20reduced%20by%2010%20feet%20for%201%20minute.%20On%20a%20successful%20save%2C%20the%20creature%20takes%20half%20as%20much%20damage%2C%20and%20its%20speed%20isn%u2019t%20reduced.%20A%20creature%20whose%20speed%20is%20reduced%20by%20this%20Effect%20can%20repeat%20the%20save%20at%20the%20end%20of%20each%20of%20its%20turns%2C%20Ending%20the%20Effect%20on%20itself%20on%20a%20success.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3ELightning%20Shot.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20Cannon%20shoots%20a%20ball%20of%20lightning%20to%20a%20point%20you%20can%20see%20within%201%2C200%20feet%20of%20the%20Cannon.%20The%20lightning%20then%20expands%20to%20form%20a%2020-foot-radius%20Sphere%20centered%20on%20that%20point.%20Each%20creature%20in%20that%20area%20must%20make%20a%20DC%2015%20Dexterity%20saving%20throw%2C%20taking%2033%20%286d10%29%20lightning%20damage%20on%20a%20failed%20save%2C%20or%20half%20as%20much%20damage%20on%20a%20successful%20one.%20Creatures%20wearing%20metal%20armor%20have%20disadvantage%20on%20the%20save.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EPoison%20Spray.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20Cannon%20expels%20poison%20gas%20in%20a%2060-foot%20cone.%20Each%20creature%20in%20that%20area%20must%20make%20a%20DC%2015%20Constitution%20saving%20throw.%20On%20a%20failed%20save%2C%20the%20creature%20takes%2022%20%284d10%29%20poison%20damage%20and%20is%20Poisoned%20for%201%20minute.%20On%20a%20successful%20save%2C%20the%20creature%20takes%20half%20as%20much%20damage%20and%20isn%u2019t%20Poisoned.%20A%20creature%20Poisoned%20in%20this%20way%20can%20repeat%20the%20saving%20throw%20at%20the%20end%20of%20each%20of%20its%20turns%2C%20Ending%20the%20Effect%20on%20itself%20on%20a%20success.%3C/p%3E%3Ch2%20id%3D%22userscript-attributes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EAttributes%3C/h2%3E%3Chr%20style%3D%22visibility%3A%20hidden%20%3B%20margin%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20font-size%3A%2011.9811px%20%3B%20font-style%3A%20normal%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cblockquote%20style%3D%22border-width%3A%2010px%20%3B%20border-style%3A%20solid%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%201em%200px%202em%20%3B%20padding%3A%2015px%2010px%205px%20%3B%20quotes%3A%20none%20%3B%20background-color%3A%20rgb%28%20253%20%2C%20241%20%2C%20220%20%29%20%3B%20box-shadow%3A%20rgb%28%20136%20%2C%20136%20%2C%20136%20%29%201px%204px%2014px%20%3B%20z-index%3A%2015%20%3B%20position%3A%20relative%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ch2%20id%3D%22userscript-arcane-cannon%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%20-8px%200px%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%22%3EArcane%20Cannon%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20z-index%3A%2015%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3Eranged%20weapon%20%28wondrous%20item%29%3C/em%3E%3C/p%3E%3Chr%20style%3D%22visibility%3A%20visible%20%3B%20margin%3A%204px%200px%20%3B%20height%3A%206px%20%3B%20background-size%3A%20100%25%20100%25%20%3B%20border%3A%20none%22%3E%3Cul%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%200.352cm%20%3B%20line-height%3A%201.1em%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.5em%20%3B%20padding%3A%200px%200px%200px%201em%20%3B%20list-style%3A%20outside%20none%20%3B%20text-indent%3A%20-1em%20%3B%20color%3A%20rgb%28%2088%20%2C%2024%20%2C%2013%20%29%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3ECategory%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EItems%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%202%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%20-0.02em%22%3EItem%20Rarity%3A%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3Every%20rare%3C/li%3E%3C/ul%3E%3C/blockquote%3E%3Ch3%20id%3D%22userscript-footnotes%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFootnotes%3C/h3%3E%3Col%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.8em%20%3B%20padding%3A%200px%200px%200px%201.4em%20%3B%20list-style%3A%20outside%20decimal%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//github.com/Tougher-Together-DnD/default-game-assets/tree/main/characters/lighting%22%20title%3D%22Tougher%20Together%20VTTES%20Files%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESource%20Files%3C/a%3E%3C/li%3E%3C/ol%3E",
+        "gmnotes": "%3Cp%3E%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"left\":525,\"top\":420,\"width\":70,\"height\":140,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/characters/siege-weapons/images/arcane-cannon.webp\",\"page_id\":\"-MjXZ9Q7Ww-ZPT-q4Bfk\",\"layer\":\"objects\",\"name\":\"Arcane Cannon\",\"represents\":\"-MjXgd2COJkNQYlEgihg\",\"bar1_value\":\"75\",\"bar2_value\":19,\"bar2_link\":\"-MjDdb8-P5qnS7VsYY7X\",\"bar3_max\":\"0\",\"bar3_num_permission\":\"everyone\",\"showplayers_bar3\":true,\"lastmove\":\"525,455\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[\"object\",\"siege\",\"map\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "dtype",
+                "current": "full",
+                "max": "",
+                "id": "-MjDdOeRkmkqjwnuzNCI"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MjDdOfMJFgWiVrztdhE"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOfOnSnwUdvo1_RO"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOfPW_LSpKe76cRO"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MjDdOg6hpdqWhASl0TI"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_npc_charname_output,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MjDdOgfgH5hjVt1M89U"
+            },
+            {
+                "name": "spellcasting_ability_name",
+                "current": "0*",
+                "max": "",
+                "id": "-MjDdOhxaAw0Ko1217sZ"
+            },
+            {
+                "name": "mobile_attack_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOhzg3oTaWtKDcWE"
+            },
+            {
+                "name": "feature_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOi0diaWWDKVK1WD"
+            },
+            {
+                "name": "spell_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOi1MvbihX7gh8wQ"
+            },
+            {
+                "name": "spells_count_cantrip",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOiW4tzDOYx9mHq5"
+            },
+            {
+                "name": "spells_count_1",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOj2VGvXqbkwMg4M"
+            },
+            {
+                "name": "spells_count_2",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOjdX99EA9vlBNDw"
+            },
+            {
+                "name": "spells_count_3",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOjffNkgI1Azu6Du"
+            },
+            {
+                "name": "spells_count_4",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOkA75Kj04JMcWCj"
+            },
+            {
+                "name": "spells_count_5",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOkDuaCg3d-ecn0i"
+            },
+            {
+                "name": "spells_count_6",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOkhiRGno3FUNNgI"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkkOkp8lx-75REc"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOklQzJC3xfv2WCB"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkmo9uSBNQR54-X"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkn5YFCNnCf2tld"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkopJitu583mgAr"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkpLaWR-adJij-w"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkrRXrU8mPt4zXk"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOkrRXrU8mPt4zXl"
+            },
+            {
+                "name": "spells_count_7",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOlKS2LY4KXolZSS"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlo9b2qia4TjR9S"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlpOlq9MbJKi9BX"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlqstDlJthaNCQy"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlrFdpEsHR5Ev32"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlsUnPkcwL2RBLl"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOltsTMcR4dZc1p4"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlui6RgZwgml1Dr"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlvPkyirdftB4xL"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlwm5YsL6zSY4Ji"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlyfLlV_ui_BFbg"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOlzDsgoExr_BoTg"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm-wdL-LGFBC67t"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm0SlOiMls1ABjd"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm1ZVv5xwQK-wR1"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm2OBCXdfbTrioW"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm4MrZ2AF9vYkNL"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm5FVrvoREzDlEl"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdOm7CB-YvIRF7GWH"
+            },
+            {
+                "name": "spells_count_8",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOmcY6AN0OZkQxRC"
+            },
+            {
+                "name": "spells_count_9",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdOnKBUehgVUMDfCM"
+            },
+            {
+                "name": "spell_slot_1_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpkvNHF_uloCEHZ"
+            },
+            {
+                "name": "spell_slot_1_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpmoWrIaC3F_GIm"
+            },
+            {
+                "name": "spell_slot_1_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpnToEzwJkK8Hj7"
+            },
+            {
+                "name": "spell_slot_1_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpo489e98PbUEUi"
+            },
+            {
+                "name": "spell_slot_1_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOppUAFwWSJ4E1On"
+            },
+            {
+                "name": "spell_slot_1_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpqAiHv8vckf_zu"
+            },
+            {
+                "name": "spell_slot_1_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOprBi8Nb_u4vaD6"
+            },
+            {
+                "name": "spell_slot_1_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpsdhVjjnEDLDK1"
+            },
+            {
+                "name": "spell_slot_1_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpt1VVHuHzHoMrF"
+            },
+            {
+                "name": "spell_slot_1_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOpuS0Y4PDLmz_vE"
+            },
+            {
+                "name": "spell_slot_2_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqNLZY7WT3KDIxK"
+            },
+            {
+                "name": "spell_slot_2_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqO14CrfVFTl9he"
+            },
+            {
+                "name": "spell_slot_2_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqPz0bAj-kp7mwA"
+            },
+            {
+                "name": "spell_slot_2_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqRmfZnixwwLljK"
+            },
+            {
+                "name": "spell_slot_2_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqS9eviDnCcFiUL"
+            },
+            {
+                "name": "spell_slot_2_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqTeUbVME0oJ9VI"
+            },
+            {
+                "name": "spell_slot_2_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqUf-Vg4by0mPm4"
+            },
+            {
+                "name": "spell_slot_2_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqVe66hqt4I_MvT"
+            },
+            {
+                "name": "spell_slot_2_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqWtSj0ivmtjS3y"
+            },
+            {
+                "name": "spell_slot_2_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOqXNd4h_hEd4nZe"
+            },
+            {
+                "name": "spell_slot_3_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr0MwpUOhSdZ5yy"
+            },
+            {
+                "name": "spell_slot_3_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr2uhSpQGwVcC_P"
+            },
+            {
+                "name": "spell_slot_3_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr3-UqTZCXUqHcS"
+            },
+            {
+                "name": "spell_slot_3_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr4SxeBiMmxALrj"
+            },
+            {
+                "name": "spell_slot_3_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr5lEouJQX1zouf"
+            },
+            {
+                "name": "spell_slot_3_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr6CC6egxth9yWc"
+            },
+            {
+                "name": "spell_slot_3_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr7T7TOdjDASFTL"
+            },
+            {
+                "name": "spell_slot_3_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr8TvOF9mfn5rMI"
+            },
+            {
+                "name": "spell_slot_3_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOr9sCPJAL70RQ4H"
+            },
+            {
+                "name": "spell_slot_3_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrAL7vUpc6huDl6"
+            },
+            {
+                "name": "spell_slot_4_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOroZ_yVx-EO6ng_"
+            },
+            {
+                "name": "spell_slot_4_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrqBO-WmN4d0xfd"
+            },
+            {
+                "name": "spell_slot_4_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrqBO-WmN4d0xfe"
+            },
+            {
+                "name": "spell_slot_4_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrrsvWAYLCmDiIk"
+            },
+            {
+                "name": "spell_slot_4_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrsXOAZECYhKg0b"
+            },
+            {
+                "name": "spell_slot_4_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrtvuZrpF1qKO04"
+            },
+            {
+                "name": "spell_slot_4_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOruPrDzgT8Kojfp"
+            },
+            {
+                "name": "spell_slot_4_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrvgS1hnZTPsOgf"
+            },
+            {
+                "name": "spell_slot_4_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrwL63VDDFPPdbH"
+            },
+            {
+                "name": "spell_slot_4_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOrxCikkdqN8LQJy"
+            },
+            {
+                "name": "spell_slot_5_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsf_56NRNpAysAB"
+            },
+            {
+                "name": "spell_slot_5_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsgoOfazgEBXjD3"
+            },
+            {
+                "name": "spell_slot_5_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOshbuLxgNMX9J7M"
+            },
+            {
+                "name": "spell_slot_5_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsilLucVHkM3jVj"
+            },
+            {
+                "name": "spell_slot_5_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsj37rfVJTKtDzH"
+            },
+            {
+                "name": "spell_slot_5_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOskBEGgUarQLIuP"
+            },
+            {
+                "name": "spell_slot_5_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsloTK4X-OuUzci"
+            },
+            {
+                "name": "spell_slot_5_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsm5QiLxRmr64Ow"
+            },
+            {
+                "name": "spell_slot_5_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOsn1ihm9lxYceVN"
+            },
+            {
+                "name": "spell_slot_5_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOso56nWwlPz1zJF"
+            },
+            {
+                "name": "spell_slot_6_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtU-dMkem1hQHej"
+            },
+            {
+                "name": "spell_slot_6_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtVwnbNlBNd6QO9"
+            },
+            {
+                "name": "spell_slot_6_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtXal2NQKC7q9JW"
+            },
+            {
+                "name": "spell_slot_6_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtYHjsRA77EMkM3"
+            },
+            {
+                "name": "spell_slot_6_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtZnRJ4HlA3DWEw"
+            },
+            {
+                "name": "spell_slot_6_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOt_ANNKzwjnvKi3"
+            },
+            {
+                "name": "spell_slot_6_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtaLKo4yBrB5X3d"
+            },
+            {
+                "name": "spell_slot_6_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtb2lv2akjeZ99B"
+            },
+            {
+                "name": "spell_slot_6_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtcwP6TSv5ElA-b"
+            },
+            {
+                "name": "spell_slot_6_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOtdfhLHm4d69nXY"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MjDdOuEtRQe_9o2-R6N"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MjDdOuFjTAdb6ehqFUh"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MjDdOuGxDt9qOBxqIZI"
+            },
+            {
+                "name": "spell_slot_7_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuH5CzcOG09WOIg"
+            },
+            {
+                "name": "spell_slot_7_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuI1LE-bwnjfWu-"
+            },
+            {
+                "name": "spell_slot_7_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuJIhaSFaKMP1TS"
+            },
+            {
+                "name": "spell_slot_7_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuKrYuv1D2jQ8IF"
+            },
+            {
+                "name": "spell_slot_7_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuMERpq_7EazYW6"
+            },
+            {
+                "name": "spell_slot_7_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuNosWHx0cSY8a7"
+            },
+            {
+                "name": "spell_slot_7_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuNosWHx0cSY8a8"
+            },
+            {
+                "name": "spell_slot_7_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuO8juVLBS3JZh5"
+            },
+            {
+                "name": "spell_slot_7_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuPhn1LT0tdAZQi"
+            },
+            {
+                "name": "spell_slot_7_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOuQfiuD7VvEJ-PO"
+            },
+            {
+                "name": "spell_slot_8_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv2gQEqSlLIOKqf"
+            },
+            {
+                "name": "spell_slot_8_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv4aBqy69hRWNDW"
+            },
+            {
+                "name": "spell_slot_8_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv5Dv5d47k9Z1od"
+            },
+            {
+                "name": "spell_slot_8_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv6IBVGZzptb9vL"
+            },
+            {
+                "name": "spell_slot_8_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv7wRTR9sXJShFu"
+            },
+            {
+                "name": "spell_slot_8_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv8m9hSOnlmjw61"
+            },
+            {
+                "name": "spell_slot_8_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOv9vLafH03lLBRr"
+            },
+            {
+                "name": "spell_slot_8_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvAVgGpU6MxQ5em"
+            },
+            {
+                "name": "spell_slot_8_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvBTkWYrYkOKCM6"
+            },
+            {
+                "name": "spell_slot_8_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvCp_k26um6eqpi"
+            },
+            {
+                "name": "spell_slot_9_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvo6gCptCnszRus"
+            },
+            {
+                "name": "spell_slot_9_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvpGAP43diHhBWi"
+            },
+            {
+                "name": "spell_slot_9_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvqKjwx1oh7PbKT"
+            },
+            {
+                "name": "spell_slot_9_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvqKjwx1oh7PbKU"
+            },
+            {
+                "name": "spell_slot_9_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvrAbjCvWv_Ri_K"
+            },
+            {
+                "name": "spell_slot_9_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvsjeSoZJFVBSyI"
+            },
+            {
+                "name": "spell_slot_9_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvteQBXbmU4CcXd"
+            },
+            {
+                "name": "spell_slot_9_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvu-R-riYjHy-oF"
+            },
+            {
+                "name": "spell_slot_9_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvvM7V4LvCND6jI"
+            },
+            {
+                "name": "spell_slot_9_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjDdOvxdbH36m4kBeM3"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MjDdOzo14eE-PO7-Ggo"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjDdP0PhSM-0FryE_Z2"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MjDdP1-LeEWmXZNjao3"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MjDdVTk-8LoF6dJXZsz"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MjDdVVaEqbzaRm9WXiY"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MjDdVVbxetUJ-lBvT7g"
+            },
+            {
+                "name": "npc_name",
+                "current": "Arcane Cannon",
+                "max": "",
+                "id": "-MjDdX9uBbGD615cN04u"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{npc_name}}}",
+                "max": "",
+                "id": "-MjDdXC2qJQhjvR133QA"
+            },
+            {
+                "name": "npc_type",
+                "current": "ranged weapon (wondrous item)",
+                "max": "",
+                "id": "-MjDdZs3lpNHO9Vyc306"
+            },
+            {
+                "name": "npc_ac",
+                "current": "19",
+                "max": "",
+                "id": "-MjDdb8-P5qnS7VsYY7X"
+            },
+            {
+                "name": "npc_actype",
+                "current": "metal",
+                "max": "",
+                "id": "-MjDdbxfYnNwV3M-Ybap"
+            },
+            {
+                "name": "hp",
+                "current": "",
+                "max": "75",
+                "id": "-MjDdcmnYLYY-LJo94Ec"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "fixed",
+                "max": "",
+                "id": "-MjDdedV0l7CPMaey32l"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MjDdeuOsEWzbVdvjn3A"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MjDdfIzNN6OEKSdYqZg"
+            },
+            {
+                "name": "repeating_npctrait_-MjDdgUrWg2KRNQTFzqZ_name",
+                "current": "Usage",
+                "max": "",
+                "id": "-MjDdmVWSc2KZ9mbbMHD"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-MjDdmXSpSrXmofDFz-O"
+            },
+            {
+                "name": "repeating_npctrait_-MjDdgUrWg2KRNQTFzqZ_description",
+                "current": "This Large Cannon is imbued with magic. It requires no Ammunition and doesn’t need to be loaded. It takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.\n\nThe creature firing the Cannon chooses the Effect from the following options:",
+                "max": "",
+                "id": "-MjDdnknJgbFdY4WPRcr"
+            },
+            {
+                "name": "npc_immunities",
+                "current": "poison, psychic",
+                "max": "",
+                "id": "-MjDdq0JgpWZC1PxqmBn"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_name",
+                "current": "Acid Jet",
+                "max": "",
+                "id": "-MjDdsYvTUsqGB_kfVEw"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDds_P88W_DQ-2kFld"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_tohitrange",
+                "current": "+0, Range 300, line",
+                "max": "",
+                "id": "-MjDdsbYSQBZVESK9D7i"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_onhit",
+                "current": "22 (4d10) acid damage plus 11 (2d10) acid per round damage",
+                "max": "",
+                "id": "-MjDdsb_VzOADUnBs3dD"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
+                "max": "",
+                "id": "-MjDdsbaIESytngTl891"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_crit",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDdsbaIESytngTl892"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_crit2",
+                "current": "2d10",
+                "max": "",
+                "id": "-MjDdsbbjINt8wc6SP6g"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDdsbcGu2NKU6frPXR"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDdt3-Ouj4r_Kr4m_t"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_range",
+                "current": "300",
+                "max": "",
+                "id": "-MjDdy8evRR73tACcDYl"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_description",
+                "current": "The Cannon discharges acid in a line 300 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw takes 11 (2d10) acid damage at the start of each of its turns; a creature can end this damage by using its action to wash off the acid with a pint or more of water.",
+                "max": "",
+                "id": "-MjDe-KSsoRcIjs1GwC7"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_tohit",
+                "current": "",
+                "max": "",
+                "id": "-MjDe0o25h7cEkBfgxrZ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_target",
+                "current": "line",
+                "max": "",
+                "id": "-MjDe2BghfuPggZMGNix"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_damage",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDe88N7bREwM_k5R7K"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_damagetype",
+                "current": "acid",
+                "max": "",
+                "id": "-MjDe97mpKy0-O2Mof2L"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_damage2",
+                "current": "2d10",
+                "max": "",
+                "id": "-MjDeAiBlxf3k3Jod7wm"
+            },
+            {
+                "name": "repeating_npcaction_-MjDdrH0pZMoZP5y45uw_attack_damagetype2",
+                "current": "acid per round",
+                "max": "",
+                "id": "-MjDeDv795FM4XVvhGEF"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_name",
+                "current": "Fire Jet",
+                "max": "",
+                "id": "-MjDeFmES8P4ELn3yMME"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDeFnXEMYgHw919tCQ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_tohitrange",
+                "current": "+0, Range 300, line",
+                "max": "",
+                "id": "-MjDeFpfQRPMzX5PDpyZ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_onhit",
+                "current": "33 (6d10) fire damage",
+                "max": "",
+                "id": "-MjDeFphfAA_OcxbIWIz"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjDeFpipTKDr99Ql-qU"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_crit",
+                "current": "6d10",
+                "max": "",
+                "id": "-MjDeFpipTKDr99Ql-qV"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjDeFpjD8wFHz9VcoqS"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDeFpkU-ySPzFP0txU"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_description",
+                "current": "The Cannon discharges fire in a line 300 feet long and 5 feet wide. Each creature in the area must make a DC 15 Dexterity saving throw, taking 33 (6d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites any flammable Objects in the area that aren’t being worn or carried.",
+                "max": "",
+                "id": "-MjDeI-JK8-XtvTPvHZJ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDeIA4-aKKsu4NcPSR"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_range",
+                "current": "300",
+                "max": "",
+                "id": "-MjDeJ6WDSGmPINq9TO3"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_target",
+                "current": "line",
+                "max": "",
+                "id": "-MjDeKA4IAALiQ99M_8t"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_tohit",
+                "current": "",
+                "max": "",
+                "id": "-MjDeKsisgjA31Tbiyct"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_damage",
+                "current": "6d10",
+                "max": "",
+                "id": "-MjDeMRKeXcBaSAREjcu"
+            },
+            {
+                "name": "repeating_npcaction_-MjDeEJQiw6HlAUzSXRI_attack_damagetype",
+                "current": "fire",
+                "max": "",
+                "id": "-MjDeP8DpWR-iYD8Vpvs"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_name",
+                "current": "Frost Shot",
+                "max": "",
+                "id": "-MjDeRbcoOaBi-8FUPWV"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDeRcgcMkOOPnA5fe_"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_tohitrange",
+                "current": "+0, Range 1,200, 30-foot radius Sphere",
+                "max": "",
+                "id": "-MjDeRer2gMaHPmVZNZ1"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_onhit",
+                "current": "22 (4d10) cold damage",
+                "max": "",
+                "id": "-MjDeRetU1Sgz_2W2bcJ"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjDeRevPJ_qiPIVvpAC"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_crit",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDeRewdhiboipzcwwY"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjDeRexgdDgYwAYC0Of"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDeReyRk_cJu7yrT7H"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDeS0U3pk-Ot7Ck8oW"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_range",
+                "current": "1,200",
+                "max": "",
+                "id": "-MjDeSlbvh7D4RFmGbPz"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_description",
+                "current": "The Cannon shoots a ball of frost to a point you can see within 1,200 feet of the Cannon. The ball then expands to form a 30-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 22 (4d10) cold damage, and its speed is reduced by 10 feet for 1 minute. On a successful save, the creature takes half as much damage, and its speed isn’t reduced. A creature whose speed is reduced by this Effect can repeat the save at the end of each of its turns, Ending the Effect on itself on a success.",
+                "max": "",
+                "id": "-MjDeVXBhPxVxKv8ANUn"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_tohit",
+                "current": "",
+                "max": "",
+                "id": "-MjDeW7LE-vZJEt_6Dhx"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_target",
+                "current": "30-foot radius Sphere",
+                "max": "",
+                "id": "-MjDeZNaWqJG5MIfxMPB"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_damage",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDejNa2QO9ImKitmKt"
+            },
+            {
+                "name": "repeating_npcaction_-MjDePZ0-Mc1CQrAJi60_attack_damagetype",
+                "current": "cold",
+                "max": "",
+                "id": "-MjDem4OWsNgq3DXasc9"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_description",
+                "current": "The Cannon shoots a ball of lightning to a point you can see within 1,200 feet of the Cannon. The lightning then expands to form a 20-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one. Creatures wearing metal armor have disadvantage on the save.",
+                "max": "",
+                "id": "-MjDeplkr7bzqW6AoZFd"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_tohitrange",
+                "current": "+0, Range 1,200, 20-foot radius Sphere",
+                "max": "",
+                "id": "-MjDepnonCAdZS5c6edS"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_onhit",
+                "current": "33 (6d10) lightning damage",
+                "max": "",
+                "id": "-MjDepnq4-HyhByVP_Er"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjDepnrmNqIzrSd5zg_"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_crit",
+                "current": "6d10",
+                "max": "",
+                "id": "-MjDepns5cr45C2MHavi"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjDepns5cr45C2MHavj"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDepntAcddze_KD224"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_name",
+                "current": "Lightning Shot",
+                "max": "",
+                "id": "-MjDerVgeMOzeMVbef9h"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDerXlngZPF15iwGSx"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDerzQMX_GfIWSxeZC"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_tohit",
+                "current": "",
+                "max": "",
+                "id": "-MjDet02hib1weKXa43p"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_range",
+                "current": "1,200",
+                "max": "",
+                "id": "-MjDeu0kdJQgi2tK3sCj"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_target",
+                "current": "20-foot radius Sphere",
+                "max": "",
+                "id": "-MjDewliyJ2w9ATzh3kB"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_damage",
+                "current": "6d10",
+                "max": "",
+                "id": "-MjDexmYg60HIdAr3ACr"
+            },
+            {
+                "name": "repeating_npcaction_-MjDemjHzYctifGqzdv0_attack_damagetype",
+                "current": "lightning",
+                "max": "",
+                "id": "-MjDf-5YoJ7D1SrqWe9y"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_description",
+                "current": "The Cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (4d10) poison damage and is Poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn’t Poisoned. A creature Poisoned in this way can repeat the saving throw at the end of each of its turns, Ending the Effect on itself on a success.",
+                "max": "",
+                "id": "-MjDf24SrX6vBt89gYks"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_tohitrange",
+                "current": "+0, Range 60, 60-foot cone",
+                "max": "",
+                "id": "-MjDf26__jkRhKrZK8_C"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_onhit",
+                "current": "22 (4d10) damage",
+                "max": "",
+                "id": "-MjDf26cD3tl26Z2-d1b"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-MjDf26d9rhry3zAx6gM"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_crit",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDf26eAG6a0BZ3bDn4"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MjDf26eAG6a0BZ3bDn5"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_rollbase",
+                "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+                "max": "",
+                "id": "-MjDf26gqPuCrSDiKS1j"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_name",
+                "current": "Poison Shot",
+                "max": "",
+                "id": "-MjDf3MSXdX5JMupXmUY"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-MjDf3O9VhVgW4MDOCuK"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-MjDf3rMb14VLNPHiIRK"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_range",
+                "current": "60",
+                "max": "",
+                "id": "-MjDf4vSYuJhantPfhVj"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_target",
+                "current": "60-foot cone",
+                "max": "",
+                "id": "-MjDfC4wzaRPlCNJ2yEP"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_tohit",
+                "current": "",
+                "max": "",
+                "id": "-MjDfCe2hNXzjozM0E8V"
+            },
+            {
+                "name": "repeating_npcaction_-MjDf-XmStFLfxd-oqoK_attack_damage",
+                "current": "4d10",
+                "max": "",
+                "id": "-MjDfGcHhD33iGWXqe1o"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjDfNu3qmiXPKTBl0M9"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggM5DcRHgLZnAxrS"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggM778wGzzYdpfPr"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggM88UjNj3UCnbig"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggM9yT4M9oOBOUe9"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggMANi0GWnyoe9LS"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjDggMBGtUWlPLtGQ2_"
+            }
+        ],
+        "abilities": []
+    }
+}
