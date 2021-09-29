@@ -1161,13 +1161,6 @@
                 "order": -1
             },
             {
-                "name": "Magic-Store-Menu",
-                "description": "",
-                "istokenaction": false,
-                "action": "!ms",
-                "order": -1
-            },
-            {
                 "name": "Toggle-Talking-To-Myself",
                 "description": "",
                 "istokenaction": false,
