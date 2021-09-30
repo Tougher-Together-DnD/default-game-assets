@@ -7,9 +7,9 @@
 [Tougher Together Repo]: https://github.com/Tougher-Together-DnD "Tougher Together DnD"
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/utility/macro-bars "Tougher Together Files"
 
-[Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-icon.png#icon
-[Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/avatar.webp
-[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/macro-screenshot.png
+[Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/menu-icon.png#icon
+[Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-avatar.webp
+[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/macro-screenshot.png
 [Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
 <!-- External Tools -->
