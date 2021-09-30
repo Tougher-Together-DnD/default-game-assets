@@ -6,7 +6,7 @@
 
 [Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/menu-icon.png#icon
 [Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/art-avatar.webp
-[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/macro-screenshot.png
+[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/decoration-screengrab.gif
 [Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
 <!-- API URLs -->
@@ -39,9 +39,9 @@ ul li { line-height:2; }
 th:empty { display:none; }
 </style>
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="" height="1">
+# Player Decorations
 
-### Macros*
+## Macros*
 *Note: Macros to be shared between Players and Dungeon Masters, or are intended as universal token actions, should be loaded into game under "Collections" tab.*
 
 * Commit-to-Map-Layer
@@ -50,10 +50,12 @@ th:empty { display:none; }
 * Resize-Pixels
 * Resize-Units
 
-#### Required API Scripts: 
+***Required API Scripts:***  
 <span>* All</span> [TokenMod][TokenMod-URL]  
 
-#### Usage
+<br>
+
+## Usage
 1. Drag this Character Sheet to the tabletop.
 1. Right Click and select "Multi-Sided".
 1. Scroll through the available images and select the decoration you want.
@@ -71,48 +73,46 @@ th:empty { display:none; }
 
 ***Resize-Units.*** Will set the width and height of the token in map units (usually 5ft = 1 grid square = 70 pixels).
 
-### Footnotes
+### Using Macro bar
+If the macros are not available as a token action, a player can use the macros from this character sheet.
 
-1. [VTTES JSON Character Sheet][Character Sheet]
+1. Go under the *Collections* (![][Collection Icon]) tab and turn on macro bar.
+2. This will display a space at the bottom of the window under player names.
+3. Open this character sheet, go to *Attributes and Abilities*, and select *Show in Macro Bar*.
+4. You can right click on the bar to get options for renaming and changing its color.
 
-<!-- GM Notes --> 
-### About
-Using a character sheet to manage macros is a [Stupid Roll20 Trick](https://app.roll20.net/forum/post/5899495/stupid-roll20-tricks-and-some-clever-ones/?pageforid=7605679#post-7605679). Tools such as the transmogrifier only allow moving pages, characters, decks, handouts , roll tables, and jukebox playlists. However, macros can not be moved.
+![][Screenshot]
 
-It is a tedious error prone process to copy and paste macro code between games. Unless you use some ingenuity or tools like the [Firefox][Firefox-URL] addon, [VTTES Enhancement Suite-URL][VTTES Enhancement Suite-URL].  
+<br>
 
-#### Pros:
-* Manage catagories of macros separated into different character sheets.
-* Easily move macros between games.
+## Footnotes
+1. [Source Files][Repo Files]
 
-#### Cons:
-* Character sheets are resource intensive. They have many fields that will go unused with this technique. A lot of characters may negatively impact Roll20 performance.
-* Selecting ☐ *Show as Token Action* will only show a macro button for a token representing this character sheet. Not for all tokens like macros in the game-wide *Collection* tab. 
-* If you want Players to use these macros, they need to be added to "Can Be Edited and Controlled By" permission list. They can inadvertently or purposefully alter the macros.
+<!-- DM Notes -->
+## Setup
+Load the APIs required for the macros you and your players intend to use. Some macros work without a subscription.
 
-### Setup
+<br>
+
+## Macro-Bar character sheets
 Create a character sheet. Under its *Attributes and Abilities*  tab add macros.
 
-When doing nested macros, be sure to reference other macros in the same character sheet as ~Macro-Name. As opposed to #Macro-Name for game-wide accessible macros stored under the *Collection* tab.
+When doing nested macros, be sure to reference other macros in the same character sheet as ~Macro-Name. As opposed to #Macro-Name for game-wide accessible macros stored under the *Collections* (![][Collection Icon]) tab.
 
 Edit the character sheet by adding the appropriate users in the "In Player's Journal" and "Can Be Edited and Controlled By" fields. This does not have to be done for the GM, as they have permissions to all assets.
 
-### Usage
-When you want to copy all your macros to a new game, move or import this character sheet.
-
-#### Free VTT Move
+### Free VTTES Move
 This technique can be used for free, even with games that have different owners, just swap the JSON file.
 
-1. Using [VTTES Enhancement Suite-URL][VTTES Enhancement Suite-URL] export the character sheet as JSON to your local hard drive.
+1. Using the [Firefox][Firefox-URL] addon, [VTTES Enhancement Suite][VTTES Enhancement Suite-URL] a DM can export macros under *Collections* (![][Collection Icon]) as a JSON file.
 
-1. In the new game create a character to hold your macros. Using VTT go to the "Export & Overwrite" tab, there Overwrite the new character with your JSON file. 
+2. In the new game create a character to hold your macros. Using VTTES go to the "Export & Overwrite" tab, there Overwrite the new character with your JSON file. 
 
-#### Character Vault Move
+### Character Vault Move
 If the owner of the game does not have a Roll20 subscription, their game will have limited vault access.
 
 1. From the Campaign Page, under "Game Settings" they can set *Allow players to import their own Characters?* to "Yes".
-   
-1. Then a subscribed player can import the Macro Character as they do for any characters.
+1. Then a subscribed player can import the Macro Character as they do for any vault characters.
 
-#### Transmogrifier Move
-And finally, the easiest most intuitive move is with the transmogrifier. This only works if you own both games.
+### Transmogrifier Move
+And finally, the easiest most intuitive way is with the transmogrifier. This only works if you create both games.
