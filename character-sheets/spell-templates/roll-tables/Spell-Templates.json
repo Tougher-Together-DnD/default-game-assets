@@ -1,0 +1,247 @@
+{
+    "name": "Spell-Templates",
+    "showplayers": true,
+    "id": "-MjlfeVGN3hR3zofeapZ",
+    "items": {
+        "-Mjlfg3bYBW1QGPshR1F": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-acid.webp",
+            "id": "-Mjlfg3bYBW1QGPshR1F",
+            "name": "Cone of Acid"
+        },
+        "-MjlfnWdO2HH__SwHWt-": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-cold.webp",
+            "id": "-MjlfnWdO2HH__SwHWt-",
+            "name": "Cone of Cold"
+        },
+        "-MjlftTWWxF7f0YoA21g": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-darkness.webp",
+            "id": "-MjlftTWWxF7f0YoA21g",
+            "name": "Cone of Darkness"
+        },
+        "-MjlfxDlim_kCDqJFK3U": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-fire.webp",
+            "id": "-MjlfxDlim_kCDqJFK3U",
+            "name": "Cone of Fire"
+        },
+        "-Mjlg-Rw9rYJDEUWQlQD": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-light.webp",
+            "id": "-Mjlg-Rw9rYJDEUWQlQD",
+            "name": "Cone of Light"
+        },
+        "-Mjlg2zsDzRx4_nfJQwC": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-lightning.webp",
+            "id": "-Mjlg2zsDzRx4_nfJQwC",
+            "name": "Cone of Lightning"
+        },
+        "-Mjlg6yFroqrFxsIAKYL": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cone-of-primasmatic.webp",
+            "id": "-Mjlg6yFroqrFxsIAKYL",
+            "name": "Cone of Prismatic Magic"
+        },
+        "-MjlgHFrJJ5CKsAoQaS1": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-acid.webp",
+            "id": "-MjlgHFrJJ5CKsAoQaS1",
+            "name": "Cube of Acid"
+        },
+        "-MjlgJYxthafD5vbWfnS": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-cold.webp",
+            "id": "-MjlgJYxthafD5vbWfnS",
+            "name": "Cube of Cold"
+        },
+        "-MjlgP0yBPz3kPBCSL9g": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-darkness.webp",
+            "id": "-MjlgP0yBPz3kPBCSL9g",
+            "name": "Cube of Darkness"
+        },
+        "-MjlgTmBgGkqD1xRqm_S": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-fire.webp",
+            "id": "-MjlgTmBgGkqD1xRqm_S",
+            "name": "Cube of Fire"
+        },
+        "-MjlgXonEnoFLdIUwoN9": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-light.webp",
+            "id": "-MjlgXonEnoFLdIUwoN9",
+            "name": "Cube of Light"
+        },
+        "-MjlgcoUWfSBV_96q22y": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-lightning.webp",
+            "id": "-MjlgcoUWfSBV_96q22y",
+            "name": "Cube of Lightning"
+        },
+        "-MjlgfWqllQN9xFgJHRr": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/cube-of-prismatic.webp",
+            "id": "-MjlgfWqllQN9xFgJHRr",
+            "name": "Cube of Prismatic Magic"
+        },
+        "-Mjlgq-LnQnUK4qn7R1P": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-acid.webp",
+            "id": "-Mjlgq-LnQnUK4qn7R1P",
+            "name": "Line of Acid"
+        },
+        "-Mjlgu-I-o7jgpvbiDF3": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-cold.webp",
+            "id": "-Mjlgu-I-o7jgpvbiDF3",
+            "name": "Line of Cold"
+        },
+        "-MjlgxTKjrTJrjvdQmxB": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-darkness.webp",
+            "id": "-MjlgxTKjrTJrjvdQmxB",
+            "name": "Line of Darkness"
+        },
+        "-Mjlh-xMPQLNK2PeI8Uy": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-fire.webp",
+            "id": "-Mjlh-xMPQLNK2PeI8Uy",
+            "name": "Line of Fire"
+        },
+        "-Mjlh3WVfWP8zxygPcRG": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-light.webp",
+            "id": "-Mjlh3WVfWP8zxygPcRG",
+            "name": "Line of Light"
+        },
+        "-Mjlh835uP4oudyAmsjW": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-lightning.webp",
+            "id": "-Mjlh835uP4oudyAmsjW",
+            "name": "Line of Lightning"
+        },
+        "-MjlhCn7ixwEfka7eeIm": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/line-of-prismatic.webp",
+            "id": "-MjlhCn7ixwEfka7eeIm",
+            "name": "Line of Prismatic Magic"
+        },
+        "-Mjlh_eaLCKA9sGKVEOd": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-acid.webp",
+            "id": "-Mjlh_eaLCKA9sGKVEOd",
+            "name": "Sphere of Acid"
+        },
+        "-MjlhcBP9eEM-hBlYNtS": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-cold.webp",
+            "id": "-MjlhcBP9eEM-hBlYNtS",
+            "name": "Sphere of Cold"
+        },
+        "-MjlhfpGbuTPFjhIJ90k": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-darkness.webp",
+            "id": "-MjlhfpGbuTPFjhIJ90k",
+            "name": "Sphere of Darkness"
+        },
+        "-MjlhjraYhewto5wM0sC": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-fire.webp",
+            "id": "-MjlhjraYhewto5wM0sC",
+            "name": "Sphere of Fire"
+        },
+        "-MjlhnCE_GeSCto7o5c0": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-light.webp",
+            "id": "-MjlhnCE_GeSCto7o5c0",
+            "name": "Sphere of Light"
+        },
+        "-MjlhrdBvXpak3IYK41R": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-lighting.webp",
+            "id": "-MjlhrdBvXpak3IYK41R",
+            "name": "Sphere of Lightning"
+        },
+        "-MjlhvlizWQMryYF2ccY": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/sphere-of-prismatic.webp",
+            "id": "-MjlhvlizWQMryYF2ccY",
+            "name": "Sphere of Prismatic Magic"
+        },
+        "-Mjli2nnYji6DTjFijpR": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/ring-of-fire.webp",
+            "id": "-Mjli2nnYji6DTjFijpR",
+            "name": "Ring of Fire"
+        },
+        "-MjliCfew8ohLSwwYLIF": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/wall-of-fire.webp",
+            "id": "-MjliCfew8ohLSwwYLIF",
+            "name": "Wall of Fire"
+        },
+        "-MjliFs8H2TfHsZv74zw": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/wall-of-force.webp",
+            "id": "-MjliFs8H2TfHsZv74zw",
+            "name": "Wall of Force"
+        },
+        "-MjliLgX_Nbi-kSI2D-B": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/wall-of-ice.webp",
+            "id": "-MjliLgX_Nbi-kSI2D-B",
+            "name": "Wall of Ice"
+        },
+        "-MjliQFwI8gv-WFocB3N": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/wall-of-prismatic.webp",
+            "id": "-MjliQFwI8gv-WFocB3N",
+            "name": "Wall of Prismatic Magic"
+        },
+        "-Mjlibh4XeyZd2EpYLDX": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-bubble.webp",
+            "id": "-Mjlibh4XeyZd2EpYLDX",
+            "name": "Spell Bubble"
+        },
+        "-Mjlig66D4EIn9XAQjWh": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-crater.webp",
+            "id": "-Mjlig66D4EIn9XAQjWh",
+            "name": "Spell Crater"
+        },
+        "-Mjliizpbvvlc0cVbEkN": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-fog.webp",
+            "id": "-Mjliizpbvvlc0cVbEkN",
+            "name": "Spell Fog"
+        },
+        "-MjlinaUw3iMc7V_d3M3": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-grease.webp",
+            "id": "-MjlinaUw3iMc7V_d3M3",
+            "name": "Spell Grease"
+        },
+        "-MjlirMClt9X1r976A8y": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-hand.webp",
+            "id": "-MjlirMClt9X1r976A8y",
+            "name": "Spell Hand"
+        },
+        "-MjliuxvGvlUv63q6ET-": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-meteor.webp",
+            "id": "-MjliuxvGvlUv63q6ET-",
+            "name": "Spell Meteor"
+        },
+        "-MjliyXJ2wRR1T9hO_-o": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-prismatic-orb.webp",
+            "id": "-MjliyXJ2wRR1T9hO_-o",
+            "name": "Spell Prismatic Orb"
+        },
+        "-Mjlj31C8U301NmXFfHF": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-roots.webp",
+            "id": "-Mjlj31C8U301NmXFfHF",
+            "name": "Spell Roots"
+        },
+        "-Mjlj6L-58B1RMf6xxUw": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-sonic-boom.webp",
+            "id": "-Mjlj6L-58B1RMf6xxUw",
+            "name": "Spell Sonic Boom"
+        },
+        "-MjljDkEEQVIhOFaeYDS": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-teleport-purple.webp",
+            "id": "-MjljDkEEQVIhOFaeYDS",
+            "name": "Spell Teleport Purple"
+        },
+        "-MjljLC0Va24Za-fXTU1": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-teleport-red.webp",
+            "id": "-MjljLC0Va24Za-fXTU1",
+            "name": "Spell Teleport Red"
+        },
+        "-MjljOAvZDNrhIO3-H7R": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-tentacles.webp",
+            "id": "-MjljOAvZDNrhIO3-H7R",
+            "name": "Spell Tentacles"
+        },
+        "-MjljS0qD-TmzuYjv6UU": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/spell-whirlpool.webp",
+            "id": "-MjljS0qD-TmzuYjv6UU",
+            "name": "Spell Whirlpool"
+        },
+        "-Mjlkgtii4dwMN0SLE1O": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/blue-print-triangles.webp",
+            "id": "-Mjlkgtii4dwMN0SLE1O",
+            "name": "Blueprint Triangles"
+        },
+        "-MjlkvvvaijQR-lpXD_k": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/spell-templates/images/blue-print-circles.webp",
+            "id": "-MjlkvvvaijQR-lpXD_k",
+            "name": "Blueprint Circles"
+        }
+    }
+}
