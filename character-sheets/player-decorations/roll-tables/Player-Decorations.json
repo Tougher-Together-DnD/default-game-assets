@@ -1,0 +1,262 @@
+{
+    "name": "Player-Decorations",
+    "showplayers": true,
+    "id": "-MjmVKm6wgEb-fXjNf2t",
+    "items": {
+        "-MjmVM7BW9j9quZf1we4": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-black.webp",
+            "id": "-MjmVM7BW9j9quZf1we4",
+            "name": "Mat Black"
+        },
+        "-MjmWeeoYF6EBGa7pYnn": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-blue.webp",
+            "id": "-MjmWeeoYF6EBGa7pYnn",
+            "name": "Mat Blue"
+        },
+        "-MjmWi3xWVhygAa7Rji7": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-green.webp",
+            "id": "-MjmWi3xWVhygAa7Rji7",
+            "name": "Mat Green"
+        },
+        "-MjmWmin31g70oFeVYMQ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-grey.webp",
+            "id": "-MjmWmin31g70oFeVYMQ",
+            "name": "Mat Grey"
+        },
+        "-MjmWp7hPqWWr4JFIFGB": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-purple.webp",
+            "id": "-MjmWp7hPqWWr4JFIFGB",
+            "name": "Mat Purple"
+        },
+        "-MjmWt1Ex8SL3SgIAdMr": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mat-red.webp",
+            "id": "-MjmWt1Ex8SL3SgIAdMr",
+            "name": "Mat Red"
+        },
+        "-MjmXyTC8_J-S0UN_v-6": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-brown-silver.webp",
+            "id": "-MjmXyTC8_J-S0UN_v-6",
+            "name": "Rug Black"
+        },
+        "-MjmY58tdVw_vcIoLgBQ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-black-red.webp",
+            "id": "-MjmY58tdVw_vcIoLgBQ",
+            "name": "Rug Black Alt"
+        },
+        "-MjmYB5kxMBRfCqMtnkb": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-blue-silver.webp",
+            "id": "-MjmYB5kxMBRfCqMtnkb",
+            "name": "Rug Blue"
+        },
+        "-MjmYD93Vmb75Bk84KFv": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-brown-silver-alt.webp",
+            "id": "-MjmYD93Vmb75Bk84KFv",
+            "name": "Rug Brown"
+        },
+        "-MjmYH-NPOCxgdsxNBcf": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-green-gold.webp",
+            "id": "-MjmYH-NPOCxgdsxNBcf",
+            "name": "Rug Green"
+        },
+        "-MjmYMFj0ls8HjIEQEeN": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-beige-red.webp",
+            "id": "-MjmYMFj0ls8HjIEQEeN",
+            "name": "Rug Grey"
+        },
+        "-MjmYQS4sT1TGc2gmryZ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-gold-black.webp",
+            "id": "-MjmYQS4sT1TGc2gmryZ",
+            "name": "Rug Yellow"
+        },
+        "-MjmYTCwp7i-ZELMUvwT": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-purple-silver.webp",
+            "id": "-MjmYTCwp7i-ZELMUvwT",
+            "name": "Rug Purple"
+        },
+        "-MjmYYJ8-e8uwDfoxI9d": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-red-silver.webp",
+            "id": "-MjmYYJ8-e8uwDfoxI9d",
+            "name": "Rug Red"
+        },
+        "-MjmYsUd33rRiC6JliRL": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-bag-brown.webp",
+            "id": "-MjmYsUd33rRiC6JliRL",
+            "name": "Bed Bag Brown"
+        },
+        "-MjmYw5YBKtVtF1NKDqE": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-bag-purple.webp",
+            "id": "-MjmYw5YBKtVtF1NKDqE",
+            "name": "Bed Bag Purple"
+        },
+        "-MjmYz_7lC-n4uwT27EX": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-box-green.webp",
+            "id": "-MjmYz_7lC-n4uwT27EX",
+            "name": "Bed Box Green"
+        },
+        "-MjmZ5EryrFWEfS9c9uV": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-box-purple.webp",
+            "id": "-MjmZ5EryrFWEfS9c9uV",
+            "name": "Bed Box Purple"
+        },
+        "-MjmZ94n9kOYyD_hpRwF": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-box-red.webp",
+            "id": "-MjmZ94n9kOYyD_hpRwF",
+            "name": "Bed Box Red"
+        },
+        "-MjmZC2VBdy_PmztHeZP": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-coffin-closed.webp",
+            "id": "-MjmZC2VBdy_PmztHeZP",
+            "name": "Bed Coffin Design"
+        },
+        "-MjmZGfN7XSO-AtxEGZy": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-coffin-open.webp",
+            "id": "-MjmZGfN7XSO-AtxEGZy",
+            "name": "Bed Coffin Open"
+        },
+        "-MjmZKUFQxQlGiLeBGrl": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-coffin-poor.webp",
+            "id": "-MjmZKUFQxQlGiLeBGrl",
+            "name": "Bed Coffin Poor"
+        },
+        "-MjmZNoeauS_W6pU8x7s": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-hammock.webp",
+            "id": "-MjmZNoeauS_W6pU8x7s",
+            "name": "Bed Hammock"
+        },
+        "-MjmZQgjCLUxVLkeOzoK": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/bed-mat.webp",
+            "id": "-MjmZQgjCLUxVLkeOzoK",
+            "name": "Ned Floormat"
+        },
+        "-MjmZX7_azsy2e5bgdRp": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-captain.webp",
+            "id": "-MjmZX7_azsy2e5bgdRp",
+            "name": "Desk Captain"
+        },
+        "-MjmZqATFLb842sfC_o3": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-chef.webp",
+            "id": "-MjmZqATFLb842sfC_o3",
+            "name": "Desk Chef"
+        },
+        "-MjmZtSlZHzgU06OuSo5": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-gunsmith.webp",
+            "id": "-MjmZtSlZHzgU06OuSo5",
+            "name": "Desk Gunsmith"
+        },
+        "-MjmZwscSZ1UD2emrlHS": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-leatherworker.webp",
+            "id": "-MjmZwscSZ1UD2emrlHS",
+            "name": "Desk Leatherworker"
+        },
+        "-Mjm_-aA5KXtP7cxOpf6": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-navigator.webp",
+            "id": "-Mjm_-aA5KXtP7cxOpf6",
+            "name": "Desk Navigator"
+        },
+        "-Mjm_4rwC8OuBU80MUtR": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/desk-surveyor.webp",
+            "id": "-Mjm_4rwC8OuBU80MUtR",
+            "name": "Desk Surveyor"
+        },
+        "-Mjm_C9RkPEXKw3e3d0j": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/table-gear-alt.webp",
+            "id": "-Mjm_C9RkPEXKw3e3d0j",
+            "name": "Table Gear"
+        },
+        "-Mjm_I6pRt94DSz92k4h": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/table-gear.webp",
+            "id": "-Mjm_I6pRt94DSz92k4h",
+            "name": "Table Gear Alt"
+        },
+        "-Mjm_LcQO2SPji3z7Tur": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/table-marble-alt.webp",
+            "id": "-Mjm_LcQO2SPji3z7Tur",
+            "name": "Table Stone Round"
+        },
+        "-Mjm_QVwF_bME_jRIFky": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/table-wood.webp",
+            "id": "-Mjm_QVwF_bME_jRIFky",
+            "name": "Table Wood Round"
+        },
+        "-Mjm_V3AzbcPCgQgaYxA": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mirror-floor.webp",
+            "id": "-Mjm_V3AzbcPCgQgaYxA",
+            "name": "Mirror Floor"
+        },
+        "-Mjm_m3X_nUxTzBkrUUZ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mirror-floor-gold.webp",
+            "id": "-Mjm_m3X_nUxTzBkrUUZ",
+            "name": "Mirror Wall Square"
+        },
+        "-Mjm_ruW7BbvhC23bII0": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mirror-wall-gold.webp",
+            "id": "-Mjm_ruW7BbvhC23bII0",
+            "name": "Mirror Wall Gold"
+        },
+        "-Mjma0ibEXMvgEATFEAS": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/mirror-wall-silver.webp",
+            "id": "-Mjma0ibEXMvgEATFEAS",
+            "name": "Mirror Wall Silver"
+        },
+        "-Mjma4MLu-fdFhhoGAN4": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/chair-rocking.webp",
+            "id": "-Mjma4MLu-fdFhhoGAN4",
+            "name": "Misc Chair"
+        },
+        "-MjmaIMAkR71B02WSLgC": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-blood-fountain.webp",
+            "id": "-MjmaIMAkR71B02WSLgC",
+            "name": "Misc Blood Fountain"
+        },
+        "-MjmaMl4nmpRYfm4j2HE": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-brazier.webp",
+            "id": "-MjmaMl4nmpRYfm4j2HE",
+            "name": "Misc Brazier"
+        },
+        "-MjmaQnkJHcfJRnDfnZy": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-bucket-surgery.webp",
+            "id": "-MjmaQnkJHcfJRnDfnZy",
+            "name": "Misc Surgeon Bucket"
+        },
+        "-MjmaUs8LBZodTaG2HPA": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-grand-orrery.webp",
+            "id": "-MjmaUs8LBZodTaG2HPA",
+            "name": "Misc Grand Orrery"
+        },
+        "-MjmaaiXxJExQVqnHFu2": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-pack.webp",
+            "id": "-MjmaaiXxJExQVqnHFu2",
+            "name": "Misc Backpack"
+        },
+        "-MjmaeRKvxETjU1xIiad": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-planter.webp",
+            "id": "-MjmaeRKvxETjU1xIiad",
+            "name": "Misc Planter"
+        },
+        "-MjmahaMutRipxLRlueJ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-shield-design.webp",
+            "id": "-MjmahaMutRipxLRlueJ",
+            "name": "Misc Shield"
+        },
+        "-Mjmamjdsaem8uPAkNk-": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/misc-tent.webp",
+            "id": "-Mjmamjdsaem8uPAkNk-",
+            "name": "Misc Tent"
+        },
+        "-MjmbOQ6_VBT7fDU2oqJ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-skin-bear.webp",
+            "id": "-MjmbOQ6_VBT7fDU2oqJ",
+            "name": "Rug Skin Bear"
+        },
+        "-MjmbW37szRYuEfBC-fJ": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-skin-pelts.webp",
+            "id": "-MjmbW37szRYuEfBC-fJ",
+            "name": "Rug Skin Pelts"
+        },
+        "-MjmbZzMRg7pTUNOiM5f": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/rug-skin-wolf.webp",
+            "id": "-MjmbZzMRg7pTUNOiM5f",
+            "name": "Rug Skin Wolf"
+        }
+    }
+}
