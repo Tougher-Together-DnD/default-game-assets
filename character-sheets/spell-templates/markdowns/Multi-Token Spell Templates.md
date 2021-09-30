@@ -44,7 +44,6 @@ th:empty { display:none; }
 ## Macros*
 *Note: Macros to be shared between Players and Dungeon Masters, or are intended as universal token actions, should be loaded into game under "Collections" tab.*
 
-* Commit-to-Map-Layer
 * Resize-Double
 * Resize-Half
 * Resize-Pixels
@@ -53,15 +52,15 @@ th:empty { display:none; }
 ***Required API Scripts:***  
 <span>* All</span> [TokenMod][TokenMod-URL]  
 
-#### Usage
+<br>
+
+## Usage
 1. Drag this Character Sheet to the tabletop.
 1. Right Click and select "Multi-Sided".
 1. Scroll through the available images and select the decoration you want.
 1. Using the above macros resize the decoration to the desired dimensions.
 1. Rotate and Move the decoration into place for your playing enjoyment.
 1. When you have the decoration where you want, use the Commit macro to move it to the Map Layer. Be careful, only the GM can select the token after doing this.
-
-***Commit-to-Map-Layer.*** Move the token to the Map Layer. It will be un-selectable.
 
 ***Resize-Double.*** Will scale the token up twice in size.
 
@@ -71,7 +70,7 @@ th:empty { display:none; }
 
 ***Resize-Units.*** Will set the width and height of the token in map units (usually 5ft = 1 grid square = 70 pixels).
 
-### Macro bar
+### Using Macro bar
 If the macros are not available as a token action, a player can use the macros from this character sheet.
 
 1. Go under the *Collections* (![][Collection Icon]) tab and turn on macro bar.
