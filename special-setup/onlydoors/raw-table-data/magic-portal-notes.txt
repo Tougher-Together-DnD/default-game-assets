@@ -1,0 +1,7 @@
+// On open door
+!token-mod --ignore-selected --ids %%openDoorID%% %%closedDoor%% --[[1t[Magic-Portal]]]
+
+// On closed door
+!token-mod --ignore-selected --ids %%closedDoor%% statusmarkers|=dead|-dead
+
+// Hide the thrid bar now that it has value and max filled in.
