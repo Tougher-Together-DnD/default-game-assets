@@ -1,0 +1,324 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MACqs90AnrgW1gVNgzT",
+        "name": "Diving Suit",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/diving-suit/images/portrait.webp",
+        "bio": "%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cimg%20src%3D%22https%3A//imgsrv.roll20.net/%3Fsrc%3Dhttps%253A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/diving-suit/images/diving-banner.png%22%20alt%3D%22%22%20title%3D%22topic%20main%20banner%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20z-index%3A%20-1%22%3E%3C/p%3E%3Ch1%20id%3D%22userscript-diving-suit%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.987cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EDiving%20Suit%3C/h1%3E%3Ch2%20id%3D%22userscript-depth%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EDepth%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EThe%20deeper%20a%20surface-dwelling%20creature%20travels%20into%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Unusual%2520Environments%23h-The%2520Sea%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EThe%20Sea%3C/a%3E%2C%20the%20more%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Mysterious%2520Islands%23h-Hostile%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EHostile%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ethe%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Kobolds%23h-Environment%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EEnvironment%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ebecomes.%20Those%20venturing%20into%20the%20depths%20must%20keep%20the%20following%20natural%20forces%20in%20mind.%3C/p%3E%3Ch3%20id%3D%22userscript-illumination%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EIllumination%3C/h3%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EWhen%20it%20comes%20to%20light%2C%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Unusual%2520Environments%23h-The%2520Sea%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EThe%20Sea%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eis%20divided%20into%20three%20layers%3A%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3ESunlight%20Zone.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20sunlight%20zone%20extends%20from%20the%20water%u2019s%20surface%20to%20a%20depth%20of%20650%20feet.%20This%20area%20of%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Unusual%2520Environments%23h-The%2520Sea%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EThe%20Sea%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ehas%20the%20same%20natural%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Illumination%23h-Illumination%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EIllumination%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Player%2527s%2520Handbook%23h-Conditions%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EConditions%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eas%20above%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Well%2520of%2520Urd%23h-The%2520Water%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EThe%20Water%3C/a%3E.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3ETwilight%20Zone.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EThe%20twilight%20zone%20is%20between%20the%20depths%20of%20650%20and%201%2C000%20feet.%20When%20the%20sunlight%20zone%20above%20is%20bathed%20in%20natural%20bright%20light%2C%20the%20twilight%20zone%20is%20filled%20with%20dim%20light.%20If%20the%20sunlight%20zone%20is%20filled%20with%20dim%20light%20or%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Darkness%23h-Darkness%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EDarkness%3C/a%3E%2C%20the%20twilight%20zone%20is%20dark.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cstrong%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20bold%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20letter-spacing%3A%200.03em%22%3EMidnight%20Zone.%3C/strong%3E%3Cspan%3E%26nbsp%3B%3C/span%3EAny%20depth%20below%201%2C000%20feet%20is%20considered%20the%20midnight%20zone%2C%20since%20no%20natural%20light%20from%20the%20surface%20penetrates%20this%20deep.%3C/p%3E%3Ch3%20id%3D%22userscript-pressure-and-temperature%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EPressure%20and%20Temperature%3C/h3%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/The%2520Environment%23h-Water%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EWater%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Epressure%2C%20or%20the%20weight%20of%20water%20on%20top%20of%20a%20creature%20or%20object%2C%20increases%20with%20depth.%20Conversely%2C%20temperature%20decreases%20as%20depth%20increases.%20The%20pressure%20and%20temperature%u2019s%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Designing%2520Simple%2520Traps%23h-Effects%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EEffects%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eon%20creatures%20without%20a%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Unusual%2520Environments%23h-Swimming%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESwimming%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Espeed%20at%20depths%20below%20100%20feet%20can%20be%20found%20in%20the%20%u201CUnusual%20Environments%u201D%20section%20in%20chapter%205%20of%20the%20Dungeon%20Master%u2019s%20Guide.%3C/p%3E%3Ch3%20id%3D%22userscript-optional-rule-pressure-and-objects%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EOptional%20Rule%3A%20Pressure%20and%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Objects%23h-Objects%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EObjects%3C/a%3E%3C/h3%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EWith%20this%20optional%20rule%2C%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/The%2520Wild%2520Beyond%2520the%2520Witchlight%23h-Characters%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ECharacters%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ewho%20dive%20deep%20in%20the%20ocean%20require%20specialized%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Chapter%25205%2520-%2520Backgrounds%23h-Equipment%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EEquipment%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Ethat%20can%20withstand%20the%20ocean%u2019s%20pressure.%20Nonmagical%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Objects%23h-Objects%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EObjects%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Enot%20made%20to%20withstand%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Well%2520of%2520Urd%23h-The%2520Water%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EThe%20Water%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Epressure%20are%20destroyed%20at%20various%20depths%2C%20as%20determined%20by%20the%20material%20used%20to%20create%20them.%20This%20destructive%20depth%20is%20presented%20for%20various%20materials%20on%20the%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Objects%23h-Objects%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EObjects%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Eand%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/The%2520Environment%23h-Water%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EWater%3C/a%3EPressure%20table.%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Objects%23h-Objects%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EObjects%3C/a%3E%3Cspan%3E%26nbsp%3B%3C/span%3Emade%20of%20other%20materials%20break%20at%20the%20DM%u2019s%20discretion.%3C/p%3E%3Ch5%20id%3D%22userscript-objects-and-water-pressure%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.423cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysanssmallcaps%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.2em%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EObjects%20and%20Water%20Pressure%3C/h5%3E%3Ctable%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2010pt%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bscalysans%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%201em%20%3B%20padding%3A%200px%20%3B%20border-collapse%3A%20collapse%20%3B%20border-spacing%3A%200px%20%3B%20width%3A%20337px%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cthead%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20table-row-group%22%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Cth%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20bottom%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200.1em%200.3em%20%3B%20text-align%3A%20center%22%3EMaterial%3C/th%3E%3Cth%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20bottom%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200.1em%200.3em%20%3B%20text-align%3A%20center%22%3EDestructive%20Depth%3C/th%3E%3C/tr%3E%3C/thead%3E%3Ctbody%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20background-color%3A%20rgb%28%20224%20%2C%20229%20%2C%20193%20%29%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EGlass%2C%3Cspan%3E%26nbsp%3B%3C/span%3E%3Ca%20href%3D%22https%3A//app.roll20.net/compendium/dnd5e/Crystal%23h-Crystal%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ECrystal%3C/a%3E%2C%20ice%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E100%20ft.%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EWood%2C%20bone%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E500%20ft.%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20background-color%3A%20rgb%28%20224%20%2C%20229%20%2C%20193%20%29%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EStone%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E1%2C000%20ft.%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EIron%2C%20steel%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E1%2C500%20ft.%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20background-color%3A%20rgb%28%20224%20%2C%20229%20%2C%20193%20%29%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EMithral%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E2%2C000%20ft.%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3EAdamantine%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.3em%200.1em%20%3B%20text-align%3A%20center%22%3E2%2C500%20ft.%3C/td%3E%3C/tr%3E%3C/tbody%3E%3C/table%3E%3Ch2%20id%3D%22userscript-features%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFeatures%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EThis%20Suit%20is%20crafted%20from%20thick%20plaster%20coated%20cotton%2C%20copper%2C%20and%20brass.%20It%20covers%20the%20body%20and%20is%20quite%20heavy.%20When%20used%20with%20a%20surface%20air%20pump%20the%20Diving%20Suit%20can%20take%20a%20person%20to%20a%20depth%20of%20500%20feet%20without%20the%20person%20suffering%20damage%20or%20drowning.%3C/p%3E%3Ch3%20id%3D%22userscript-don-doff-like-armor%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EDon/Doff%20like%20Armor%3C/h3%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EIt%20takes%2010%20minutes%20to%20Don%2C%20and%205%20minutes%20to%20Doff%20a%20Diving%20Suit.%20Adds%20+2%20to%20AC.%3C/p%3E%3Ch3%20id%3D%22userscript-difficult-terrain%22%20style%3D%22border-width%3A%200px%200px%202px%20%3B%20border-bottom-style%3A%20solid%20%3B%20border-bottom-color%3A%20rgb%28%20201%20%2C%20173%20%2C%20106%20%29%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.529cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EDifficult%20Terrain%3C/h3%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3ETo%20walk%205%20feet%20on%20land%2C%20requires%20a%20DC%2010%20Strength%20Check.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EWhen%20underwater%20movement%20speed%20is%20half%2C%20unless%20a%20player%20has%20a%20swim%20speed.%20In%20accordance%20with%20Underwater%20Combat.%3C/p%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%200px%20%3B%20padding%3A%200px%200px%200.8em%20%3B%20z-index%3A%2015%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cbr%3E%3C/p%3E%3Ch2%20id%3D%22userscript-footnotes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.705cm%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bmrjeeves%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2em%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFootnotes%3C/h2%3E%3Col%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2011.9811px%20%3B%20line-height%3A%201.3em%20%3B%20font-family%3A%20%26%2334%3Bbooksanity%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.8em%20%3B%20padding%3A%200px%200px%200px%201.4em%20%3B%20list-style%3A%20outside%20decimal%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//github.com/Tougher-Together-DnD/default-game-assets/tree/main/characters/vehicles/diving-suit%22%20title%3D%22Tougher%20Together%20Files%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESource%20Files%3C/a%3E%3C/li%3E%3C/ol%3E",
+        "gmnotes": "%3Cp%3EIf%20a%20Sulphur-Lime%20Torch%20is%20used%20the%20Helmet%20can%20cast%20light%20in%2020%20fit%20bright%20and%20another%2020%20feet%20dim.%3C/p%3E%3Cp%3EThere%20is%20a%20Copper%20Scrying%20Bowl%20linked%20with%20the%20helmet%20that%20when%20filled%20with%20water%20and%20a%20wet%20finger%20ran%20around%20the%20edge%20will%20scry%20through%20the%20Helmet.%20%28Giving%20other%20players%20control%20to%20see%29%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"left\":175,\"top\":665,\"width\":70,\"height\":70,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/diving-suit/images/diving-token.png\",\"page_id\":\"-MjYVBcvMHtK_4OuySpU\",\"layer\":\"objects\",\"name\":\"Diving Suit\",\"represents\":\"-MACqs90AnrgW1gVNgzT\",\"bar3_max\":\"0\",\"bar3_num_permission\":\"everyone\",\"showplayers_bar3\":true,\"playersedit_bar1\":false,\"playersedit_bar2\":false,\"lastmove\":\"105,665\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[\"objects\",\"vehicles\",\"diving\",\"suit\",\"players\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MACqsASm5ciDIT7hl22"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MACqsAYeDmZlvboxSlQ"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MACqsAdeBGp6zpaZUiv"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MACqsAivyCu-XMrnM2Q"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MACqsAmZ278qb4I2it_"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MACqsApA-43DoQjT0ua"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MACqsArio-d00P-150m"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MACqsAuu_DTdG-spErP"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MACri_sCwOhRUb1OPrP"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MACri_wmVxJ5gn-F_Q2"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MACrihjJN37hXUBN4mT"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_spell_school_ouput,fix_advantage_query",
+                "max": "",
+                "id": "-MACriiMCoYfyt2pyYex"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijIDfskWounJPC7"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijNNME5oFxq5kah"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijTumhPet1KhJqP"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijYyfbU1t29gm3Y"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijbgq0KrJLhrQpD"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MACrijfZiIFbb0ad3Ih"
+            },
+            {
+                "name": "spell_attack_bonus",
+                "current": "0",
+                "max": "",
+                "id": "-MACrineVYTSeV9t-h9C"
+            },
+            {
+                "name": "spell_save_dc",
+                "current": "0",
+                "max": "",
+                "id": "-MACrinibAXkORV4D7Ta"
+            },
+            {
+                "name": "strength_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrioPofyRo9CWjMzb"
+            },
+            {
+                "name": "athletics_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrioSg8LoNJhzAwx6"
+            },
+            {
+                "name": "dexterity_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrioW6LHzIf3AxFCK"
+            },
+            {
+                "name": "acrobatics_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACripEMMSNwNDMDlbq"
+            },
+            {
+                "name": "sleight_of_hand_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACripHo4ytI90Yh7kO"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACripPmltm2Dj0jFxQ"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACriq7nbpgnl-uN_lm"
+            },
+            {
+                "name": "constitution_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACriqJrVCzo5-w2FmT"
+            },
+            {
+                "name": "intelligence_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACriqz3u70KSZlzKDX"
+            },
+            {
+                "name": "arcana_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrir3VdCWVrWZ1AyO"
+            },
+            {
+                "name": "history_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrir6lgGgyHHfrqjw"
+            },
+            {
+                "name": "investigation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrirAc-6-7gJBxk18"
+            },
+            {
+                "name": "nature_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrirGUCyTdSp86Y0y"
+            },
+            {
+                "name": "religion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrirKN27JBqKtjb_v"
+            },
+            {
+                "name": "wisdom_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrirzhWJuoOYYDG3m"
+            },
+            {
+                "name": "animal_handling_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrisA-xWHBOOCrbpg"
+            },
+            {
+                "name": "insight_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrisGQ8J9LbkcdlXO"
+            },
+            {
+                "name": "medicine_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrisLi9ibbm8BqbSC"
+            },
+            {
+                "name": "perception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrisRcgHFjlSUn2Za"
+            },
+            {
+                "name": "survival_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrisV1cxXM785lAf9"
+            },
+            {
+                "name": "charisma_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACrit9y9uzKzqnQ0na"
+            },
+            {
+                "name": "deception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACritvgSpXht0rEHoL"
+            },
+            {
+                "name": "intimidation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACritxMdVef41916qJ"
+            },
+            {
+                "name": "performance_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACriu0Fdb7sV-zMnnr"
+            },
+            {
+                "name": "persuasion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MACriu5PPUOwSiwd80v"
+            },
+            {
+                "name": "armorwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-MACriuyh8J2MTJqRklV"
+            },
+            {
+                "name": "customacwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-MACriv0osT0G2JeLRC4"
+            },
+            {
+                "name": "ac",
+                "current": 10,
+                "max": "",
+                "id": "-MACriv3UgbYPCNBhs1_"
+            },
+            {
+                "name": "passive_wisdom",
+                "current": 10,
+                "max": "",
+                "id": "-MACrivfMjo1xPixYBI-"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MB8XNEPvr0Im7hfSBks"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-Mku-MZtC2ED1V-0-N55"
+            }
+        ],
+        "abilities": []
+    }
+}
