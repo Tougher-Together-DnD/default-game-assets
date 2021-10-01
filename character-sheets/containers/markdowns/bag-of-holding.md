@@ -2,7 +2,7 @@
 <!-- containers -->
 
 <!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/containers "Tougher Together VTTES Files"
+[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/containers "Tougher Together Files"
 [Item Link]: https://app.roll20.net/compendium/dnd5e/Items%3ABag%20of%20Holding?sharedCompendium=11540013#toc_2
 
 <style>
