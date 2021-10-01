@@ -27,6 +27,8 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 
 Placing a bag of holding inside an extradimensional space created by a Heward’s Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random Location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
+<br>
+
 ## Attributes
 ___
 > ## Bag of Holding
@@ -35,6 +37,7 @@ ___
 > - **Category:** Items
 > - **Item Rarity:** uncommon
 
-### Footnotes
+<br>
 
+## Footnotes
 1. [Source Files][Repo Files]
