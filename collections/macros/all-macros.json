@@ -296,6 +296,14 @@
                 "name": "Make-Default-Token",
                 "visibleto": ""
             }
+        },
+        {
+            "attributes": {
+                "action": "!map-lock ?{Action:|lock|unlock}",
+                "istokenaction": true,
+                "name": "Map-Lock-Unlock-Token",
+                "visibleto": ""
+            }
         }
     ]
 }
