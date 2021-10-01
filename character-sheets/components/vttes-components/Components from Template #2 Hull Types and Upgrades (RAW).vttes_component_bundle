@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Hull Upgrades",
+      "type": "NPC Trait",
+      "repeating_id": "-MjIaHuo4ZbyIrcOcM6F",
+      "old_character_id": "-MjYL7xesykTy7fHewpW",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MjIaHuo4ZbyIrcOcM6F_name",
+          "current": "Hull Upgrades",
+          "max": "",
+          "id": "-MjIaKzYLFhL3eIEHw8L"
+        },
+        {
+          "name": "repeating_npctrait_-MjIaHuo4ZbyIrcOcM6F_description",
+          "current": "Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.",
+          "max": "",
+          "id": "-MjIaLtqtTKht5Mr-NnB"
+        }
+      ]
+    },
+    {
+      "name": "Living Vessel",
+      "type": "NPC Trait",
+      "repeating_id": "-MjIaM8Gn1kwjkPJsToZ",
+      "old_character_id": "-MjYL7xesykTy7fHewpW",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MjIaM8Gn1kwjkPJsToZ_name",
+          "current": "Living Vessel",
+          "max": "",
+          "id": "-MjIaNfRRTFrpA7WcAnX"
+        },
+        {
+          "name": "repeating_npctrait_-MjIaM8Gn1kwjkPJsToZ_description",
+          "current": "This vessel’s hull was crafted in the Feywild under the direction of master eladrin shipwrights. It is a living plant, drawing sustenance from water and sunlight. Vines covered in thick leaves hang over its side, and the wood runs with fresh sap when damaged. The ship gains a +2 bonus to all Constitution checks or saving throws. As long as the ship has at least 1 hit point, it regains 10 hit points every minute.",
+          "max": "",
+          "id": "-MjIaPUf3SflQKn3oOTF"
+        }
+      ]
+    },
+    {
+      "name": "Reinforced Hull",
+      "type": "NPC Trait",
+      "repeating_id": "-MjIaPlxHoTbWNBJOtEP",
+      "old_character_id": "-MjYL7xesykTy7fHewpW",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MjIaPlxHoTbWNBJOtEP_name",
+          "current": "Reinforced Hull",
+          "max": "",
+          "id": "-MjIaS-mkjfj5ppqgiGk"
+        },
+        {
+          "name": "repeating_npctrait_-MjIaPlxHoTbWNBJOtEP_description",
+          "current": "A master shipwright can use superior materials and clever design to make a ship’s hull more resilient. Such reinforcement doubles the hull’s hit point maximum.",
+          "max": "",
+          "id": "-MjIaTDNH7meveyBT_Uy"
+        }
+      ]
+    },
+    {
+      "name": "Vigilant Watch",
+      "type": "NPC Trait",
+      "repeating_id": "-MjIaTYaKcgENc6TDDBV",
+      "old_character_id": "-MjYL7xesykTy7fHewpW",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MjIaTYaKcgENc6TDDBV_name",
+          "current": "Vigilant Watch",
+          "max": "",
+          "id": "-MjIaXpDHmRxRuU6Gutm"
+        },
+        {
+          "name": "repeating_npctrait_-MjIaTYaKcgENc6TDDBV_description",
+          "current": "A row of crystal orbs, each filled with viscous liquid and a beholder’s eyeball, is mounted along this ship’s hull. Invisible creatures are visible while on the ship or within 120 feet of it.",
+          "max": "",
+          "id": "-MjIaZQyOEEEewRBwktk"
+        }
+      ]
+    }
+  ]
+}
