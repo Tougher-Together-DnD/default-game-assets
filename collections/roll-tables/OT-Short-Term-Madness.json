@@ -1,0 +1,57 @@
+{
+    "name": "OT-Short-Term-Madness",
+    "showplayers": false,
+    "id": "-LeG5pGwrxyc03ZOrl9Q",
+    "items": {
+        "-LeJgkB3S797zOQujYIw": {
+            "id": "-LeJgkB3S797zOQujYIw",
+            "name": "The character retreats into their mind and becomes paralyzed. The effect ends if the character takes any damage.",
+            "weight": 10
+        },
+        "-LeJgqeST5VZb5VT_rtY": {
+            "id": "-LeJgqeST5VZb5VT_rtY",
+            "name": "The character becomes incapacitated and spends the duration screaming, laughing, or weeping.",
+            "weight": 10
+        },
+        "-LeJguIZRxupsKg_MqsQ": {
+            "id": "-LeJguIZRxupsKg_MqsQ",
+            "name": "The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear.",
+            "weight": 10
+        },
+        "-LeJgxLYZfmALe6g7Jes": {
+            "id": "-LeJgxLYZfmALe6g7Jes",
+            "name": "The character begins babbling and is incapable of normal speech or spellcasting.",
+            "weight": 10
+        },
+        "-LeJgzullfPBkJ1eV2D8": {
+            "id": "-LeJgzullfPBkJ1eV2D8",
+            "name": "The character must use his or her action each round to attack the nearest creature.",
+            "weight": 10
+        },
+        "-LeJhFDik4GLmosL2n_b": {
+            "id": "-LeJhFDik4GLmosL2n_b",
+            "name": "The character experiences vivid hallucinations and has disadvantage on ability checks.",
+            "weight": 10
+        },
+        "-LeJhIFD20WcYBwzaKHA": {
+            "id": "-LeJhIFD20WcYBwzaKHA",
+            "name": "The character does whatever anyone tells him or her to do that isn’t obviously self-destructive.",
+            "weight": 5
+        },
+        "-LeJhL0oSQDfe7VqnYSH": {
+            "id": "-LeJhL0oSQDfe7VqnYSH",
+            "name": "The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.",
+            "weight": 5
+        },
+        "-LeJhPJ9FpjVxnt_r7aH": {
+            "id": "-LeJhPJ9FpjVxnt_r7aH",
+            "name": "The character is stunned.",
+            "weight": 10
+        },
+        "-LeJhSBY2QD6BeWKNJ1i": {
+            "id": "-LeJhSBY2QD6BeWKNJ1i",
+            "name": "The character falls unconscious.",
+            "weight": 10
+        }
+    }
+}

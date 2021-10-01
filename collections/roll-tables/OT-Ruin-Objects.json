@@ -1,0 +1,47 @@
+{
+    "name": "OT-Ruin-Objects",
+    "showplayers": false,
+    "id": "-LeGBxSyQNBb6wpwMOKp",
+    "items": {
+        "-LeGGoF7SCz-4gPvukJe": {
+            "id": "-LeGGoF7SCz-4gPvukJe",
+            "name": "human bones"
+        },
+        "-LeGGqh0KKggkv0Pa2mg": {
+            "id": "-LeGGqh0KKggkv0Pa2mg",
+            "name": "an iron holy symbol of Procan"
+        },
+        "-LeGGv5loaQcSFabwg6N": {
+            "id": "-LeGGv5loaQcSFabwg6N",
+            "name": "a tin toy kraken"
+        },
+        "-LeGGxCnwihcDbi0Q_A4": {
+            "id": "-LeGGxCnwihcDbi0Q_A4",
+            "name": "a rusted blade engraved with a tentacle"
+        },
+        "-LeGGzA90pihbI3PHG6i": {
+            "id": "-LeGGzA90pihbI3PHG6i",
+            "name": "the cover of a book of hymns to Procan"
+        },
+        "-LeGH0cEzzb1S7RShFxm": {
+            "id": "-LeGH0cEzzb1S7RShFxm",
+            "name": "a rusty tool, weapon, or armor"
+        },
+        "-LeGH3BavTcSAtkcSwll": {
+            "id": "-LeGH3BavTcSAtkcSwll",
+            "name": "an engraving, sculpture, or other work of art depicting a kraken"
+        },
+        "-LeGH58Et56vDK_xPl-8": {
+            "id": "-LeGH58Et56vDK_xPl-8",
+            "name": "an engraving, sculpture, or other work of art depicting Procan"
+        },
+        "-LeGH8vO-xy7B8lzstrj": {
+            "id": "-LeGH8vO-xy7B8lzstrj",
+            "name": "a broken piece of a boat"
+        },
+        "-LeGHAk7_K3YIo2s5vPW": {
+            "id": "-LeGHAk7_K3YIo2s5vPW",
+            "name": "a stuffed and preserved octopus corpse"
+        }
+    }
+}

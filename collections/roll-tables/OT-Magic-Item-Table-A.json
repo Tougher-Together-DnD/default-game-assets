@@ -1,0 +1,45 @@
+{
+    "name": "OT-Magic-Item-Table-A",
+    "showplayers": false,
+    "id": "-LeG5iGDrrxf0Jq1QGMV",
+    "items": {
+        "-LeGTwZr0EvNLNL83PY3": {
+            "id": "-LeGTwZr0EvNLNL83PY3",
+            "name": "a potion of healing",
+            "weight": 50
+        },
+        "-LeGTzJ3Fk6ngVHf1qmh": {
+            "id": "-LeGTzJ3Fk6ngVHf1qmh",
+            "name": "a spell scroll for a cantrip",
+            "weight": 10
+        },
+        "-LeGU1Vlnnq3t22aXGCJ": {
+            "id": "-LeGU1Vlnnq3t22aXGCJ",
+            "name": "a potion of climbing",
+            "weight": 10
+        },
+        "-LeGU5bQgquK_lK-P45E": {
+            "id": "-LeGU5bQgquK_lK-P45E",
+            "name": "a spell scroll for a 1st level spell",
+            "weight": 20
+        },
+        "-LeGUFu1hPdH-qw4Dibv": {
+            "id": "-LeGUFu1hPdH-qw4Dibv",
+            "name": "a spell scroll for a 2nd level spell",
+            "weight": 4
+        },
+        "-LeGUJ2LdHd9gy4yWxbi": {
+            "id": "-LeGUJ2LdHd9gy4yWxbi",
+            "name": "a potion of greater healing",
+            "weight": 4
+        },
+        "-LeGUObf768rxBXPvouf": {
+            "id": "-LeGUObf768rxBXPvouf",
+            "name": "a bag of holding"
+        },
+        "-LeGUQASyjjd7JNsqz9q": {
+            "id": "-LeGUQASyjjd7JNsqz9q",
+            "name": "a driftglobe"
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "name": "OT-Magic-Item-Table-B",
+    "showplayers": false,
+    "id": "-LeG5iPQD4wFaze90A80",
+    "items": {
+        "-LeGVVKo_XpMSvpz_Myk": {
+            "id": "-LeGVVKo_XpMSvpz_Myk",
+            "name": "a potion of greater healing",
+            "weight": 15
+        },
+        "-LeGVY4jchyOHY7jdvRW": {
+            "id": "-LeGVY4jchyOHY7jdvRW",
+            "name": "a potion of fire breath",
+            "weight": 7
+        },
+        "-LeGVd17dN4svpwKsbYB": {
+            "id": "-LeGVd17dN4svpwKsbYB",
+            "name": "a potion of resistance",
+            "weight": 7
+        },
+        "-LeGVhoSrhj82WKOFxwf": {
+            "id": "-LeGVhoSrhj82WKOFxwf",
+            "name": "a piece of +1 ammunition",
+            "weight": 5
+        },
+        "-LeGWJsspB7pVvjnQTfw": {
+            "id": "-LeGWJsspB7pVvjnQTfw",
+            "name": "a potion of animal friendship",
+            "weight": 5
+        },
+        "-LeGWOIXntuYaivAfXAZ": {
+            "id": "-LeGWOIXntuYaivAfXAZ",
+            "name": "a potion of hill giant strength",
+            "weight": 5
+        },
+        "-LeGWZr9XnYKfnbC-8ow": {
+            "id": "-LeGWZr9XnYKfnbC-8ow",
+            "name": "a potion of growth",
+            "weight": 5
+        },
+        "-LeGWmQCQWfMQ1W71p8l": {
+            "id": "-LeGWmQCQWfMQ1W71p8l",
+            "name": "a potion of water breathing",
+            "weight": 5
+        },
+        "-LeGWpv5Uws5mFPr0aEi": {
+            "id": "-LeGWpv5Uws5mFPr0aEi",
+            "name": "a spell scroll for a 2nd level spell",
+            "weight": 5
+        },
+        "-LeGWw3_R4H8t3U0Ui52": {
+            "id": "-LeGWw3_R4H8t3U0Ui52",
+            "name": "a spell scroll for a 3rd level spell",
+            "weight": 5
+        },
+        "-LeGX3dgYUiOwDZmKq4s": {
+            "id": "-LeGX3dgYUiOwDZmKq4s",
+            "name": "a bag of holding",
+            "weight": 3
+        },
+        "-LeGX8JVU_UwL3-MhHBY": {
+            "id": "-LeGX8JVU_UwL3-MhHBY",
+            "name": "Keoghtom's ointment",
+            "weight": 3
+        },
+        "-LeGXNM2J9q1PxrA7R9t": {
+            "id": "-LeGXNM2J9q1PxrA7R9t",
+            "name": "oil of slipperiness",
+            "weight": 3
+        },
+        "-LeGXSXureKss_SS4d5-": {
+            "id": "-LeGXSXureKss_SS4d5-",
+            "name": "dust of disappearance",
+            "weight": 2
+        },
+        "-LeGXVi2DwsNGJSZhjEA": {
+            "id": "-LeGXVi2DwsNGJSZhjEA",
+            "name": "dust of dryness",
+            "weight": 2
+        },
+        "-LeGXZLRLYFJ8GyDIiOJ": {
+            "id": "-LeGXZLRLYFJ8GyDIiOJ",
+            "name": "dust of sneezing and choking",
+            "weight": 2
+        },
+        "-LeGXd-_JLcQACaEXuu4": {
+            "id": "-LeGXd-_JLcQACaEXuu4",
+            "name": "an elemental gem",
+            "weight": 2
+        },
+        "-LeGXfBDhMO73Ouebrpb": {
+            "id": "-LeGXfBDhMO73Ouebrpb",
+            "name": "a philter of love",
+            "weight": 2
+        },
+        "-LeGXmkLcXVh-kK2Rn7D": {
+            "id": "-LeGXmkLcXVh-kK2Rn7D",
+            "name": "an alchemy jug"
+        },
+        "-LeGXpFi2TFuTqQBvUkV": {
+            "id": "-LeGXpFi2TFuTqQBvUkV",
+            "name": "a cap of water breathing"
+        },
+        "-LeGXreMzKxhyQS3-DGn": {
+            "id": "-LeGXreMzKxhyQS3-DGn",
+            "name": "a cloak of the manta ray"
+        },
+        "-LeGXtnuyuM99uscGaFs": {
+            "id": "-LeGXtnuyuM99uscGaFs",
+            "name": "a driftglobe"
+        },
+        "-LeGXwWTh9cmZQs3kjWl": {
+            "id": "-LeGXwWTh9cmZQs3kjWl",
+            "name": "a pair of goggles of night"
+        },
+        "-LeGY3Eio3HLMW3_oGVI": {
+            "id": "-LeGY3Eio3HLMW3_oGVI",
+            "name": "a helm of comprehending languages"
+        },
+        "-LeGYB4fcUS95ubd8MlZ": {
+            "id": "-LeGYB4fcUS95ubd8MlZ",
+            "name": "an immovable rod"
+        },
+        "-LeGYD4USuSg2ZYKcvGa": {
+            "id": "-LeGYD4USuSg2ZYKcvGa",
+            "name": "a lantern of revealing"
+        },
+        "-LeGYFdbvA1uJF_89VCb": {
+            "id": "-LeGYFdbvA1uJF_89VCb",
+            "name": "a set of mariner's armor"
+        },
+        "-LeGYIkLl2xSdH9hJWh8": {
+            "id": "-LeGYIkLl2xSdH9hJWh8",
+            "name": "a set of mithral armor"
+        },
+        "-LeGYLh4WTGR4IInDbpK": {
+            "id": "-LeGYLh4WTGR4IInDbpK",
+            "name": "a potion of poison"
+        },
+        "-LeGYNj9_EgppAUz3pRR": {
+            "id": "-LeGYNj9_EgppAUz3pRR",
+            "name": "a ring of swimming"
+        },
+        "-LeGYQjfp1pwmpN8EHYa": {
+            "id": "-LeGYQjfp1pwmpN8EHYa",
+            "name": "a robe of useful items"
+        },
+        "-LeGYStEwVvQj74PaaXe": {
+            "id": "-LeGYStEwVvQj74PaaXe",
+            "name": "a rope of climbing"
+        },
+        "-LeGYWTuRQ9J6VR6jbq2": {
+            "id": "-LeGYWTuRQ9J6VR6jbq2",
+            "name": "a saddle of the cavalier"
+        },
+        "-LeGYZxPj3tAbwkNpcUI": {
+            "id": "-LeGYZxPj3tAbwkNpcUI",
+            "name": "a wand of magic detection"
+        },
+        "-LeGYhpxR4JSIBzMZS7P": {
+            "id": "-LeGYhpxR4JSIBzMZS7P",
+            "name": "a wand of secrets"
+        }
+    }
+}

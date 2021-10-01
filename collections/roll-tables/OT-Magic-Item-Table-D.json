@@ -1,0 +1,85 @@
+{
+    "name": "OT-Magic-Item-Table-D",
+    "showplayers": false,
+    "id": "-LeG5ihRa4oeYjZ-9Squ",
+    "items": {
+        "-LeGa1bRUsugZWQ1tO1K": {
+            "id": "-LeGa1bRUsugZWQ1tO1K",
+            "name": "a potion of supreme healing",
+            "weight": 20
+        },
+        "-LeGa4fldI0T3u4OAxFd": {
+            "id": "-LeGa4fldI0T3u4OAxFd",
+            "name": "a potion of invisibility",
+            "weight": 10
+        },
+        "-LeGa8nFNi8JM6FEKGXh": {
+            "id": "-LeGa8nFNi8JM6FEKGXh",
+            "name": "a potion of speed",
+            "weight": 10
+        },
+        "-LeGaBBhZKXdUOajBSa5": {
+            "id": "-LeGaBBhZKXdUOajBSa5",
+            "name": "a spell scroll for a 6th level spell",
+            "weight": 10
+        },
+        "-LeGaHB98jKw4I7VeZNS": {
+            "id": "-LeGaHB98jKw4I7VeZNS",
+            "name": "a spell scroll for a 7th level spell",
+            "weight": 7
+        },
+        "-LeGaLKjzSE9-S9TUbJ9": {
+            "id": "-LeGaLKjzSE9-S9TUbJ9",
+            "name": "a piece of +3 ammunition",
+            "weight": 5
+        },
+        "-LeGaPZ6mcSWu-FQud_C": {
+            "id": "-LeGaPZ6mcSWu-FQud_C",
+            "name": "oil of sharpness",
+            "weight": 5
+        },
+        "-LeGaTFlvRr5QCHzpUJb": {
+            "id": "-LeGaTFlvRr5QCHzpUJb",
+            "name": "a potion of flying",
+            "weight": 5
+        },
+        "-LeGaZ5AYtVguLVifrEs": {
+            "id": "-LeGaZ5AYtVguLVifrEs",
+            "name": "a potion of cloud giant strength",
+            "weight": 5
+        },
+        "-LeGadGFSepwKpvRRHGC": {
+            "id": "-LeGadGFSepwKpvRRHGC",
+            "name": "a potion of longevity",
+            "weight": 5
+        },
+        "-LeGagem0R3TmJHQ32LQ": {
+            "id": "-LeGagem0R3TmJHQ32LQ",
+            "name": "a potion of vitality",
+            "weight": 5
+        },
+        "-LeGalDcgIKFavnWqxQv": {
+            "id": "-LeGalDcgIKFavnWqxQv",
+            "name": "a spell scroll for an 8th level spell",
+            "weight": 5
+        },
+        "-LeGarSwYnsjz-4iGas5": {
+            "id": "-LeGarSwYnsjz-4iGas5",
+            "name": "a set of horseshoes of a zephyr",
+            "weight": 3
+        },
+        "-LeGav1AQdL_wd-N52v-": {
+            "id": "-LeGav1AQdL_wd-N52v-",
+            "name": "a set of Nolzur's marvelous pigments",
+            "weight": 3
+        },
+        "-LeGb-l7AWco1vID_nbh": {
+            "id": "-LeGb-l7AWco1vID_nbh",
+            "name": "a bag of devouring"
+        },
+        "-LeGb36uCw77t5YqpRl8": {
+            "id": "-LeGb36uCw77t5YqpRl8",
+            "name": "a portable hole"
+        }
+    }
+}

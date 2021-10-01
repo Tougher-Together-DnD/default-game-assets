@@ -1,0 +1,138 @@
+{
+    "name": "OT-Magic-Item-Table-C",
+    "showplayers": false,
+    "id": "-LeG5iYFnbg7ip3DQrUR",
+    "items": {
+        "-LeGckscIyYs6X8u_OIp": {
+            "id": "-LeGckscIyYs6X8u_OIp",
+            "name": "a potion of superior healing",
+            "weight": 15
+        },
+        "-LeGcoUhgaRlfaPE-PCR": {
+            "id": "-LeGcoUhgaRlfaPE-PCR",
+            "name": "a spell scroll for a 4th level spell",
+            "weight": 7
+        },
+        "-LeGcsTn_SbMtZ_U9pD7": {
+            "id": "-LeGcsTn_SbMtZ_U9pD7",
+            "name": "a piece of +2 ammunition",
+            "weight": 5
+        },
+        "-LeGcwGUWn0oo6WaS_fO": {
+            "id": "-LeGcwGUWn0oo6WaS_fO",
+            "name": "a potion of clairvoyance",
+            "weight": 5
+        },
+        "-LeGd0nXrZjpUnM9wf0B": {
+            "id": "-LeGd0nXrZjpUnM9wf0B",
+            "name": "a potion of gaseous form",
+            "weight": 5
+        },
+        "-LeGd5cQ8YgCP4S3E1wt": {
+            "id": "-LeGd5cQ8YgCP4S3E1wt",
+            "name": "a potion of frost giant strength",
+            "weight": 5
+        },
+        "-LeGeNJ_zERQ8DaYrHOp": {
+            "id": "-LeGeNJ_zERQ8DaYrHOp",
+            "name": "a potion of stone giant strength",
+            "weight": 5
+        },
+        "-LeGeQaj310rgfgiEm1Y": {
+            "id": "-LeGeQaj310rgfgiEm1Y",
+            "name": "a potion of heroism",
+            "weight": 5
+        },
+        "-LeGeTy1UgB_V9DpnH5g": {
+            "id": "-LeGeTy1UgB_V9DpnH5g",
+            "name": "a potion of invulnerability",
+            "weight": 5
+        },
+        "-LeGeXgDTicSgbp68Aq3": {
+            "id": "-LeGeXgDTicSgbp68Aq3",
+            "name": "a potion of mind reading",
+            "weight": 5
+        },
+        "-LeGe_WH6MC8g9IPSd7P": {
+            "id": "-LeGe_WH6MC8g9IPSd7P",
+            "name": "a spell scroll for a 5th level spell",
+            "weight": 5
+        },
+        "-LeGeeGoYDz3Z85SlsOH": {
+            "id": "-LeGeeGoYDz3Z85SlsOH",
+            "name": "an elixir of health",
+            "weight": 3
+        },
+        "-LeGeicfkvPqfcnrqRr7": {
+            "id": "-LeGeicfkvPqfcnrqRr7",
+            "name": "oil of etherealness",
+            "weight": 3
+        },
+        "-LeGemhNkQjgc4Q_EVHF": {
+            "id": "-LeGemhNkQjgc4Q_EVHF",
+            "name": "a potion of fire giant strength",
+            "weight": 3
+        },
+        "-LeGeyuSf8NHfP8TF4Dm": {
+            "id": "-LeGeyuSf8NHfP8TF4Dm",
+            "name": "a Quaal's feather token",
+            "weight": 3
+        },
+        "-LeGf1hAPGceYTflO2Vz": {
+            "id": "-LeGf1hAPGceYTflO2Vz",
+            "name": "a scroll of protection",
+            "weight": 3
+        },
+        "-LeGf58zHZVChWWfq8bv": {
+            "id": "-LeGf58zHZVChWWfq8bv",
+            "name": "a bag of beans",
+            "weight": 2
+        },
+        "-LeGf8-48JHbT2OZ4yQL": {
+            "id": "-LeGf8-48JHbT2OZ4yQL",
+            "name": "a bead of force",
+            "weight": 2
+        },
+        "-LeGfA1RvtGTaIPs8tn2": {
+            "id": "-LeGfA1RvtGTaIPs8tn2",
+            "name": "a chime of opening"
+        },
+        "-LeGfBvnh4CQXG1qKryF": {
+            "id": "-LeGfBvnh4CQXG1qKryF",
+            "name": "a decanter of endless water"
+        },
+        "-LeGfElCl76xDCseBJ7r": {
+            "id": "-LeGfElCl76xDCseBJ7r",
+            "name": "a pair of eyes of minute seeing"
+        },
+        "-LeGfUIIwyZgCSp1KrIS": {
+            "id": "-LeGfUIIwyZgCSp1KrIS",
+            "name": "a folding boat"
+        },
+        "-LeGfWFePpUqLqVzAeey": {
+            "id": "-LeGfWFePpUqLqVzAeey",
+            "name": "a Heward's handy haversack"
+        },
+        "-LeGf_HOPnyiv_llUKbY": {
+            "id": "-LeGf_HOPnyiv_llUKbY",
+            "name": "a set of horseshoes of speed"
+        },
+        "-LeGfcuv9tUe6ycjGCQb": {
+            "id": "-LeGfcuv9tUe6ycjGCQb",
+            "name": "a necklace of fireballs"
+        },
+        "-LeGffUg0xuuXCBFBV3_": {
+            "id": "-LeGffUg0xuuXCBFBV3_",
+            "name": "a periapt of health"
+        },
+        "-LeGfiQ8mpmWGAcy3jNc": {
+            "id": "-LeGfiQ8mpmWGAcy3jNc",
+            "name": "a set of sending stones"
+        },
+        "-LeGfziA86MUs5mQwEoi": {
+            "id": "-LeGfziA86MUs5mQwEoi",
+            "name": "a potion of diminution",
+            "weight": 5
+        }
+    }
+}

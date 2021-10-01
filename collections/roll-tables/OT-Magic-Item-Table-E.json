@@ -1,0 +1,42 @@
+{
+    "name": "OT-Magic-Item-Table-E",
+    "showplayers": false,
+    "id": "-LeG5iqVhdhmYxUfmwKa",
+    "items": {
+        "-LeG_BHvXEDWbMjjWwyU": {
+            "id": "-LeG_BHvXEDWbMjjWwyU",
+            "name": "a spell scroll for an 8th level spell",
+            "weight": 30
+        },
+        "-LeG_FfInZhZGu4IcrQd": {
+            "id": "-LeG_FfInZhZGu4IcrQd",
+            "name": "a potion of storm giant strength",
+            "weight": 25
+        },
+        "-LeG_Po0xDCsPRBq8DXE": {
+            "id": "-LeG_Po0xDCsPRBq8DXE",
+            "name": "a potion of supreme healing",
+            "weight": 15
+        },
+        "-LeG_XInZ1uxbkgJVCIR": {
+            "id": "-LeG_XInZ1uxbkgJVCIR",
+            "name": "a spell scroll for a 9th level spell",
+            "weight": 15
+        },
+        "-LeG_g_B7iPAN8SerUon": {
+            "id": "-LeG_g_B7iPAN8SerUon",
+            "name": "universal solvent",
+            "weight": 13
+        },
+        "-LeG_lSOYyOYm4ITutZl": {
+            "id": "-LeG_lSOYyOYm4ITutZl",
+            "name": "an arrow of slaying",
+            "weight": 5
+        },
+        "-LeG_qTuronx1dQsDmUC": {
+            "id": "-LeG_qTuronx1dQsDmUC",
+            "name": "sovereign glue",
+            "weight": 2
+        }
+    }
+}

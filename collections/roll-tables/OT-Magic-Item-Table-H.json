@@ -1,0 +1,296 @@
+{
+    "name": "OT-Magic-Item-Table-H",
+    "showplayers": false,
+    "id": "-LeG5lEWtH5j77lwyoKA",
+    "items": {
+        "-LeJMnSyzHwa2Ks9bp-i": {
+            "id": "-LeJMnSyzHwa2Ks9bp-i",
+            "name": "a +3 weapon",
+            "weight": 10
+        },
+        "-LeJMpnSONxdK_rJv-78": {
+            "id": "-LeJMpnSONxdK_rJv-78",
+            "name": "an amulet of the planes",
+            "weight": 2
+        },
+        "-LeJMsCh1yVhrLGLYvqr": {
+            "id": "-LeJMsCh1yVhrLGLYvqr",
+            "name": "a carpet of flying",
+            "weight": 2
+        },
+        "-LeJMuspnf-d2Ry5Y9md": {
+            "id": "-LeJMuspnf-d2Ry5Y9md",
+            "name": "a very rare crystal ball",
+            "weight": 2
+        },
+        "-LeJMxzVE3Di_j41-hUX": {
+            "id": "-LeJMxzVE3Di_j41-hUX",
+            "name": "a ring of regeneration",
+            "weight": 2
+        },
+        "-LeJN-HMwdRPFNo_FoNX": {
+            "id": "-LeJN-HMwdRPFNo_FoNX",
+            "name": "a ring of shooting stars",
+            "weight": 2
+        },
+        "-LeJN0yB-9lLAu-t62dU": {
+            "id": "-LeJN0yB-9lLAu-t62dU",
+            "name": "a ring of telekinesis",
+            "weight": 2
+        },
+        "-LeJN94aCJYfGiYuKMxx": {
+            "id": "-LeJN94aCJYfGiYuKMxx",
+            "name": "a robe of scintillating colors",
+            "weight": 2
+        },
+        "-LeJNFON9tKVuIPzgCQX": {
+            "id": "-LeJNFON9tKVuIPzgCQX",
+            "name": "a robe of stars",
+            "weight": 2
+        },
+        "-LeJNQ0Uvk4jnbvqYpKF": {
+            "id": "-LeJNQ0Uvk4jnbvqYpKF",
+            "name": "a rod of absorption",
+            "weight": 2
+        },
+        "-LeJNSpr_WDJcGfSDd-B": {
+            "id": "-LeJNSpr_WDJcGfSDd-B",
+            "name": "a rod of alertness",
+            "weight": 2
+        },
+        "-LeJNX4eSGzfI35uFZPa": {
+            "id": "-LeJNX4eSGzfI35uFZPa",
+            "name": "a rod of security",
+            "weight": 2
+        },
+        "-LeJNa79Qi2VJUASXCKn": {
+            "id": "-LeJNa79Qi2VJUASXCKn",
+            "name": "a +3 rod of the pact keeper",
+            "weight": 2
+        },
+        "-LeJNdTLXc-IM4H49fEO": {
+            "id": "-LeJNdTLXc-IM4H49fEO",
+            "name": "a scimitar of speed",
+            "weight": 2
+        },
+        "-LeJNfW0fFaSqk84l3FR": {
+            "id": "-LeJNfW0fFaSqk84l3FR",
+            "name": "a +3 shield"
+        },
+        "-LeJNgmgu_TxOIcdPaFg": {
+            "id": "-LeJNgmgu_TxOIcdPaFg",
+            "name": "a staff of fire",
+            "weight": 2
+        },
+        "-LeJNjiAtsiVQ8DJKSJE": {
+            "id": "-LeJNjiAtsiVQ8DJKSJE",
+            "name": "a staff of frost",
+            "weight": 2
+        },
+        "-LeJNpkz7NrAoRxq2WZJ": {
+            "id": "-LeJNpkz7NrAoRxq2WZJ",
+            "name": "a staff of power",
+            "weight": 2
+        },
+        "-LeJNx8kTjh5wt0Cb83X": {
+            "id": "-LeJNx8kTjh5wt0Cb83X",
+            "name": "a staff of striking",
+            "weight": 2
+        },
+        "-LeJNzomgfhYDvTisIrV": {
+            "id": "-LeJNzomgfhYDvTisIrV",
+            "name": "a staff of thunder and lightning",
+            "weight": 2
+        },
+        "-LeJO2OHOpGAc939qN7A": {
+            "id": "-LeJO2OHOpGAc939qN7A",
+            "name": "a sword of sharpness",
+            "weight": 2
+        },
+        "-LeJO4s-Bt2UNCwnGXNA": {
+            "id": "-LeJO4s-Bt2UNCwnGXNA",
+            "name": "a wand of polymorph",
+            "weight": 2
+        },
+        "-LeJO79hyTesxUpyeCG6": {
+            "id": "-LeJO79hyTesxUpyeCG6",
+            "name": "a +3 wand of the war mage"
+        },
+        "-LeJOADXK9xKsTiCDAsH": {
+            "id": "-LeJOADXK9xKsTiCDAsH",
+            "name": "a set of half plate adamantine armor"
+        },
+        "-LeJODDAsmjYSvEI6Gho": {
+            "id": "-LeJODDAsmjYSvEI6Gho",
+            "name": "a set of plate adamantine armor"
+        },
+        "-LeJOFhzaZQcyuTPKicW": {
+            "id": "-LeJOFhzaZQcyuTPKicW",
+            "name": "an animated shield"
+        },
+        "-LeJP3tOKXs5SR7ra9Fm": {
+            "id": "-LeJP3tOKXs5SR7ra9Fm",
+            "name": "a belt of fire giant strength"
+        },
+        "-LeJP7GNFzfnAvv0YlqU": {
+            "id": "-LeJP7GNFzfnAvv0YlqU",
+            "name": "a belt of frost or stone giant strength"
+        },
+        "-LeJPAQKMK4kumLY8zSx": {
+            "id": "-LeJPAQKMK4kumLY8zSx",
+            "name": "a set of +1 breastplate armor"
+        },
+        "-LeJPDaTbZ6Gx2Sj0tMk": {
+            "id": "-LeJPDaTbZ6Gx2Sj0tMk",
+            "name": "a set of breastplate armor of resistance"
+        },
+        "-LeJPIUgQE93MtFbkGZF": {
+            "id": "-LeJPIUgQE93MtFbkGZF",
+            "name": "a candle of invocation"
+        },
+        "-LeJPUmtvzJhfcxrgXn8": {
+            "id": "-LeJPUmtvzJhfcxrgXn8",
+            "name": "a set of +2 chain mail armor"
+        },
+        "-LeJPXbuRUkv0J3w4rT6": {
+            "id": "-LeJPXbuRUkv0J3w4rT6",
+            "name": "a set of +2 chain shirt armor"
+        },
+        "-LeJP_1aTNjHfUYTR2TV": {
+            "id": "-LeJP_1aTNjHfUYTR2TV",
+            "name": "a cloak of arachnida"
+        },
+        "-LeJbG_p_ujIg6zud1cE": {
+            "id": "-LeJbG_p_ujIg6zud1cE",
+            "name": "a dancing sword"
+        },
+        "-LeJbW9Jc3NtKCNDDrEe": {
+            "id": "-LeJbW9Jc3NtKCNDDrEe",
+            "name": "a set of demon armor"
+        },
+        "-LeJcffKG22alR062x2_": {
+            "id": "-LeJcffKG22alR062x2_",
+            "name": "a set of dragon scale mail armor"
+        },
+        "-LeJcjUjs35ok4ptkeUR": {
+            "id": "-LeJcjUjs35ok4ptkeUR",
+            "name": "a set of dwarven plate armor"
+        },
+        "-LeJclzL5vmlMmu3a3jF": {
+            "id": "-LeJclzL5vmlMmu3a3jF",
+            "name": "an efreeti bottle"
+        },
+        "-LeJco4lEaEjeLEM8HMf": {
+            "id": "-LeJco4lEaEjeLEM8HMf",
+            "name": "an obsidian steed figurine of wondrous power"
+        },
+        "-LeJcrcOw3z0v2ZdEBPX": {
+            "id": "-LeJcrcOw3z0v2ZdEBPX",
+            "name": "a frost brand"
+        },
+        "-LeJctGmNAfOL-eyk6c7": {
+            "id": "-LeJctGmNAfOL-eyk6c7",
+            "name": "a helm of brilliance"
+        },
+        "-LeJcvwzjIohIGzS6tbB": {
+            "id": "-LeJcvwzjIohIGzS6tbB",
+            "name": "an Anstruth harp instrument of the bard"
+        },
+        "-LeJd1Jz5o2o8P4nmxr3": {
+            "id": "-LeJd1Jz5o2o8P4nmxr3",
+            "name": "an Ioun stone of absorption"
+        },
+        "-LeJd4hTjBorLFjPippo": {
+            "id": "-LeJd4hTjBorLFjPippo",
+            "name": "an Ioun stone of agility"
+        },
+        "-LeJd8aZICxQuPGpGtlS": {
+            "id": "-LeJd8aZICxQuPGpGtlS",
+            "name": "an Ioun stone of fortitude"
+        },
+        "-LeJdAdoZ6cjntebUTM9": {
+            "id": "-LeJdAdoZ6cjntebUTM9",
+            "name": "an Ioun stone of insight"
+        },
+        "-LeJdDx8DxpH1WhBGGpk": {
+            "id": "-LeJdDx8DxpH1WhBGGpk",
+            "name": "an Ioun stone of intellect"
+        },
+        "-LeJdFP6bjNQX_nMxHB8": {
+            "id": "-LeJdFP6bjNQX_nMxHB8",
+            "name": "an Ioun stone of leadership"
+        },
+        "-LeJdLs2TtAMYrYizpdz": {
+            "id": "-LeJdLs2TtAMYrYizpdz",
+            "name": "an Ioun stone of strength"
+        },
+        "-LeJdNlJ90Dpisg1VF6J": {
+            "id": "-LeJdNlJ90Dpisg1VF6J",
+            "name": "a set of +2 leather armor"
+        },
+        "-LeJdQOr3whjHb1weg73": {
+            "id": "-LeJdQOr3whjHb1weg73",
+            "name": "a manual of bodily health"
+        },
+        "-LeJddCIl-ILEEGxH-51": {
+            "id": "-LeJddCIl-ILEEGxH-51",
+            "name": "a manual of gainful exercise"
+        },
+        "-LeJdgPGNkH2fjKkFeMM": {
+            "id": "-LeJdgPGNkH2fjKkFeMM",
+            "name": "a manual of golems"
+        },
+        "-LeJdiWbtWkdqkYqheD_": {
+            "id": "-LeJdiWbtWkdqkYqheD_",
+            "name": "a manual of quickness of action"
+        },
+        "-LeJdlNy6NJsOZqiu0Xs": {
+            "id": "-LeJdlNy6NJsOZqiu0Xs",
+            "name": "a mirror of life trapping"
+        },
+        "-LeJdnQYA9EEXbmuopjm": {
+            "id": "-LeJdnQYA9EEXbmuopjm",
+            "name": "a nine lives stealer"
+        },
+        "-LeJdu3t8Y5cQUzfYOs3": {
+            "id": "-LeJdu3t8Y5cQUzfYOs3",
+            "name": "an oathbow"
+        },
+        "-LeJdvuyQQ2tABVLIgU8": {
+            "id": "-LeJdvuyQQ2tABVLIgU8",
+            "name": "a set of +2 scale mail armor"
+        },
+        "-LeJdz9xvveVsEzB0LzK": {
+            "id": "-LeJdz9xvveVsEzB0LzK",
+            "name": "a spellguard shield"
+        },
+        "-LeJe-xpGuktxvgxAMYy": {
+            "id": "-LeJe-xpGuktxvgxAMYy",
+            "name": "a set of +1 splint armor"
+        },
+        "-LeJe27LbzBgm6cOVTKO": {
+            "id": "-LeJe27LbzBgm6cOVTKO",
+            "name": "a set of splint armor of resistance"
+        },
+        "-LeJe8I7EhTRAY4jF6DT": {
+            "id": "-LeJe8I7EhTRAY4jF6DT",
+            "name": "a set of +1 studded leather armor"
+        },
+        "-LeJeE6Bj_AMYm8yAThE": {
+            "id": "-LeJeE6Bj_AMYm8yAThE",
+            "name": "a set of studded leather armor of resistance"
+        },
+        "-LeJe_nxfmaUaNqxuJM5": {
+            "id": "-LeJe_nxfmaUaNqxuJM5",
+            "name": "a tome of clear thought"
+        },
+        "-LeJebdiWEheOBQds1Eq": {
+            "id": "-LeJebdiWEheOBQds1Eq",
+            "name": "a tome of leadership and influence"
+        },
+        "-LeJef4R775IqKidI94e": {
+            "id": "-LeJef4R775IqKidI94e",
+            "name": "a tome of understanding"
+        }
+    }
+}

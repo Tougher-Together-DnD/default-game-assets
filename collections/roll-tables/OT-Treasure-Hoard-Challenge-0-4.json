@@ -1,0 +1,91 @@
+{
+    "name": "OT-Treasure-Hoard-Challenge-0-4",
+    "showplayers": false,
+    "id": "-LeG5lQYTou06fXhIykx",
+    "items": {
+        "-LeGKUshQdZV7YHGR89C": {
+            "id": "-LeGKUshQdZV7YHGR89C",
+            "name": "no gems or art objects and no magic items",
+            "weight": 6
+        },
+        "-LeGKatiDfGhB9OXXPtP": {
+            "id": "-LeGKatiDfGhB9OXXPtP",
+            "name": "a stash of 2d6 (7) gems worth 10 gp and no magic items",
+            "weight": 10
+        },
+        "-LeGKo-Vzag5_vqRnHb_": {
+            "id": "-LeGKo-Vzag5_vqRnHb_",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and no magic items",
+            "weight": 10
+        },
+        "-LeGKysxyqg6qmQi_sil": {
+            "id": "-LeGKysxyqg6qmQi_sil",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and no magic items",
+            "weight": 10
+        },
+        "-LeGLDwdCjf0YtQ2PJye": {
+            "id": "-LeGLDwdCjf0YtQ2PJye",
+            "name": "a stash of 2d6 (7) gems worth 10 gp and 1d6 items from Magic Item Table A",
+            "weight": 8
+        },
+        "-LeGLPbCPlOcYOc4kqW3": {
+            "id": "-LeGLPbCPlOcYOc4kqW3",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and 1d6 items from Magic Item Table A",
+            "weight": 8
+        },
+        "-LeGLYAkfVvm2jomDqP3": {
+            "id": "-LeGLYAkfVvm2jomDqP3",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and 1d6 items from Magic Item Table A",
+            "weight": 8
+        },
+        "-LeGLeHQf7oAgctRe4sA": {
+            "id": "-LeGLeHQf7oAgctRe4sA",
+            "name": "a stash of 2d6 (7) gems worth 10 gp and 1d4 items from Magic Item Table B",
+            "weight": 5
+        },
+        "-LeGLmf3gceYPAo9gug_": {
+            "id": "-LeGLmf3gceYPAo9gug_",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and 1d4 items from Magic Item Table B",
+            "weight": 5
+        },
+        "-LeGLzQU7afGC-Hif2hm": {
+            "id": "-LeGLzQU7afGC-Hif2hm",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and 1d4 items from Magic Item Table B",
+            "weight": 5
+        },
+        "-LeGMKcz7Rsiqw3rlIgR": {
+            "id": "-LeGMKcz7Rsiqw3rlIgR",
+            "name": "a stash of 2d6 (7) gems worth 10 gp and 1d4 items from Magic Item Table C",
+            "weight": 3
+        },
+        "-LeGMej4Feg673CEQyey": {
+            "id": "-LeGMej4Feg673CEQyey",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and 1d4 items from Magic Item Table C",
+            "weight": 2
+        },
+        "-LeGMnUFJXNH_jLk8rlS": {
+            "id": "-LeGMnUFJXNH_jLk8rlS",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and 1d4 items from Magic Item Table C",
+            "weight": 5
+        },
+        "-LeGMvLE1pto40UidXAa": {
+            "id": "-LeGMvLE1pto40UidXAa",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and 1d4 items from Magic Item Table F",
+            "weight": 5
+        },
+        "-LeGN0mhURITtb31zYcC": {
+            "id": "-LeGN0mhURITtb31zYcC",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and 1d4 items from Magic Item Table F",
+            "weight": 7
+        },
+        "-LeGN4dUZsPai38bzYvF": {
+            "id": "-LeGN4dUZsPai38bzYvF",
+            "name": "a stash of 2d6 (7) gems worth 50 gp and 1 item from Magic Item Table G"
+        },
+        "-LeGN5HhWOH5y02V1aka": {
+            "id": "-LeGN5HhWOH5y02V1aka",
+            "name": "a stash of 2d4 (5) art objects worth 25 gp and 1 items from Magic Item Table G",
+            "weight": 2
+        }
+    }
+}

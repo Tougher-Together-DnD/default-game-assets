@@ -1,0 +1,361 @@
+{
+    "name": "OT-Magic-Item-Table-G",
+    "showplayers": false,
+    "id": "-LeG5j7O_vTd8d14FLkQ",
+    "items": {
+        "-LeJDYOUL4zyEvlyH0M2": {
+            "id": "-LeJDYOUL4zyEvlyH0M2",
+            "name": "a +2 weapon",
+            "weight": 11
+        },
+        "-LeJDa8Qr2cnm1qHAtao": {
+            "id": "-LeJDa8Qr2cnm1qHAtao",
+            "name": "a figurine of wondrous power (roll 1d8 for which)",
+            "weight": 3
+        },
+        "-LeJDgJJiDMG6Z6cK3qS": {
+            "id": "-LeJDgJJiDMG6Z6cK3qS",
+            "name": "an adamantine breastplate"
+        },
+        "-LeJFRahhYOCSYv347OX": {
+            "id": "-LeJFRahhYOCSYv347OX",
+            "name": "a set of adamantine splint armor"
+        },
+        "-LeJFUmFZlXhAiBCr6td": {
+            "id": "-LeJFUmFZlXhAiBCr6td",
+            "name": "an amulet of health"
+        },
+        "-LeJFYrXAblmi6PLwCvd": {
+            "id": "-LeJFYrXAblmi6PLwCvd",
+            "name": "a set of armor of vulnerability"
+        },
+        "-LeJFat3ltDaqF3jTsyu": {
+            "id": "-LeJFat3ltDaqF3jTsyu",
+            "name": "an arrow-catching shield"
+        },
+        "-LeJFcrXKcRWMIYhixr2": {
+            "id": "-LeJFcrXKcRWMIYhixr2",
+            "name": "a belt of dwarvenkind"
+        },
+        "-LeJFfXt5HJqOoYqXMn4": {
+            "id": "-LeJFfXt5HJqOoYqXMn4",
+            "name": "a belt of hill giant strength"
+        },
+        "-LeJFitjBJPDQEMjtu31": {
+            "id": "-LeJFitjBJPDQEMjtu31",
+            "name": "a berserker axe"
+        },
+        "-LeJFluQSIsZ6VR3K80P": {
+            "id": "-LeJFluQSIsZ6VR3K80P",
+            "name": "a pair of boots of levitation"
+        },
+        "-LeJFpOIxPU5qF7tTZV-": {
+            "id": "-LeJFpOIxPU5qF7tTZV-",
+            "name": "a pair of boots of speed"
+        },
+        "-LeJFuponaLYdNTncnT7": {
+            "id": "-LeJFuponaLYdNTncnT7",
+            "name": "a bowl of commanding water elementals"
+        },
+        "-LeJFxmi7YlIkpJqdDnU": {
+            "id": "-LeJFxmi7YlIkpJqdDnU",
+            "name": "a pair of bracers of defense"
+        },
+        "-LeJG2GTNw7wsvtvfjaV": {
+            "id": "-LeJG2GTNw7wsvtvfjaV",
+            "name": "a brazier of commanding fire elementals"
+        },
+        "-LeJG8wdT7-zcvn6sQ26": {
+            "id": "-LeJG8wdT7-zcvn6sQ26",
+            "name": "a cape of the montebank"
+        },
+        "-LeJGBlNbvf3IdyBb1eN": {
+            "id": "-LeJGBlNbvf3IdyBb1eN",
+            "name": "a censer of controlling air elementals"
+        },
+        "-LeJGHLzhaoEIqTHsDXC": {
+            "id": "-LeJGHLzhaoEIqTHsDXC",
+            "name": "a set of +1 chain mail armor"
+        },
+        "-LeJGKLWzxf2masetSxi": {
+            "id": "-LeJGKLWzxf2masetSxi",
+            "name": "a set of chain mail armor of resistance"
+        },
+        "-LeJGSQYK3Wp752eUr_k": {
+            "id": "-LeJGSQYK3Wp752eUr_k",
+            "name": "a set of +1 chain shirt armor"
+        },
+        "-LeJGbDfmDuKoVj3R4fW": {
+            "id": "-LeJGbDfmDuKoVj3R4fW",
+            "name": "a set of chain shirt armor of resistance"
+        },
+        "-LeJGfjsZa5s4r8by3ei": {
+            "id": "-LeJGfjsZa5s4r8by3ei",
+            "name": "a cloak of displacement"
+        },
+        "-LeJGhk89JGSqWLv6_a2": {
+            "id": "-LeJGhk89JGSqWLv6_a2",
+            "name": "a cloak of the bat"
+        },
+        "-LeJGkDEnx_S9sRuhLWa": {
+            "id": "-LeJGkDEnx_S9sRuhLWa",
+            "name": "a cube of force"
+        },
+        "-LeJGoU2mKhHiahpGEXu": {
+            "id": "-LeJGoU2mKhHiahpGEXu",
+            "name": "Daern's instant fortress"
+        },
+        "-LeJGsbuGUebBVIDBQEn": {
+            "id": "-LeJGsbuGUebBVIDBQEn",
+            "name": "a dagger of venom"
+        },
+        "-LeJGuO3JUe8HCX-5-hR": {
+            "id": "-LeJGuO3JUe8HCX-5-hR",
+            "name": "a set of dimensional shackles"
+        },
+        "-LeJGzT6Dfa6SE2Lcc_B": {
+            "id": "-LeJGzT6Dfa6SE2Lcc_B",
+            "name": "a dragon slayer"
+        },
+        "-LeJHAkP75UupN2Lls6J": {
+            "id": "-LeJHAkP75UupN2Lls6J",
+            "name": "a set of elven chain armor"
+        },
+        "-LeJHCrcHocdAR7hkBIZ": {
+            "id": "-LeJHCrcHocdAR7hkBIZ",
+            "name": "a flame tongue"
+        },
+        "-LeJHFpdJJbiZuHhJGhi": {
+            "id": "-LeJHFpdJJbiZuHhJGhi",
+            "name": "a gem of seeing"
+        },
+        "-LeJHHQzwa8ROEhkKhUv": {
+            "id": "-LeJHHQzwa8ROEhkKhUv",
+            "name": "a giant slayer"
+        },
+        "-LeJHIo8ojTQPzvG5Yfu": {
+            "id": "-LeJHIo8ojTQPzvG5Yfu",
+            "name": "a set of glamoured studded leather armor"
+        },
+        "-LeJHMvaQez0QwzAhOv-": {
+            "id": "-LeJHMvaQez0QwzAhOv-",
+            "name": "a helm of teleportation"
+        },
+        "-LeJHOeTy1pAt2KmdEzu": {
+            "id": "-LeJHOeTy1pAt2KmdEzu",
+            "name": "a horn of blasting"
+        },
+        "-LeJHQVpbcjZ0PW5RF0U": {
+            "id": "-LeJHQVpbcjZ0PW5RF0U",
+            "name": "a silver or brass horn of Valhalla"
+        },
+        "-LeJHWK_Z5Y2EyoacPll": {
+            "id": "-LeJHWK_Z5Y2EyoacPll",
+            "name": "a Canaith mandolin instrument of the bards"
+        },
+        "-LeJHa7ZP8uJoUeWND98": {
+            "id": "-LeJHa7ZP8uJoUeWND98",
+            "name": "a Cli lyre instrument of the bards"
+        },
+        "-LeJHdKUJLgOzjcbD6L1": {
+            "id": "-LeJHdKUJLgOzjcbD6L1",
+            "name": "an Ioun stone of awareness"
+        },
+        "-LeJHfzUZcHG3suuUYTp": {
+            "id": "-LeJHfzUZcHG3suuUYTp",
+            "name": "an Ioun stone of protection"
+        },
+        "-LeJHjgars7Tt3QvoCgF": {
+            "id": "-LeJHjgars7Tt3QvoCgF",
+            "name": "an Ioun stone of reserve"
+        },
+        "-LeJHo5UrMrVCwpRjXxI": {
+            "id": "-LeJHo5UrMrVCwpRjXxI",
+            "name": "an Ioun stone of sustenance"
+        },
+        "-LeJHrPUftA0nYra4cQy": {
+            "id": "-LeJHrPUftA0nYra4cQy",
+            "name": "a set of iron bands of Bilarro"
+        },
+        "-LeJHuFhQGc9xrSUa36G": {
+            "id": "-LeJHuFhQGc9xrSUa36G",
+            "name": "a set of +1 leather armor"
+        },
+        "-LeJIFvqH3qEaqNzMFkC": {
+            "id": "-LeJIFvqH3qEaqNzMFkC",
+            "name": "a set of leather armor of resistance"
+        },
+        "-LeJIIyDVMfbf9o1qrQb": {
+            "id": "-LeJIIyDVMfbf9o1qrQb",
+            "name": "a mace of disruption"
+        },
+        "-LeJILHP8KnYQ0SO7pFW": {
+            "id": "-LeJILHP8KnYQ0SO7pFW",
+            "name": "a mace of smiting"
+        },
+        "-LeJIT5vXJRkhnObG28s": {
+            "id": "-LeJIT5vXJRkhnObG28s",
+            "name": "a mace of terror"
+        },
+        "-LeJIVcSPybe9BssunPu": {
+            "id": "-LeJIVcSPybe9BssunPu",
+            "name": "a mantle of spell resistance"
+        },
+        "-LeJIYSk1qFEHLnnXA2h": {
+            "id": "-LeJIYSk1qFEHLnnXA2h",
+            "name": "a necklace of prayer beads"
+        },
+        "-LeJI_qEpF5Qtcbyzmm0": {
+            "id": "-LeJI_qEpF5Qtcbyzmm0",
+            "name": "a periapt of proof against poison"
+        },
+        "-LeJIdQRjr2gKG_xaVp_": {
+            "id": "-LeJIdQRjr2gKG_xaVp_",
+            "name": "a ring of animal influence"
+        },
+        "-LeJIzd0jL7SfxIwYmPq": {
+            "id": "-LeJIzd0jL7SfxIwYmPq",
+            "name": "a ring of evasion"
+        },
+        "-LeJJ0HHpt0i_V2V5nFC": {
+            "id": "-LeJJ0HHpt0i_V2V5nFC",
+            "name": "a ring of feather falling"
+        },
+        "-LeJJ2eOFcvaNgvMWL0g": {
+            "id": "-LeJJ2eOFcvaNgvMWL0g",
+            "name": "a ring of free action"
+        },
+        "-LeJJ4GsnRbhsOiHPLY6": {
+            "id": "-LeJJ4GsnRbhsOiHPLY6",
+            "name": "a ring of protection"
+        },
+        "-LeJJ7Ic729ZXg3qeyUD": {
+            "id": "-LeJJ7Ic729ZXg3qeyUD",
+            "name": "a ring of resistance"
+        },
+        "-LeJJACyWbHOeoXkdhil": {
+            "id": "-LeJJACyWbHOeoXkdhil",
+            "name": "a ring of spell storing"
+        },
+        "-LeJJCNbnu3yz9kEgK6N": {
+            "id": "-LeJJCNbnu3yz9kEgK6N",
+            "name": "a ring of the ram"
+        },
+        "-LeJJEAzWChjX8_paF-j": {
+            "id": "-LeJJEAzWChjX8_paF-j",
+            "name": "a ring of X-ray vision"
+        },
+        "-LeJJIW_X3DrT49JMC8e": {
+            "id": "-LeJJIW_X3DrT49JMC8e",
+            "name": "a robe of eyes"
+        },
+        "-LeJJKGbh1BtSw8CNRFH": {
+            "id": "-LeJJKGbh1BtSw8CNRFH",
+            "name": "a rod of rulership"
+        },
+        "-LeJJOzE-XhOIDqZX5yJ": {
+            "id": "-LeJJOzE-XhOIDqZX5yJ",
+            "name": "a +2 rod of the pact keeper"
+        },
+        "-LeJJS9_FUl7dKDDl_j1": {
+            "id": "-LeJJS9_FUl7dKDDl_j1",
+            "name": "a rope of entanglement"
+        },
+        "-LeJJTs43AAGfRFRPvXT": {
+            "id": "-LeJJTs43AAGfRFRPvXT",
+            "name": "a set of +1 scale mail armor"
+        },
+        "-LeJJYriRtVpF_rRR1Iv": {
+            "id": "-LeJJYriRtVpF_rRR1Iv",
+            "name": "a set of scale mail armor of resistance"
+        },
+        "-LeJJc2efI-GuHdj4Z5D": {
+            "id": "-LeJJc2efI-GuHdj4Z5D",
+            "name": "a +2 shield"
+        },
+        "-LeJJdLcVybJ-E8oxuQ6": {
+            "id": "-LeJJdLcVybJ-E8oxuQ6",
+            "name": "a shield of missile attraction"
+        },
+        "-LeJJfkmvaFCCa9EdNxU": {
+            "id": "-LeJJfkmvaFCCa9EdNxU",
+            "name": "a staff of charming"
+        },
+        "-LeJJiLVHrIVBejwaQKm": {
+            "id": "-LeJJiLVHrIVBejwaQKm",
+            "name": "a staff of healing"
+        },
+        "-LeJJk7fioVRVGtqAH6O": {
+            "id": "-LeJJk7fioVRVGtqAH6O",
+            "name": "a staff of swarming insects"
+        },
+        "-LeJJnOiLvrsFZP_jDVc": {
+            "id": "-LeJJnOiLvrsFZP_jDVc",
+            "name": "a staff of the woodlands"
+        },
+        "-LeJJq_5mivuCa6cv0lU": {
+            "id": "-LeJJq_5mivuCa6cv0lU",
+            "name": "a staff of withering"
+        },
+        "-LeJJsctoWuCugeUH90G": {
+            "id": "-LeJJsctoWuCugeUH90G",
+            "name": "a stone of controlling earth elementals"
+        },
+        "-LeJJw4llagCVReHU2bu": {
+            "id": "-LeJJw4llagCVReHU2bu",
+            "name": "a sun blade"
+        },
+        "-LeJJxgiYLzt9Z9xzwd4": {
+            "id": "-LeJJxgiYLzt9Z9xzwd4",
+            "name": "a sword of like stealing"
+        },
+        "-LeJJzulzzmO0H7CHmze": {
+            "id": "-LeJJzulzzmO0H7CHmze",
+            "name": "a sword of wounding"
+        },
+        "-LeJK2kjTuZscffS_Y8J": {
+            "id": "-LeJK2kjTuZscffS_Y8J",
+            "name": "a tentacle rod"
+        },
+        "-LeJK53-RdMgbeiuSr8t": {
+            "id": "-LeJK53-RdMgbeiuSr8t",
+            "name": "a vicious weapon"
+        },
+        "-LeJK6jQMNq9FgfVuLIv": {
+            "id": "-LeJK6jQMNq9FgfVuLIv",
+            "name": "a wand of binding"
+        },
+        "-LeJKA6NIuk9fDbiMzEE": {
+            "id": "-LeJKA6NIuk9fDbiMzEE",
+            "name": "a wand of enemy detection"
+        },
+        "-LeJKCT6QF5ktnAyhY5h": {
+            "id": "-LeJKCT6QF5ktnAyhY5h",
+            "name": "a wand of fear"
+        },
+        "-LeJKHyhVi0mId9ZrOIA": {
+            "id": "-LeJKHyhVi0mId9ZrOIA",
+            "name": "a wand of fireballs"
+        },
+        "-LeJKJgC1mnUO5EkV1ru": {
+            "id": "-LeJKJgC1mnUO5EkV1ru",
+            "name": "a wand of lightning bolts"
+        },
+        "-LeJKLhrmLTrwqPEbDHO": {
+            "id": "-LeJKLhrmLTrwqPEbDHO",
+            "name": "a wand of paralysis"
+        },
+        "-LeJKOBW2MNyR-OqVA1b": {
+            "id": "-LeJKOBW2MNyR-OqVA1b",
+            "name": "a +2 wand of the war mage"
+        },
+        "-LeJKR2H_i__uB0ypDJb": {
+            "id": "-LeJKR2H_i__uB0ypDJb",
+            "name": "a wand of wonder"
+        },
+        "-LeJKSRo9KSFSNQZtO6-": {
+            "id": "-LeJKSRo9KSFSNQZtO6-",
+            "name": "a set of wings of flying"
+        }
+    }
+}

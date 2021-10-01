@@ -1,0 +1,67 @@
+{
+    "name": "OT-Long-Term-Madness",
+    "showplayers": false,
+    "id": "-LeG5wsFJsHP2L-Memcj",
+    "items": {
+        "-LeJi9PgCjdmZev9_Mwg": {
+            "id": "-LeJi9PgCjdmZev9_Mwg",
+            "name": "The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.",
+            "weight": 10
+        },
+        "-LeJiFa_201u3buz8TO1": {
+            "id": "-LeJiFa_201u3buz8TO1",
+            "name": "The character experiences vivid hallucinations and has disadvantage on ability checks.",
+            "weight": 10
+        },
+        "-LeJiIOs8VKQHu0IqtvE": {
+            "id": "-LeJiIOs8VKQHu0IqtvE",
+            "name": "The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.",
+            "weight": 10
+        },
+        "-LeJiN4GOy5LdVsK6lip": {
+            "id": "-LeJiN4GOy5LdVsK6lip",
+            "name": "The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.",
+            "weight": 10
+        },
+        "-LeJiU1rTbafn6sH88Yw": {
+            "id": "-LeJiU1rTbafn6sH88Yw",
+            "name": "The character experiences a powerful delusion. Choose a potion. The character imagines that they are under its effects.",
+            "weight": 5
+        },
+        "-LeJitmJOg5UWWYwCkYi": {
+            "id": "-LeJitmJOg5UWWYwCkYi",
+            "name": "The character becomes attached to a “lucky charm,” such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.",
+            "weight": 10
+        },
+        "-LeJj7NhT42SKAO2Ydna": {
+            "id": "-LeJj7NhT42SKAO2Ydna",
+            "name": "The character is blinded (25%) or deafened (75%).",
+            "weight": 10
+        },
+        "-LeJjDtnIPKGiY5RXR_r": {
+            "id": "-LeJjDtnIPKGiY5RXR_r",
+            "name": "The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.",
+            "weight": 10
+        },
+        "-LeJjIudPoB6L5gxGDIm": {
+            "id": "-LeJjIudPoB6L5gxGDIm",
+            "name": "The character suffers from partial amnesia. The character knows who they are and retains racial traits and class features, but doesn’t recognize other people or remember anything that happened before the madness took effect.",
+            "weight": 10
+        },
+        "-LeJjTjN9Ky5MJrQoV_d": {
+            "id": "-LeJjTjN9Ky5MJrQoV_d",
+            "name": "Whenever the character takes damage, they must succeed on a DC 15 Wisdom saving throw or be affected as though they failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.",
+            "weight": 5
+        },
+        "-LeJjkgS0FOIc4eMyBa-": {
+            "id": "-LeJjkgS0FOIc4eMyBa-",
+            "name": "The character loses the ability to speak.",
+            "weight": 5
+        },
+        "-LeJjoXqU6dV7lqCZ__0": {
+            "id": "-LeJjoXqU6dV7lqCZ__0",
+            "name": "The character falls unconscious. No amount of jostling or damage can wake the character.",
+            "weight": 5
+        }
+    }
+}

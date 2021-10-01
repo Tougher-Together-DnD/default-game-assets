@@ -1,0 +1,272 @@
+{
+    "name": "OT-Magic-Item-Table-F",
+    "showplayers": false,
+    "id": "-LeG5izx1Sl4DgJQlk4s",
+    "items": {
+        "-LeIbGkMC7atKOA76X5I": {
+            "id": "-LeIbGkMC7atKOA76X5I",
+            "name": "a +1 weapon",
+            "weight": 15
+        },
+        "-LeIbMQPAysqmbevegPw": {
+            "id": "-LeIbMQPAysqmbevegPw",
+            "name": "a +1 shield",
+            "weight": 3
+        },
+        "-LeIcSlNgyzYdgT1AIR3": {
+            "id": "-LeIcSlNgyzYdgT1AIR3",
+            "name": "a sentinel shield",
+            "weight": 3
+        },
+        "-LeId9MixUv5L43ws465": {
+            "id": "-LeId9MixUv5L43ws465",
+            "name": "an amulet of proof against detection and location",
+            "weight": 2
+        },
+        "-LeIdTAtZ0_3g3YoJSq-": {
+            "id": "-LeIdTAtZ0_3g3YoJSq-",
+            "name": "a pair of boots of elvenkind",
+            "weight": 2
+        },
+        "-LeIdWrrVy80p7d96C48": {
+            "id": "-LeIdWrrVy80p7d96C48",
+            "name": "a pair of boots of striding and springing",
+            "weight": 2
+        },
+        "-LeIdc2EHKIdn0I0JfR6": {
+            "id": "-LeIdc2EHKIdn0I0JfR6",
+            "name": "a pair of bracers of archery",
+            "weight": 2
+        },
+        "-LeIep_Eh106BbUxJms0": {
+            "id": "-LeIep_Eh106BbUxJms0",
+            "name": "a brooch of shielding",
+            "weight": 2
+        },
+        "-LeIesRLycYYoVIw0JcJ": {
+            "id": "-LeIesRLycYYoVIw0JcJ",
+            "name": "a broom of flying",
+            "weight": 2
+        },
+        "-LeIf-FpsSQtYPkGrVFv": {
+            "id": "-LeIf-FpsSQtYPkGrVFv",
+            "name": "a cloak of elvenkind",
+            "weight": 2
+        },
+        "-LeIf3w59xkYSw2mUWqh": {
+            "id": "-LeIf3w59xkYSw2mUWqh",
+            "name": "a cloak of protection",
+            "weight": 2
+        },
+        "-LeIf6sf5k32sj1fG2yU": {
+            "id": "-LeIf6sf5k32sj1fG2yU",
+            "name": "a pair of gauntlets of ogre power",
+            "weight": 2
+        },
+        "-LeIfAPYbS0amq5mmFHF": {
+            "id": "-LeIfAPYbS0amq5mmFHF",
+            "name": "a hat of disguise",
+            "weight": 2
+        },
+        "-LeIfED-3EvNTwKxEjj5": {
+            "id": "-LeIfED-3EvNTwKxEjj5",
+            "name": "a javelin of lightning",
+            "weight": 2
+        },
+        "-LeIfP2Gci7q3gomksex": {
+            "id": "-LeIfP2Gci7q3gomksex",
+            "name": "a pearl of power",
+            "weight": 2
+        },
+        "-LeIfiXnxTzw7gfMhBr5": {
+            "id": "-LeIfiXnxTzw7gfMhBr5",
+            "name": "a +1 rod of the pact keeper",
+            "weight": 2
+        },
+        "-LeIg0YzUiiGfREkQ_CJ": {
+            "id": "-LeIg0YzUiiGfREkQ_CJ",
+            "name": "a pair of slippers of spider climbing",
+            "weight": 2
+        },
+        "-LeIg4yOLkv3WW7WgcIB": {
+            "id": "-LeIg4yOLkv3WW7WgcIB",
+            "name": "a staff of the adder",
+            "weight": 2
+        },
+        "-LeIg7d5Cj6nN94C8vi1": {
+            "id": "-LeIg7d5Cj6nN94C8vi1",
+            "name": "a sword of vengeance",
+            "weight": 2
+        },
+        "-LeIgEzATQpwu5rQAENt": {
+            "id": "-LeIgEzATQpwu5rQAENt",
+            "name": "a trident of fish command",
+            "weight": 2
+        },
+        "-LeIgL1ek6MyXabiO_FK": {
+            "id": "-LeIgL1ek6MyXabiO_FK",
+            "name": "a wand of magic missiles",
+            "weight": 2
+        },
+        "-LeIgOe4oQ_eB9EqdmYa": {
+            "id": "-LeIgOe4oQ_eB9EqdmYa",
+            "name": "a +1 wand of the war mage",
+            "weight": 2
+        },
+        "-LeIgRd4MNDjsPSUDyZt": {
+            "id": "-LeIgRd4MNDjsPSUDyZt",
+            "name": "a wand of web",
+            "weight": 2
+        },
+        "-LeIhrzF-KX51R8SrZZX": {
+            "id": "-LeIhrzF-KX51R8SrZZX",
+            "name": "a weapon of warning",
+            "weight": 2
+        },
+        "-LeIhuuU-98JsG91YuHu": {
+            "id": "-LeIhuuU-98JsG91YuHu",
+            "name": "a set of chain mail adamantine armor"
+        },
+        "-LeIhzi_LgHIED6edfqD": {
+            "id": "-LeIhzi_LgHIED6edfqD",
+            "name": "a set of chain shirt adamantine armor"
+        },
+        "-LeIi6UoSjSNLxCLcmdi": {
+            "id": "-LeIi6UoSjSNLxCLcmdi",
+            "name": "a set of scale mail adamantine armor"
+        },
+        "-LeIiAj4rLdvLJzlgXDW": {
+            "id": "-LeIiAj4rLdvLJzlgXDW",
+            "name": "a gray bag of tricks"
+        },
+        "-LeIiCykmiXlRRp1E9hE": {
+            "id": "-LeIiCykmiXlRRp1E9hE",
+            "name": "a rust bag of tricks"
+        },
+        "-LeIiQQtHft5NGI_WZxc": {
+            "id": "-LeIiQQtHft5NGI_WZxc",
+            "name": "a tan bag of tricks"
+        },
+        "-LeIiSBTGb2al7jfMV5j": {
+            "id": "-LeIiSBTGb2al7jfMV5j",
+            "name": "a pair of boots of the winterlands"
+        },
+        "-LeIiVaHJg3e8Hjn_vG9": {
+            "id": "-LeIiVaHJg3e8Hjn_vG9",
+            "name": "a circlet of blasting"
+        },
+        "-LeIiaNNoAr6ALvGN1RR": {
+            "id": "-LeIiaNNoAr6ALvGN1RR",
+            "name": "a deck of illusions"
+        },
+        "-LeIiwVxKBDHbIoff1HB": {
+            "id": "-LeIiwVxKBDHbIoff1HB",
+            "name": "an eversmoking bottle"
+        },
+        "-LeIizXjq95Ryh93cTtb": {
+            "id": "-LeIizXjq95Ryh93cTtb",
+            "name": "a pair of eyes of charming"
+        },
+        "-LeIjkO0wvfo3FaFPSMy": {
+            "id": "-LeIjkO0wvfo3FaFPSMy",
+            "name": "a pair of eyes of the eagle"
+        },
+        "-LeIjpAMXY7MwWkW9aFe": {
+            "id": "-LeIjpAMXY7MwWkW9aFe",
+            "name": "a silver raven figurine of wondrous power"
+        },
+        "-LeIjtbxqrHWGRg0uAUi": {
+            "id": "-LeIjtbxqrHWGRg0uAUi",
+            "name": "a gem of brightness"
+        },
+        "-LeIjvMAnXc2aRuV4tK8": {
+            "id": "-LeIjvMAnXc2aRuV4tK8",
+            "name": "a pair of gloves of missile snaring"
+        },
+        "-LeIjyJrzm_rY3iHAgIC": {
+            "id": "-LeIjyJrzm_rY3iHAgIC",
+            "name": "a pair of gloves of swimming and climbing"
+        },
+        "-LeIklw-7JjUfFb_eXdb": {
+            "id": "-LeIklw-7JjUfFb_eXdb",
+            "name": "a pair of gloves of thievery"
+        },
+        "-LeIlMLcKFf_jXja2N6i": {
+            "id": "-LeIlMLcKFf_jXja2N6i",
+            "name": "a headband of intellect"
+        },
+        "-LeIlOgDMN0f4WPRz5Ry": {
+            "id": "-LeIlOgDMN0f4WPRz5Ry",
+            "name": "a helm of telepathy"
+        },
+        "-LeIlRLoQSkcLCuYFE3B": {
+            "id": "-LeIlRLoQSkcLCuYFE3B",
+            "name": "a Doss lute instrument of the bards"
+        },
+        "-LeIlWQ4mznbvlesFf6O": {
+            "id": "-LeIlWQ4mznbvlesFf6O",
+            "name": "a Fochlucan bandore instrument of the bards"
+        },
+        "-LeIldK5RFn4lbCDt56o": {
+            "id": "-LeIldK5RFn4lbCDt56o",
+            "name": "a Mac-Fuimidh cittern instrument of the bards"
+        },
+        "-LeIliQsK4Gt_daESW-S": {
+            "id": "-LeIliQsK4Gt_daESW-S",
+            "name": "a medallion of thoughts"
+        },
+        "-LeImAqR7eCB4qUNhs6P": {
+            "id": "-LeImAqR7eCB4qUNhs6P",
+            "name": "a necklace of adaptation"
+        },
+        "-LeImDELLq9wrzjh9GZ2": {
+            "id": "-LeImDELLq9wrzjh9GZ2",
+            "name": "a periapt of wound closure"
+        },
+        "-LeImGjA_u4kGBYjPxWw": {
+            "id": "-LeImGjA_u4kGBYjPxWw",
+            "name": "a set of pipes of haunting"
+        },
+        "-LeImQVCYdk4KRnoctHf": {
+            "id": "-LeImQVCYdk4KRnoctHf",
+            "name": "a set of pipes of the sewers"
+        },
+        "-LeImT-HwKUXgsCdtNnV": {
+            "id": "-LeImT-HwKUXgsCdtNnV",
+            "name": "a ring of jumping"
+        },
+        "-LeImVBcB4u0fGUjzGGv": {
+            "id": "-LeImVBcB4u0fGUjzGGv",
+            "name": "a ring of mind shielding"
+        },
+        "-LeImXFY6io7ZVu-ludJ": {
+            "id": "-LeImXFY6io7ZVu-ludJ",
+            "name": "a ring of warmth"
+        },
+        "-LeImZ71WnFrOPbKhSpW": {
+            "id": "-LeImZ71WnFrOPbKhSpW",
+            "name": "a ring of water walking"
+        },
+        "-LeImaFGhJtT0a1ZKf_V": {
+            "id": "-LeImaFGhJtT0a1ZKf_V",
+            "name": "a quiver of Ehlonna"
+        },
+        "-LeImdHog4Ee86uPVjZM": {
+            "id": "-LeImdHog4Ee86uPVjZM",
+            "name": "a stone of good luck"
+        },
+        "-LeImfQ0BTO0aXOxWWi6": {
+            "id": "-LeImfQ0BTO0aXOxWWi6",
+            "name": "a wind fan"
+        },
+        "-LeImgt7k07Hz791L8EW": {
+            "id": "-LeImgt7k07Hz791L8EW",
+            "name": "a pair of winged boots"
+        },
+        "-LeIn7n0JkkafTr7B-4F": {
+            "id": "-LeIn7n0JkkafTr7B-4F",
+            "name": "a staff of the python",
+            "weight": 2
+        }
+    }
+}

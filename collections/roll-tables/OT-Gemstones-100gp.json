@@ -1,0 +1,47 @@
+{
+    "name": "OT-Gemstones-100gp",
+    "showplayers": false,
+    "id": "-LeGBeu9I1h7LQFsoPw9",
+    "items": {
+        "-LeGIp9w6sREojDrCJNe": {
+            "id": "-LeGIp9w6sREojDrCJNe",
+            "name": "amber (transparent watery gold to rich gold)"
+        },
+        "-LeGIqpQD6RU-sYWPW3z": {
+            "id": "-LeGIqpQD6RU-sYWPW3z",
+            "name": "amethyst (transparent deep purple)"
+        },
+        "-LeGIsSuduucl0JUWCGU": {
+            "id": "-LeGIsSuduucl0JUWCGU",
+            "name": "chrysoberyl (transparent yellow-green to pale green)"
+        },
+        "-LeGIuRtePqGAIJIMFCg": {
+            "id": "-LeGIuRtePqGAIJIMFCg",
+            "name": "coral (opaque crimson)"
+        },
+        "-LeGIxRPPJIQ2BSH6bQK": {
+            "id": "-LeGIxRPPJIQ2BSH6bQK",
+            "name": "garnet (transparent red, brown-green, or violet)"
+        },
+        "-LeGIzckWib4frLmKj99": {
+            "id": "-LeGIzckWib4frLmKj99",
+            "name": "jade (translucent light green, deep green, or white)"
+        },
+        "-LeGJ0MS-yun88dxDa_L": {
+            "id": "-LeGJ0MS-yun88dxDa_L",
+            "name": "jet (opaque deep black)"
+        },
+        "-LeGJ4GtJoDeGpOYJahZ": {
+            "id": "-LeGJ4GtJoDeGpOYJahZ",
+            "name": "pearl (opaque lustrous white, yellow, or pink)"
+        },
+        "-LeGJ6Goh3ocjiztGQPD": {
+            "id": "-LeGJ6Goh3ocjiztGQPD",
+            "name": "spinel (transparent red, red-brown, or deep green)"
+        },
+        "-LeGJ7tAeLxCH_5jEjYP": {
+            "id": "-LeGJ7tAeLxCH_5jEjYP",
+            "name": "tourmaline (transparent pale green, blue, brown, or red)"
+        }
+    }
+}

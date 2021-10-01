@@ -1,0 +1,55 @@
+{
+    "name": "OT-Gemstones-10gp",
+    "showplayers": false,
+    "id": "-LeG5yEnfchIw3kZIXWH",
+    "items": {
+        "-LeGHgaT-0Pd5pRHUjaf": {
+            "id": "-LeGHgaT-0Pd5pRHUjaf",
+            "name": "azurite (opaque mottled deep blue)"
+        },
+        "-LeGHi3gZFN_vR74XJLt": {
+            "id": "-LeGHi3gZFN_vR74XJLt",
+            "name": "banded agate (translucent striped brown, blue, white, or red)"
+        },
+        "-LeGHnPy4VvdL3zn-OH6": {
+            "id": "-LeGHnPy4VvdL3zn-OH6",
+            "name": "blue quartz (transparent pale blue)"
+        },
+        "-LeGHp9xnlp5YOE4M7ZZ": {
+            "id": "-LeGHp9xnlp5YOE4M7ZZ",
+            "name": "eye agate (translucent circles of gray, white, brown, blue, or green)"
+        },
+        "-LeGHrTF-ak1omEcWs-2": {
+            "id": "-LeGHrTF-ak1omEcWs-2",
+            "name": "hematite (opaque gray-black)"
+        },
+        "-LeGHtJf3ErOngf_ZJJ8": {
+            "id": "-LeGHtJf3ErOngf_ZJJ8",
+            "name": "lapis lazuli (opaque light and dark blue with yellow flecks)"
+        },
+        "-LeGHxTmwV6GRf_f3GBH": {
+            "id": "-LeGHxTmwV6GRf_f3GBH",
+            "name": "malachite (opaque striated light and dark green)"
+        },
+        "-LeGHzhWaOMkFdo1Y5bf": {
+            "id": "-LeGHzhWaOMkFdo1Y5bf",
+            "name": "moss agate (translucent pink or yellow-white with mossy gray or green markings)"
+        },
+        "-LeGI1RaA30ZydEMXVF4": {
+            "id": "-LeGI1RaA30ZydEMXVF4",
+            "name": "obsidian (opaque black)"
+        },
+        "-LeGI4_jg3JBSAgzKxQ_": {
+            "id": "-LeGI4_jg3JBSAgzKxQ_",
+            "name": "rhodochrosite (opaque light pink)"
+        },
+        "-LeGI6WoWxjImyAXNeXG": {
+            "id": "-LeGI6WoWxjImyAXNeXG",
+            "name": "tiger eye (translucent brown with golden center)"
+        },
+        "-LeGI8OqJpkf0P-abX3g": {
+            "id": "-LeGI8OqJpkf0P-abX3g",
+            "name": "turquoise (opaque light blue-green)"
+        }
+    }
+}

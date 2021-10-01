@@ -1,0 +1,55 @@
+{
+    "name": "OT-Gemstones-50gp",
+    "showplayers": false,
+    "id": "-LeGBem2wKHBKUYyfgcY",
+    "items": {
+        "-LeGIDLA5DLmqV6G2Uth": {
+            "id": "-LeGIDLA5DLmqV6G2Uth",
+            "name": "bloodstone (opaque dark gray with red flecks)"
+        },
+        "-LeGIGr39sbRwcBRd06Q": {
+            "id": "-LeGIGr39sbRwcBRd06Q",
+            "name": "carnelian (opaque orange to red-brown)"
+        },
+        "-LeGIIiu9bKKLDq3PLdd": {
+            "id": "-LeGIIiu9bKKLDq3PLdd",
+            "name": "chalcedony (opaque white)"
+        },
+        "-LeGIV5LIMPt1MYFXDGv": {
+            "id": "-LeGIV5LIMPt1MYFXDGv",
+            "name": "chrysoprase (translucent green)"
+        },
+        "-LeGIX0pJGBieHpPcpVQ": {
+            "id": "-LeGIX0pJGBieHpPcpVQ",
+            "name": "citrine (transparent pale yellow-brown)"
+        },
+        "-LeGIYu2QLAeFFGl0PsR": {
+            "id": "-LeGIYu2QLAeFFGl0PsR",
+            "name": "jasper (opaque blue, black, or brown)"
+        },
+        "-LeGI_d38cGxjg0tvMh1": {
+            "id": "-LeGI_d38cGxjg0tvMh1",
+            "name": "moonstone (translucent white with pale blue glow)"
+        },
+        "-LeGIbN50CH52laTSTB5": {
+            "id": "-LeGIbN50CH52laTSTB5",
+            "name": "onyx (opaque bands of black and white, or pure black or white)"
+        },
+        "-LeGIdpjYyRjYKm3oDNL": {
+            "id": "-LeGIdpjYyRjYKm3oDNL",
+            "name": "quartz (transparent white, smoky gray, or yellow)"
+        },
+        "-LeGIfkJxdFZz9x0FyL9": {
+            "id": "-LeGIfkJxdFZz9x0FyL9",
+            "name": "sardonyx (opaque bands of red and white)"
+        },
+        "-LeGIhjuHts-05kSbFUb": {
+            "id": "-LeGIhjuHts-05kSbFUb",
+            "name": "star rose quartz (translucent rosy stone with white star-shaped center)"
+        },
+        "-LeGIjSNkBtM3ZrPJ87E": {
+            "id": "-LeGIjSNkBtM3ZrPJ87E",
+            "name": "zircon (transparent pale blue-green)"
+        }
+    }
+}
