@@ -1,0 +1,52 @@
+{
+    "name": "Lingering-Injury",
+    "showplayers": true,
+    "id": "-MTi8IgHEWRL29MHS1Kp",
+    "items": {
+        "-MTi8IgLMXxgCS_4oUxg": {
+            "id": "-MTi8IgLMXxgCS_4oUxg",
+            "name": "Loses a Leg or Foot: Your walking speed is halved. You Fall prone after taking the *Dash* Action. You have disadvantage on Dexterity checks made to balance.",
+            "weight": 312
+        },
+        "-MTi8IgPRgCUCBU-HGbP": {
+            "id": "-MTi8IgPRgCUCBU-HGbP",
+            "name": "Loses an Eye: You have disadvantage on Wisdom (Perception) checks that rely on sight and on ranged attack rolls. If you have no eyes left after sustaining this injury, you're blinded.",
+            "weight": 313
+        },
+        "-MTi8IgUlhuh8bekiFuE": {
+            "id": "-MTi8IgUlhuh8bekiFuE",
+            "name": "Has a Limp: Your walking speed is reduced by 10. You Fall prone after taking the *Dash* Action.",
+            "weight": 934
+        },
+        "-MTi8IgYwaTnkDy12FN4": {
+            "id": "-MTi8IgYwaTnkDy12FN4",
+            "name": "Endures Internal Bleeding: At the start of your turn (or each hour outside of combat), take 1d4 necrotic damage.",
+            "weight": 1354
+        },
+        "-MTi8IgbyQ8oupDtC4Fk": {
+            "id": "-MTi8IgbyQ8oupDtC4Fk",
+            "name": "Sustains a Minor Scar: You sustain a cosmetic scar.",
+            "weight": 10000
+        },
+        "-MTi8IgeN3USQfoqNs0s": {
+            "id": "-MTi8IgeN3USQfoqNs0s",
+            "name": "Endures some Broken Ribs: Whenever you attempt the attack action, you must make a DC 10 Con save or lose the action. Expending the intended spell slot or ammo.",
+            "weight": "1354"
+        },
+        "-MTi8IggneJz_2fuc_ki": {
+            "id": "-MTi8IggneJz_2fuc_ki",
+            "name": "Has a Pulled Shoulder: You can not use two-handed items. If you can only hold a shield or weapon in one hand. You have disadvantage on Strength based rolls.",
+            "weight": "934"
+        },
+        "-MTi8IgiFr19Ik8zGKeK": {
+            "id": "-MTi8IgiFr19Ik8zGKeK",
+            "name": "Sustains a Horrible Scar: Your disfigurement gives you disadvantage on Persuasion and Insight checks.",
+            "weight": "313"
+        },
+        "-MTi8Igltf-ILdvLEbME": {
+            "id": "-MTi8Igltf-ILdvLEbME",
+            "name": "Loses an Arm or Hand: You can no longer hold anything with two hands, and you can hold only a single object at a time, you do not have a free hand.",
+            "weight": "312"
+        }
+    }
+}
