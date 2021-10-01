@@ -1,0 +1,18 @@
+{
+	"angle": -1,
+	"angleRandom": 1,
+	"duration": 1,
+	"emissionRate": 1,
+	"endColour": [50, 50, 50, 1],
+	"endColourRandom": [10, 10, 10, 0.1],
+	"gravity": {"x":0.01, "y":0.01},
+	"lifeSpan": 30,
+	"lifeSpanRandom": 1,
+	"maxParticles": 1,
+	"size": 20,
+	"sizeRandom": 1,
+	"speed": 25,
+	"speedRandom": 1.5,
+	"startColour": [50, 50, 50, 1],
+	"startColourRandom": [10, 10, 10, 0.1]
+}
