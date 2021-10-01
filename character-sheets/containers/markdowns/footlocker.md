@@ -29,6 +29,8 @@ A  [footlocker][Item Link] holds 12 cubic feet or 300 pounds of gear.
 
 Footlockers come with an internal lock. A key is provided with the lock. Without the key, a creature proficient with Thieves' Tools can pick this lock with a successful DC 15 Dexterity check. 
 
+<br>
+
 ## Attributes
 ___
 > ## Footlocker
@@ -38,6 +40,7 @@ ___
 > - **Item Rarity:** standard
 > - **Weight:** 25
 
-### Footnotes
+<br>
 
+## Footnotes
 1. [Source Files][Repo Files]
