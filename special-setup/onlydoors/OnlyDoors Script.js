@@ -9,7 +9,7 @@
 /* eslint-disable no-undef */
 var onlyDoors = onlyDoors || ( function initOnlyDoors() {
 
-	let debug = true;
+	let debug = false;
 	let lockStatusmarker = "padlock";
 
 	let message = {};
