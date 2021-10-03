@@ -141,7 +141,7 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 				let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")}`;
 
 				if (objDoorInfo.objMirrorDoor !== "") {
-					let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
+					strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
 				}
 
 				let strPlayerID = message.playerid;
@@ -161,12 +161,19 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 					case (isLocked && ( isGM || isKeyHolder)):
 						//unlock
 						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
-						// sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+
+						if (isGM) {
+							// sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+						} else {
+							sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+						}
+
 					  break;
 					case (!isLocked ):
 						//lock
-						log("inside lock")
+
 						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
+
 						if (!isGM) {
 						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|+${strPlayerID}`);
 						}
