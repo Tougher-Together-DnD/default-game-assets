@@ -26,7 +26,9 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		}
 
 		let blnCorrectLayer = (obj.get("layer") === "objects") ? true : false;
-		let strBarValue = obj.get("bar3_value").toString();
+		let strBarValue = obj.get("bar3_value");
+
+		log("bar3_value: " + strBarValue)
 
 		if (blnCorrectLayer && strBarValue.startsWith("-")) {
 
@@ -347,6 +349,10 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 
 		// let tokens = msg.selected;
 		let tokens = [{ "_id": `${commands.shift()}`, "_type": "graphic" }];
+
+		if (tokens[0]._id === "selected" ) {
+			tokens = msg.selected;
+		}
 
 		queue.map(function (element) {
 			let arrSegments = element.split(" ");
