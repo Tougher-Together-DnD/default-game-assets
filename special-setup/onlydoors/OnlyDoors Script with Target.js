@@ -348,8 +348,6 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		// let tokens = msg.selected;
 		let tokens = [{ "_id": `${commands.shift()}`, "_type": "graphic" }];
 
-		log(tokens)
-
 		queue.map(function (element) {
 			let arrSegments = element.split(" ");
 			let strCommand = arrSegments[0];
