@@ -146,7 +146,8 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 
 				let strPlayerID = message.playerid;
 				let strPlayerName = message.who;
-				let keyHolder = (objDoorInfo.objDoor.get("controlledby").startsWith(",")) ? objDoorInfo.objDoor.get("controlledby").slice(1) : objDoorInfo.objDoor.get("controlledby")
+				let isGM = strPlayerName.includes("(GM)")
+				let isKeyHolder = objDoorInfo.objDoor.get("controlledby").split(",").includes(strPlayerID)
 				let isLocked = objDoorInfo.objDoor.get("statusmarkers").split(",")
 					.includes(lockStatusmarker);
 
@@ -155,31 +156,26 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 					return;
 				}
 
-				// See if player has control to lock unlock.
-
-				log(strPlayerID + " holder: " + keyHolder)
-
-				if (isLocked && strPlayerID !== keyHolder && !(strPlayerName.includes("(GM)"))) {
-					sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
-					return;
-				}
-
-				if (!isLocked ) {
-					// Lock Door
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
-
-					log(`GMname: ${strPlayerName.includes("(GM)")} with name: ${strPlayerName}`);
-					if (strPlayerName.includes("(GM)")) {
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
-					} else {
-						// sendChat( "OnlyDoors", `/w ${strPlayerName} You (as ${strPlayerName}) locked a door.` );
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
-					}
-				} else {
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
-
-				}
+				log("State: Locked=" + isLocked + " isGM=" + isGM + " isKeyHolder=" + isKeyHolder)
+				switch(true) {
+					case (isLocked && ( isGM || isKeyHolder)):
+						//unlock
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
+						// sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+					  break;
+					case (!isLocked ):
+						//lock
+						log("inside lock")
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
+						if (!isGM) {
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|+${strPlayerID}`);
+						}
+					  break;
+					default:
+						//no key
+						sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
+						return;
+				  } 
 
 				// !token-mod --ignore-selected --ids -MkLm02ZaDWqQ3sYWZrf -MkLm06CBmybGkoNmVel --[[1t[Magic-Portal]]]
 
