@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Officer: Bosun",
+      "type": "Trait",
+      "repeating_id": "-Ml0ZdBZ7QI02ShyUuRM",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_name",
+          "current": "Officer: Bosun",
+          "max": "",
+          "id": "-Ml0_fXZc-nUcpFTFpUO"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0_fmragL4I2h5gaee"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0_jMoVjD2u4j5vjM4"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_description",
+          "current": "Repair (Bosun Only) The ship’s Bosun can undertake this activity. With materials and carpenter tools a Bosun can repair damage to a ship component. Making a DC 18 Water Vehicle (Strength) check they can repair 1d6 + Crew Quality score of damage. Can be performed number of Proficiency Bonus per day.\n\nFull Speed Ahead (Captain, First Mate, or Bosun Only) As an action while on deck, the Captain, First Mate, or Bosun can exhort the crew to work harder and drive the ship forward faster. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality check to double the Speed Units for one round. (Effects do not stack from multiple uses)\n\nTake Aim (First Mate, or Bosun Only) As an action the First Mate, or Bosun directs the crew’s firing, aiding in aiming one of the ship’s Weapons. Select one of the ship’s Weapons that is within 10 feet of the officer. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality The Attack and Damage rolls of the weapon increase by +2, and attack rolls of 19 or 20 act as critical hits.",
+          "max": "",
+          "id": "-Ml0_kVCYU4MbxiXtFGd"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0_kW3cHsrNg2bpiiX"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZdBZ7QI02ShyUuRM_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0_mH4JeGV3Z4ly50D"
+        }
+      ]
+    },
+    {
+      "name": "Officer: Captain",
+      "type": "Trait",
+      "repeating_id": "-Ml0ZLRpwVSaC7B1tt4b",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_name",
+          "current": "Officer: Captain",
+          "max": "",
+          "id": "-Ml0_OAYtYYgNVlk-C_s"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0_OTpaTtCWbQr60hW"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0_R3gyGj1KDS4jFhI"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0_R5OLj8Q5Uv9tNml"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_description",
+          "current": "Full Speed Ahead (Captain, First Mate, or Bosun Only): As an action while on deck, the Captain, First Mate, or Bosun can exhort the crew to work harder and drive the ship forward faster. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality check to double the Speed Units for one round. (Effects do not stack from multiple uses)\n\nManeuver (Captain Only): The ship’s Captain when at the helm and capable of speaking orders, can perform one of the following maneuvers with a successful DC 18 Water Vehicle (Persuasion or Dexterity) + Crew Quality check.\n\nThe ship can make a 90 degree turn during its movement phase.\n\nThe ship travel its use its movement speed to move over terrain it is not intended to travel. For Example, A ship can cross land without becoming aground (barring other dangerous objects like jagged rocks), through the air if falling, etc.. This terrain counts as difficult terrain for the vehicle.\n\nFor 1 minute once a day the Captain can maintain a ships position against natural elements and waves. Keeping the ship from moving.\n\nStealth (Captain Only): The ship’s Captain can engage in this activity only if the weather conditions restrict visibility, such as in heavy fog. The ship makes a DC 18 Water Vehicle (Dexterity) check + Crew Quality score to determine if it can hide.",
+          "max": "",
+          "id": "-Ml0_a6OVW8OTw-wJLhd"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZLRpwVSaC7B1tt4b_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0_bt2e7hnLtTGVkxl"
+        }
+      ]
+    },
+    {
+      "name": "Officer: Deck Wizard",
+      "type": "Trait",
+      "repeating_id": "-Ml0ZnFEv6S6bt4ATLh7",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_name",
+          "current": "Officer: Deck Wizard",
+          "max": "",
+          "id": "-Ml0_pDkiB608fFHjhTS"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0_pTJai8KXwzDvAfy"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0_qy312oswQmEA4Et"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_description",
+          "current": "Man and Machine (Deck Wizard Only) A Deck Wizard can take a long rest aboard a ship to attune themselves it. The ship does not count towards a characters' attuned item amount. When the Deck Wizard is at the Primrose or bow of a ship that they are attuned to, they may cast a spell with target self as if self where the ship.\n\nSuperior Upgrades (Deck Wizard Only) A Deck Wizard using their extensive knowledge of magic can ascertain the materials and steps required for a superior upgrade. They can perform this upgrade at a reduced cost then hiring specialist.\n\nAdding an upgrade costs 7,000 gp and requires 1d4 weeks of work. During that time, the ship must remain in port. If the ship leaves, the work must start over, but you don’t need to pay the gold piece cost a second time.\n\nAt the end of the upgrade, the Deck Wizard makes a DC 18 Arcana (Intellect) check plus Crew Quality score. On a successful check the upgrade succeeds. On a failed check the DM may stipulate a reduced effect of the upgrade.",
+          "max": "",
+          "id": "-Ml0_tCEBgndWeAgB0g3"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0_tE8QkFuuBLxXaAs"
+        },
+        {
+          "name": "repeating_traits_-Ml0ZnFEv6S6bt4ATLh7_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0_ti_oWCg5XshY3jj"
+        }
+      ]
+    },
+    {
+      "name": "Officer: First Mate",
+      "type": "Trait",
+      "repeating_id": "-Ml0Zu8TKOcotAkeGTAZ",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_name",
+          "current": "Officer: First Mate",
+          "max": "",
+          "id": "-Ml0_x1xkBQRHLIlGf2-"
+        },
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0_xFujuTIJJ3nnUev"
+        },
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0_yn-M8IYo5FVzE_c"
+        },
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_description",
+          "current": "Take Aim (First Mate, or Bosun Only) As an action the First Mate, or Bosun directs the crew’s firing, aiding in aiming one of the ship’s Weapons. Select one of the ship’s Weapons that is within 10 feet of the officer. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality The Attack and Damage rolls of the weapon increase by +2, and attack rolls of 19 or 20 act as critical hits.\n\nFull Speed Ahead (Captain, First Mate, or Bosun Only) As an action while on deck, the Captain, First Mate, or Bosun can exhort the crew to work harder and drive the ship forward faster. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality check to double the Speed Units for one round. (Effects do not stack from multiple uses)\n\nRaise Morale (First Mate or Quartermaster Only) The first mate can manage the crew’s time to grant extended breaks, provide instruction, and improve morale. The Quarter Master can acquire food for a feast, wine, smokes, or entertainment to come aboard. Once per day, if the crew’s quality score is 4 or lower, the first mate can make a DC 18 Charisma (Persuasion) check. Or the Quarter master can make a DC 18 Charisma (Performance) check. On a successful check, the crew’s quality score increases by 1.",
+          "max": "",
+          "id": "-Ml0_zxykogyM4R2DVzq"
+        },
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0_zzvtMduf9pHuVdq"
+        },
+        {
+          "name": "repeating_traits_-Ml0Zu8TKOcotAkeGTAZ_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0a-JeNHroXP-VsCVP"
+        }
+      ]
+    },
+    {
+      "name": "Officer: Quartermaster",
+      "type": "Trait",
+      "repeating_id": "-Ml0a6jq63jtfdnmyTxo",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_name",
+          "current": "Officer: Quartermaster",
+          "max": "",
+          "id": "-Ml0aBLnbtICnvkvASO6"
+        },
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0aBZfZDvGWIkppy5y"
+        },
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0aDBQA39WTXmB5kHy"
+        },
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_description",
+          "current": "Navigate (Quartermaster Only) The Quartermaster can try to prevent the group from becoming lost, making a DC 18 Wisdom (Survival) + quality of map check when the DM calls for it. (See “Becoming Lost” in chapter 5 of the Dungeon Master’s Guide for more information.)\n\nRaise Morale (First Mate or Quartermaster Only) The first mate can manage the crew’s time to grant extended breaks, provide instruction, and improve morale. The Quarter Master can acquire food for a feast, wine, smokes, or entertainment to come aboard. Once per day, if the crew’s quality score is 4 or lower, the first mate can make a DC 18 Charisma (Persuasion) check. Or the Quarter master can make a DC 18 Charisma (Performance) check. On a successful check, the crew’s quality score increases by 1.\n\nCook a Meal (Quartermaster Only) The Quartermaster act as the ships cook creating a meal or brew for the party. With cooking tools, Making a successful DC 18 Wisdom (Survival) check the Quartermaster can prepare a meal that adds 1d(Level) Temporary health points to those that eat the meal.",
+          "max": "",
+          "id": "-Ml0aEP8MVqJqXrgt8_z"
+        },
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0aEQW2NWz3vKBcLAw"
+        },
+        {
+          "name": "repeating_traits_-Ml0a6jq63jtfdnmyTxo_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0aEd8yjQKqSWYyJGG"
+        }
+      ]
+    },
+    {
+      "name": "Officer: Surgeon",
+      "type": "Trait",
+      "repeating_id": "-Ml0a-hnbKBk8RxDuVRX",
+      "old_character_id": "-Ml0_24VKtU3r2hgpirL",
+      "attributes": [
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_name",
+          "current": "Officer: Surgeon",
+          "max": "",
+          "id": "-Ml0a2X-L1b-5eZD9Bnj"
+        },
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_source",
+          "current": "Other",
+          "max": "",
+          "id": "-Ml0a2hjG1XixnVWenIu"
+        },
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_description",
+          "current": "Hygiene (Surgeon Only) As an action once a day the ship Surgeon can encourage the crew to perform basic hygiene regiment. On success reducing the effects and likely hood of diseases aboard the ship. When the Surgeon makes a DC 18 Medicine (Wisdom) check + Crew Quality score, creatures making DC Constitution saves against disease gain a +2 against it's effects.\n\nTriage (Surgeon Only) A ships Surgeon can reduce the recovery time of crew and players. Making a DC18 Medicine (Wisdom) or Herbalism kit check the Surgeon can affect a target humanoid as if a Healing Kit was used.",
+          "max": "",
+          "id": "-Ml0a4tEOTBpe-iHJkcc"
+        },
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_source_type",
+          "current": "Ship Officers",
+          "max": "",
+          "id": "-Ml0a6CQjcfd1ilwAZvf"
+        },
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-Ml0a6Dimzl4cKp_srqv"
+        },
+        {
+          "name": "repeating_traits_-Ml0a-hnbKBk8RxDuVRX_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-Ml0a6Rxon0BzlO1l139"
+        }
+      ]
+    }
+  ]
+}
