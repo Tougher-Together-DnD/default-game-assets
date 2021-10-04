@@ -1,0 +1,1644 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MjYL7zC5PndUkxy2xub",
+        "name": "Template: Ship Vehicle",
+        "avatar": "",
+        "bio": "Use%20the%20Markdown%20template%20to%20craft%20a%20cover%20bio%20for%20the%20ship.%20Render%20in%20NaturalCrit%27s%20Homebrewery%20and%20Copy%20paste%20%28Chrome%29%20into%20here.%3Cbr%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"objects\",\"vehicles\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "dtype",
+                "current": "full",
+                "max": "",
+                "id": "-MjJ47W-ITINQPNM6-Ha"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MjJ47WrH6mRe2LE0qSd"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47WtDAGtgANCuUos"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47WvonFt6h2HkzOf"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MjJ47XU7U0k-j5sDxJP"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_npc_charname_output,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MjJ47XXfcO8vMXoCJob"
+            },
+            {
+                "name": "spellcasting_ability_name",
+                "current": "0*",
+                "max": "",
+                "id": "-MjJ47YHRk9MKLHLWc5X"
+            },
+            {
+                "name": "mobile_attack_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47YK2yxIxzp-ltKX"
+            },
+            {
+                "name": "feature_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47YbD_mtqXBv_qUK"
+            },
+            {
+                "name": "spell_count",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Yva96lhy_EtNib"
+            },
+            {
+                "name": "spells_count_cantrip",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Yx9_8ip76u_RgX"
+            },
+            {
+                "name": "spells_count_1",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47YyP7aWhFep0Wwh"
+            },
+            {
+                "name": "spells_count_2",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Z-Q4lZoB8MaoAQ"
+            },
+            {
+                "name": "spells_count_3",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Z0Dm_QYCViNi5S"
+            },
+            {
+                "name": "spells_count_4",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Z2oHSKxfFkKcve"
+            },
+            {
+                "name": "spells_count_5",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47Z3toM6zt8gEtHR"
+            },
+            {
+                "name": "spells_count_6",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47ZK8hzGZukXEgXX"
+            },
+            {
+                "name": "spells_count_7",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47ZPi_T3IChTJptN"
+            },
+            {
+                "name": "spells_count_8",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47ZedRyEokphzQpl"
+            },
+            {
+                "name": "spells_count_9",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47ZhNyspCjsiDcQI"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_4k8OvgmXv7A4y"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_5CuH6BDOIup1N"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_7oAABA14LxPmS"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_9_TFMGgpKvUfW"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_9_TFMGgpKvUfX"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_BLQya5e9TPjFE"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_Coz26DTALcKZ-"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_DgeP1lDJisVwT"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_QwtOusAvkUs8M"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_SzS3L3BfRKz4b"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_TjbprF2PjOeCm"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_UZAWZ0a-aEcDa"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_VF6fYQtbEMsFm"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_W6c1lw1VIk9jO"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_ZvIukbj3f8z8n"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47__z_qsilsP3bMB"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47__z_qsilsP3bMC"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_bN-VDbCaBYc7P"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_dmU6ZHdYogJgO"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_eb-uAqMdH_cmQ"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_f_fCbaR7Ya4OM"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_gS9bZytFLWOuc"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_hmEDynYKw6MoR"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_jRNEkuNsA2cN9"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_lIxVN7aykoJlV"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MjJ47_mAlsiH1NOhUNF"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MjJ47bvyI9Uv5jEj6CD"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MjJ47bxZ_UlpfD527cp"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MjJ47bydNwKh9NQ7jPX"
+            },
+            {
+                "name": "spell_slot_1_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47bzD1Wj7MwDQ8eR"
+            },
+            {
+                "name": "spell_slot_1_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c-Fa54pSrgvqB8"
+            },
+            {
+                "name": "spell_slot_1_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c0Y4QoHl6VFYyv"
+            },
+            {
+                "name": "spell_slot_1_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c1ZFvVc9yyW192"
+            },
+            {
+                "name": "spell_slot_1_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c2uttb53OL1uX6"
+            },
+            {
+                "name": "spell_slot_1_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c3CnJrRuHmsCoS"
+            },
+            {
+                "name": "spell_slot_1_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c4RVDaGWY52FRn"
+            },
+            {
+                "name": "spell_slot_1_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c59oK8Qua-Z5u1"
+            },
+            {
+                "name": "spell_slot_1_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c7vXzwb-4g7ImW"
+            },
+            {
+                "name": "spell_slot_1_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47c8MPheCEHe3V9L"
+            },
+            {
+                "name": "spell_slot_2_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cLfw2CPjxm2Klu"
+            },
+            {
+                "name": "spell_slot_2_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cNhL6yOEZ5JCNX"
+            },
+            {
+                "name": "spell_slot_2_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cOW6V1qFQ2T2g0"
+            },
+            {
+                "name": "spell_slot_2_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cPFvMkTaQ2LaK_"
+            },
+            {
+                "name": "spell_slot_2_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cQMagtsRVbpI7U"
+            },
+            {
+                "name": "spell_slot_2_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cRcFGJPpDFfx07"
+            },
+            {
+                "name": "spell_slot_2_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cTqh5_q7Sv27_p"
+            },
+            {
+                "name": "spell_slot_2_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cUklSNkOgyskB8"
+            },
+            {
+                "name": "spell_slot_2_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cVp3nI2JqB4ouT"
+            },
+            {
+                "name": "spell_slot_2_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cWEdilOH1jDK3u"
+            },
+            {
+                "name": "spell_slot_3_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47clMPS9u_QKJ1rP"
+            },
+            {
+                "name": "spell_slot_3_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cmxZToLo0yQIxO"
+            },
+            {
+                "name": "spell_slot_3_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cnaraPF9ctq7HR"
+            },
+            {
+                "name": "spell_slot_3_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cpOoHQWQZ9wacR"
+            },
+            {
+                "name": "spell_slot_3_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47crscAiGvVP0g7i"
+            },
+            {
+                "name": "spell_slot_3_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47csTdnt_NWT25gt"
+            },
+            {
+                "name": "spell_slot_3_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47csTdnt_NWT25gu"
+            },
+            {
+                "name": "spell_slot_3_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cuGO5-h_NhgDpe"
+            },
+            {
+                "name": "spell_slot_3_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cv0tgC8XNOj9zp"
+            },
+            {
+                "name": "spell_slot_3_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47cwX7sgMIf4q5dF"
+            },
+            {
+                "name": "spell_slot_4_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dHndxPv9H0tOzX"
+            },
+            {
+                "name": "spell_slot_4_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dLkTvNa40b514C"
+            },
+            {
+                "name": "spell_slot_4_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dMm_yYUIn7haeN"
+            },
+            {
+                "name": "spell_slot_4_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dN2R2ZtIcQc2c8"
+            },
+            {
+                "name": "spell_slot_4_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dP2Ts5ZeYWsC2W"
+            },
+            {
+                "name": "spell_slot_4_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dRU1dyCWzTdqGF"
+            },
+            {
+                "name": "spell_slot_4_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dS8bi8y-wELMbG"
+            },
+            {
+                "name": "spell_slot_4_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dTEzMwkUxQbHGV"
+            },
+            {
+                "name": "spell_slot_4_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dU3_jeaVQOrg2E"
+            },
+            {
+                "name": "spell_slot_4_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47dVKFEHPK6J2B8m"
+            },
+            {
+                "name": "spell_slot_5_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e2U4-NO3x_KU1X"
+            },
+            {
+                "name": "spell_slot_5_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e3W4U3V8TFVOyh"
+            },
+            {
+                "name": "spell_slot_5_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e46ix6dt0GCnDn"
+            },
+            {
+                "name": "spell_slot_5_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e5jE7c8TB8ZlDp"
+            },
+            {
+                "name": "spell_slot_5_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e6HmztzbzCLE1s"
+            },
+            {
+                "name": "spell_slot_5_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e7IeLPopYU0FwS"
+            },
+            {
+                "name": "spell_slot_5_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e9cEab52GNIpRd"
+            },
+            {
+                "name": "spell_slot_5_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47e9cEab52GNIpRe"
+            },
+            {
+                "name": "spell_slot_5_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47eBaVR9ApAfJcNx"
+            },
+            {
+                "name": "spell_slot_5_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47eCqef1NPqqHsT2"
+            },
+            {
+                "name": "spell_slot_6_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47ekvUCyJinvblwR"
+            },
+            {
+                "name": "spell_slot_6_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47eleLXRbI57YcPB"
+            },
+            {
+                "name": "spell_slot_6_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47em5COXB4LYdwIl"
+            },
+            {
+                "name": "spell_slot_6_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47en65M-gkXDDK9W"
+            },
+            {
+                "name": "spell_slot_6_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47eo5FotEM8hqhCa"
+            },
+            {
+                "name": "spell_slot_6_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47eqpMfL5nfP-my4"
+            },
+            {
+                "name": "spell_slot_6_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47erFkvPWLe2SCcv"
+            },
+            {
+                "name": "spell_slot_6_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47es78_61-WEBcED"
+            },
+            {
+                "name": "spell_slot_6_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47et0b3V8KlKE3Xz"
+            },
+            {
+                "name": "spell_slot_6_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47euRm0gWZ6WPs_C"
+            },
+            {
+                "name": "spell_slot_7_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fH41E__UVNoBNL"
+            },
+            {
+                "name": "spell_slot_7_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fI0NuXIQx9SNoX"
+            },
+            {
+                "name": "spell_slot_7_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fJKjFVqRZHSfbE"
+            },
+            {
+                "name": "spell_slot_7_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fKcpH5VKjrrudW"
+            },
+            {
+                "name": "spell_slot_7_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fL_JAbRYBvv38T"
+            },
+            {
+                "name": "spell_slot_7_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fMvIxmIzd-u9I6"
+            },
+            {
+                "name": "spell_slot_7_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fNkC0y1-q6CzyA"
+            },
+            {
+                "name": "spell_slot_7_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fPSZNwazM5eNyC"
+            },
+            {
+                "name": "spell_slot_7_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fPSZNwazM5eNyD"
+            },
+            {
+                "name": "spell_slot_7_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fR5i4cUJdvavG5"
+            },
+            {
+                "name": "spell_slot_8_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fp97DrGEtnHJAU"
+            },
+            {
+                "name": "spell_slot_8_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fqoMAqKaixXeXi"
+            },
+            {
+                "name": "spell_slot_8_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47frSjPn5z03i1a9"
+            },
+            {
+                "name": "spell_slot_8_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47ftsfYOm20cIN73"
+            },
+            {
+                "name": "spell_slot_8_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fup3J4A6cxnSYg"
+            },
+            {
+                "name": "spell_slot_8_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fv7PzSCW05saPX"
+            },
+            {
+                "name": "spell_slot_8_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fv7PzSCW05saPY"
+            },
+            {
+                "name": "spell_slot_8_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fwflDNbaFZ4b1J"
+            },
+            {
+                "name": "spell_slot_8_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fyI4q8o0-HybCU"
+            },
+            {
+                "name": "spell_slot_8_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47fz6A6o5-R8Pw6G"
+            },
+            {
+                "name": "spell_slot_9_1",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gJQJzrIvexRvYX"
+            },
+            {
+                "name": "spell_slot_9_2",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gKVX4sQ8af47O3"
+            },
+            {
+                "name": "spell_slot_9_3",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gLtFzgAE14hQ2j"
+            },
+            {
+                "name": "spell_slot_9_4",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gMGwtYZL1WAp1F"
+            },
+            {
+                "name": "spell_slot_9_5",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gNx9Mt3yRPCWPV"
+            },
+            {
+                "name": "spell_slot_9_6",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gOSUwBLIH8Fsp3"
+            },
+            {
+                "name": "spell_slot_9_7",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gPoA_uYHuaiUtm"
+            },
+            {
+                "name": "spell_slot_9_8",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gRkmc_REHZc_2-"
+            },
+            {
+                "name": "spell_slot_9_9",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gSX25NdD0DphSs"
+            },
+            {
+                "name": "spell_slot_9_10",
+                "current": "0",
+                "max": "",
+                "id": "-MjJ47gT6qGWg7iZ7VLl"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MjJ47iwMXj7ULSTBwxP"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjJ47jzbhKQTQaHMQcV"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MjJ47kLmUuwIKgVasX0"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MjJEhn8KY7r6dA1dUcF"
+            },
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MjJEhp0jHOMSNIEuWpW"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MjJEhp2iSnz9QL5mqYj"
+            },
+            {
+                "name": "npc_name",
+                "current": "Vehicle",
+                "max": "",
+                "id": "-MjJEjIjHHE9zikgDY_A"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{npc_name}}}",
+                "max": "",
+                "id": "-MjJEjL679lVHoh-cLMy"
+            },
+            {
+                "name": "npc_type",
+                "current": "Gargantuan object (100 ft. by 20 ft.)",
+                "max": "",
+                "id": "-MjJEoepxWGXk0YNp4YV"
+            },
+            {
+                "name": "npc_ac",
+                "current": "11",
+                "max": "",
+                "id": "-MjJEvZULTQirtyC0-Il"
+            },
+            {
+                "name": "npc_actype",
+                "current": "Hull",
+                "max": "",
+                "id": "-MjJEwW8xuwAS5woTzQN"
+            },
+            {
+                "name": "hp",
+                "current": "",
+                "max": "50",
+                "id": "-MjJExBgj-JSitGpEKoG"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "fixed",
+                "max": "",
+                "id": "-MjJEzUh7Ddr8Bc-NBtU"
+            },
+            {
+                "name": "npc_str_save_base",
+                "current": "",
+                "max": "",
+                "id": "-MjJF3zP_PiB_e1qbSmv"
+            },
+            {
+                "name": "npc_cha_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40Li8bmulScCBt1"
+            },
+            {
+                "name": "npc_cha_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40M9dBQjD1lqJ-4"
+            },
+            {
+                "name": "npc_wis_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40NvmhvyaH9Q567"
+            },
+            {
+                "name": "npc_wis_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40PvrKMwPumnwLE"
+            },
+            {
+                "name": "npc_int_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40QckJQNg9kZVKI"
+            },
+            {
+                "name": "npc_int_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40RvU4Fin5aMxqz"
+            },
+            {
+                "name": "npc_con_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40SVgQt12udJgmL"
+            },
+            {
+                "name": "npc_con_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40Up_9dKwoZHTad"
+            },
+            {
+                "name": "npc_dex_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40VFdYwYJUxqAJa"
+            },
+            {
+                "name": "npc_dex_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40XzwWK0wvAIeQQ"
+            },
+            {
+                "name": "npc_str_save_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF40ZtHh-ElG27b7b"
+            },
+            {
+                "name": "npc_str_save",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40_5n0j8YDhHpu5"
+            },
+            {
+                "name": "npc_saving_flag",
+                "current": "",
+                "max": "",
+                "id": "-MjJF40_5n0j8YDhHpu6"
+            },
+            {
+                "name": "npc_dex_save_base",
+                "current": "",
+                "max": "",
+                "id": "-MjJF4X1-NP9CgpsdSL9"
+            },
+            {
+                "name": "strength_base",
+                "current": "10",
+                "max": "",
+                "id": "-MjJF5VeMCACk1WdGqkg"
+            },
+            {
+                "name": "strength_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5XcCcSZcEQmgQy2"
+            },
+            {
+                "name": "strength",
+                "current": 10,
+                "max": "",
+                "id": "-MjJF5XgFVK0RG3d_imY"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5XiDu0rIrO61ww0"
+            },
+            {
+                "name": "npc_str_negative",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5ZlqhDe5OoNN4xj"
+            },
+            {
+                "name": "spell_attack_bonus",
+                "current": "0",
+                "max": "",
+                "id": "-MjJF5Zok8qizx5NvD3S"
+            },
+            {
+                "name": "spell_save_dc",
+                "current": "0",
+                "max": "",
+                "id": "-MjJF5ZpWIYefBVrSvv6"
+            },
+            {
+                "name": "weighttotal",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5_34lHmR8mEHdjg"
+            },
+            {
+                "name": "encumberance",
+                "current": " ",
+                "max": "",
+                "id": "-MjJF5_5wCwFENI-DXmp"
+            },
+            {
+                "name": "strength_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5_6Tj9quARpMVv_"
+            },
+            {
+                "name": "athletics_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MjJF5_7h0xfHHyrVRRq"
+            },
+            {
+                "name": "npc_performance_base",
+                "current": "5",
+                "max": "",
+                "id": "-MjJFBSG_h6C4Z461dJL"
+            },
+            {
+                "name": "npc_survival_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBU3SS9qjPfzRmKg"
+            },
+            {
+                "name": "npc_survival",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBU68z_E5RqArWRr"
+            },
+            {
+                "name": "npc_stealth_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBU81EpkZOqxzwN7"
+            },
+            {
+                "name": "npc_stealth",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUBJr4Gtx4zLpJq"
+            },
+            {
+                "name": "npc_sleight_of_hand_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUCQNLOBGj7CxsC"
+            },
+            {
+                "name": "npc_sleight_of_hand",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUE6V_jmQKIwcux"
+            },
+            {
+                "name": "npc_religion_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUFe0rXuAIC6e8k"
+            },
+            {
+                "name": "npc_religion",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUHP4_FH6b3XZAx"
+            },
+            {
+                "name": "npc_persuasion_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUIAxS1rSsH2lW3"
+            },
+            {
+                "name": "npc_persuasion",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUKGzCWLfSUim12"
+            },
+            {
+                "name": "npc_performance_flag",
+                "current": 2,
+                "max": "",
+                "id": "-MjJFBULPWw-AxrdT0RA"
+            },
+            {
+                "name": "npc_performance",
+                "current": 5,
+                "max": "",
+                "id": "-MjJFBUNFY-dPl7LqvaR"
+            },
+            {
+                "name": "npc_perception_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUOTHQWo0CvEyLO"
+            },
+            {
+                "name": "npc_perception",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUPXP6npOX7A2Fz"
+            },
+            {
+                "name": "npc_nature_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUPXP6npOX7A2G-"
+            },
+            {
+                "name": "npc_nature",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUQtuiApDf0Q7sU"
+            },
+            {
+                "name": "npc_medicine_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBURN9FMEeVoS6Vl"
+            },
+            {
+                "name": "npc_medicine",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUS4Vnnh2oDIr0h"
+            },
+            {
+                "name": "npc_investigation_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUTkLj2nuUPuiWl"
+            },
+            {
+                "name": "npc_investigation",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUUy-2j3nW5Rxj7"
+            },
+            {
+                "name": "npc_intimidation_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUV3Lo8Oago8xKm"
+            },
+            {
+                "name": "npc_intimidation",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUXh7eE37qc1gdp"
+            },
+            {
+                "name": "npc_insight_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUYQuiNk-8ci5G-"
+            },
+            {
+                "name": "npc_insight",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUZ9jwMZP9vATFS"
+            },
+            {
+                "name": "npc_history_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBU_RFE_2PYscH7q"
+            },
+            {
+                "name": "npc_history",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUavKHtazvF48Wu"
+            },
+            {
+                "name": "npc_deception_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUbKYvx7UqF_286"
+            },
+            {
+                "name": "npc_deception",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUcoBn4yiZNJs2K"
+            },
+            {
+                "name": "npc_athletics_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUe5ZD90f0RH8Ok"
+            },
+            {
+                "name": "npc_athletics",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUfxsbPFLYxhZ88"
+            },
+            {
+                "name": "npc_arcana_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUfxsbPFLYxhZ89"
+            },
+            {
+                "name": "npc_arcana",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUhJsvtV5ClQEY2"
+            },
+            {
+                "name": "npc_animal_handling_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUi1LQd29MqxFkm"
+            },
+            {
+                "name": "npc_animal_handling",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUj97d09C4PNtsK"
+            },
+            {
+                "name": "npc_acrobatics_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MjJFBUkxQp_gi6-J402"
+            },
+            {
+                "name": "npc_acrobatics",
+                "current": "",
+                "max": "",
+                "id": "-MjJFBUlyR6L-EwLY2D1"
+            },
+            {
+                "name": "npc_skills_flag",
+                "current": 2,
+                "max": "",
+                "id": "-MjJFBUlyR6L-EwLY2D2"
+            },
+            {
+                "name": "npc_immunities",
+                "current": "poison, psychic",
+                "max": "",
+                "id": "-MjJFFWEBTEDSD4jG_rY"
+            },
+            {
+                "name": "npc_condition_immunities",
+                "current": "blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious",
+                "max": "",
+                "id": "-MjJFYoV_SnwHMDaVIPS"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MjJFbSzLRL0K4ewqSKI"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MjJFbjgGlHQxgVsuBEi"
+            },
+            {
+                "name": "npc_mythic_actions",
+                "current": "0",
+                "max": "",
+                "id": "-MjJFl2OLek8NAdj-8wB"
+            },
+            {
+                "name": "npc_mythic_actions_desc",
+                "current": "",
+                "max": "",
+                "id": "-MjJFo3866C8akIf1fwd"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjJFo4IEemljmYcV9qE"
+            },
+            {
+                "name": "repeating_npctrait_-MjJFwpRBt2EcrbG92a3_name",
+                "current": "Info",
+                "max": "",
+                "id": "-MjJFzXDBuZxkGzJSWDU"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-MjJFzZDTC2XX9E0cwCp"
+            },
+            {
+                "name": "repeating_npctrait_-MjJFwpRBt2EcrbG92a3_description",
+                "current": "Creature Capacity: 30 crew, 20 passengers\nCargo Capacity: 100 tons\nTravel Pace: 5 miles per hour (120 miles per day)",
+                "max": "",
+                "id": "-MjJGERIU2PGFtABihgl"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJIwOb_nXHy58rqGJ-"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJIwOek8T_RNSSCdOX"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJIwOi87f4CNoRxMvR"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJIwOl74xkQOkvHbOX"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MjJIwOni5J25du-QiJL"
+            },
+            {
+                "name": "repeating_npctrait_-MjJKivsBvWAheoUqOQ8_name",
+                "current": "Ship Repair",
+                "max": "",
+                "id": "-MjJKll1Qqm8XYoV2l4Q"
+            },
+            {
+                "name": "repeating_npctrait_-MjJKivsBvWAheoUqOQ8_description",
+                "current": "Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.",
+                "max": "",
+                "id": "-MjJKr5y_J7X4l1Vat3s"
+            },
+            {
+                "name": "repeating_npctrait_-MjivI1NAioeesDwOqNi_name",
+                "current": "Light",
+                "max": "",
+                "id": "-MjivJFqFlonGeyHyFi-"
+            },
+            {
+                "name": "repeating_npctrait_-MjivI1NAioeesDwOqNi_description",
+                "current": "A hanging lantern or two casts bright light across the ship.",
+                "max": "",
+                "id": "-MjivLVHTpd4DMqX1tNO"
+            },
+            {
+                "name": "repeating_npctrait_-MjivM2nRLbdJQL4VkWc_name",
+                "current": "Rigging",
+                "max": "",
+                "id": "-MjivNDFJbc56GtzP2TC"
+            },
+            {
+                "name": "repeating_npctrait_-MjivM2nRLbdJQL4VkWc_description",
+                "current": "Rigging on the ship can be climbed without an ability check.",
+                "max": "",
+                "id": "-MjivPcwTkJ5bARLiWmg"
+            },
+            {
+                "name": "repeating_npctrait_-MjivWIYv0o6b3HgL6G4_name",
+                "current": "Footlockers",
+                "max": "",
+                "id": "-MjivXVrRLo0oFGkGMKQ"
+            },
+            {
+                "name": "repeating_npctrait_-MjivWIYv0o6b3HgL6G4_description",
+                "current": "The footlockers are iron and have AC 19, 18 hit points, and immunity to poison and psychic damage.",
+                "max": "",
+                "id": "-MjivZL6ymOgIhmajGiv"
+            },
+            {
+                "name": "repeating_npctrait_-MjivkYJG57oIiKX2bVb_name",
+                "current": "Rudder",
+                "max": "",
+                "id": "-MjivljLEroJwntMPlHW"
+            },
+            {
+                "name": "repeating_npctrait_-MjivkYJG57oIiKX2bVb_description",
+                "current": "The ship is steered by a rudder control on the aft of the deck. The Rudder is a control surface that turns the ship.",
+                "max": "",
+                "id": "-MjivnHsFysyGbpaU4fU"
+            },
+            {
+                "name": "repeating_npctrait_-MjivpV1XAwPl2raHtqc_name",
+                "current": "Sails",
+                "max": "",
+                "id": "-Mjivqfc4UyXrK4kWd1a"
+            },
+            {
+                "name": "repeating_npctrait_-MjivpV1XAwPl2raHtqc_description",
+                "current": "The longship has one 20-foot-tall mast with sails that can be used to sail the ship.",
+                "max": "",
+                "id": "-MjivtFgFVSptGZXk8Hi"
+            },
+            {
+                "name": "repeating_npctrait_-MjivvGP0VLHg0N5ZCIU_name",
+                "current": "Oars",
+                "max": "",
+                "id": "-MjivwD6BewVY8_P9QgN"
+            },
+            {
+                "name": "repeating_npctrait_-MjivvGP0VLHg0N5ZCIU_description",
+                "current": "Sixteen benches are built into the deck, each with a 15-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Five spare oars hang on the walls.",
+                "max": "",
+                "id": "-Mjiw-NDYIJ4JSDQ5pmc"
+            },
+            {
+                "name": "repeating_npctrait_-Mjiw0L5iLWbHNsnsExl_name",
+                "current": "Railing",
+                "max": "",
+                "id": "-Mjiw1aZKTRbaWN9cFn-"
+            },
+            {
+                "name": "repeating_npctrait_-Mjiw0L5iLWbHNsnsExl_description",
+                "current": "The deck has a 3-foot-high rail covered in wooden shields around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.",
+                "max": "",
+                "id": "-Mjiw6pwnfyJ1DU-3w2I"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwEXL5p7Ep-mIyUu2_name",
+                "current": "Ceilings",
+                "max": "",
+                "id": "-MjiwFdE4Ivjuid8FHmh"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwEXL5p7Ep-mIyUu2_description",
+                "current": "The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.",
+                "max": "",
+                "id": "-MjiwHOKn72idpJYTBJE"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwHyyUZLGEhcC3n7c_name",
+                "current": "Doors",
+                "max": "",
+                "id": "-MjiwIwu-lE4qBekCc9B"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwHyyUZLGEhcC3n7c_description",
+                "current": "The ship's doors are made of wood and have AC 15, 18 hit points, and immunity to poison and psychic damage. A lock can be picked with a successful DC 15 Dexterity check made using thieves' tools, or the door can be forced open with a successful DC 20 Strength (Athletics) check.",
+                "max": "",
+                "id": "-MjiwKZhc7KUXjboIxh0"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwP0ZAg26p1ZHSDKk_name",
+                "current": "Hatch",
+                "max": "",
+                "id": "-MjiwQG_A9u-YGxw_pi5"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwP0ZAg26p1ZHSDKk_description",
+                "current": "A covered, 10-foot-square opening leads to the lower deck.",
+                "max": "",
+                "id": "-MjiwSxbHZSXi7JISvQk"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwV0OBI5ndT9Uk2vb_name",
+                "current": "Rowboats",
+                "max": "",
+                "id": "-MjiwWIBj2_Zevp7R4kH"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwV0OBI5ndT9Uk2vb_description",
+                "current": "Four rowboats are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.",
+                "max": "",
+                "id": "-MjiwZ8qlbJdJjkc1fXJ"
+            },
+            {
+                "name": "repeating_npctrait_-Mjiwb7VdXnyHv3bLAXJ_name",
+                "current": "Privy",
+                "max": "",
+                "id": "-Mjiwh37JK9e30z98_-F"
+            },
+            {
+                "name": "repeating_npctrait_-Mjiwb7VdXnyHv3bLAXJ_description",
+                "current": "Benches line the walls of this room. Four holes carved in them house chamber pots.",
+                "max": "",
+                "id": "-Mjiwjf8WtPu6OrCDzp8"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwwYL9JQcWcmSs40w_name",
+                "current": "Guest Cabin and Brig",
+                "max": "",
+                "id": "-Mjiwy0hcitX5rTko4Jp"
+            },
+            {
+                "name": "repeating_npctrait_-MjiwwYL9JQcWcmSs40w_description",
+                "current": "This cabin is meant for guests and visiting high-ranking officials along for the journey. Since warships often have a greater need to house prisoners rather than guests, each bed aboard such a vessel also has a set of manacles (see chapter 5 in the Player's Handbook) attached to its frame.",
+                "max": "",
+                "id": "-Mjix0hC-vU6vyOP21oC"
+            },
+            {
+                "name": "repeating_npctrait_-MjixLMZOoUK8Vqv2moS_name",
+                "current": "Cargo Hold",
+                "max": "",
+                "id": "-MjixN6eiRnt_4vx5fqs"
+            },
+            {
+                "name": "repeating_npctrait_-MjixLMZOoUK8Vqv2moS_description",
+                "current": "Cargo holds at the fore and aft of the lower deck hold crates, barrels, and ammunition secured with rope.",
+                "max": "",
+                "id": "-MjixP2nvZNv9y7v84ZJ"
+            },
+            {
+                "name": "repeating_npctrait_-MjixPdGGOMhrOsjfGxj_name",
+                "current": "Gun Ports",
+                "max": "",
+                "id": "-MjixRK1Wniz6QGsK4Nz"
+            },
+            {
+                "name": "repeating_npctrait_-MjixPdGGOMhrOsjfGxj_description",
+                "current": "The ship has ports in its lower decks that can be opened to fire cannons.",
+                "max": "",
+                "id": "-Mjix_Qsdib7aXfOftG9"
+            },
+            {
+                "name": "repeating_npctrait_-MjixeAq9HaNkJwAbnoA_name",
+                "current": "Wheel",
+                "max": "",
+                "id": "-MjixfVz5zXx3pu5j7EJ"
+            },
+            {
+                "name": "repeating_npctrait_-MjixeAq9HaNkJwAbnoA_description",
+                "current": "The ship's wheel stands at the aft of the deck. This is used to steer the ship. If destroyed the ship can not take the turn actions. (Unless the rudder or other control surface is manipulated manually.)",
+                "max": "",
+                "id": "-MjixgkxTF85wf_lJfpl"
+            },
+            {
+                "name": "repeating_npctrait_-MlBproljDSwo3-FuSKc_name",
+                "current": "Cargo Capacity",
+                "max": "",
+                "id": "-MlBpronOq70tc4Wy-rf"
+            },
+            {
+                "name": "repeating_npctrait_-MlBproljDSwo3-FuSKc_description",
+                "current": ".25 tons (500 lbs.)\nOverload: 1 ton (2,000 lbs)\n\nCargo Capacity excludes weight of Wagon (400 lbs) and average weight of Passengers (800 lbs)\n\nAn animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying Capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying Capacity together.\n\nThe Wagon has a yoke for 1 Draft Animals.\n\nAn Overloaded Vehicle has a movement speed of zero.\n\nWhile above Normal Capacity the Wagon is at half speed, and can not take the \"Dash\" action.",
+                "max": "",
+                "id": "-MlBprosyWWp-KNY4yLN"
+            },
+            {
+                "name": "repeating_npctrait_-MlBprotEemRjKOmoAnH_name",
+                "current": "Creature Capacity",
+                "max": "",
+                "id": "-MlBprotEemRjKOmoAnI"
+            },
+            {
+                "name": "repeating_npctrait_-MlBprotEemRjKOmoAnH_description",
+                "current": "1 Crew 3 Passengers\n\nPassengers include Crew of Medium Creatures.",
+                "max": "",
+                "id": "-MlBprovsAHKl2qUfems"
+            },
+            {
+                "name": "repeating_npctrait_-MlBproxU3IgzgyuIZb0_name",
+                "current": "Travel Pace",
+                "max": "",
+                "id": "-MlBproxU3IgzgyuI_b1"
+            },
+            {
+                "name": "repeating_npctrait_-MlBproxU3IgzgyuIZb0_description",
+                "current": "3 miles per hour (24 miles per day)\n\nFast: 4 miles per hour (30 miles per day) -5 penalty to passive perception checks.\n\nSlow: 2 miles per hour (18 miles per day) Able to use Stealth.",
+                "max": "",
+                "id": "-MlBproyKMGnjTTjkih_"
+            }
+        ],
+        "abilities": []
+    }
+}
