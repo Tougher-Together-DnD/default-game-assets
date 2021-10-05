@@ -59,6 +59,62 @@
       ]
     },
     {
+      "name": "Hull: Flatboard",
+      "type": "NPC Action",
+      "repeating_id": "-MjISFkIeuo0nHZAqXQk",
+      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_name",
+          "current": "Hull: Flatboard",
+          "max": "",
+          "id": "-MjISLeY7IPofZi2KF2a"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_description",
+          "current": "Armor Class 11\nHit Points 50\n\nA thin skin of material, wood boards or leather hide, stretched over flexible ribs. Used for small boats meant to shuttle from one place to another. Passengers and Crew sit within the hull. Sometimes a bait well or box is used for storage.",
+          "max": "",
+          "id": "-MjISNE5rMXzNVI8uwhb"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MjISNG2dQtlNZS7jxo5"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MjISNG7z4y0aCaZPdGK"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MjISNGArbiasZ9eSPk_"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MjISNGC3aVT5ZBSzA-5"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MjISNGEbXYIyRaT6IHF"
+        },
+        {
+          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MjISNGF8h7CHvubJ-fz"
+        }
+      ]
+    },
+    {
       "name": "Hull: Keel",
       "type": "NPC Action",
       "repeating_id": "-MjIT76NQw29d47gIruH",
@@ -227,62 +283,6 @@
       ]
     },
     {
-      "name": "Hull: flatboard",
-      "type": "NPC Action",
-      "repeating_id": "-MjISFkIeuo0nHZAqXQk",
-      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
-      "attributes": [
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_name",
-          "current": "Hull: flatboard",
-          "max": "",
-          "id": "-MjISLeY7IPofZi2KF2a"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_description",
-          "current": "Armor Class 11\nHit Points 50\n\nA thin skin of material, wood boards or leather hide, stretched over flexible ribs. Used for small boats meant to shuttle from one place to another. Passengers and Crew sit within the hull. Sometimes a bait well or box is used for storage.",
-          "max": "",
-          "id": "-MjISNE5rMXzNVI8uwhb"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_tohitrange",
-          "current": "+0",
-          "max": "",
-          "id": "-MjISNG2dQtlNZS7jxo5"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_onhit",
-          "current": "",
-          "max": "",
-          "id": "-MjISNG7z4y0aCaZPdGK"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_damage_flag",
-          "current": "",
-          "max": "",
-          "id": "-MjISNGArbiasZ9eSPk_"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_crit",
-          "current": "",
-          "max": "",
-          "id": "-MjISNGC3aVT5ZBSzA-5"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_attack_crit2",
-          "current": "",
-          "max": "",
-          "id": "-MjISNGEbXYIyRaT6IHF"
-        },
-        {
-          "name": "repeating_npcaction_-MjISFkIeuo0nHZAqXQk_rollbase",
-          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
-          "max": "",
-          "id": "-MjISNGF8h7CHvubJ-fz"
-        }
-      ]
-    },
-    {
       "name": "Churning Hull",
       "type": "NPC Trait",
       "repeating_id": "-MjIZkiKj2Z8Zlxwlmuk",
@@ -359,6 +359,86 @@
           "current": "Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.",
           "max": "",
           "id": "-MjIZi8tZf5U6AjhTSq9"
+        }
+      ]
+    },
+    {
+      "name": "Hull Upgrades",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFPvTjVaH0MmQoUSrE",
+      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFPvTjVaH0MmQoUSrE_name",
+          "current": "Hull Upgrades",
+          "max": "",
+          "id": "-MlFPvTjVaH0MmQoUSrF"
+        },
+        {
+          "name": "repeating_npctrait_-MlFPvTjVaH0MmQoUSrE_description",
+          "current": "Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.",
+          "max": "",
+          "id": "-MlFPvTlLq5mRghaQGKC"
+        }
+      ]
+    },
+    {
+      "name": "Living Vessel",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFPvTnFXkNyWYLi4Kp",
+      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFPvTnFXkNyWYLi4Kp_name",
+          "current": "Living Vessel",
+          "max": "",
+          "id": "-MlFPvTnFXkNyWYLi4Kq"
+        },
+        {
+          "name": "repeating_npctrait_-MlFPvTnFXkNyWYLi4Kp_description",
+          "current": "This vessel’s hull was crafted in the Feywild under the direction of master eladrin shipwrights. It is a living plant, drawing sustenance from water and sunlight. Vines covered in thick leaves hang over its side, and the wood runs with fresh sap when damaged. The ship gains a +2 bonus to all Constitution checks or saving throws. As long as the ship has at least 1 hit point, it regains 10 hit points every minute.",
+          "max": "",
+          "id": "-MlFPvToTqMJqj1oa-7a"
+        }
+      ]
+    },
+    {
+      "name": "Reinforced Hull",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFPvTpnKFCbcSAblqT",
+      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFPvTpnKFCbcSAblqT_name",
+          "current": "Reinforced Hull",
+          "max": "",
+          "id": "-MlFPvTpnKFCbcSAblqU"
+        },
+        {
+          "name": "repeating_npctrait_-MlFPvTpnKFCbcSAblqT_description",
+          "current": "A master shipwright can use superior materials and clever design to make a ship’s hull more resilient. Such reinforcement doubles the hull’s hit point maximum.",
+          "max": "",
+          "id": "-MlFPvTreb_B5iAkBzf6"
+        }
+      ]
+    },
+    {
+      "name": "Vigilant Watch",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFPvTrebZB5iAkBzf7",
+      "old_character_id": "-MjYL7wpfHvRTuip4tsa",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFPvTrebZB5iAkBzf7_name",
+          "current": "Vigilant Watch",
+          "max": "",
+          "id": "-MlFPvTsPBl-AXbTRkYo"
+        },
+        {
+          "name": "repeating_npctrait_-MlFPvTrebZB5iAkBzf7_description",
+          "current": "A row of crystal orbs, each filled with viscous liquid and a beholder’s eyeball, is mounted along this ship’s hull. Invisible creatures are visible while on the ship or within 120 feet of it.",
+          "max": "",
+          "id": "-MlFPvTsPBl-AXbTRkYp"
         }
       ]
     }

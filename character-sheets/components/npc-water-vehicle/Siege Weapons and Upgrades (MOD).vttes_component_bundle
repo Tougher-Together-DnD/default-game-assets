@@ -6,109 +6,109 @@
       "name": "Arcane Cannon: Acid Jet",
       "type": "NPC Action",
       "repeating_id": "-MjEKH1tM81FZRyxWZPJ",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_name",
           "current": "Arcane Cannon: Acid Jet",
           "max": "",
-          "id": "-MjEKH1tM81F_RyxW_PK"
+          "id": "-MjINtxwS0wted2QTtcp"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKH1tM81F_RyxW_PL"
+          "id": "-MjINtxxbxPl3Djm4F7k"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_tohitrange",
           "current": "+0, Range 300, line",
           "max": "",
-          "id": "-MjEKH1u012JxnOo2SZQ"
+          "id": "-MjINtxy3pC3BleZ8zH0"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_onhit",
           "current": "22 (4d10) acid damage plus 11 (2d10) acid per round damage",
           "max": "",
-          "id": "-MjEKH1vAs_XiTQgcpo1"
+          "id": "-MjINtxzccxe49uVResB"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
           "max": "",
-          "id": "-MjEKH1wHQ2E3fx1_bIx"
+          "id": "-MjINtxzccxe49uVResC"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_crit",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH1wHQ2E3fx1_bIy"
+          "id": "-MjINty-Ul_JK3aILDA2"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_crit2",
           "current": "2d10",
           "max": "",
-          "id": "-MjEKH1xshsOlhhGnlk-"
+          "id": "-MjINty-Ul_JK3aILDA3"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKH1xshsOlhhGnlk0"
+          "id": "-MjINty0s2WmQLWenraN"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKH1yI99b6PFLEGBP"
+          "id": "-MjINty0s2WmQLWenraO"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_range",
           "current": "300",
           "max": "",
-          "id": "-MjEKH1zVaWRm-mYbxsw"
+          "id": "-MjINty1ZktsJ4X1eJGR"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_description",
           "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon discharges acid in a line 300 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw takes 11 (2d10) acid damage at the start of each of its turns; a creature can end this damage by using its action to wash off the acid with a pint or more of water.",
           "max": "",
-          "id": "-MjEKH1zVaWRm-mYbxsx"
+          "id": "-MjINty1ZktsJ4X1eJGS"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_tohit",
           "current": "0",
           "max": "",
-          "id": "-MjEKH2-QlGeTfC1qjQR"
+          "id": "-MjINty2_gPjfz569m_O"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_target",
           "current": "line",
           "max": "",
-          "id": "-MjEKH2-QlGeTfC1qjQS"
+          "id": "-MjINty2_gPjfz569m_P"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_damage",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH2-QlGeTfC1qjQT"
+          "id": "-MjINty33OqyB0PhNzu7"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_damagetype",
           "current": "acid",
           "max": "",
-          "id": "-MjEKH20aFMHXcCp4ZbM"
+          "id": "-MjINty33OqyB0PhNzu8"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_damage2",
           "current": "2d10",
           "max": "",
-          "id": "-MjEKH21OnXlO4EwFab8"
+          "id": "-MjINty4ypwF3hbxkuwl"
         },
         {
           "name": "repeating_npcaction_-MjEKH1tM81FZRyxWZPJ_attack_damagetype2",
           "current": "acid per round",
           "max": "",
-          "id": "-MjEKH21OnXlO4EwFab9"
+          "id": "-MjINty4ypwF3hbxkuwm"
         }
       ]
     },
@@ -116,97 +116,97 @@
       "name": "Arcane Cannon: Fire Jet",
       "type": "NPC Action",
       "repeating_id": "-MjEKH21OnXlO4EwFabA",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_name",
           "current": "Arcane Cannon: Fire Jet",
           "max": "",
-          "id": "-MjEKH21OnXlO4EwFabB"
+          "id": "-MjINty5YScd19J-TFxu"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKH22JlZANpEnXmb-"
+          "id": "-MjINty5YScd19J-TFxv"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_tohitrange",
           "current": "+0, Range 300, line",
           "max": "",
-          "id": "-MjEKH22JlZANpEnXmb0"
+          "id": "-MjINty5YScd19J-TFxw"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_onhit",
           "current": "33 (6d10) fire damage",
           "max": "",
-          "id": "-MjEKH24kGOu90Tjl6CI"
+          "id": "-MjINty637pCWR-G2SLu"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKH24kGOu90Tjl6CJ"
+          "id": "-MjINty637pCWR-G2SLv"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_crit",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKH25NIYQ-4cMny60"
+          "id": "-MjINty637pCWR-G2SLw"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKH25NIYQ-4cMny61"
+          "id": "-MjINty7RxU659Dh8PbF"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKH25NIYQ-4cMny62"
+          "id": "-MjINty7RxU659Dh8PbG"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_description",
           "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon discharges fire in a line 300 feet long and 5 feet wide. Each creature in the area must make a DC 15 Dexterity saving throw, taking 33 (6d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites any flammable Objects in the area that aren’t being worn or carried.",
           "max": "",
-          "id": "-MjEKH27tAAQFRR2MTUD"
+          "id": "-MjINty8Ajaw7i_UGT6-"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKH27tAAQFRR2MTUE"
+          "id": "-MjINty8Ajaw7i_UGT60"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_range",
           "current": "300",
           "max": "",
-          "id": "-MjEKH28nREgPjm2ApS4"
+          "id": "-MjINty9bWVhHtwMjCFR"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_target",
           "current": "line",
           "max": "",
-          "id": "-MjEKH28nREgPjm2ApS5"
+          "id": "-MjINty9bWVhHtwMjCFS"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_tohit",
           "current": "0",
           "max": "",
-          "id": "-MjEKH28nREgPjm2ApS6"
+          "id": "-MjINtyAlUqJWZud9Zh7"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_damage",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKH28nREgPjm2ApS7"
+          "id": "-MjINtyAlUqJWZud9Zh8"
         },
         {
           "name": "repeating_npcaction_-MjEKH21OnXlO4EwFabA_attack_damagetype",
           "current": "fire",
           "max": "",
-          "id": "-MjEKH2A0ipfnVK-uSVK"
+          "id": "-MjINtyBDdAA9rxNvn8S"
         }
       ]
     },
@@ -214,97 +214,97 @@
       "name": "Arcane Cannon: Frost Shot",
       "type": "NPC Action",
       "repeating_id": "-MjEKH2A0ipfnVK-uSVL",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_name",
           "current": "Arcane Cannon: Frost Shot",
           "max": "",
-          "id": "-MjEKH2A0ipfnVK-uSVM"
+          "id": "-MjINtyBDdAA9rxNvn8T"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKH2BAA6VMMiTkfrU"
+          "id": "-MjINtyCw4knz8Th4_SW"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_tohitrange",
           "current": "+0, Range 1,200, 30-foot radius Sphere",
           "max": "",
-          "id": "-MjEKH2BAA6VMMiTkfrV"
+          "id": "-MjINtyCw4knz8Th4_SX"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_onhit",
           "current": "22 (4d10) cold damage",
           "max": "",
-          "id": "-MjEKH2CcWmvb_jYXbZv"
+          "id": "-MjINtyDIQAXH1TJKnwd"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKH2CcWmvb_jYXbZw"
+          "id": "-MjINtyDIQAXH1TJKnwe"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_crit",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH2DEpcgfg8SWUO_"
+          "id": "-MjINtyDIQAXH1TJKnwf"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKH2DEpcgfg8SWUOa"
+          "id": "-MjINtyEgsFmJ_C1-bIE"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKH2EyslBK7hzm5Zl"
+          "id": "-MjINtyEgsFmJ_C1-bIF"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKH2EyslBK7hzm5Zm"
+          "id": "-MjINtyF4VJ_r9cC4x8x"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_range",
           "current": "1,200",
           "max": "",
-          "id": "-MjEKH2FunYvimN6e0Ty"
+          "id": "-MjINtyF4VJ_r9cC4x8y"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_description",
           "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon shoots a ball of frost to a point you can see within 1,200 feet of the Cannon. The ball then expands to form a 30-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 22 (4d10) cold damage, and its speed is reduced by 10 feet for 1 minute. On a successful save, the creature takes half as much damage, and its speed isn’t reduced. A creature whose speed is reduced by this Effect can repeat the save at the end of each of its turns, Ending the Effect on itself on a success.",
           "max": "",
-          "id": "-MjEKH2FunYvimN6e0Tz"
+          "id": "-MjINtyG720nIXiI_n06"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_tohit",
           "current": "",
           "max": "",
-          "id": "-MjEKH2GIXFJGi_NBEYI"
+          "id": "-MjINtyG720nIXiI_n07"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_target",
           "current": "30-foot radius Sphere",
           "max": "",
-          "id": "-MjEKH2GIXFJGi_NBEYJ"
+          "id": "-MjINtyH8dPmmL7Bn7v5"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_damage",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH2GIXFJGi_NBEYK"
+          "id": "-MjINtyH8dPmmL7Bn7v6"
         },
         {
           "name": "repeating_npcaction_-MjEKH2A0ipfnVK-uSVL_attack_damagetype",
           "current": "cold",
           "max": "",
-          "id": "-MjEKH2HhjvDAgJWer10"
+          "id": "-MjINtyIIGUL7wAM1MFO"
         }
       ]
     },
@@ -312,97 +312,97 @@
       "name": "Arcane Cannon: Lightning Shot",
       "type": "NPC Action",
       "repeating_id": "-MjEKH2IUPrNoSEzvfWW",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_description",
           "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon shoots a ball of lightning to a point you can see within 1,200 feet of the Cannon. The lightning then expands to form a 20-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one. Creatures wearing metal armor have disadvantage on the save.",
           "max": "",
-          "id": "-MjEKH2IUPrNoSEzvfWX"
+          "id": "-MjINtyIIGUL7wAM1MFP"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_tohitrange",
           "current": "+0, Range 1,200, 20-foot radius Sphere",
           "max": "",
-          "id": "-MjEKH2JVlLxpEdy79ZG"
+          "id": "-MjINtyJF2hvRlJ3g9Rf"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_onhit",
           "current": "33 (6d10) lightning damage",
           "max": "",
-          "id": "-MjEKH2JVlLxpEdy79ZH"
+          "id": "-MjINtyJF2hvRlJ3g9Rg"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKH2Kl1oJ5ixV0FRu"
+          "id": "-MjINtyKOsv3873uIQ8t"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_crit",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKH2LUT1saKQ8NXl4"
+          "id": "-MjINtyKOsv3873uIQ8u"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKH2LUT1saKQ8NXl5"
+          "id": "-MjINtyKOsv3873uIQ8v"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKH2M7dwrYr3hT7BC"
+          "id": "-MjINtyLD32ShvgCzabB"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_name",
           "current": "Arcane Cannon: Lightning Shot",
           "max": "",
-          "id": "-MjEKH2M7dwrYr3hT7BD"
+          "id": "-MjINtyMEMtmAb5Z4FgA"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKH2NPHm4JvpDLjuE"
+          "id": "-MjINtyMEMtmAb5Z4FgB"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKH2NPHm4JvpDLjuF"
+          "id": "-MjINtyNmN97co-WUXo2"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_tohit",
           "current": "",
           "max": "",
-          "id": "-MjEKH2NPHm4JvpDLjuG"
+          "id": "-MjINtyNmN97co-WUXo3"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_range",
           "current": "1,200",
           "max": "",
-          "id": "-MjEKH2O2fgRM0oqOKiO"
+          "id": "-MjINtyNmN97co-WUXo4"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_target",
           "current": "20-foot radius Sphere",
           "max": "",
-          "id": "-MjEKH2O2fgRM0oqOKiP"
+          "id": "-MjINtyOOPYQwxHZTUvQ"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_damage",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKH2PBFCWll5xuzQb"
+          "id": "-MjINtyPWBwxBVpbNl9K"
         },
         {
           "name": "repeating_npcaction_-MjEKH2IUPrNoSEzvfWW_attack_damagetype",
           "current": "lightning",
           "max": "",
-          "id": "-MjEKH2PBFCWll5xuzQc"
+          "id": "-MjINtyPWBwxBVpbNl9L"
         }
       ]
     },
@@ -410,97 +410,97 @@
       "name": "Arcane Cannon: Poison Shot",
       "type": "NPC Action",
       "repeating_id": "-MjEKH2QFztD1g7u0JxV",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_description",
           "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (4d10) poison damage and is Poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn’t Poisoned. A creature Poisoned in this way can repeat the saving throw at the end of each of its turns, Ending the Effect on itself on a success.",
           "max": "",
-          "id": "-MjEKH2QFztD1g7u0JxW"
+          "id": "-MjINtyQDUoWJpBMhcJG"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_tohitrange",
           "current": "+0, Range 60, 60-foot cone",
           "max": "",
-          "id": "-MjEKH2QFztD1g7u0JxX"
+          "id": "-MjINtyQDUoWJpBMhcJH"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_onhit",
           "current": "22 (4d10) poison damage",
           "max": "",
-          "id": "-MjEKH2QFztD1g7u0JxY"
+          "id": "-MjINtyQDUoWJpBMhcJI"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKH2RPGjDhgsaUUEG"
+          "id": "-MjINtyR9YhWJ7VZX53e"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_crit",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH2SU0JRUqC_Dy8A"
+          "id": "-MjINtyR9YhWJ7VZX53f"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKH2SU0JRUqC_Dy8B"
+          "id": "-MjINtyS3IW3vSkleaGk"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKH2TJWuXp1Lzp8pD"
+          "id": "-MjINtyS3IW3vSkleaGl"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_name",
           "current": "Arcane Cannon: Poison Shot",
           "max": "",
-          "id": "-MjEKH2TJWuXp1Lzp8pE"
+          "id": "-MjINtyTk3py7PprwMFx"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKH2TJWuXp1Lzp8pF"
+          "id": "-MjINtyUkrTPd5DAQJny"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKH2TJWuXp1Lzp8pG"
+          "id": "-MjINtyUkrTPd5DAQJnz"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_range",
           "current": "60",
           "max": "",
-          "id": "-MjEKH2Vj9BdYQYqhzXC"
+          "id": "-MjINtyVoUkF-2drQfww"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_target",
           "current": "60-foot cone",
           "max": "",
-          "id": "-MjEKH2Vj9BdYQYqhzXD"
+          "id": "-MjINtyVoUkF-2drQfwx"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_tohit",
           "current": "",
           "max": "",
-          "id": "-MjEKH2Wmj5v1wbxg5hA"
+          "id": "-MjINtyWOYIEBU7xkPmb"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_damage",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKH2Wmj5v1wbxg5hB"
+          "id": "-MjINtyWOYIEBU7xkPmc"
         },
         {
           "name": "repeating_npcaction_-MjEKH2QFztD1g7u0JxV_attack_damagetype",
           "current": "poison",
           "max": "",
-          "id": "-MjIKL5fq3OAA9kELOuu"
+          "id": "-MjINu-Cnq3pEI1GKdHr"
         }
       ]
     },
@@ -508,97 +508,97 @@
       "name": "Ballista: Bolt",
       "type": "NPC Action",
       "repeating_id": "-MjEKIZcBKctimM0yG82",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKIZcBKctimM0yG83"
+          "id": "-MjINtyXBccU3Fx86YO4"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_tohitrange",
-          "current": "+6, Range 120/480, one target",
+          "current": "+0, Range 120/480, one target",
           "max": "",
-          "id": "-MjEKIZdbSVXD2WEHEl6"
+          "id": "-MjINtyXBccU3Fx86YO5"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_onhit",
           "current": "16 (3d10) piercing damage",
           "max": "",
-          "id": "-MjEKIZeTKwFO48W8llX"
+          "id": "-MjINtyY5B05H7aHTdwh"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKIZeTKwFO48W8llY"
+          "id": "-MjINtyY5B05H7aHTdwi"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_crit",
           "current": "3d10",
           "max": "",
-          "id": "-MjEKIZgQR4aUBq62QKk"
+          "id": "-MjINtyZ0Ot6FmBzuPIQ"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKIZgQR4aUBq62QKl"
+          "id": "-MjINtyZ0Ot6FmBzuPIR"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKIZhOXz2bYvyxYzw"
+          "id": "-MjINty_LGSbK1yF30Xw"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_name",
           "current": "Ballista: Bolt",
           "max": "",
-          "id": "-MjEKIZi-1llsOtD78AF"
+          "id": "-MjINty_LGSbK1yF30Xx"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKIZi-1llsOtD78AG"
+          "id": "-MjINtya2watY6W3rBSJ"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_range",
           "current": "120/480",
           "max": "",
-          "id": "-MjEKIZjVxrdLzCGs9ad"
+          "id": "-MjINtya2watY6W3rBSK"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_tohit",
-          "current": "+6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKIZjVxrdLzCGs9ae"
+          "id": "-MjINtybAykQS2CijGqL"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKIZkEtaVtmZJQFss"
+          "id": "-MjINtybAykQS2CijGqM"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_damage",
           "current": "3d10",
           "max": "",
-          "id": "-MjEKIZl7c2gBq0nUCEb"
+          "id": "-MjINtycE9-4p0m5FLpD"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_attack_damagetype",
           "current": "piercing",
           "max": "",
-          "id": "-MjEKIZl7c2gBq0nUCEc"
+          "id": "-MjINtycE9-4p0m5FLpE"
         },
         {
           "name": "repeating_npcaction_-MjEKIZcBKctimM0yG82_description",
           "current": "Armor Class 15\nHit points 50 each",
           "max": "",
-          "id": "-MjIKdFNQA8Sv2GGeTRh"
+          "id": "-MjINu-DBcyixEh7Vo-I"
         }
       ]
     },
@@ -606,85 +606,85 @@
       "name": "Ballista: Net Bolt",
       "type": "NPC Action",
       "repeating_id": "-MjEKIZl7c2gBq0nUCEd",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKIZl7c2gBq0nUCEe"
+          "id": "-MjINtydfMkK3fJOdm7u"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_tohitrange",
-          "current": "+6, Range 120/480, one target",
+          "current": "+0, Range 120/480, one target",
           "max": "",
-          "id": "-MjEKIZmjeT4f0azFyIh"
+          "id": "-MjINtydfMkK3fJOdm7v"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_onhit",
           "current": "",
           "max": "",
-          "id": "-MjEKIZmjeT4f0azFyIi"
+          "id": "-MjINtyeowZhUKFMD2_V"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_damage_flag",
           "current": "",
           "max": "",
-          "id": "-MjEKIZmjeT4f0azFyIj"
+          "id": "-MjINtyeowZhUKFMD2_W"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_crit",
           "current": "",
           "max": "",
-          "id": "-MjEKIZnm3G1huBlndxL"
+          "id": "-MjINtyfukCzxY61tble"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKIZooO_uEyBlDqkT"
+          "id": "-MjINtygl69iblmr43xR"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKIZooO_uEyBlDqkU"
+          "id": "-MjINtygl69iblmr43xS"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_name",
           "current": "Ballista: Net Bolt",
           "max": "",
-          "id": "-MjEKIZpg6-JUaAvXBkQ"
+          "id": "-MjINtyhrBtVnPyKf7ez"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKIZpg6-JUaAvXBkR"
+          "id": "-MjINtyhrBtVnPyKf7f-"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_range",
           "current": "120/480",
           "max": "",
-          "id": "-MjEKIZqgRjQupBySGwX"
+          "id": "-MjINtyiqIaXb8WM75rI"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_tohit",
-          "current": "+6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKIZsjARYiC6MOx2Z"
+          "id": "-MjINtyiqIaXb8WM75rJ"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_description",
           "current": "Armor Class 15\nHit points 50 each\n\nA Large or smaller creature hit by a net is Restrained until it is freed. A net has no Effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. Dealing 10 slashing damage to the net (AC 15) also frees the creature without harming it, Ending the Effect and destroying the net. When you use an action, Bonus Action, or Reaction to Attack with a net, you can make only one Attack regardless of the number of attacks you can normally make.",
           "max": "",
-          "id": "-MjEKIZsjARYiC6MOx2_"
+          "id": "-MjINtyjPzk2iq8MuLNl"
         },
         {
           "name": "repeating_npcaction_-MjEKIZl7c2gBq0nUCEd_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKIZsjARYiC6MOx2a"
+          "id": "-MjINtyjPzk2iq8MuLNm"
         }
       ]
     },
@@ -692,97 +692,97 @@
       "name": "Cannon: Cannonball",
       "type": "NPC Action",
       "repeating_id": "-MjEKJxfrywPGmgVphyv",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_name",
           "current": "Cannon: Cannonball",
           "max": "",
-          "id": "-MjEKJxfrywPGmgVphyw"
+          "id": "-MjINtyjPzk2iq8MuLNn"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKJxhCqMNW9HIOno2"
+          "id": "-MjINtykV-gJiu8HKC9c"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_tohitrange",
-          "current": "+6, Range 600/2,400, one target",
+          "current": "+0, Range 600/2,400, one target",
           "max": "",
-          "id": "-MjEKJxiOufVeLIgqJT8"
+          "id": "-MjINtyl2KtS4NymlARl"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_onhit",
           "current": "44 (8d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKJxiOufVeLIgqJT9"
+          "id": "-MjINtyl2KtS4NymlARm"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKJxjXheBdGXU2FeC"
+          "id": "-MjINtyl2KtS4NymlARn"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_crit",
           "current": "8d10",
           "max": "",
-          "id": "-MjEKJxjXheBdGXU2FeD"
+          "id": "-MjINtyms8pvuMCtZs1F"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKJxkyE6-mvq6eAzh"
+          "id": "-MjINtyms8pvuMCtZs1G"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKJxkyE6-mvq6eAzi"
+          "id": "-MjINtynoSLbDplx3-TN"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKJxlXy6PcJhg5Ox6"
+          "id": "-MjINtynoSLbDplx3-TO"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_range",
           "current": "600/2,400",
           "max": "",
-          "id": "-MjEKJxmLtQfYaOYD_JJ"
+          "id": "-MjINtyo4ikPAoc9Gjw4"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_tohit",
-          "current": "6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKJxnWIXXOtufxbE3"
+          "id": "-MjINtyo4ikPAoc9Gjw5"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKJxo-LQQZZzyiwOj"
+          "id": "-MjINtypsWbYYeuuW5Ft"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_damage",
           "current": "8d10",
           "max": "",
-          "id": "-MjEKJxo-LQQZZzyiwOk"
+          "id": "-MjINtypsWbYYeuuW5Fu"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKJxp-PisEy2gVjgG"
+          "id": "-MjINtyqY_u62-LcgAEs"
         },
         {
           "name": "repeating_npcaction_-MjEKJxfrywPGmgVphyv_description",
           "current": "Armor Class 19\nHit points 75",
           "max": "",
-          "id": "-MjIKrrZoZIxWod6bkwQ"
+          "id": "-MjINu-HXqnk8t6Hgsso"
         }
       ]
     },
@@ -790,97 +790,97 @@
       "name": "Cannon: Chain Cannonball",
       "type": "NPC Action",
       "repeating_id": "-MjEKJxp-PisEy2gVjgH",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_name",
           "current": "Cannon: Chain Cannonball",
           "max": "",
-          "id": "-MjEKJxp-PisEy2gVjgI"
+          "id": "-MjINtyrPVVbdpyoYdQT"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKJxqqppPdFK7_mD_"
+          "id": "-MjINtyrPVVbdpyoYdQU"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_tohitrange",
-          "current": "+6, Range 300/600, one target",
+          "current": "+0, Range 300/600, one target",
           "max": "",
-          "id": "-MjEKJxqqppPdFK7_mDa"
+          "id": "-MjINtysW55xpqjCFTEg"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_onhit",
           "current": "22 (4d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKJxryygWaqqlb5nW"
+          "id": "-MjINtysW55xpqjCFTEh"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKJxryygWaqqlb5nX"
+          "id": "-MjINtytmf17ntaMOjui"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_crit",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKJxsXShSa7EBegVd"
+          "id": "-MjINtytmf17ntaMOjuj"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKJxsXShSa7EBegVe"
+          "id": "-MjINtyuKIboEQzqquEa"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKJxtJif3F5e5G35O"
+          "id": "-MjINtyuKIboEQzqquEb"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKJxtJif3F5e5G35P"
+          "id": "-MjINtyvSdkUWVqkce_O"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_range",
           "current": "300/600",
           "max": "",
-          "id": "-MjEKJxuFbrsvLRQbg61"
+          "id": "-MjINtyvSdkUWVqkce_P"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_tohit",
-          "current": "6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKJxuFbrsvLRQbg62"
+          "id": "-MjINtywIoi9c32VWoxY"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKJxvnbSPh8tmvQcR"
+          "id": "-MjINtywIoi9c32VWoxZ"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_damage",
           "current": "4d10",
           "max": "",
-          "id": "-MjEKJxwSqUvZJA-cdNl"
+          "id": "-MjINtyxXaXSvwrv0Xkt"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKJxwSqUvZJA-cdNm"
+          "id": "-MjINtyxXaXSvwrv0Xku"
         },
         {
           "name": "repeating_npcaction_-MjEKJxp-PisEy2gVjgH_description",
           "current": "Armor Class 19\nHit points 75\nA chain-cannonball are three smaller cannonballs chained together in a bola type device. Does double damage against \"Movement\" components of a ship or vehicle.",
           "max": "",
-          "id": "-MjEKJxwSqUvZJA-cdNn"
+          "id": "-MjINtz-G2YvoaW8vBmn"
         }
       ]
     },
@@ -888,97 +888,97 @@
       "name": "Large Cannon: Cannonball",
       "type": "NPC Action",
       "repeating_id": "-MjEKLR1d5MifGrSS9td",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_name",
           "current": "Large Cannon: Cannonball",
           "max": "",
-          "id": "-MjEKLR1d5MifGrSS9te"
+          "id": "-MjINtz0EVy3K8Xo5au3"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKLR2fCYbxHAcm0L7"
+          "id": "-MjINtz0EVy3K8Xo5au4"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_tohitrange",
-          "current": "+6, Range 800/2,400, one target",
+          "current": "+0, Range 800/2,400, one target",
           "max": "",
-          "id": "-MjEKLR3N0qpJ00ox5yU"
+          "id": "-MjINtz0EVy3K8Xo5au5"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_onhit",
           "current": "55 (10d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKLR3N0qpJ00ox5yV"
+          "id": "-MjINtz1D9xwZbkxYw74"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKLR4EaCuYLnT7s6R"
+          "id": "-MjINtz1D9xwZbkxYw75"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_crit",
           "current": "10d10",
           "max": "",
-          "id": "-MjEKLR4EaCuYLnT7s6S"
+          "id": "-MjINtz2BmskWilDBHXF"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKLR5Cz4-09h_VSmw"
+          "id": "-MjINtz2BmskWilDBHXG"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKLR5Cz4-09h_VSmx"
+          "id": "-MjINtz2BmskWilDBHXH"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKLR64z0YSapuR1SB"
+          "id": "-MjINtz3VS9eVRppp8XP"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_range",
           "current": "800/2,400",
           "max": "",
-          "id": "-MjEKLR64z0YSapuR1SC"
+          "id": "-MjINtz3VS9eVRppp8XQ"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_tohit",
-          "current": "6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKLR7n33WeYGc41C2"
+          "id": "-MjINtz4PEmRPywtm5DW"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKLR8espY3Igt0VhM"
+          "id": "-MjINtz4PEmRPywtm5DX"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_damage",
           "current": "10d10",
           "max": "",
-          "id": "-MjEKLR8espY3Igt0VhN"
+          "id": "-MjINtz6GinNg97hfzE0"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKLR8espY3Igt0VhO"
+          "id": "-MjINtz6GinNg97hfzE1"
         },
         {
           "name": "repeating_npcaction_-MjEKLR1d5MifGrSS9td_description",
           "current": "Armor Class 19\nHit points 100",
           "max": "",
-          "id": "-MjIKx4eLre1kopZCQxQ"
+          "id": "-MjINu-HXqnk8t6Hgssp"
         }
       ]
     },
@@ -986,97 +986,97 @@
       "name": "Large Cannon: Chain Cannonball",
       "type": "NPC Action",
       "repeating_id": "-MjEKLR923Uqbg5tLRoS",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_name",
           "current": "Large Cannon: Chain Cannonball",
           "max": "",
-          "id": "-MjEKLR923Uqbg5tLRoT"
+          "id": "-MjINtz7m7MFQ-DsOfbl"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKLR923Uqbg5tLRoU"
+          "id": "-MjINtz7m7MFQ-DsOfbm"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_tohitrange",
-          "current": "+6, Range 400/800, one target",
+          "current": "+0, Range 400/800, one target",
           "max": "",
-          "id": "-MjEKLRAkOJeamr2yEzv"
+          "id": "-MjINtz8-w-uzhcxtgES"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_onhit",
           "current": "33 (6d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKLRAkOJeamr2yEzw"
+          "id": "-MjINtz8-w-uzhcxtgET"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKLRB1EBJAWOfpMYq"
+          "id": "-MjINtz8-w-uzhcxtgEU"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_crit",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKLRB1EBJAWOfpMYr"
+          "id": "-MjINtz99OvjJZ92ONT9"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKLRDcVYj-OCASyMC"
+          "id": "-MjINtz99OvjJZ92ONTA"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKLRDcVYj-OCASyMD"
+          "id": "-MjINtzA3I6qzGTPaYF-"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKLREiCFShu1U7AXj"
+          "id": "-MjINtzA3I6qzGTPaYF0"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_range",
           "current": "400/800",
           "max": "",
-          "id": "-MjEKLREiCFShu1U7AXk"
+          "id": "-MjINtzA3I6qzGTPaYF1"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_tohit",
-          "current": "6",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKLREiCFShu1U7AXl"
+          "id": "-MjINtzA3I6qzGTPaYF2"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKLREiCFShu1U7AXm"
+          "id": "-MjINtzBE1dxlDS2SCzL"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_damage",
           "current": "6d10",
           "max": "",
-          "id": "-MjEKLRGP7ApTF1c4R9d"
+          "id": "-MjINtzBE1dxlDS2SCzM"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKLRGP7ApTF1c4R9e"
+          "id": "-MjINtzCxDb7whwfHpwP"
         },
         {
           "name": "repeating_npcaction_-MjEKLR923Uqbg5tLRoS_description",
           "current": "Armor Class 19\nHit points 100\n\nA chain-cannonball are three smaller cannonballs chained together in a bola type device. Does double damage against \"Movement\" components of a ship or vehicle.",
           "max": "",
-          "id": "-MjEKLRGP7ApTF1c4R9f"
+          "id": "-MjINtzCxDb7whwfHpwQ"
         }
       ]
     },
@@ -1084,97 +1084,97 @@
       "name": "Mangonel: Stone",
       "type": "NPC Action",
       "repeating_id": "-MjEKMXvFl3NP0W2TpWm",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKMXvFl3NP0W2TpWn"
+          "id": "-MjINtzDs_plfOqW16NR"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_tohitrange",
-          "current": "+5, Range 200/800, one target",
+          "current": "+0, Range 200/800, one target",
           "max": "",
-          "id": "-MjEKMXwizykDlC1mE-P"
+          "id": "-MjINtzDs_plfOqW16NS"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_onhit",
           "current": "27 (5d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKMXx8gMfV9RBR4HL"
+          "id": "-MjINtzFK56EHxVQAoJ_"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKMXx8gMfV9RBR4HM"
+          "id": "-MjINtzFK56EHxVQAoJa"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_crit",
           "current": "5d10",
           "max": "",
-          "id": "-MjEKMXyzkUNY64FfOly"
+          "id": "-MjINtzG-1SlQ3gsyNWB"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKMXyzkUNY64FfOlz"
+          "id": "-MjINtzG-1SlQ3gsyNWC"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKMXyzkUNY64FfOm-"
+          "id": "-MjINtzG-1SlQ3gsyNWD"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_name",
           "current": "Mangonel: Stone",
           "max": "",
-          "id": "-MjEKMXyzkUNY64FfOm0"
+          "id": "-MjINtzHLrU3koy6a5ay"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKMY-sm6E5fG6UTzs"
+          "id": "-MjINtzHLrU3koy6a5az"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_range",
           "current": "200/800",
           "max": "",
-          "id": "-MjEKMY-sm6E5fG6UTzt"
+          "id": "-MjINtzI_STx_ZSWXBW6"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_description",
           "current": "Armor Class 15\nHit points 100\n\nThis payload can hit Targets behind cover (can’t hit Targets within 60 feet of it).\n\nA mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different Effects.",
           "max": "",
-          "id": "-MjEKMY-sm6E5fG6UTzu"
+          "id": "-MjINtzI_STx_ZSWXBW7"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKMY0IV6WdP7QGIv5"
+          "id": "-MjINtzJzgX35mBvJQPY"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_tohit",
-          "current": "5",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKMY0IV6WdP7QGIv6"
+          "id": "-MjINtzKv1MsX9I-5Nns"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_damage",
           "current": "5d10",
           "max": "",
-          "id": "-MjEKMY1DhlXfeV_qVeB"
+          "id": "-MjINtzKv1MsX9I-5Nnt"
         },
         {
           "name": "repeating_npcaction_-MjEKMXvFl3NP0W2TpWm_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKMY1DhlXfeV_qVeC"
+          "id": "-MjINtzLglCGgR7WYt_b"
         }
       ]
     },
@@ -1182,67 +1182,67 @@
       "name": "Naval Ram",
       "type": "NPC Action",
       "repeating_id": "-MjILOPcajXscaSO3S0Y",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_flag",
           "current": "0",
           "max": "",
-          "id": "-MjILOps96w-o09kBLpT"
+          "id": "-MjINu-IfylmKpcBtg9Q"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_tohitrange",
           "current": "+0",
           "max": "",
-          "id": "-MjILOsOcUDWmEmdgGm6"
+          "id": "-MjINu-IfylmKpcBtg9R"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_onhit",
           "current": "",
           "max": "",
-          "id": "-MjILOsQBsSDiHg0FBQZ"
+          "id": "-MjINu-JLdiL5a5LZmyZ"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_damage_flag",
           "current": "",
           "max": "",
-          "id": "-MjILOsTL1d1Yc2p4NTX"
+          "id": "-MjINu-JLdiL5a5LZmy_"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_crit",
           "current": "",
           "max": "",
-          "id": "-MjILOsUv1XbXYVuw_26"
+          "id": "-MjINu-KOUpegISqMAY5"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjILOsVck3gfvjMpmZu"
+          "id": "-MjINu-KOUpegISqMAY6"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_rollbase",
           "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjILOsW_uMV8UuzhaXL"
+          "id": "-MjINu-LQap96RYW6EOu"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_name",
           "current": "Naval Ram",
           "max": "",
-          "id": "-MjILWgA1c7536PNuz7C"
+          "id": "-MjINu-LQap96RYW6EOv"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_attack_tohit",
           "current": "0",
           "max": "",
-          "id": "-MjIL__mM57Q7d_o08eg"
+          "id": "-MjINu-Mwle7WVADEGtH"
         },
         {
           "name": "repeating_npcaction_-MjILOPcajXscaSO3S0Y_description",
           "current": "Armor Class 20\nHit points 100 (damage threshold 10)\n\nThe Water Vehicle has advantage on all Saving Throws relating to Crashing when it crashes into a creature or an object. Any damage it takes from the crash is applied to the naval ram rather than to the ship. These benefits don't apply if another vessel crashes into the Water Vehicle.",
           "max": "",
-          "id": "-MjILeoQT50z9Q8YE380"
+          "id": "-MjINu-Mwle7WVADEGtI"
         }
       ]
     },
@@ -1250,91 +1250,91 @@
       "name": "Ram",
       "type": "NPC Action",
       "repeating_id": "-MjEKPctg2Fz4Zhsl7jx",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_name",
           "current": "Ram",
           "max": "",
-          "id": "-MjEKPctg2Fz4Zhsl7jy"
+          "id": "-MjINtzMmyO1dCa2ATlA"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKPcuQs416IAqDltu"
+          "id": "-MjINtzMmyO1dCa2ATlB"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_tohitrange",
-          "current": "+8, Reach 5ft, one target",
+          "current": "+0, Reach 5ft, one target",
           "max": "",
-          "id": "-MjEKPcvwCoO0adRObol"
+          "id": "-MjINtzNf_brtCt47x56"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_onhit",
           "current": "16 (3d10) bludgeoning damage",
           "max": "",
-          "id": "-MjEKPcvwCoO0adRObom"
+          "id": "-MjINtzNf_brtCt47x57"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKPcvwCoO0adRObon"
+          "id": "-MjINtzODCaXVw1KmhZl"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_crit",
           "current": "3d10",
           "max": "",
-          "id": "-MjEKPcx8I5NmGrLKCDQ"
+          "id": "-MjINtzODCaXVw1KmhZm"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKPcx8I5NmGrLKCDR"
+          "id": "-MjINtzPLsGwTb9TznEu"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKPcy9p05soDdlnin"
+          "id": "-MjINtzPLsGwTb9TznEv"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_range",
           "current": "5ft",
           "max": "",
-          "id": "-MjEKPcy9p05soDdlnio"
+          "id": "-MjINtzPLsGwTb9TznEw"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_tohit",
-          "current": "8",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKPcy9p05soDdlnip"
+          "id": "-MjINtzQPybOyKT8FFdz"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKPcz-nZJnyB4kAH8"
+          "id": "-MjINtzQPybOyKT8FFe-"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_damage",
           "current": "3d10",
           "max": "",
-          "id": "-MjEKPd-qUIiWfhFJRgq"
+          "id": "-MjINtzRw4lUQFgQGv76"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_attack_damagetype",
           "current": "bludgeoning",
           "max": "",
-          "id": "-MjEKPd-qUIiWfhFJRgr"
+          "id": "-MjINtzRw4lUQFgQGv77"
         },
         {
           "name": "repeating_npcaction_-MjEKPctg2Fz4Zhsl7jx_description",
           "current": "Armor Class 15\nHit points 100\n\nDouble Damage against Buildings.\n\nIt takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.\n",
           "max": "",
-          "id": "-MjEKPd-qUIiWfhFJRgs"
+          "id": "-MjINtzSsQIX4wI0Frbt"
         }
       ]
     },
@@ -1342,91 +1342,91 @@
       "name": "Suspended Cauldron: Boiling Oil",
       "type": "NPC Action",
       "repeating_id": "-MjEKS5syHewQ6uCjsAS",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_name",
           "current": "Suspended Cauldron: Boiling Oil",
           "max": "",
-          "id": "-MjEKS5syHewQ6uCjsAT"
+          "id": "-MjINtzSsQIX4wI0Frbu"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKS5u1isMy6zcHOqv"
+          "id": "-MjINtzTq-Dieqj25-F-"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_tohitrange",
           "current": "+0, Range infinite, 10-foot Square",
           "max": "",
-          "id": "-MjEKS5wxUpwEhAnN0iX"
+          "id": "-MjINtzTq-Dieqj25-F0"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_onhit",
           "current": "10 (3d6) fire damage",
           "max": "",
-          "id": "-MjEKS5x3ez7yoTCG7Co"
+          "id": "-MjINtzUcHA4pxvK-vn5"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_damage_flag",
           "current": "{{damage=1}} {{dmg1flag=1}} ",
           "max": "",
-          "id": "-MjEKS5x3ez7yoTCG7Cp"
+          "id": "-MjINtzVgg_abxDU9GCh"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_crit",
           "current": "3d6",
           "max": "",
-          "id": "-MjEKS5ymyoOgXyE76D-"
+          "id": "-MjINtzWtXkt_M37fPHj"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKS5ymyoOgXyE76D0"
+          "id": "-MjINtzWtXkt_M37fPHk"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKS5zwHXs6kVeBr8w"
+          "id": "-MjINtzWtXkt_M37fPHl"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_description",
           "current": "Armor Class 19\nHit points 20\n\nThe cauldron pours Boiling Oil onto a 10-foot-square area directly below it. Any creature in the area must make a DC 15 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.\n",
           "max": "",
-          "id": "-MjEKS5zwHXs6kVeBr8x"
+          "id": "-MjINtzXL1v-LoL0zoXt"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_range",
           "current": "infinite",
           "max": "",
-          "id": "-MjEKS6-5-B667ftH-uy"
+          "id": "-MjINtzXL1v-LoL0zoXu"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_target",
           "current": "10-foot Square",
           "max": "",
-          "id": "-MjEKS60b7g1e0r-hJUY"
+          "id": "-MjINtzYTye-Xnsu7J3v"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_damage",
           "current": "3d6",
           "max": "",
-          "id": "-MjEKS60b7g1e0r-hJUZ"
+          "id": "-MjINtzYTye-Xnsu7J3w"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_damagetype",
           "current": "fire",
           "max": "",
-          "id": "-MjEKS60b7g1e0r-hJU_"
+          "id": "-MjINtzZciflmd-HGo-l"
         },
         {
           "name": "repeating_npcaction_-MjEKS5syHewQ6uCjsAS_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKS61Uv53DVbBqsis"
+          "id": "-MjINtzZciflmd-HGo-m"
         }
       ]
     },
@@ -1434,85 +1434,85 @@
       "name": "Trebuchet: Stone",
       "type": "NPC Action",
       "repeating_id": "-MjEKTGw5EZ4KkhHovuo",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_name",
           "current": "Trebuchet: Stone",
           "max": "",
-          "id": "-MjEKTGw5E_4KkhHovup"
+          "id": "-MjINtz_4R0wsWLaqAet"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_flag",
           "current": "on",
           "max": "",
-          "id": "-MjEKTGxLN2kf_2MnNAw"
+          "id": "-MjINtz_4R0wsWLaqAeu"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_tohitrange",
-          "current": "+5, Range 300/1,200, one target",
+          "current": "+0, Range 300/1,200, one target",
           "max": "",
-          "id": "-MjEKTGypSyE1qZWR2Sc"
+          "id": "-MjINtz_4R0wsWLaqAev"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_onhit",
           "current": "",
           "max": "",
-          "id": "-MjEKTGzX2gVtZBORTtw"
+          "id": "-MjINtzb_mar8X4XDb5Z"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_damage_flag",
           "current": "",
           "max": "",
-          "id": "-MjEKTGzX2gVtZBORTtx"
+          "id": "-MjINtzb_mar8X4XDb5_"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_crit",
           "current": "",
           "max": "",
-          "id": "-MjEKTH-n_vMQlyk5sQR"
+          "id": "-MjINtzcwxtOqvPHXAZH"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_crit2",
           "current": "",
           "max": "",
-          "id": "-MjEKTH-n_vMQlyk5sQS"
+          "id": "-MjINtzcwxtOqvPHXAZI"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_rollbase",
           "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
           "max": "",
-          "id": "-MjEKTH0ZiDJBaR7W6tH"
+          "id": "-MjINtzcwxtOqvPHXAZJ"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_type",
           "current": "Ranged",
           "max": "",
-          "id": "-MjEKTH0ZiDJBaR7W6tI"
+          "id": "-MjINtzdIzIcrj-lQ7Cg"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_range",
           "current": "300/1,200",
           "max": "",
-          "id": "-MjEKTH11DazliJTrw0H"
+          "id": "-MjINtzdIzIcrj-lQ7Ch"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_target",
           "current": "one target",
           "max": "",
-          "id": "-MjEKTH2kBsPgqt9KOqY"
+          "id": "-MjINtzefhgJYrfogYrj"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_attack_tohit",
-          "current": "5",
+          "current": "@{npc_performance}",
           "max": "",
-          "id": "-MjEKTH2kBsPgqt9KOqZ"
+          "id": "-MjINtzefhgJYrfogYrk"
         },
         {
           "name": "repeating_npcaction_-MjEKTGw5EZ4KkhHovuo_description",
           "current": "Armor Class 15\nHit points 150\n\nDouble Damage against Buildings.",
           "max": "",
-          "id": "-MjEKTH2kBsPgqt9KOq_"
+          "id": "-MjINtzfucwt4zaYqtWb"
         }
       ]
     },
@@ -1520,19 +1520,19 @@
       "name": "Arcane Artillery",
       "type": "NPC Trait",
       "repeating_id": "-MjIMkj4a7FZCgd2uGtE",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npctrait_-MjIMkj4a7FZCgd2uGtE_name",
           "current": "Arcane Artillery",
           "max": "",
-          "id": "-MjIMrV5D_hVGMAIxPX6"
+          "id": "-MjINu-OG8EQLZCZbxBp"
         },
         {
           "name": "repeating_npctrait_-MjIMkj4a7FZCgd2uGtE_description",
           "current": "Using methods similar to those used to produce magic weapons, a skilled spellcaster imbues a ship’s weapon with destructive energy. This weapon gains a +2 bonus to its attack and damage rolls, and its attacks count as magical.",
           "max": "",
-          "id": "-MjIMtKth_D4MbPBDCnV"
+          "id": "-MjINu-OG8EQLZCZbxBq"
         }
       ]
     },
@@ -1540,19 +1540,19 @@
       "name": "Concussive Rounds",
       "type": "NPC Trait",
       "repeating_id": "-MjIN2CnPNSTZVUw5nTM",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npctrait_-MjIN2CnPNSTZVUw5nTM_name",
           "current": "Concussive Rounds",
           "max": "",
-          "id": "-MjIN4KJNpoAiysseAAF"
+          "id": "-MjINu-QF6rPcfnq7I9k"
         },
         {
           "name": "repeating_npctrait_-MjIN2CnPNSTZVUw5nTM_description",
           "current": "Enhanced by abjuration magic, this weapon’s attacks burst with raucous noise capable of momentarily distracting and disorienting enemy crews. If this weapon hits a vehicle’s hull, that vehicle’s speed decreases by 2d10 feet until the start of the attacker’s next turn.",
           "max": "",
-          "id": "-MjIN5qg2_OCskWGNYlf"
+          "id": "-MjINu-QF6rPcfnq7I9l"
         }
       ]
     },
@@ -1560,19 +1560,19 @@
       "name": "Explosive Rounds",
       "type": "NPC Trait",
       "repeating_id": "-MjIN6a-AnFCN6VS-Zxg",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npctrait_-MjIN6a-AnFCN6VS-Zxg_name",
           "current": "Explosive Rounds",
           "max": "",
-          "id": "-MjINA0y5noas6st3gW8"
+          "id": "-MjINu-RdRNxpqa2CW8q"
         },
         {
           "name": "repeating_npctrait_-MjIN6a-AnFCN6VS-Zxg_description",
           "current": "Drawing on powerful evocation magic, this weapon’s attacks are imbued with unstable energy that explodes in a fiery blast. When this weapon hits, it deals an extra 2d6 fire damage.",
           "max": "",
-          "id": "-MjINBDqJGsXKr5Gizuu"
+          "id": "-MjINu-RdRNxpqa2CW8r"
         }
       ]
     },
@@ -1580,19 +1580,39 @@
       "name": "Grasping Rounds",
       "type": "NPC Trait",
       "repeating_id": "-MjINBSfvCprIfUVvTi8",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npctrait_-MjINBSfvCprIfUVvTi8_name",
           "current": "Grasping Rounds",
           "max": "",
-          "id": "-MjINIM5AJE6hdxIbiJf"
+          "id": "-MjINu-SKsqANAj_6GXP"
         },
         {
           "name": "repeating_npctrait_-MjINBSfvCprIfUVvTi8_description",
           "current": "This weapon creates spectral chains that trail after its shots, restraining enemy vessels in their grasp. When this weapon hits a ship, that vehicle must succeed on a DC 14 Strength saving throw or it can’t move away from the attacker. As an action, the attacking ship can end this effect, and the target can end it by taking an action and succeeding on a DC 14 Strength check.",
           "max": "",
-          "id": "-MjINKDM8ufcz29WAY_N"
+          "id": "-MjINu-SKsqANAj_6GXQ"
+        }
+      ]
+    },
+    {
+      "name": "Modified Component Set",
+      "type": "NPC Trait",
+      "repeating_id": "-MjIQt9xnxPEOn7fe-i3",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MjIQt9xnxPEOn7fe-i3_name",
+          "current": "Modified Component Set",
+          "max": "",
+          "id": "-MjIQwUxTYWAEIcnG6eY"
+        },
+        {
+          "name": "repeating_npctrait_-MjIQt9xnxPEOn7fe-i3_description",
+          "current": "If a siege weapon gets a \"To Hit\" bonus, the modifier is instead replaced with the Crew Morale, or if operated by a Player Character the Player's Proficiency Bonus.\n\nCrew Morale is recorded on the NPC sheet as \"Performance+X\" under skills.",
+          "max": "",
+          "id": "-MjIRPzcfPKAa_Zx543e"
         }
       ]
     },
@@ -1600,19 +1620,19 @@
       "name": "Weapons Upgrades",
       "type": "NPC Trait",
       "repeating_id": "-MjIMtxXj8MZG0S3Hg7f",
-      "old_character_id": "-MktNWe3rBXX7AOAakxU",
+      "old_character_id": "-MktQyTKyWKMKd_q2x4F",
       "attributes": [
         {
           "name": "repeating_npctrait_-MjIMtxXj8MZG0S3Hg7f_name",
           "current": "Weapons Upgrades",
           "max": "",
-          "id": "-MjIMxh74SUQbbzTACsN"
+          "id": "-MjINu-OG8EQLZCZbxBr"
         },
         {
           "name": "repeating_npctrait_-MjIMtxXj8MZG0S3Hg7f_description",
           "current": "The following upgrades can apply to any weapon mounted aboard a ship. A component can gain the benefits of one upgrade, or two upgrades if one of the upgrades is Arcane Artillery.",
           "max": "",
-          "id": "-MjIMzuyMZ0Rrd-mtAo4"
+          "id": "-MjINu-Pb2b6KpvfkbjZ"
         }
       ]
     }

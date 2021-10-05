@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Half Cover",
+      "type": "acmod",
+      "repeating_id": "-MlFMPP7ZIXeq5KuL4Uk",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_acmod_-MlFMPP7ZIXeq5KuL4Uk_global_ac_val",
+          "current": "2",
+          "max": "",
+          "id": "-MlFMQaPbl11vZ22gR8Y"
+        },
+        {
+          "name": "repeating_acmod_-MlFMPP7ZIXeq5KuL4Uk_global_ac_name",
+          "current": "Half Cover",
+          "max": "",
+          "id": "-MlFMWUjWyhPdPCVBaaY"
+        },
+        {
+          "name": "repeating_acmod_-MlFMPP7ZIXeq5KuL4Uk_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFMXFnMDRjWLWU2lmp"
+        }
+      ]
+    },
+    {
+      "name": "Three-Quarters Cover",
+      "type": "acmod",
+      "repeating_id": "-MlFMY0pwKUHBNZovZF6",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_acmod_-MlFMY0pwKUHBNZovZF6_global_ac_name",
+          "current": "Three-Quarters Cover",
+          "max": "",
+          "id": "-MlFMb-CYlz77y6zRskh"
+        },
+        {
+          "name": "repeating_acmod_-MlFMY0pwKUHBNZovZF6_global_ac_val",
+          "current": "5",
+          "max": "",
+          "id": "-MlFMblBQ635hUoZPsiw"
+        },
+        {
+          "name": "repeating_acmod_-MlFMY0pwKUHBNZovZF6_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFMbnhs25ORAhTiRwp"
+        }
+      ]
+    },
+    {
+      "name": "BLESS",
+      "type": "savemod",
+      "repeating_id": "-MlFZwUL3imM27xiqpUB",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_savemod_-MlFZwUL3imM27xiqpUB_global_save_roll",
+          "current": "1d4",
+          "max": "",
+          "id": "-MlF_wUNqbLzldUKp87X"
+        },
+        {
+          "name": "repeating_savemod_-MlFZwUL3imM27xiqpUB_global_save_name",
+          "current": "BLESS",
+          "max": "",
+          "id": "-MlF_wUQdQpm4-Whajv3"
+        },
+        {
+          "name": "repeating_savemod_-MlFZwUL3imM27xiqpUB_global_save_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlF_wUS5qN9c8mIVkkA"
+        },
+        {
+          "name": "repeating_savemod_-MlFZwUL3imM27xiqpUB_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFa7hJHnsS0JynkMpd"
+        }
+      ]
+    },
+    {
+      "name": "Half Cover",
+      "type": "savemod",
+      "repeating_id": "-MlFZzZ-FD4YB8TVsB8s",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_savemod_-MlFZzZ-FD4YB8TVsB8s_global_save_name",
+          "current": "Half Cover",
+          "max": "",
+          "id": "-MlFa1zNHvRYJD9OmTBk"
+        },
+        {
+          "name": "repeating_savemod_-MlFZzZ-FD4YB8TVsB8s_global_save_roll",
+          "current": "+2",
+          "max": "",
+          "id": "-MlFa5qVUONDkz1Et7pA"
+        },
+        {
+          "name": "repeating_savemod_-MlFZzZ-FD4YB8TVsB8s_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFa6c5HyG-zIWujdcV"
+        },
+        {
+          "name": "repeating_savemod_-MlFZzZ-FD4YB8TVsB8s_global_save_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFaIyc9VoXM-sV40K8"
+        }
+      ]
+    },
+    {
+      "name": "Three-Quarters Cover",
+      "type": "savemod",
+      "repeating_id": "-MlFa8I5oZMdN0rRLZ0V",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_savemod_-MlFa8I5oZMdN0rRLZ0V_global_save_name",
+          "current": "Three-Quarters Cover",
+          "max": "",
+          "id": "-MlFaBOWYTH8b5k4INwl"
+        },
+        {
+          "name": "repeating_savemod_-MlFa8I5oZMdN0rRLZ0V_global_save_roll",
+          "current": "+2",
+          "max": "",
+          "id": "-MlFaC5v71V7a2--uVzH"
+        },
+        {
+          "name": "repeating_savemod_-MlFa8I5oZMdN0rRLZ0V_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFaC8SNS76ZBLUchTv"
+        }
+      ]
+    },
+    {
+      "name": "GUIDANCE",
+      "type": "skillmod",
+      "repeating_id": "-MlFYZukloMUYL-QZqPZ",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_skillmod_-MlFYZukloMUYL-QZqPZ_global_skill_roll",
+          "current": "1d4",
+          "max": "",
+          "id": "-MlFY_um5kcieQrzCCJO"
+        },
+        {
+          "name": "repeating_skillmod_-MlFYZukloMUYL-QZqPZ_global_skill_name",
+          "current": "GUIDANCE",
+          "max": "",
+          "id": "-MlFY_utuSLj_wBzhPVG"
+        },
+        {
+          "name": "repeating_skillmod_-MlFYZukloMUYL-QZqPZ_global_skill_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFY_uy4eWrePr5Yo9m"
+        },
+        {
+          "name": "repeating_skillmod_-MlFYZukloMUYL-QZqPZ_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFYbqt07BG0lVuouoM"
+        }
+      ]
+    },
+    {
+      "name": "Reminder: Using Tool",
+      "type": "skillmod",
+      "repeating_id": "-MlFZCLzR-cnzgGikfwo",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_skillmod_-MlFZCLzR-cnzgGikfwo_global_skill_name",
+          "current": "Reminder: Using Tool",
+          "max": "",
+          "id": "-MlFZDTNt9vyxtw6iqj6"
+        },
+        {
+          "name": "repeating_skillmod_-MlFZCLzR-cnzgGikfwo_global_skill_roll",
+          "current": "with Advantage",
+          "max": "",
+          "id": "-MlFZQ-Pz3D0NTRCXLfr"
+        },
+        {
+          "name": "repeating_skillmod_-MlFZCLzR-cnzgGikfwo_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFZQ2-qNCvGlWNOEi-"
+        },
+        {
+          "name": "repeating_skillmod_-MlFZCLzR-cnzgGikfwo_global_skill_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFZQSEG4Hk7z0oVlAj"
+        }
+      ]
+    },
+    {
+      "name": "BLESS",
+      "type": "tohitmod",
+      "repeating_id": "-MjQstieWPcLOBMx3lDJ",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_tohitmod_-MjQstieWPcLOBMx3lDJ_global_attack_roll",
+          "current": "1d4",
+          "max": "",
+          "id": "-MjQstiffr9UpEqzSCaI"
+        },
+        {
+          "name": "repeating_tohitmod_-MjQstieWPcLOBMx3lDJ_global_attack_name",
+          "current": "BLESS",
+          "max": "",
+          "id": "-MjQstikCItS4XGW2Ej-"
+        },
+        {
+          "name": "repeating_tohitmod_-MjQstieWPcLOBMx3lDJ_global_attack_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MjQstin5j_yiD2KQR4B"
+        },
+        {
+          "name": "repeating_tohitmod_-MjQstieWPcLOBMx3lDJ_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MjtOT85-Wwy7F0apoTy"
+        }
+      ]
+    },
+    {
+      "name": "Flanking w/ Melee",
+      "type": "tohitmod",
+      "repeating_id": "-MlFLvL-Ep6PRdoeLcq1",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_tohitmod_-MlFLvL-Ep6PRdoeLcq1_global_attack_name",
+          "current": "Flanking w/ Melee",
+          "max": "",
+          "id": "-MlFLx6b9tUkj_KqIXw6"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFLvL-Ep6PRdoeLcq1_global_attack_roll",
+          "current": "+2",
+          "max": "",
+          "id": "-MlFLylz4aiPt64XFKfH"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFLvL-Ep6PRdoeLcq1_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFMCK0TO9q5MGdOtQ_"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFLvL-Ep6PRdoeLcq1_global_attack_active_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFaR9nB83UK22LD-31"
+        }
+      ]
+    },
+    {
+      "name": "Prone w/ Range",
+      "type": "tohitmod",
+      "repeating_id": "-MlFM-nqJDGNGkJLNZOz",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_tohitmod_-MlFM-nqJDGNGkJLNZOz_global_attack_name",
+          "current": "Prone w/ Range",
+          "max": "",
+          "id": "-MlFM6s5ONyx9P7LU7ux"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFM-nqJDGNGkJLNZOz_global_attack_roll",
+          "current": "+2",
+          "max": "",
+          "id": "-MlFMBVsbNV34G3hf0Z8"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFM-nqJDGNGkJLNZOz_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFMC3mhN_UZlMhFLS7"
+        }
+      ]
+    },
+    {
+      "name": "Sneak Attack",
+      "type": "tohitmod",
+      "repeating_id": "-MlFMv9h4afxe958emtY",
+      "old_character_id": "-MjXfIaXtwcLjeRMclWm",
+      "attributes": [
+        {
+          "name": "repeating_tohitmod_-MlFMv9h4afxe958emtY_global_attack_name",
+          "current": "Sneak Attack",
+          "max": "",
+          "id": "-MlFMwlOID48evTQ7vD9"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFMv9h4afxe958emtY_global_attack_roll",
+          "current": "1d6",
+          "max": "",
+          "id": "-MlFMyQ_ZIu25-9laRwh"
+        },
+        {
+          "name": "repeating_tohitmod_-MlFMv9h4afxe958emtY_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlFMySD5OZ8tCCI8QwX"
+        }
+      ]
+    }
+  ]
+}

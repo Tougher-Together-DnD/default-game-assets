@@ -3,6 +3,26 @@
   "type": "vttes_component_bundle",
   "components": [
     {
+      "name": "Ability Scores",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGMyZUqSN650xea9iQ",
+      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGMyZUqSN650xea9iQ_name",
+          "current": "Ability Scores",
+          "max": "",
+          "id": "-MlGN-s2pTlKI9XZAfWk"
+        },
+        {
+          "name": "repeating_npctrait_-MlGMyZUqSN650xea9iQ_description",
+          "current": "  A ship has the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers.\n\n  A ship’s Strength represents its size and weight. Dexterity represents a ship’s ease of handling. A ship’s Constitution covers its durability and the quality of its construction.\n\n  Ships usually have a score of 0 in Intelligence, Wisdom, and Charisma. If a ship has a 0 in a score, it automatically fails any ability check or saving throw that uses that score.",
+          "max": "",
+          "id": "-MlGN0QnDHBCJzKoxkUg"
+        }
+      ]
+    },
+    {
       "name": "Cargo Hold",
       "type": "NPC Trait",
       "repeating_id": "-MjixLMZOoUK8Vqv2moS",
@@ -23,6 +43,26 @@
       ]
     },
     {
+      "name": "Carry Capacity",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGL4gOBqIWSZZTUoYK",
+      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGL4gOBqIWSZZTUoYK_name",
+          "current": "Carry Capacity",
+          "max": "",
+          "id": "-MlGL8ODJlKsa0J-yfro"
+        },
+        {
+          "name": "repeating_npctrait_-MlGL4gOBqIWSZZTUoYK_description",
+          "current": "Carry Capacity: X tons\n\nIf a Ship exceeds its carrying capacity it begins to sink.",
+          "max": "",
+          "id": "-MlGSdtUqDtoHqmZVeRb"
+        }
+      ]
+    },
+    {
       "name": "Ceilings",
       "type": "NPC Trait",
       "repeating_id": "-MjiwEXL5p7Ep-mIyUu2",
@@ -39,6 +79,26 @@
           "current": "The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.",
           "max": "",
           "id": "-MjiwHOKn72idpJYTBJE"
+        }
+      ]
+    },
+    {
+      "name": "Creature Capacity",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGJvMMgZQhwiggJWmN",
+      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGJvMMgZQhwiggJWmN_name",
+          "current": "Creature Capacity",
+          "max": "",
+          "id": "-MlGJvMNR43e2f-fMiTJ"
+        },
+        {
+          "name": "repeating_npctrait_-MlGJvMMgZQhwiggJWmN_description",
+          "current": "X Crew Y Passengers*\n\n*Passengers include Crew of Medium Creatures.",
+          "max": "",
+          "id": "-MlGJvMPCxOqm2rQBoud"
         }
       ]
     },
@@ -139,26 +199,6 @@
           "current": "A covered, 10-foot-square opening leads to the lower deck.",
           "max": "",
           "id": "-MjiwSxbHZSXi7JISvQk"
-        }
-      ]
-    },
-    {
-      "name": "Info",
-      "type": "NPC Trait",
-      "repeating_id": "-MjJFwpRBt2EcrbG92a3",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
-      "attributes": [
-        {
-          "name": "repeating_npctrait_-MjJFwpRBt2EcrbG92a3_name",
-          "current": "Info",
-          "max": "",
-          "id": "-MjJFzXDBuZxkGzJSWDU"
-        },
-        {
-          "name": "repeating_npctrait_-MjJFwpRBt2EcrbG92a3_description",
-          "current": "Creature Capacity: 30 crew, 20 passengers\nCargo Capacity: 100 tons\nTravel Pace: 5 miles per hour (120 miles per day)",
-          "max": "",
-          "id": "-MjJGERIU2PGFtABihgl"
         }
       ]
     },
@@ -339,6 +379,26 @@
           "current": "Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.",
           "max": "",
           "id": "-MjJKr5y_J7X4l1Vat3s"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Galley",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGJoZdsAqCVCDi2MQJ",
+      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGJoZdsAqCVCDi2MQJ_name",
+          "current": "Travel Pace: Galley",
+          "max": "",
+          "id": "-MlGJo_ewq9QuBR6aBPt"
+        },
+        {
+          "name": "repeating_npctrait_-MlGJoZdsAqCVCDi2MQJ_description",
+          "current": "Normal: 4 miles /hour | 96 miles/ day \n\n  Ships travel at a speed given their stat blocks. Unlike with land travel, players can’t choose to move at a faster pace, though they can choose to go slower.\n\n  If a ship’s mode of movement takes damage, it might be slowed. For every decrease of 10 feet in speed, reduce the ship’s pace by 1 mile per hour and 24 miles per day.\n\nDepending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.",
+          "max": "",
+          "id": "-MlGJo_j_4hoqVn3DtSE"
         }
       ]
     },

@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Control: Reins",
+      "type": "NPC Action",
+      "repeating_id": "-MBGr-x60IPaaYOmZk2P",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_description",
+          "current": "Armor Class 18\nHit Points 15\n\nThe Reins include the bit, bridle, and yokes for the pulling animal. When operated they allow the wagon to make turns.\n\nEvasive maneuvers can be accomplished with successful Animal Handling checks defined by the DM.\n\nUsing a Bonus Action one can make a successful DC 15 Animal Handling check for the wagon to \"Dash\"",
+          "max": "",
+          "id": "-MlDg6B1jlR4JzsTY7-9"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlDg6B1jlR4JzsTY7-A"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B2mWtcL8S76xW3"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B3T84aGGgjGjte"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B3T84aGGgjGjtf"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B435rCljTcAFUN"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlDg6B435rCljTcAFUO"
+        },
+        {
+          "name": "repeating_npcaction_-MBGr-x60IPaaYOmZk2P_name",
+          "current": "Control: Reins",
+          "max": "",
+          "id": "-MlDg6B5AXiwnvcBYKF6"
+        }
+      ]
+    },
+    {
+      "name": "Hull: Canvas Covering",
+      "type": "NPC Action",
+      "repeating_id": "-MlFSjNfMkNZkVlPWiYd",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_name",
+          "current": "Hull: Canvas Covering",
+          "max": "",
+          "id": "-MlFSnx7uWLyZa1aVRur"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_description",
+          "current": "Armor Class 11\nHit Points 27\n\nA Canvas Covering protects offers protection from the weather for cargo and passengers.\n\nIt obscures vision into the vehicle offering concealment (treat creatures under and inside the covering as \"invisible\").",
+          "max": "",
+          "id": "-MlFTNFYzgoQZ5c1oIoW"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlFTNJ8IF7si_c0hgo5"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlFTNJCqIgWo-LkUJRe"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlFTNJD1ILFanMHxMqM"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlFTNJFf0CWAhe8Xtak"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlFTNJHz1oKuar2tozw"
+        },
+        {
+          "name": "repeating_npcaction_-MlFSjNfMkNZkVlPWiYd_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlFTNJIuElQqJd50l9K"
+        }
+      ]
+    },
+    {
+      "name": "Hull: Reinforced Cabin",
+      "type": "NPC Action",
+      "repeating_id": "-MlFUmGE12aeaqj4WaHD",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_name",
+          "current": "Hull: Reinforced Cabin",
+          "max": "",
+          "id": "-MlFUr6BFaDZJcUJPO9y"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_description",
+          "current": "Armor Class 19\nHit Points 27 (damage threshold 15)\n\nSlats of Iron or Steel are hung from the vehicles sides and roof. It offers protection from the weather. If it has no windows it offers full cover (unseen), otherwise with windows three-quarters (+5 to passenger's AC).\n\nThis type of Hull reduces the cargo capacity by 1/4.",
+          "max": "",
+          "id": "-MlFV5Do8EJfWgtNS4cR"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlFV5Fq5Ere8Mz4rXzn"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlFV5FsFjWayTVR5-66"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlFV5FuzlqiGnTqOi9z"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlFV5FuzlqiGnTqOiA-"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlFV5FvQV0IH_frVjwe"
+        },
+        {
+          "name": "repeating_npcaction_-MlFUmGE12aeaqj4WaHD_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlFV5FwK-6sN2vyDTae"
+        }
+      ]
+    },
+    {
+      "name": "Hull: Wood Cabin",
+      "type": "NPC Action",
+      "repeating_id": "-MBGqo7rvGKDHugkGT1r",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_name",
+          "current": "Hull: Wood Cabin",
+          "max": "",
+          "id": "-MlDg6Axw6eImW2872eb"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_description",
+          "current": "Armor Class 15\nHit Points 27\n\nA Cabin stores cargo and passengers. It offers protection from the weather. If it has no windows it offers full cover (+2 AC and DEX Saves), otherwise with windows three-quarters (+5 to AC and DEX Saves).",
+          "max": "",
+          "id": "-MlDg6Axw6eImW2872ec"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlDg6AyZukGGknVRLuJ"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6Az4ogI_bdBECxb"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6Az4ogI_bdBECxc"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B-0TvZUoUlPmy0"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B-0TvZUoUlPmy1"
+        },
+        {
+          "name": "repeating_npcaction_-MBGqo7rvGKDHugkGT1r_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlDg6B0fFLmFuYT7601"
+        }
+      ]
+    },
+    {
+      "name": "Movement: Draft Animals",
+      "type": "NPC Action",
+      "repeating_id": "-MBGrU91kPd6mzMk6AQ1",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_description",
+          "current": "Armor Class (refer to Animal Stat)\nHit Points (refer to Animal Stat)\n\nLocomotion land; For short duration (under an hour) use the Base Speed of the pulling Animal.",
+          "max": "",
+          "id": "-MlDg6B5AXiwnvcBYKF7"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlDg6B6ga9sOKJ3_o94"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B6ga9sOKJ3_o95"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B7gD_5X_fTDm60"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B7gD_5X_fTDm61"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlDg6B8qGFxBhSbE6ib"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlDg6B8qGFxBhSbE6ic"
+        },
+        {
+          "name": "repeating_npcaction_-MBGrU91kPd6mzMk6AQ1_name",
+          "current": "Movement: Draft Animals",
+          "max": "",
+          "id": "-MlDg6B8qGFxBhSbE6id"
+        }
+      ]
+    },
+    {
+      "name": "Carry Capacity: Refer to Draft Animal",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGCh4AZg4oAl77EQ5l",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGCh4AZg4oAl77EQ5l_name",
+          "current": "Carry Capacity: Refer to Draft Animal",
+          "max": "",
+          "id": "-MlGCpcTD0MIboLNKjV2"
+        },
+        {
+          "name": "repeating_npctrait_-MlGCh4AZg4oAl77EQ5l_description",
+          "current": "An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying Capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying Capacity together.\n\n*Note: Take the animals Normal Draft and subtract weight of vehicle.*",
+          "max": "",
+          "id": "-MlGCqG0qYBumlae8I52"
+        }
+      ]
+    },
+    {
+      "name": "Creature Capacity",
+      "type": "NPC Trait",
+      "repeating_id": "-MBGpr18xuHoZkiqdslj",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MBGpr18xuHoZkiqdslj_name",
+          "current": "Creature Capacity",
+          "max": "",
+          "id": "-MlDg6AtDc4xp7ynH6Dl"
+        },
+        {
+          "name": "repeating_npctrait_-MBGpr18xuHoZkiqdslj_description",
+          "current": "X Crew Y Passengers*\n\n*Passengers include Crew of Medium Creatures.",
+          "max": "",
+          "id": "-MlDg6Auqt5OVdE1XlbK"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Donkey or Mule",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEINaMovZrPi1YIa5",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEINaMovZrPi1YIa5_name",
+          "current": "Draft Animal: Donkey or Mule",
+          "max": "",
+          "id": "-MlGEMmbQDSL12yR1ojK"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEINaMovZrPi1YIa5_description",
+          "current": "Donkey or mule\n* Cost: 8 gp\n* Speed: 40 ft.\n* Carry Capacity: 420 lb.\n* Normal Draft: 1,050 lb. (.525 ton)\n* Overloaded: 2,100 lb. (1.05 ton)",
+          "max": "",
+          "id": "-MlGEOauZf2OZJpXdC3r"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Elephant",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGERdiDnMmmQLHgCrC",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGERdiDnMmmQLHgCrC_name",
+          "current": "Draft Animal: Elephant",
+          "max": "",
+          "id": "-MlGEUfd4QJANiwcCqln"
+        },
+        {
+          "name": "repeating_npctrait_-MlGERdiDnMmmQLHgCrC_description",
+          "current": "Elephant\n* Cost: 200 gp\n* Speed: 40 ft.\n* Carry Capacity: 1,320 lb.\n* Normal Draft: 3,300 lb. (1.65 ton)\n* Overloaded: 6,600 lb. (3.3 ton)",
+          "max": "",
+          "id": "-MlGEVrHAz4UY3CxAm9H"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Horse, draft",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEXKANbmklJ8MfQcn",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEXKANbmklJ8MfQcn_name",
+          "current": "Draft Animal: Horse, draft",
+          "max": "",
+          "id": "-MlGEa1T-20Y2FlBphKL"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEXKANbmklJ8MfQcn_description",
+          "current": "Horse, draft\n* Cost: 50 gp\n* Speed: 40 ft.\n* Carry Capacity: 540 lb.\n* Normal Draft: 1,350 (.675 ton)\n* Overloaded: 2,700 lb. (1.35 ton)",
+          "max": "",
+          "id": "-MlGEbIboZy_in_wDuvr"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Horse, riding",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEfS34HvaswbHoSzI",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEfS34HvaswbHoSzI_name",
+          "current": "Draft Animal: Horse, riding",
+          "max": "",
+          "id": "-MlGEiZBiAjqsz4IEXQZ"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEfS34HvaswbHoSzI_description",
+          "current": "Horse, riding\n* Cost: 75 gp\n* Speed: 60 ft.\n* Carry Capacity: 480 lb.\n* Normal Draft: 1,200 lb. (.55 tons)\n* Overloaded: 2,400 lb. (1.2 ton)",
+          "max": "",
+          "id": "-MlGEkB1qFlkCbtqUUKg"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Mastiff",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEkzKni4xNMOL8qmC",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEkzKni4xNMOL8qmC_name",
+          "current": "Draft Animal: Mastiff",
+          "max": "",
+          "id": "-MlGEnjYNhRkHcG_m41L"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEkzKni4xNMOL8qmC_description",
+          "current": "Mastiff\n* Cost: 25 gp\n* Speed: 40 ft.\n* Carry Capacity: 195 lb.\n* Normal Draft: 487.5 lb.\n* Overloaded: 975 lb.",
+          "max": "",
+          "id": "-MlGEp3BCWCr0gf2aSs9"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Pony",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEps5L8PnfAFuUCfr",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEps5L8PnfAFuUCfr_name",
+          "current": "Draft Animal: Pony",
+          "max": "",
+          "id": "-MlGEtCWa95Z7AQD2gLT"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEps5L8PnfAFuUCfr_description",
+          "current": "Pony\n* Cost: 30 gp\n* Speed: 40 ft.\n* Carry Capacity: 225 lb.\n* Normal Draft: 562.5 lb.\n* Overloaded: 1,125 (.56 ton)",
+          "max": "",
+          "id": "-MlGEuatOgWbXFCCtVPn"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animal: Warhorse",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGEvTXosNtuyeYh4Se",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGEvTXosNtuyeYh4Se_name",
+          "current": "Draft Animal: Warhorse",
+          "max": "",
+          "id": "-MlGExYPIqkd3Ri1N86H"
+        },
+        {
+          "name": "repeating_npctrait_-MlGEvTXosNtuyeYh4Se_description",
+          "current": "Warhorse\n* Cost: 400 gp\n* Speed: 60 ft.\n* Carry Capacity: 540 lb.\n* Normal Draft: 1,350 (.675 ton)\n* Overloaded: 2,700 lb. (1.35 ton)",
+          "max": "",
+          "id": "-MlGEz0qOtrzPgt9SdF1"
+        }
+      ]
+    },
+    {
+      "name": "Draft Animals: Camel",
+      "type": "NPC Trait",
+      "repeating_id": "-MlG3Z4nQlh8CAOdpuuH",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlG3Z4nQlh8CAOdpuuH_name",
+          "current": "Draft Animals: Camel",
+          "max": "",
+          "id": "-MlG3b1daWGLAc9Dm_yV"
+        },
+        {
+          "name": "repeating_npctrait_-MlG3Z4nQlh8CAOdpuuH_description",
+          "current": "Camel\n* Cost: 50 gp\n* Speed: 50 ft.\n* Carry Capacity: 480 lb.\n* Normal Draft: 1,200 lb. (.55 tons)\n* Overloaded: 2,400 lb. (1.2 ton)",
+          "max": "",
+          "id": "-MlG3kj7b6FB0e6a4AEv"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Common Pace",
+      "type": "NPC Trait",
+      "repeating_id": "-MBGqOf6owzN6aLzq4Mo",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MBGqOf6owzN6aLzq4Mo_name",
+          "current": "Travel Pace: Common Pace",
+          "max": "",
+          "id": "-MlDg6AwYhaaaxzxFp9G"
+        },
+        {
+          "name": "repeating_npctrait_-MBGqOf6owzN6aLzq4Mo_description",
+          "current": "Fast: 400 ft. /min | 4 miles /hour | 30 miles /day | -5 penalty to passive Wisdom (Perception) scores\n\nNormal: 300 ft./min | 3 miles /hour | 24 miles/ day | no penalty\n\nSlow: 200 ft./min | 2 miles /hour | 18 miles /day | Able to use stealth \n\nWhile traveling, a group of Adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any Effect. A fast pace makes Characters less perceptive, while a slow pace makes it possible to sneak around and to sear⁠ch an area more carefully (see the “Activity While Traveling” later in this section for more information).",
+          "max": "",
+          "id": "-MlDg6AwYhaaaxzxFp9H"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Flying Mount",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFtgq2PcJrh4EwQ2TE",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFtgq2PcJrh4EwQ2TE_name",
+          "current": "Travel Pace: Flying Mount",
+          "max": "",
+          "id": "-MlFtp9bF-wnjdWxp0AO"
+        },
+        {
+          "name": "repeating_npctrait_-MlFtgq2PcJrh4EwQ2TE_description",
+          "current": "A creature that serves as a flying mount must rest 1 hour for every 3 hours it flies, and it can’t fly for more than 9 hours per day. Thus, characters mounted on griffons (which have a flying speed of 80 feet) can travel at 8 miles per hour, covering 72 miles over 9 hours with two 1-hour-long rests over the course of the day. Mounts that don’t tire (such as a flying construct) aren’t subject to this limitation.",
+          "max": "",
+          "id": "-MlFu0N4BiGStMc8AXYF"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Forced March",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFu5aDOSYCwqZQ8xwg",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFu5aDOSYCwqZQ8xwg_name",
+          "current": "Travel Pace: Forced March",
+          "max": "",
+          "id": "-MlFu7JWZM3jCglGNE1n"
+        },
+        {
+          "name": "repeating_npctrait_-MlFu5aDOSYCwqZQ8xwg_description",
+          "current": "The Travel Pace table assumes that characters travel for 8 hours in the day. They can push on beyond that limit, at the risk of exhaustion.\n\nFor each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion.",
+          "max": "",
+          "id": "-MlFuEWeq2Et1dTcUXr-"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Lone Rider Full Gallop",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFuGm4o7LGWg5iFJXb",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFuGm4o7LGWg5iFJXb_name",
+          "current": "Travel Pace: Lone Rider Full Gallop",
+          "max": "",
+          "id": "-MlFuW5IFk80VFX9hSkj"
+        },
+        {
+          "name": "repeating_npctrait_-MlFuGm4o7LGWg5iFJXb_description",
+          "current": "For short spans of time (up to an hour), many animals move much faster than Humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh Mounts are available every 8 to 10 miles, Characters can cover larger distances at this pace, but this is very rare except in densely populated areas.",
+          "max": "",
+          "id": "-MlFu_WIbQxqOpSEWW3N"
+        }
+      ]
+    },
+    {
+      "name": "Travel Pace: Special Methods",
+      "type": "NPC Trait",
+      "repeating_id": "-MlFxKZLSK4aN5l6ALaE",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlFxKZLSK4aN5l6ALaE_name",
+          "current": "Travel Pace: Special Methods",
+          "max": "",
+          "id": "-MlFxO2GuErS0z6y-L-B"
+        },
+        {
+          "name": "repeating_npctrait_-MlFxKZLSK4aN5l6ALaE_description",
+          "current": "Characters in wagons, carriages, or other Land Vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see “ Mounts and Vehicles ”), and they don’t suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.\n\nCertain speci⁠al Mounts, such as a Pegasus or Griffon, or spe⁠cial vehicles, such as a Carpet of Flying, allow you to Travel more swiftly. The Dungeon Master’s Guide contains more information on spec⁠ial methods of Travel.",
+          "max": "",
+          "id": "-MlFy-YDcq29uyYJF6M0"
+        }
+      ]
+    },
+    {
+      "name": "Yukon Stove",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGGQaOgpeIZHZH89y1",
+      "old_character_id": "-MlDg68Qkte7pZRCyBp3",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGGQaOgpeIZHZH89y1_name",
+          "current": "Yukon Stove",
+          "max": "",
+          "id": "-MlGGVjhp9Sk_SIfN0sE"
+        },
+        {
+          "name": "repeating_npctrait_-MlGGQaOgpeIZHZH89y1_description",
+          "current": "Vehicle contains a stove for cooking and hosting a fire to keep passenger and/or cargo warm.",
+          "max": "",
+          "id": "-MlGGbM7csp-Z3ViHZBk"
+        }
+      ]
+    }
+  ]
+}
