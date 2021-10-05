@@ -1,5 +1,8 @@
 <!-- Bag of Holding -->
+<!-- default-game-assets -->
+<!-- character-sheets -->
 <!-- containers -->
+<!-- bag-of-holding -->
 
 <!-- Reference URLS -->
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/containers "Tougher Together Files"

@@ -1,5 +1,8 @@
 <!-- Footlocker -->
+<!-- default-game-assets -->
+<!-- character-sheets -->
 <!-- containers -->
+<!-- footlocker -->
 
 <!-- Reference URLS -->
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/character-sheets/containers "Tougher Together VTTES Files"
