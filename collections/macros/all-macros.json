@@ -7,6 +7,10 @@
                 "istokenaction": true,
                 "name": "CarryTokensMenu",
                 "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -15,6 +19,10 @@
                 "istokenaction": false,
                 "name": "Health-Auras-Menu",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -23,6 +31,10 @@
                 "istokenaction": false,
                 "name": "Calendar",
                 "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -52,7 +64,7 @@
         {
             "attributes": {
                 "action": "!range @{selected|token_id},@{target|2nd Target|token_id}",
-                "istokenaction": false,
+                "istokenaction": true,
                 "name": "Get-Range",
                 "visibleto": "all"
             }
@@ -103,6 +115,10 @@
                 "istokenaction": false,
                 "name": "Combat-Master-Menu",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -111,6 +127,10 @@
                 "istokenaction": false,
                 "name": "Teleport-Menu",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -135,6 +155,10 @@
                 "istokenaction": false,
                 "name": "Apply-Conditions-Short",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -143,6 +167,10 @@
                 "istokenaction": false,
                 "name": "Apply-Spells-Short",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -151,11 +179,15 @@
                 "istokenaction": false,
                 "name": "Apply-Status-Short",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
             "attributes": {
-                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Save\n|Strength,+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]}} {{rname=^{strength-save-u}}} {{mod=[[ [[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]\n|Dexterity,+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]}} {{rname=^{dexterity-save-u}}} {{mod=[[ [[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]\n|Constitution,+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]}} {{rname=^{constitution-save-u}}} {{mod=[[ [[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]\n|Intelligence,+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]}} {{rname=^{intelligence-save-u}}} {{mod=[[ [[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]\n|Wisdom,+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]}} {{rname=^{wisdom-save-u}}} {{mod=[[ [[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]\n|Charisma,+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]}} {{rname=^{charisma-save-u}}} {{mod=[[ [[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]\n}}} @{selected|global_save_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Save\n|Strength,+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]&#125;&#125; {{rname=^{strength-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]\n|Dexterity,+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]&#125;&#125; {{rname=^{dexterity-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]\n|Constitution,+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]&#125;&#125; {{rname=^{constitution-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]\n|Intelligence,+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]&#125;&#125; {{rname=^{intelligence-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]\n|Wisdom,+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]&#125;&#125; {{rname=^{wisdom-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]\n|Charisma,+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]&#125;&#125; {{rname=^{charisma-save-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]\n}}} @{selected|global_save_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
                 "istokenaction": true,
                 "name": "Saving-Throw",
                 "visibleto": "all"
@@ -163,7 +195,7 @@
         },
         {
             "attributes": {
-                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Skill\n|Acrobatics,+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]}} {{rname=^{acrobatics-u}}} {{mod=[[ [[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]\n|Animal Handling,+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]}} {{rname=^{animal-handling-u}}}{{mod=[[ (@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]\n|Arcana,+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARC] ]]}} {{rname=^{arcana-u}}} {{mod=[[ [[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]\n|Athletics,+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ARC] ]]}} {{rname=^{athletics-u}}} {{mod=[[ [[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]\n|Decpetion,+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][ARC] ]]}} {{rname=^{deception-u}}} {{mod=[[ [[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]\n|History,+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][ARC] ]]}} {{rname=^{history-u}}} {{mod=[[ [[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]\n|Insight,+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][ARC] ]]}} {{rname=^{insight-u}}} {{mod=[[ [[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]\n|Intimidation,+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][ARC] ]]}} {{rname=^{intimidation-u}}} {{mod=[[ [[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]\n|Investigation,+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][ARC] ]]}} {{rname=^{investigation-u}}} {{mod=[[ [[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]\n|Medicine,+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][ARC] ]]}} {{rname=^{medicine-u}}} {{mod=[[ [[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]\n|Nature,+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][ARC] ]]}} {{rname=^{nature-u}}} {{mod=[[ [[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]\n|Perception,+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][ARC] ]]}} {{rname=^{perception-u}}} {{mod=[[ [[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]\n|Performance,+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][ARC] ]]}} {{rname=^{performance-u}}} {{mod=[[ [[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]\n|Persuasion,+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][ARC] ]]}} {{rname=^{persuasion-u}}} {{mod=[[ [[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]\n|Religion,+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][ARC] ]]}} {{rname=^{religion-u}}} {{mod=[[ [[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]\n|Sleight of Hand,+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][ARC] ]]}} {{rname=^{sleight_of_hand-u}}} {{mod=[[ [[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]\n|Stealth,+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][ARC] ]]}} {{rname=^{stealth-u}}} {{mod=[[ [[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]\n|Survival,+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][ARC] ]]}} {{rname=^{survival-u}}} {{mod=[[ [[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Skill\n|Acrobatics,+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]&#125;&#125; {{rname=^{acrobatics-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]\n|Animal Handling,+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]&#125;&#125; {{rname=^{animal-handling-u&#125;&#125;&#125;{{mod=[[ (@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]\n|Arcana,+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{arcana-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]\n|Athletics,+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{athletics-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]\n|Decpetion,+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{deception-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]\n|History,+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{history-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]\n|Insight,+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{insight-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]\n|Intimidation,+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{intimidation-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]\n|Investigation,+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{investigation-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]\n|Medicine,+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{medicine-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]\n|Nature,+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{nature-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]\n|Perception,+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{perception-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]\n|Performance,+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{performance-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]\n|Persuasion,+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{persuasion-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]\n|Religion,+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{religion-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]\n|Sleight of Hand,+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{sleight_of_hand-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]\n|Stealth,+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{stealth-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]\n|Survival,+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][ARC] ]]&#125;&#125; {{rname=^{survival-u&#125;&#125;&#125; {{mod=[[ [[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
                 "istokenaction": true,
                 "name": "Skill-Check",
                 "visibleto": "all"
@@ -171,7 +203,7 @@
         },
         {
             "attributes": {
-                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Stat\n|Strength,+[[@{selected|strength_mod}]][STR] ]]}} {{rname=^{strength-u}}} {{mod=[[ [[@{selected|strength_mod}]][STR] ]]}} {{r1=[[@{selected|d20}+[[@{selected|strength_mod}]][STR] ]]\n|Dexterity,+[[@{selected|dexterity_mod}]][DEX] ]]}} {{rname=^{dexterity-u}}} {{mod=[[ [[@{selected|dexterity_mod}]][DEX] ]]}} {{r1=[[@{selected|d20}+[[@{selected|dexterity_mod}]][DEX] ]]\n|Constitution,+[[@{selected|constitution_mod}]][CON] ]]}} {{rname=^{constitution-u}}} {{mod=[[ [[@{selected|constitution_mod}]][CON] ]]}} {{r1=[[@{selected|d20}+[[@{selected|constitution_mod}]][CON] ]]\n|Intelligence,+[[@{selected|intelligence_mod}]][INT] ]]}} {{rname=^{intelligence-u}}} {{mod=[[ [[@{selected|intelligence_mod}]][INT] ]]}} {{r1=[[@{selected|d20}+[[@{selected|intelligence_mod}]][INT] ]]\n|Wisdom,+[[@{selected|wisdom_mod}]][WIS] ]]}} {{rname=^{wisdom-u}}} {{mod=[[ [[@{selected|wisdom_mod}]][WIS] ]]}} {{r1=[[@{selected|d20}+[[@{selected|wisdom_mod}]][WIS] ]]\n|Charisma,+[[@{selected|charisma_mod}]][CHA] ]]}} {{rname=^{charisma-u}}} {{mod=[[ [[@{selected|charisma_mod}]][CHA] ]]}} {{r1=[[@{selected|d20}+[[@{selected|charisma_mod}]][CHA] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output}{{charname=@{selected|character_name}}}",
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Stat\n|Strength,+[[@{selected|strength_mod}]][STR] ]]&#125;&#125; {{rname=^{strength-u&#125;&#125;&#125; {{mod=[[ [[@{selected|strength_mod}]][STR] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|strength_mod}]][STR] ]]\n|Dexterity,+[[@{selected|dexterity_mod}]][DEX] ]]&#125;&#125; {{rname=^{dexterity-u&#125;&#125;&#125; {{mod=[[ [[@{selected|dexterity_mod}]][DEX] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|dexterity_mod}]][DEX] ]]\n|Constitution,+[[@{selected|constitution_mod}]][CON] ]]&#125;&#125; {{rname=^{constitution-u&#125;&#125;&#125; {{mod=[[ [[@{selected|constitution_mod}]][CON] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|constitution_mod}]][CON] ]]\n|Intelligence,+[[@{selected|intelligence_mod}]][INT] ]]&#125;&#125; {{rname=^{intelligence-u&#125;&#125;&#125; {{mod=[[ [[@{selected|intelligence_mod}]][INT] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|intelligence_mod}]][INT] ]]\n|Wisdom,+[[@{selected|wisdom_mod}]][WIS] ]]&#125;&#125; {{rname=^{wisdom-u&#125;&#125;&#125; {{mod=[[ [[@{selected|wisdom_mod}]][WIS] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|wisdom_mod}]][WIS] ]]\n|Charisma,+[[@{selected|charisma_mod}]][CHA] ]]&#125;&#125; {{rname=^{charisma-u&#125;&#125;&#125; {{mod=[[ [[@{selected|charisma_mod}]][CHA] ]]&#125;&#125; {{r1=[[@{selected|d20}+[[@{selected|charisma_mod}]][CHA] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output}{{charname=@{selected|character_name}}}",
                 "istokenaction": true,
                 "name": "Ability-Check",
                 "visibleto": "all"
@@ -183,14 +215,6 @@
                 "istokenaction": true,
                 "name": "Special-Effect",
                 "visibleto": "all"
-            }
-        },
-        {
-            "attributes": {
-                "action": "!ms",
-                "istokenaction": false,
-                "name": "Magic-Store-Menu",
-                "visibleto": ""
             }
         },
         {
@@ -263,30 +287,46 @@
                 "istokenaction": false,
                 "name": "Toggle-Talking-To-Myself",
                 "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
             "attributes": {
-                "action": "!OnlyDoors --link",
+                "action": "!OnlyDoors --selected --link",
                 "istokenaction": false,
                 "name": "Link-OnlyDoors",
                 "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
             "attributes": {
-                "action": "!OnlyDoors --open-close",
+                "action": "!OnlyDoors --@{target|Door|token_id} --open-close",
                 "istokenaction": false,
                 "name": "Open-Close-Doors",
                 "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
             "attributes": {
-                "action": "!OnlyDoors --lock-unlock",
+                "action": "!OnlyDoors --@{target|Door|token_id} --lock-unlock",
                 "istokenaction": false,
                 "name": "Lock-Unlock-Doors",
                 "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
             }
         },
         {
@@ -294,14 +334,6 @@
                 "action": "!token-mod --set defaulttoken",
                 "istokenaction": false,
                 "name": "Make-Default-Token",
-                "visibleto": ""
-            }
-        },
-        {
-            "attributes": {
-                "action": "!map-lock ?{Action:|lock|unlock}",
-                "istokenaction": true,
-                "name": "Map-Lock-Unlock-Token",
                 "visibleto": ""
             }
         }
