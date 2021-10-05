@@ -6,7 +6,7 @@
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/campaign-details "Tougher Together Files"
 
 <!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/campaign-details/images/character-intoductions-banner.png#banner "A notice Board with Help Wanted posters for adventurers."
+[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/campaign-details/images/character-introductions-banner.png#banner "A notice Board with Help Wanted posters for adventurers."
 
 <style>
 /* CSS style for NaturalCrit Homebrew render. */
