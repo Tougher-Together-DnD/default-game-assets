@@ -1,11 +1,11 @@
 ﻿<!-- Lingering Injuries -->
-<!-- Special Setup -->
+<!-- special-setup -->
 
 <!-- Reference URLS -->
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/special-setup/lingering-injuries "Tougher Together Files"
 
 <!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/lingering-injuries/images/lingering-injuries-banner.webp "topic main banner"
+[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/lingering-injuries/images/lingering-injuries-banner.webp#banner "topic main banner"
 
 <style>
 /* CSS style for NaturalCrit Homebrew render. */
@@ -18,6 +18,9 @@ span { font-weight:bold; }
 ul li { line-height:2; }
 .phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
 th:empty { display:none; }
+
+/* css for markdown */
+img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
 </style>
 
 ![][Main Banner]
