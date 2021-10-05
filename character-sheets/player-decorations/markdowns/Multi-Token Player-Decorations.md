@@ -1,4 +1,7 @@
 <!-- Multi-Token: Player Decorations -->
+<!-- default-game-assets -->
+<!-- character-sheets -->
+<!-- player-decorations -->
 
 <!-- Reference URLS -->
 [Tougher Together Repo]: https://github.com/Tougher-Together-DnD "Tougher Together DnD"
@@ -6,7 +9,7 @@
 
 [Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/menu-icon.png#icon
 [Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/art-avatar.webp
-[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/decoration-screengrab.gif
+[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/player-decorations/images/decoration-screengrab.gif#screenshot
 [Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
 <!-- API URLs -->
