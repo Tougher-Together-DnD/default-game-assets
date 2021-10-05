@@ -10,7 +10,6 @@
 [Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/menu-icon.png#icon
 [Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/template-avatar.webp
 [Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/macro-screenshot.png
-
 [Range3D-URL]: https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/special-setup/range3d/Range3D%20Custom.js
 
 <!-- External Tools -->

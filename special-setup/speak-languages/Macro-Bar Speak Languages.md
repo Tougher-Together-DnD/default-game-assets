@@ -9,7 +9,7 @@
 
 [Collection Icon]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/menu-icon.png#icon
 [Avatar]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/utility/macro-bars/images/menu-avatar.webp
-[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/speak-languages/images/screenshot.gif
+[Screenshot]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/speak-languages/images/screenshot.gif#screenshot
 [Roll20 Forum Post]: https://app.roll20.net/forum/post/7969855/speak-in-different-languages/?pagenum=1
 
 <!-- External Tools -->
@@ -117,7 +117,9 @@ A character sheet for each language needs to be created.
 
 On this Macro-Bar character sheet add an attribute "known_languages" with a value of:
 
+```
 Abyssal|Celestial|Dark-Speech|Deep-Speech|Draconic|Druidic|Dwarvish|Elvish|Giant|Gnomish|Goblin|Halfling|Infernal|Kraul|Leonin|Loxodon|Minotaur|Orc|Primordial|Sylvan|Thieves-Cant|Undercommon|Vedalken
+```
 
 <br>
 

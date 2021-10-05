@@ -1,5 +1,7 @@
 ﻿<!-- Lingering Injuries -->
+<!-- default-game-assets -->
 <!-- special-setup -->
+<!-- lingering-injuries -->
 
 <!-- Reference URLS -->
 [Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/special-setup/lingering-injuries "Tougher Together Files"
