@@ -1,14 +1,16 @@
+<!-- Render in Homebrewery -->
 <!-- Important Links -->
+<!-- Post in Forums 3/4 -->
 
 <!-- Reference URLS -->
 [Discord]: https://discord.gg/fPqrtEXz8t "Tougher Together DnD Discord invite for voice chat."
 [Creation Server]: https://app.roll20.net/join/5971068/bTzB4g "A Roll20 server set up for creation of your characters."
 [PayPal-Link]: https://paypal.com "Link to PayPal account to make session payments to."
 
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/downtime-activities "Tougher Together Files"
+[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/campaign-details "Tougher Together Files"
 
 <!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/downtime-activities/downtime-activities-banner.webp#banner "topic main banner"
+[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/campaign-details/images/important-links-banner.png#banner "Fantasy characters playing DnD."
 
 <style>
 /* CSS style for NaturalCrit Homebrew render. */
@@ -28,23 +30,28 @@ img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:
 
 ![][Main Banner]
 
-## Welcome to [TITLE].
+# Welcome to %%TITLE%% Campaign!
 
-### Join Your Party
+## Join Your Party
 We use Discord for voice chat and private messaging. Its how you will communicate with your DM and other party members.
+
+Go ahead and join us; get to know everyone.
 
 Link: [Tougher Together's Discord](https://discord.gg/fPqrtEXz8t)
 
-### Create Your Character
+## Create Your Character
 The Creation Server has all you need to make a new character. With shared compendiums from your DM, the charactermancer wizard has tons of options to choose from.
 
 Link: [Tougher Together's Character Creation Server](https://app.roll20.net/join/5971068/bTzB4g)
 
-### Need Help?
+## Need Help?
 Private message your DM through Roll20 if you need help getting on Discord. Once on Discord your DM and other players can assists you in more detail.
 
-### Payment
-Session Zero, or your first session is **Free!** After that please send $[AMOUNT] to [PAYPAL-LINK]. Or on paypal search for [EMAIL]
+## Payment
+Session Zero, or your first session is **Free!**
 
+After that you can send $%%AMOUNT%% to [PAYPAL][PayPal-Link] for your session payments.
 
-Thank you for your time and support, see you in game.
+Remember this is all for fun, if payment ever becomes an issue talk to your DM.
+
+#### Thank you for your time and support, see you in game!

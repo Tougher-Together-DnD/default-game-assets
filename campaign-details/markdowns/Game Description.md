@@ -74,7 +74,7 @@ A payment of $%%AMOUNT%% is expected before the beginning of each weekly session
 Session 0 (zero) is free, as the players and DM get to know each other!
 
 **Why should you pay?**  
-Paying for games provides a distinct incentive for both the DM and players to consistently be on time and ready to play each session. It also helps offset the time I spend preparing for the sessions. I want to provide the best experience I can. This however requires time doing some tedious planning.
+Paying for games provides a distinct incentive for both the DM and players to consistently be on time and ready to play each session. It also helps offset the time and money the DM spends preparing for the sessions. I want to provide you the the best player experience I can.
 
 **Disclaimer:**
 *This game will require payment to the Game Master at a rate of $%%AMOUNT%% per session, paid 1 hours in advance via PayPal. Roll20 is not responsible for any payment transactions and cannot enforce any private arrangements.*
