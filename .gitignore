@@ -90,7 +90,7 @@ _config.yml
 
 # Folders and files for developers
 # This repo is for Developers
-/DEV*/
+/DEV/
 /Dev*/
 /PERSONAL/
 .zip
