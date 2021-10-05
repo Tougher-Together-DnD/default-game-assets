@@ -9,7 +9,7 @@
 /* eslint-disable no-undef */
 var onlyDoors = onlyDoors || (function initOnlyDoors() {
 
-	let debug = false;
+	let debug = true;
 	let lockStatusmarker = "padlock";
 
 	let message = {};
@@ -26,9 +26,7 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		}
 
 		let blnCorrectLayer = (obj.get("layer") === "objects") ? true : false;
-		let strBarValue = obj.get("bar3_value");
-
-		log("bar3_value: " + strBarValue)
+		let strBarValue = obj.get("bar3_value").toString();
 
 		if (blnCorrectLayer && strBarValue.startsWith("-")) {
 
@@ -143,13 +141,12 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 				let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")}`;
 
 				if (objDoorInfo.objMirrorDoor !== "") {
-					strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
+					let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
 				}
 
 				let strPlayerID = message.playerid;
 				let strPlayerName = message.who;
-				let isGM = strPlayerName.includes("(GM)")
-				let isKeyHolder = objDoorInfo.objDoor.get("controlledby").split(",").includes(strPlayerID)
+				let keyHolder = (objDoorInfo.objDoor.get("controlledby").startsWith(",")) ? objDoorInfo.objDoor.get("controlledby").slice(1) : objDoorInfo.objDoor.get("controlledby")
 				let isLocked = objDoorInfo.objDoor.get("statusmarkers").split(",")
 					.includes(lockStatusmarker);
 
@@ -158,33 +155,31 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 					return;
 				}
 
-				log("State: Locked=" + isLocked + " isGM=" + isGM + " isKeyHolder=" + isKeyHolder)
-				switch(true) {
-					case (isLocked && ( isGM || isKeyHolder)):
-						//unlock
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
+				// See if player has control to lock unlock.
 
-						if (isGM) {
-							// sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
-						} else {
-							sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
-						}
+				log(strPlayerID + " holder: " + keyHolder)
 
-					  break;
-					case (!isLocked ):
-						//lock
+				if (isLocked && strPlayerID !== keyHolder && !(strPlayerName.includes("(GM)"))) {
+					sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
+					return;
+				}
 
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
+				if (!isLocked ) {
+					// Lock Door
+					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
 
-						if (!isGM) {
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|+${strPlayerID}`);
-						}
-					  break;
-					default:
-						//no key
-						sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
-						return;
-				  } 
+					log(`GMname: ${strPlayerName.includes("(GM)")} with name: ${strPlayerName}`);
+					if (strPlayerName.includes("(GM)")) {
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
+					} else {
+						// sendChat( "OnlyDoors", `/w ${strPlayerName} You (as ${strPlayerName}) locked a door.` );
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
+					}
+				} else {
+					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
+					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+
+				}
 
 				// !token-mod --ignore-selected --ids -MkLm02ZaDWqQ3sYWZrf -MkLm06CBmybGkoNmVel --[[1t[Magic-Portal]]]
 
@@ -350,9 +345,7 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		// let tokens = msg.selected;
 		let tokens = [{ "_id": `${commands.shift()}`, "_type": "graphic" }];
 
-		if (tokens[0]._id === "selected" ) {
-			tokens = msg.selected;
-		}
+		log(tokens)
 
 		queue.map(function (element) {
 			let arrSegments = element.split(" ");

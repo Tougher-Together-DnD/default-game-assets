@@ -1,0 +1,6 @@
+In TokenMod:
+Set "players can use -ids" to true so they can interact with tokens they do not control (aka Doors).
+
+In Roll20Am:
+Be sure to import tracks into roll20AM.
+Turn display of menu off.
