@@ -1,0 +1,324 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MlDaTwWiIDo67lfVFOr",
+        "name": "Multi-Token: Weather Overlays",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/macro-bars/images/lightning-avatar.png",
+        "bio": "%3Cp%3E1.%20Fog%3C/p%3E%3Cp%3E2.%20Rainstorm%3C/p%3E%3Cp%3E3.%20Rain-Top%3C/p%3E%3Cp%3E4.%20Snow%3C/p%3E%3Cp%3E5.%20Snow-Top%3C/p%3E%3Cp%3E6.%20Dust%3Cbr%3E%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":245,\"top\":595,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/marketplace/736092/smhxYc88RFbNqooJ7N6yNg/med.webm?1553542617\",\"page_id\":\"-MjYVBcvMHtK_4OuySpU\",\"layer\":\"objects\",\"name\":\"Multi-Token: Weather Overlays\",\"represents\":\"-MlDaTwWiIDo67lfVFOr\",\"playersedit_bar1\":false,\"playersedit_bar2\":false,\"playersedit_bar3\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/marketplace/736092/smhxYc88RFbNqooJ7N6yNg/med.webm%3F1553542617|https%3A//s3.amazonaws.com/files.d20.io/marketplace/736128/XbZ1ivMnRN2DZ62NJHx2mQ/med.webm%3F1553546318|https%3A//s3.amazonaws.com/files.d20.io/marketplace/736146/M8FuPW0aYXZZuU9WB7UMjw/med.webm%3F1553548262|https%3A//s3.amazonaws.com/files.d20.io/marketplace/736164/Uwu_a8u_ZsWaFCx_PbvWWA/med.webm%3F1553550786|https%3A//s3.amazonaws.com/files.d20.io/marketplace/736197/pcSpX-0jcsyAVNWsnFyngA/med.webm%3F1553552695|https%3A//s3.amazonaws.com/files.d20.io/marketplace/736055/G209mDM0Hv809RD3BnpNXw/med.webm%3F1553539878\",\"lastmove\":\"455,525\",\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[\"multi-token\",\"weather\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": " ",
+                "max": "",
+                "id": "-MlDaU2PDF7yKXkh6s-k"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MlDaU2SsQvruiydcwUw"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MlDaU2Tozc7qlZ-Oi3D"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MlDaU2U6AclyoXAhHJn"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-MlDaU2WmFJ9WbRwLrRD"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlDaU2YYGWaoRXVNVO7"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MlDaU2ZxAyet55gWuB5"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlDaU2_Y-CYzEaxmHlV"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MlDaU2aTVhhXwcoex8I"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZEJCT4yHRmyPFg"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZGXTwiMzpUSzzf"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZHxYcV1UzZhElJ"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZIFTxQbxpjkssG"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZKoNQ5LfJoTxip"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZMK0pcuXmDbAZ6"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZNaTHcIWvBq6NW"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUZOL_IsB891SGuD"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUamj43H2ev-5PUZ"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUaojvWY81aR_HXi"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUaqsE1QUBy5yUI0"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUaqsE1QUBy5yUI1"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUasvJR9GEVKEV5u"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUat5Qt7J1wyzM9G"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUauD1eCQz0fAG4W"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUaw4ZSX5egGZbP1"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUaxoF5U0KQMNM6U"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUazjjl2H70UiHI0"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUazjjl2H70UiHI1"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb08Wuz-M8_Hemn"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb1XRm680FDCRp2"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb2eaq0fypW5kBb"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb4Tj6HFsOvWPn8"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb5-6-byP0efMlm"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb6mMQYSXfABNhy"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlDaUb7-Jzzpa8LMl4q"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0.1,
+                "max": "",
+                "id": "-MlDaUvAlgPDKQHohSsX"
+            },
+            {
+                "name": "repeating_tohitmod_-MlDaV5h4dYZZph3RXH9_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-MlDaVSr2CB1Ton6uLu_"
+            },
+            {
+                "name": "repeating_tohitmod_-MlDaV5h4dYZZph3RXH9_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-MlDaVStqbqsb-tHqKSx"
+            },
+            {
+                "name": "repeating_tohitmod_-MlDaV5h4dYZZph3RXH9_global_attack_active_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlDaVSvoJzcZu_p3XvC"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MlDaW4hvAzqLA2C4pDY"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MlDaW8hhrzMwmK8UVvF"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MlDaW8j4yRlULozPM1I"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "[[1d4[BLESS]]]",
+                "max": "",
+                "id": "-MlDaWB9-eH6f1gAh_zV"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MlDaX7Mhimp3-09ykgv"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_spell_attacks,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_pc_global_critical_stacked_damage_rolls,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MlDaXE3iSjzhn76bo5F"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MlDaaQc8PPWk7EywRfv"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlDaaQdqPC0rDIFKm1a"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MlDaaQeZEEyF3gt3uTc"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MlDagkLKsCT4AqS9WuA"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlDaiWkGu4_XW-AXq8T"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": 1,
+                "max": "",
+                "id": "-MlDal7MHYhbT9uEGgwJ"
+            }
+        ],
+        "abilities": []
+    }
+}

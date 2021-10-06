@@ -1,0 +1,654 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MlGr2OihWqLNWJJEHZ7",
+        "name": "Template: Ship Features",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"objects\",\"vehicles\",\"templates\",\"ship\",\"features\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MlGr2PlqXpwFGWQPBXj"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MlGr2PnA5Y_IrJ1V_fT"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MlGr2Pp_W0AuL95tJa3"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MlGr2PsPebL_H6G8Bjk"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-MlGr2PtsRoL38g5t23u"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlGr2PvnGhEzzs2yMFm"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MlGr2PvnGhEzzs2yMFn"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlGr2PxqExsontnarXH"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MlGr2PyVVBZNPeQhi9C"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2Qilo77AkzAgGfs"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2QkPDXQKmNZs6xX"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2Ql6tf9cPkkJxMx"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2QmedWFwmTgn1_8"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2Qo_rQckYMFtr8X"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2Qpn8_6RkWWQ6LM"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2QrR3VGupebOMFR"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2QsAsA-5N8DV3L4"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R1tImxH2D4uAwb"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R38-KaAtKrshre"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R4h-0rro9bcqt0"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R5XPLBiYibwGTD"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R6oYraoHBK2gJY"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R7DkLlOP8HvN2M"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R7DkLlOP8HvN2N"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R8IJ-u2NVSULQ9"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2R90X3_-J7c_l0j"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RAfwfhRYPJMXaK"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RBImlVWJVSDpE5"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RCsgNk1zBxzHPu"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RDdTD_r660YvIh"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2REBYTbTgM4QTF2"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RFPX5wcZB34wNB"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RGJsEQ1jzjSXo6"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RHPgfXpbLZwIq1"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGr2RI1px9cO030Y5C"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0.1,
+                "max": "",
+                "id": "-MlGr2Rd4lPsu2A3EGhw"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGr2TZ42Haf6r595mz_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-MlGr2T_d6bCDvYaxyNY"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGr2TZ42Haf6r595mz_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-MlGr2TdvAIAIGrErepw"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGr2TZ42Haf6r595mz_global_attack_active_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlGr2Tfs39HvLTmwcPZ"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "[[1d4[BLESS]]]",
+                "max": "",
+                "id": "-MlGr2VowAnqHB7-xZ1e"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MlGr2nsE-gfo7vhKE18"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MlGr2nt4qtdxmoyalTy"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MlGr2nvaqi-skVAeWVO"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MlGr2oJUXJ8AIp1ZCE1"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MlGr2oNRqULnIrjk_gb"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MlGr2pcM1mLk1_eODav"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGr2pe4NOboRaVBX8G"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MlGr2pfw2nJPMosfsK4"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MlGr2rt7buQdlDPQCuP"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlGr2sFc64q_kWtlWgk"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGr2sW39XA-Kslp_qa"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr7qe6aj12muVKeEK_name",
+                "current": "Carry Capacity",
+                "max": "",
+                "id": "-MlGr7qe6aj12muVKeEL"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr7qe6aj12muVKeEK_description",
+                "current": "Galley: 300,000 lb (150 tons)\nKeelboat: 1,000 (.5 tons)\nLongship: 20,000 (10 tons)\nRowboat: 400 lb. (0.2 ton )\nSailing Ship: 200,000 (100 tons)\nWarship: 400,000 lb (200 tons)\n\nIf a Ship exceeds its carrying capacity it begins to sink.",
+                "max": "",
+                "id": "-MlGr7qgcOTqZ5LLg2JY"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr7qh9YrZeErlPz2w_name",
+                "current": "Travel Pace",
+                "max": "",
+                "id": "-MlGr7qh9Yr_eErlPz2x"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr7qh9YrZeErlPz2w_description",
+                "current": "Galley: 4 miles per hour (32 miles per shift)\nKeelboat: 3 miles per hour (24 miles per shift)\nLongship: 5 miles per hour (40 miles per shift)\nRowboat: 3 miles per hour (24 miles per shift)\nSailing Ship: 5 miles per hour (40 miles per shift)\nWarship: 4 miles per hour (32 miles per shift)\n*There are 3 shifts in a day (excluding breaks)\n\n  Ships travel at a speed given their stat blocks. Unlike with land travel, players can’t choose to move at a faster pace, though they can choose to go slower.\n\n  If a ship’s mode of movement takes damage, it might be slowed. For every decrease of 10 feet in speed, reduce the ship’s pace by 1 mile per hour and 24 miles per day.\n\nDepending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.",
+                "max": "",
+                "id": "-MlGr7qjhYlDcUGa6Mbc"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr9eN2GYLrXkRcNE1_name",
+                "current": "Crew Quality",
+                "max": "",
+                "id": "-MlGr9eN2GYLrXkRcNE2"
+            },
+            {
+                "name": "repeating_npctrait_-MlGr9eN2GYLrXkRcNE1_description",
+                "current": "A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.\n\nThe Quality of the Crew adds a bonus to some actions and features. Most ships have a base Initiative of 10. The Quality of the Crew is added to the Initiative for purposes of turn order.\n\nA typical crew member uses the Commoner stat block in the Monster Manual.\n\n*Performance is the attribute used to track crew quality. This replaces a weapons 'to hit' modifier.",
+                "max": "",
+                "id": "-MlGr9eP9qIm25f750yG"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD55bFqSZCdY1JAn_name",
+                "current": "Ability Scores",
+                "max": "",
+                "id": "-MlGrD55bFqSZCdY1JAo"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD55bFqSZCdY1JAn_description",
+                "current": "  A ship has the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers.\n\n  A ship’s Strength represents its size and weight. Dexterity represents a ship’s ease of handling. A ship’s Constitution covers its durability and the quality of its construction.\n\n  Ships usually have a score of 0 in Intelligence, Wisdom, and Charisma. If a ship has a 0 in a score, it automatically fails any ability check or saving throw that uses that score.",
+                "max": "",
+                "id": "-MlGrD560Nv19ua_s1OK"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD576qd4F3BusaZP_name",
+                "current": "Cargo Hold",
+                "max": "",
+                "id": "-MlGrD576qd4F3BusaZQ"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD576qd4F3BusaZP_description",
+                "current": "Cargo holds at the fore and aft of the lower deck hold crates, barrels, and ammunition secured with rope.",
+                "max": "",
+                "id": "-MlGrD576qd4F3BusaZR"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD59ZUZ9DWW4a0Ex_name",
+                "current": "Ceilings",
+                "max": "",
+                "id": "-MlGrD59_UZ9DWW4a0Ey"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD59ZUZ9DWW4a0Ex_description",
+                "current": "The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.",
+                "max": "",
+                "id": "-MlGrD59_UZ9DWW4a0Ez"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5AFg4YdWMMrSZA_name",
+                "current": "Creature Capacity",
+                "max": "",
+                "id": "-MlGrD5AFg4YdWMMrSZB"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5AFg4YdWMMrSZA_description",
+                "current": "X Crew Y Passengers*\n\n*Passengers include Crew of Medium Creatures.",
+                "max": "",
+                "id": "-MlGrD5AFg4YdWMMrSZC"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5BdI8uhH0jk9-X_name",
+                "current": "Doors",
+                "max": "",
+                "id": "-MlGrD5BdI8uhH0jk9-Y"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5BdI8uhH0jk9-X_description",
+                "current": "The ship's doors are made of wood and have AC 15, 18 hit points, and immunity to poison and psychic damage. A lock can be picked with a successful DC 15 Dexterity check made using thieves' tools, or the door can be forced open with a successful DC 20 Strength (Athletics) check.",
+                "max": "",
+                "id": "-MlGrD5BdI8uhH0jk9-Z"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5CZA4SCzsN8hyL_name",
+                "current": "Footlockers",
+                "max": "",
+                "id": "-MlGrD5CZA4SCzsN8hyM"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5CZA4SCzsN8hyL_description",
+                "current": "The footlockers are iron and have AC 19, 18 hit points, and immunity to poison and psychic damage.",
+                "max": "",
+                "id": "-MlGrD5DVREec75Jsose"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5DVREec75Jsosf_name",
+                "current": "Guest Cabin and Brig",
+                "max": "",
+                "id": "-MlGrD5DVREec75Jsosg"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5DVREec75Jsosf_description",
+                "current": "This cabin is meant for guests and visiting high-ranking officials along for the journey. Since warships often have a greater need to house prisoners rather than guests, each bed aboard such a vessel also has a set of manacles (see chapter 5 in the Player's Handbook) attached to its frame.",
+                "max": "",
+                "id": "-MlGrD5EN9-S1qA7es-W"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5EN9-S1qA7es-X_name",
+                "current": "Gun Ports",
+                "max": "",
+                "id": "-MlGrD5EN9-S1qA7es-Y"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5EN9-S1qA7es-X_description",
+                "current": "The ship has ports in its lower decks that can be opened to fire cannons.",
+                "max": "",
+                "id": "-MlGrD5FX8FoxzSEdWwU"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Gzn9nFD7qhIsd_name",
+                "current": "Hatch",
+                "max": "",
+                "id": "-MlGrD5Gzn9nFD7qhIse"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Gzn9nFD7qhIsd_description",
+                "current": "A covered, 10-foot-square opening leads to the lower deck.",
+                "max": "",
+                "id": "-MlGrD5Gzn9nFD7qhIsf"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Hf1ya6ZMx5sfw_name",
+                "current": "Light",
+                "max": "",
+                "id": "-MlGrD5Hf1ya6_Mx5sfx"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Hf1ya6ZMx5sfw_description",
+                "current": "A hanging lantern or two casts bright light across the ship.",
+                "max": "",
+                "id": "-MlGrD5IrRYmAdX1WQy7"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5IrRYmAdX1WQy8_name",
+                "current": "Oars",
+                "max": "",
+                "id": "-MlGrD5IrRYmAdX1WQy9"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5IrRYmAdX1WQy8_description",
+                "current": "Sixteen benches are built into the deck, each with a 15-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Five spare oars hang on the walls.",
+                "max": "",
+                "id": "-MlGrD5J-SRrH1DQXPBK"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5J-SRrH1DQXPBL_name",
+                "current": "Privy",
+                "max": "",
+                "id": "-MlGrD5J-SRrH1DQXPBM"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5J-SRrH1DQXPBL_description",
+                "current": "Benches line the walls of this room. Four holes carved in them house chamber pots.",
+                "max": "",
+                "id": "-MlGrD5KfYXbYfDRnr6a"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5LO8bcz9xKk5I7_name",
+                "current": "Railing",
+                "max": "",
+                "id": "-MlGrD5LO8bcz9xKk5I8"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5LO8bcz9xKk5I7_description",
+                "current": "The deck has a 3-foot-high rail covered in wooden shields around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.",
+                "max": "",
+                "id": "-MlGrD5Mgf8Sa8zBF7DG"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Mgf8Sa8zBF7DH_name",
+                "current": "Rigging",
+                "max": "",
+                "id": "-MlGrD5Mgf8Sa8zBF7DI"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Mgf8Sa8zBF7DH_description",
+                "current": "Rigging on the ship can be climbed without an ability check.",
+                "max": "",
+                "id": "-MlGrD5Nz86n7VAOu2iz"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Nz86n7VAOu2j-_name",
+                "current": "Rowboats",
+                "max": "",
+                "id": "-MlGrD5Nz86n7VAOu2j0"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5Nz86n7VAOu2j-_description",
+                "current": "Four rowboats are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.",
+                "max": "",
+                "id": "-MlGrD5Ou_b0mwa7LW88"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5OuZb0mwa7LW89_name",
+                "current": "Rudder",
+                "max": "",
+                "id": "-MlGrD5Ou_b0mwa7LW8A"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5OuZb0mwa7LW89_description",
+                "current": "The ship is steered by a rudder control on the aft of the deck. The Rudder is a control surface that turns the ship.",
+                "max": "",
+                "id": "-MlGrD5PjFIza4-BVeby"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5PjFIza4-BVebz_name",
+                "current": "Sails",
+                "max": "",
+                "id": "-MlGrD5PjFIza4-BVec-"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5PjFIza4-BVebz_description",
+                "current": "The longship has one 20-foot-tall mast with sails that can be used to sail the ship.",
+                "max": "",
+                "id": "-MlGrD5PjFIza4-BVec0"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5RrdCgt4LKIltj_name",
+                "current": "Ship Repair",
+                "max": "",
+                "id": "-MlGrD5RrdCgt4LKIltk"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5RrdCgt4LKIltj_description",
+                "current": "Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.",
+                "max": "",
+                "id": "-MlGrD5RrdCgt4LKIltl"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5TWHo0CwyNRc5w_name",
+                "current": "Wheel",
+                "max": "",
+                "id": "-MlGrD5TWHo0CwyNRc5x"
+            },
+            {
+                "name": "repeating_npctrait_-MlGrD5TWHo0CwyNRc5w_description",
+                "current": "The ship's wheel stands at the aft of the deck. This is used to steer the ship. If destroyed the ship can not take the turn actions. (Unless the rudder or other control surface is manipulated manually.)",
+                "max": "",
+                "id": "-MlGrD5TWHo0CwyNRc5y"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MlGrEbyKdnj5nlF3huc"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MlGrEdreSQH1nByHrRr"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlGrF7vrB59c6sWvmmu"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-MlGrK52g4OvcI1C3uiK"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm86X7unl2gqAMCh"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm88pLkN6uS3n-9Y"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm891x7mniidGDHe"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm8ACoC2QL9Gyeor"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm8ACoC2QL9Gyeos"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGrm8Cm7yRyzMMjYpd"
+            },
+            {
+                "name": "_reporder_repeating_npctrait",
+                "current": "-MlGrD55bFqSZCdY1JAn,-MlGr9eN2GYLrXkRcNE1,-MlGrD5AFg4YdWMMrSZA,-MlGr7qe6aj12muVKeEK,-MlGr7qh9YrZeErlPz2w,-MlGrD576qd4F3BusaZP,-MlGrD59ZUZ9DWW4a0Ex,-MlGrD5BdI8uhH0jk9-X,-MlGrD5CZA4SCzsN8hyL,-MlGrD5DVREec75Jsosf,-MlGrD5EN9-S1qA7es-X,-MlGrD5Gzn9nFD7qhIsd,-MlGrD5Hf1ya6ZMx5sfw,-MlGrD5IrRYmAdX1WQy8,-MlGrD5J-SRrH1DQXPBL,-MlGrD5LO8bcz9xKk5I7,-MlGrD5Mgf8Sa8zBF7DH,-MlGrD5Nz86n7VAOu2j-,-MlGrD5OuZb0mwa7LW89,-MlGrD5PjFIza4-BVebz,-MlGrD5RrdCgt4LKIltj,-MlGrD5TWHo0CwyNRc5w",
+                "max": "",
+                "id": "-MlGrr0tlB99qne4d0yu"
+            }
+        ],
+        "abilities": []
+    }
+}

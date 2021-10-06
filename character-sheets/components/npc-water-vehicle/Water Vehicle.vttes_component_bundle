@@ -5,420 +5,440 @@
     {
       "name": "Ability Scores",
       "type": "NPC Trait",
-      "repeating_id": "-MlGMyZUqSN650xea9iQ",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD55bFqSZCdY1JAn",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MlGMyZUqSN650xea9iQ_name",
+          "name": "repeating_npctrait_-MlGrD55bFqSZCdY1JAn_name",
           "current": "Ability Scores",
           "max": "",
-          "id": "-MlGN-s2pTlKI9XZAfWk"
+          "id": "-MlGrD55bFqSZCdY1JAo"
         },
         {
-          "name": "repeating_npctrait_-MlGMyZUqSN650xea9iQ_description",
+          "name": "repeating_npctrait_-MlGrD55bFqSZCdY1JAn_description",
           "current": "  A ship has the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers.\n\n  A ship’s Strength represents its size and weight. Dexterity represents a ship’s ease of handling. A ship’s Constitution covers its durability and the quality of its construction.\n\n  Ships usually have a score of 0 in Intelligence, Wisdom, and Charisma. If a ship has a 0 in a score, it automatically fails any ability check or saving throw that uses that score.",
           "max": "",
-          "id": "-MlGN0QnDHBCJzKoxkUg"
+          "id": "-MlGrD560Nv19ua_s1OK"
         }
       ]
     },
     {
       "name": "Cargo Hold",
       "type": "NPC Trait",
-      "repeating_id": "-MjixLMZOoUK8Vqv2moS",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD576qd4F3BusaZP",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjixLMZOoUK8Vqv2moS_name",
+          "name": "repeating_npctrait_-MlGrD576qd4F3BusaZP_name",
           "current": "Cargo Hold",
           "max": "",
-          "id": "-MjixN6eiRnt_4vx5fqs"
+          "id": "-MlGrD576qd4F3BusaZQ"
         },
         {
-          "name": "repeating_npctrait_-MjixLMZOoUK8Vqv2moS_description",
+          "name": "repeating_npctrait_-MlGrD576qd4F3BusaZP_description",
           "current": "Cargo holds at the fore and aft of the lower deck hold crates, barrels, and ammunition secured with rope.",
           "max": "",
-          "id": "-MjixP2nvZNv9y7v84ZJ"
+          "id": "-MlGrD576qd4F3BusaZR"
         }
       ]
     },
     {
       "name": "Carry Capacity",
       "type": "NPC Trait",
-      "repeating_id": "-MlGL4gOBqIWSZZTUoYK",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGr7qe6aj12muVKeEK",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MlGL4gOBqIWSZZTUoYK_name",
+          "name": "repeating_npctrait_-MlGr7qe6aj12muVKeEK_name",
           "current": "Carry Capacity",
           "max": "",
-          "id": "-MlGL8ODJlKsa0J-yfro"
+          "id": "-MlGr7qe6aj12muVKeEL"
         },
         {
-          "name": "repeating_npctrait_-MlGL4gOBqIWSZZTUoYK_description",
-          "current": "Carry Capacity: X tons\n\nIf a Ship exceeds its carrying capacity it begins to sink.",
+          "name": "repeating_npctrait_-MlGr7qe6aj12muVKeEK_description",
+          "current": "Galley: 300,000 lb (150 tons)\nKeelboat: 1,000 (.5 tons)\nLongship: 20,000 (10 tons)\nRowboat: 400 lb. (0.2 ton )\nSailing Ship: 200,000 (100 tons)\nWarship: 400,000 lb (200 tons)\n\nIf a Ship exceeds its carrying capacity it begins to sink.",
           "max": "",
-          "id": "-MlGSdtUqDtoHqmZVeRb"
+          "id": "-MlGr7qgcOTqZ5LLg2JY"
         }
       ]
     },
     {
       "name": "Ceilings",
       "type": "NPC Trait",
-      "repeating_id": "-MjiwEXL5p7Ep-mIyUu2",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD59ZUZ9DWW4a0Ex",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjiwEXL5p7Ep-mIyUu2_name",
+          "name": "repeating_npctrait_-MlGrD59ZUZ9DWW4a0Ex_name",
           "current": "Ceilings",
           "max": "",
-          "id": "-MjiwFdE4Ivjuid8FHmh"
+          "id": "-MlGrD59_UZ9DWW4a0Ey"
         },
         {
-          "name": "repeating_npctrait_-MjiwEXL5p7Ep-mIyUu2_description",
+          "name": "repeating_npctrait_-MlGrD59ZUZ9DWW4a0Ex_description",
           "current": "The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.",
           "max": "",
-          "id": "-MjiwHOKn72idpJYTBJE"
+          "id": "-MlGrD59_UZ9DWW4a0Ez"
         }
       ]
     },
     {
       "name": "Creature Capacity",
       "type": "NPC Trait",
-      "repeating_id": "-MlGJvMMgZQhwiggJWmN",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5AFg4YdWMMrSZA",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MlGJvMMgZQhwiggJWmN_name",
+          "name": "repeating_npctrait_-MlGrD5AFg4YdWMMrSZA_name",
           "current": "Creature Capacity",
           "max": "",
-          "id": "-MlGJvMNR43e2f-fMiTJ"
+          "id": "-MlGrD5AFg4YdWMMrSZB"
         },
         {
-          "name": "repeating_npctrait_-MlGJvMMgZQhwiggJWmN_description",
+          "name": "repeating_npctrait_-MlGrD5AFg4YdWMMrSZA_description",
           "current": "X Crew Y Passengers*\n\n*Passengers include Crew of Medium Creatures.",
           "max": "",
-          "id": "-MlGJvMPCxOqm2rQBoud"
+          "id": "-MlGrD5AFg4YdWMMrSZC"
+        }
+      ]
+    },
+    {
+      "name": "Crew Quality",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGr9eN2GYLrXkRcNE1",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGr9eN2GYLrXkRcNE1_name",
+          "current": "Crew Quality",
+          "max": "",
+          "id": "-MlGr9eN2GYLrXkRcNE2"
+        },
+        {
+          "name": "repeating_npctrait_-MlGr9eN2GYLrXkRcNE1_description",
+          "current": "A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.\n\nThe Quality of the Crew adds a bonus to some actions and features. Most ships have a base Initiative of 10. The Quality of the Crew is added to the Initiative for purposes of turn order.\n\nA typical crew member uses the Commoner stat block in the Monster Manual.\n\n*Performance is the attribute used to track crew quality. This replaces a weapons 'to hit' modifier.",
+          "max": "",
+          "id": "-MlGr9eP9qIm25f750yG"
         }
       ]
     },
     {
       "name": "Doors",
       "type": "NPC Trait",
-      "repeating_id": "-MjiwHyyUZLGEhcC3n7c",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5BdI8uhH0jk9-X",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjiwHyyUZLGEhcC3n7c_name",
+          "name": "repeating_npctrait_-MlGrD5BdI8uhH0jk9-X_name",
           "current": "Doors",
           "max": "",
-          "id": "-MjiwIwu-lE4qBekCc9B"
+          "id": "-MlGrD5BdI8uhH0jk9-Y"
         },
         {
-          "name": "repeating_npctrait_-MjiwHyyUZLGEhcC3n7c_description",
+          "name": "repeating_npctrait_-MlGrD5BdI8uhH0jk9-X_description",
           "current": "The ship's doors are made of wood and have AC 15, 18 hit points, and immunity to poison and psychic damage. A lock can be picked with a successful DC 15 Dexterity check made using thieves' tools, or the door can be forced open with a successful DC 20 Strength (Athletics) check.",
           "max": "",
-          "id": "-MjiwKZhc7KUXjboIxh0"
+          "id": "-MlGrD5BdI8uhH0jk9-Z"
         }
       ]
     },
     {
       "name": "Footlockers",
       "type": "NPC Trait",
-      "repeating_id": "-MjivWIYv0o6b3HgL6G4",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5CZA4SCzsN8hyL",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivWIYv0o6b3HgL6G4_name",
+          "name": "repeating_npctrait_-MlGrD5CZA4SCzsN8hyL_name",
           "current": "Footlockers",
           "max": "",
-          "id": "-MjivXVrRLo0oFGkGMKQ"
+          "id": "-MlGrD5CZA4SCzsN8hyM"
         },
         {
-          "name": "repeating_npctrait_-MjivWIYv0o6b3HgL6G4_description",
+          "name": "repeating_npctrait_-MlGrD5CZA4SCzsN8hyL_description",
           "current": "The footlockers are iron and have AC 19, 18 hit points, and immunity to poison and psychic damage.",
           "max": "",
-          "id": "-MjivZL6ymOgIhmajGiv"
+          "id": "-MlGrD5DVREec75Jsose"
         }
       ]
     },
     {
       "name": "Guest Cabin and Brig",
       "type": "NPC Trait",
-      "repeating_id": "-MjiwwYL9JQcWcmSs40w",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5DVREec75Jsosf",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjiwwYL9JQcWcmSs40w_name",
+          "name": "repeating_npctrait_-MlGrD5DVREec75Jsosf_name",
           "current": "Guest Cabin and Brig",
           "max": "",
-          "id": "-Mjiwy0hcitX5rTko4Jp"
+          "id": "-MlGrD5DVREec75Jsosg"
         },
         {
-          "name": "repeating_npctrait_-MjiwwYL9JQcWcmSs40w_description",
+          "name": "repeating_npctrait_-MlGrD5DVREec75Jsosf_description",
           "current": "This cabin is meant for guests and visiting high-ranking officials along for the journey. Since warships often have a greater need to house prisoners rather than guests, each bed aboard such a vessel also has a set of manacles (see chapter 5 in the Player's Handbook) attached to its frame.",
           "max": "",
-          "id": "-Mjix0hC-vU6vyOP21oC"
+          "id": "-MlGrD5EN9-S1qA7es-W"
         }
       ]
     },
     {
       "name": "Gun Ports",
       "type": "NPC Trait",
-      "repeating_id": "-MjixPdGGOMhrOsjfGxj",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5EN9-S1qA7es-X",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjixPdGGOMhrOsjfGxj_name",
+          "name": "repeating_npctrait_-MlGrD5EN9-S1qA7es-X_name",
           "current": "Gun Ports",
           "max": "",
-          "id": "-MjixRK1Wniz6QGsK4Nz"
+          "id": "-MlGrD5EN9-S1qA7es-Y"
         },
         {
-          "name": "repeating_npctrait_-MjixPdGGOMhrOsjfGxj_description",
+          "name": "repeating_npctrait_-MlGrD5EN9-S1qA7es-X_description",
           "current": "The ship has ports in its lower decks that can be opened to fire cannons.",
           "max": "",
-          "id": "-Mjix_Qsdib7aXfOftG9"
+          "id": "-MlGrD5FX8FoxzSEdWwU"
         }
       ]
     },
     {
       "name": "Hatch",
       "type": "NPC Trait",
-      "repeating_id": "-MjiwP0ZAg26p1ZHSDKk",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5Gzn9nFD7qhIsd",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjiwP0ZAg26p1ZHSDKk_name",
+          "name": "repeating_npctrait_-MlGrD5Gzn9nFD7qhIsd_name",
           "current": "Hatch",
           "max": "",
-          "id": "-MjiwQG_A9u-YGxw_pi5"
+          "id": "-MlGrD5Gzn9nFD7qhIse"
         },
         {
-          "name": "repeating_npctrait_-MjiwP0ZAg26p1ZHSDKk_description",
+          "name": "repeating_npctrait_-MlGrD5Gzn9nFD7qhIsd_description",
           "current": "A covered, 10-foot-square opening leads to the lower deck.",
           "max": "",
-          "id": "-MjiwSxbHZSXi7JISvQk"
+          "id": "-MlGrD5Gzn9nFD7qhIsf"
         }
       ]
     },
     {
       "name": "Light",
       "type": "NPC Trait",
-      "repeating_id": "-MjivI1NAioeesDwOqNi",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5Hf1ya6ZMx5sfw",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivI1NAioeesDwOqNi_name",
+          "name": "repeating_npctrait_-MlGrD5Hf1ya6ZMx5sfw_name",
           "current": "Light",
           "max": "",
-          "id": "-MjivJFqFlonGeyHyFi-"
+          "id": "-MlGrD5Hf1ya6_Mx5sfx"
         },
         {
-          "name": "repeating_npctrait_-MjivI1NAioeesDwOqNi_description",
+          "name": "repeating_npctrait_-MlGrD5Hf1ya6ZMx5sfw_description",
           "current": "A hanging lantern or two casts bright light across the ship.",
           "max": "",
-          "id": "-MjivLVHTpd4DMqX1tNO"
+          "id": "-MlGrD5IrRYmAdX1WQy7"
         }
       ]
     },
     {
       "name": "Oars",
       "type": "NPC Trait",
-      "repeating_id": "-MjivvGP0VLHg0N5ZCIU",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5IrRYmAdX1WQy8",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivvGP0VLHg0N5ZCIU_name",
+          "name": "repeating_npctrait_-MlGrD5IrRYmAdX1WQy8_name",
           "current": "Oars",
           "max": "",
-          "id": "-MjivwD6BewVY8_P9QgN"
+          "id": "-MlGrD5IrRYmAdX1WQy9"
         },
         {
-          "name": "repeating_npctrait_-MjivvGP0VLHg0N5ZCIU_description",
+          "name": "repeating_npctrait_-MlGrD5IrRYmAdX1WQy8_description",
           "current": "Sixteen benches are built into the deck, each with a 15-foot-long oar. When the ship is rowed, crew members sit on these benches to work the oars. Five spare oars hang on the walls.",
           "max": "",
-          "id": "-Mjiw-NDYIJ4JSDQ5pmc"
+          "id": "-MlGrD5J-SRrH1DQXPBK"
         }
       ]
     },
     {
       "name": "Privy",
       "type": "NPC Trait",
-      "repeating_id": "-Mjiwb7VdXnyHv3bLAXJ",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5J-SRrH1DQXPBL",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-Mjiwb7VdXnyHv3bLAXJ_name",
+          "name": "repeating_npctrait_-MlGrD5J-SRrH1DQXPBL_name",
           "current": "Privy",
           "max": "",
-          "id": "-Mjiwh37JK9e30z98_-F"
+          "id": "-MlGrD5J-SRrH1DQXPBM"
         },
         {
-          "name": "repeating_npctrait_-Mjiwb7VdXnyHv3bLAXJ_description",
+          "name": "repeating_npctrait_-MlGrD5J-SRrH1DQXPBL_description",
           "current": "Benches line the walls of this room. Four holes carved in them house chamber pots.",
           "max": "",
-          "id": "-Mjiwjf8WtPu6OrCDzp8"
+          "id": "-MlGrD5KfYXbYfDRnr6a"
         }
       ]
     },
     {
       "name": "Railing",
       "type": "NPC Trait",
-      "repeating_id": "-Mjiw0L5iLWbHNsnsExl",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5LO8bcz9xKk5I7",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-Mjiw0L5iLWbHNsnsExl_name",
+          "name": "repeating_npctrait_-MlGrD5LO8bcz9xKk5I7_name",
           "current": "Railing",
           "max": "",
-          "id": "-Mjiw1aZKTRbaWN9cFn-"
+          "id": "-MlGrD5LO8bcz9xKk5I8"
         },
         {
-          "name": "repeating_npctrait_-Mjiw0L5iLWbHNsnsExl_description",
+          "name": "repeating_npctrait_-MlGrD5LO8bcz9xKk5I7_description",
           "current": "The deck has a 3-foot-high rail covered in wooden shields around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.",
           "max": "",
-          "id": "-Mjiw6pwnfyJ1DU-3w2I"
+          "id": "-MlGrD5Mgf8Sa8zBF7DG"
         }
       ]
     },
     {
       "name": "Rigging",
       "type": "NPC Trait",
-      "repeating_id": "-MjivM2nRLbdJQL4VkWc",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5Mgf8Sa8zBF7DH",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivM2nRLbdJQL4VkWc_name",
+          "name": "repeating_npctrait_-MlGrD5Mgf8Sa8zBF7DH_name",
           "current": "Rigging",
           "max": "",
-          "id": "-MjivNDFJbc56GtzP2TC"
+          "id": "-MlGrD5Mgf8Sa8zBF7DI"
         },
         {
-          "name": "repeating_npctrait_-MjivM2nRLbdJQL4VkWc_description",
+          "name": "repeating_npctrait_-MlGrD5Mgf8Sa8zBF7DH_description",
           "current": "Rigging on the ship can be climbed without an ability check.",
           "max": "",
-          "id": "-MjivPcwTkJ5bARLiWmg"
+          "id": "-MlGrD5Nz86n7VAOu2iz"
         }
       ]
     },
     {
       "name": "Rowboats",
       "type": "NPC Trait",
-      "repeating_id": "-MjiwV0OBI5ndT9Uk2vb",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5Nz86n7VAOu2j-",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjiwV0OBI5ndT9Uk2vb_name",
+          "name": "repeating_npctrait_-MlGrD5Nz86n7VAOu2j-_name",
           "current": "Rowboats",
           "max": "",
-          "id": "-MjiwWIBj2_Zevp7R4kH"
+          "id": "-MlGrD5Nz86n7VAOu2j0"
         },
         {
-          "name": "repeating_npctrait_-MjiwV0OBI5ndT9Uk2vb_description",
+          "name": "repeating_npctrait_-MlGrD5Nz86n7VAOu2j-_description",
           "current": "Four rowboats are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.",
           "max": "",
-          "id": "-MjiwZ8qlbJdJjkc1fXJ"
+          "id": "-MlGrD5Ou_b0mwa7LW88"
         }
       ]
     },
     {
       "name": "Rudder",
       "type": "NPC Trait",
-      "repeating_id": "-MjivkYJG57oIiKX2bVb",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5OuZb0mwa7LW89",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivkYJG57oIiKX2bVb_name",
+          "name": "repeating_npctrait_-MlGrD5OuZb0mwa7LW89_name",
           "current": "Rudder",
           "max": "",
-          "id": "-MjivljLEroJwntMPlHW"
+          "id": "-MlGrD5Ou_b0mwa7LW8A"
         },
         {
-          "name": "repeating_npctrait_-MjivkYJG57oIiKX2bVb_description",
+          "name": "repeating_npctrait_-MlGrD5OuZb0mwa7LW89_description",
           "current": "The ship is steered by a rudder control on the aft of the deck. The Rudder is a control surface that turns the ship.",
           "max": "",
-          "id": "-MjivnHsFysyGbpaU4fU"
+          "id": "-MlGrD5PjFIza4-BVeby"
         }
       ]
     },
     {
       "name": "Sails",
       "type": "NPC Trait",
-      "repeating_id": "-MjivpV1XAwPl2raHtqc",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5PjFIza4-BVebz",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjivpV1XAwPl2raHtqc_name",
+          "name": "repeating_npctrait_-MlGrD5PjFIza4-BVebz_name",
           "current": "Sails",
           "max": "",
-          "id": "-Mjivqfc4UyXrK4kWd1a"
+          "id": "-MlGrD5PjFIza4-BVec-"
         },
         {
-          "name": "repeating_npctrait_-MjivpV1XAwPl2raHtqc_description",
+          "name": "repeating_npctrait_-MlGrD5PjFIza4-BVebz_description",
           "current": "The longship has one 20-foot-tall mast with sails that can be used to sail the ship.",
           "max": "",
-          "id": "-MjivtFgFVSptGZXk8Hi"
+          "id": "-MlGrD5PjFIza4-BVec0"
         }
       ]
     },
     {
       "name": "Ship Repair",
       "type": "NPC Trait",
-      "repeating_id": "-MjJKivsBvWAheoUqOQ8",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5RrdCgt4LKIltj",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjJKivsBvWAheoUqOQ8_name",
+          "name": "repeating_npctrait_-MlGrD5RrdCgt4LKIltj_name",
           "current": "Ship Repair",
           "max": "",
-          "id": "-MjJKll1Qqm8XYoV2l4Q"
+          "id": "-MlGrD5RrdCgt4LKIltk"
         },
         {
-          "name": "repeating_npctrait_-MjJKivsBvWAheoUqOQ8_description",
+          "name": "repeating_npctrait_-MlGrD5RrdCgt4LKIltj_description",
           "current": "Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.",
           "max": "",
-          "id": "-MjJKr5y_J7X4l1Vat3s"
+          "id": "-MlGrD5RrdCgt4LKIltl"
         }
       ]
     },
     {
-      "name": "Travel Pace: Galley",
+      "name": "Travel Pace",
       "type": "NPC Trait",
-      "repeating_id": "-MlGJoZdsAqCVCDi2MQJ",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGr7qh9YrZeErlPz2w",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MlGJoZdsAqCVCDi2MQJ_name",
-          "current": "Travel Pace: Galley",
+          "name": "repeating_npctrait_-MlGr7qh9YrZeErlPz2w_name",
+          "current": "Travel Pace",
           "max": "",
-          "id": "-MlGJo_ewq9QuBR6aBPt"
+          "id": "-MlGr7qh9Yr_eErlPz2x"
         },
         {
-          "name": "repeating_npctrait_-MlGJoZdsAqCVCDi2MQJ_description",
-          "current": "Normal: 4 miles /hour | 96 miles/ day \n\n  Ships travel at a speed given their stat blocks. Unlike with land travel, players can’t choose to move at a faster pace, though they can choose to go slower.\n\n  If a ship’s mode of movement takes damage, it might be slowed. For every decrease of 10 feet in speed, reduce the ship’s pace by 1 mile per hour and 24 miles per day.\n\nDepending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.",
+          "name": "repeating_npctrait_-MlGr7qh9YrZeErlPz2w_description",
+          "current": "Galley: 4 miles per hour (32 miles per shift)\nKeelboat: 3 miles per hour (24 miles per shift)\nLongship: 5 miles per hour (40 miles per shift)\nRowboat: 3 miles per hour (24 miles per shift)\nSailing Ship: 5 miles per hour (40 miles per shift)\nWarship: 4 miles per hour (32 miles per shift)\n*There are 3 shifts in a day (excluding breaks)\n\n  Ships travel at a speed given their stat blocks. Unlike with land travel, players can’t choose to move at a faster pace, though they can choose to go slower.\n\n  If a ship’s mode of movement takes damage, it might be slowed. For every decrease of 10 feet in speed, reduce the ship’s pace by 1 mile per hour and 24 miles per day.\n\nDepending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.",
           "max": "",
-          "id": "-MlGJo_j_4hoqVn3DtSE"
+          "id": "-MlGr7qjhYlDcUGa6Mbc"
         }
       ]
     },
     {
       "name": "Wheel",
       "type": "NPC Trait",
-      "repeating_id": "-MjixeAq9HaNkJwAbnoA",
-      "old_character_id": "-MjYL7zC5PndUkxy2xub",
+      "repeating_id": "-MlGrD5TWHo0CwyNRc5w",
+      "old_character_id": "-MlGr2OihWqLNWJJEHZ7",
       "attributes": [
         {
-          "name": "repeating_npctrait_-MjixeAq9HaNkJwAbnoA_name",
+          "name": "repeating_npctrait_-MlGrD5TWHo0CwyNRc5w_name",
           "current": "Wheel",
           "max": "",
-          "id": "-MjixfVz5zXx3pu5j7EJ"
+          "id": "-MlGrD5TWHo0CwyNRc5x"
         },
         {
-          "name": "repeating_npctrait_-MjixeAq9HaNkJwAbnoA_description",
+          "name": "repeating_npctrait_-MlGrD5TWHo0CwyNRc5w_description",
           "current": "The ship's wheel stands at the aft of the deck. This is used to steer the ship. If destroyed the ship can not take the turn actions. (Unless the rudder or other control surface is manipulated manually.)",
           "max": "",
-          "id": "-MjixgkxTF85wf_lJfpl"
+          "id": "-MlGrD5TWHo0CwyNRc5y"
         }
       ]
     }
