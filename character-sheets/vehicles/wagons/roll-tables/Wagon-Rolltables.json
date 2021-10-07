@@ -1,0 +1,42 @@
+{
+    "name": "Wagon-Rolltables",
+    "showplayers": false,
+    "id": "-MlNwT2MgIBZRjcnsdqJ",
+    "items": {
+        "-MlO7i2zyeVS033G-3z2": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/carriage-empty-token.png",
+            "id": "-MlO7i2zyeVS033G-3z2",
+            "name": "carriage-empty"
+        },
+        "-MlO7rGey4kI9Ep6Xo9h": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/carriage-top-covered-token.png",
+            "id": "-MlO7rGey4kI9Ep6Xo9h",
+            "name": "carriage-hardtop"
+        },
+        "-MlO7yPqXOZRHTm-UWcT": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/prison-top-token.png",
+            "id": "-MlO7yPqXOZRHTm-UWcT",
+            "name": "carriage-prison-top"
+        },
+        "-MlO87aoNaZ2S35_1xO8": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/wagon-empty-token.png",
+            "id": "-MlO87aoNaZ2S35_1xO8",
+            "name": "wagon-empty"
+        },
+        "-MlO8QvoCaP8IMGqwJMH": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/wagon-inside-decor-token.png",
+            "id": "-MlO8QvoCaP8IMGqwJMH",
+            "name": "wagon-inside-decor"
+        },
+        "-MlO8VZT1WLppf0ubo8q": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/wagon-covered-token.png",
+            "id": "-MlO8VZT1WLppf0ubo8q",
+            "name": "wagon-canvas-cover"
+        },
+        "-MlO8apq3LY33orUjXos": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/vardos-top-red-token.png",
+            "id": "-MlO8apq3LY33orUjXos",
+            "name": "wagon-vardos-cover"
+        }
+    }
+}
