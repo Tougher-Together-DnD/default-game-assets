@@ -1,0 +1,1260 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Arcane Cannon: Acid Jet",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUbWTRm4NVBqeec8",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_name",
+          "current": "Arcane Cannon: Acid Jet",
+          "max": "",
+          "id": "-MlN_UbWTRm4NVBqeec9"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_UbYf6DH4qe1o5DH"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_tohitrange",
+          "current": "+0, Range 300, line",
+          "max": "",
+          "id": "-MlN_UbZ6La7A-tjR3B9"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_onhit",
+          "current": "22 (4d10) acid damage plus 11 (2d10) acid per round damage",
+          "max": "",
+          "id": "-MlN_UbZ6La7A-tjR3BA"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
+          "max": "",
+          "id": "-MlN_Ub_py8Rsjr2BGN8"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_crit",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_Uba32LoLWEdKEw-"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_crit2",
+          "current": "2d10",
+          "max": "",
+          "id": "-MlN_Uba32LoLWEdKEw0"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Ubbe8axJqiL-NFW"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_Ubc_Xx3O0kx74y5"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_range",
+          "current": "300",
+          "max": "",
+          "id": "-MlN_Ubd6Dchws7Uklsg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_description",
+          "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon discharges acid in a line 300 feet long and 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw takes 11 (2d10) acid damage at the start of each of its turns; a creature can end this damage by using its action to wash off the acid with a pint or more of water.\n\nIt takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.",
+          "max": "",
+          "id": "-MlN_UbeR3V4-YRtzpXC"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_tohit",
+          "current": "0",
+          "max": "",
+          "id": "-MlN_Ubfkh-YMhB2XDYa"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_target",
+          "current": "line",
+          "max": "",
+          "id": "-MlN_UbgWwH-nV_P1KoM"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_damage",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_Ubhl_oI2yN20Wbd"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_damagetype",
+          "current": "acid",
+          "max": "",
+          "id": "-MlN_Ubhl_oI2yN20Wbe"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_damage2",
+          "current": "2d10",
+          "max": "",
+          "id": "-MlN_UbjVfBXIHByJXCY"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbWTRm4NVBqeec8_attack_damagetype2",
+          "current": "acid per round",
+          "max": "",
+          "id": "-MlN_UbjVfBXIHByJXCZ"
+        }
+      ]
+    },
+    {
+      "name": "Arcane Cannon: Fire Jet",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUbkIS-OHlzov-aJ",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_name",
+          "current": "Arcane Cannon: Fire Jet",
+          "max": "",
+          "id": "-MlN_UbkIS-OHlzov-aK"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_UbkIS-OHlzov-aL"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_tohitrange",
+          "current": "+0, Range 300, line",
+          "max": "",
+          "id": "-MlN_UblcjEW0J3AFrZC"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_onhit",
+          "current": "33 (6d10) fire damage",
+          "max": "",
+          "id": "-MlN_UblcjEW0J3AFrZD"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UblcjEW0J3AFrZE"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_crit",
+          "current": "6d10",
+          "max": "",
+          "id": "-MlN_Ubm0bzxrRP78pRq"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Ubm0bzxrRP78pRr"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Ubnz-VIikM2LXF_"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_description",
+          "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon discharges fire in a line 300 feet long and 5 feet wide. Each creature in the area must make a DC 15 Dexterity saving throw, taking 33 (6d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites any flammable Objects in the area that aren’t being worn or carried.\n\nIt takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.",
+          "max": "",
+          "id": "-MlN_Ubnz-VIikM2LXFa"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UbpXRQ3h1Ye25Lo"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_range",
+          "current": "300",
+          "max": "",
+          "id": "-MlN_UbpXRQ3h1Ye25Lp"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_target",
+          "current": "line",
+          "max": "",
+          "id": "-MlN_UbqYjkXXgcsWvHJ"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_tohit",
+          "current": "0",
+          "max": "",
+          "id": "-MlN_UbqYjkXXgcsWvHK"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_damage",
+          "current": "6d10",
+          "max": "",
+          "id": "-MlN_UbqYjkXXgcsWvHL"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbkIS-OHlzov-aJ_attack_damagetype",
+          "current": "fire",
+          "max": "",
+          "id": "-MlN_UbrwXORcHn5IIIM"
+        }
+      ]
+    },
+    {
+      "name": "Arcane Cannon: Frost Shot",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUbrwXORcHn5IIIN",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_name",
+          "current": "Arcane Cannon: Frost Shot",
+          "max": "",
+          "id": "-MlN_UbrwXORcHn5IIIO"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Ubshdo4Ft1-2ie7"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_tohitrange",
+          "current": "+0, Range 1,200, 30-foot radius Sphere",
+          "max": "",
+          "id": "-MlN_Ubshdo4Ft1-2ie8"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_onhit",
+          "current": "22 (4d10) cold damage",
+          "max": "",
+          "id": "-MlN_UbtfFTTBsQosFSy"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UbtfFTTBsQosFSz"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_crit",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_UbtfFTTBsQosFT-"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UbtfFTTBsQosFT0"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UbtfFTTBsQosFT1"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UbvLylz-ibxDWvd"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_range",
+          "current": "1,200",
+          "max": "",
+          "id": "-MlN_UbvLylz-ibxDWve"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_description",
+          "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon shoots a ball of frost to a point you can see within 1,200 feet of the Cannon. The ball then expands to form a 30-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 22 (4d10) cold damage, and its speed is reduced by 10 feet for 1 minute. On a successful save, the creature takes half as much damage, and its speed isn’t reduced. A creature whose speed is reduced by this Effect can repeat the save at the end of each of its turns, Ending the Effect on itself on a success.\n\nIt takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.",
+          "max": "",
+          "id": "-MlN_UbvLylz-ibxDWvf"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_tohit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UbvLylz-ibxDWvg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_target",
+          "current": "30-foot radius Sphere",
+          "max": "",
+          "id": "-MlN_UbvLylz-ibxDWvh"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_damage",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_UbwL3pqlga_6_0l"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbrwXORcHn5IIIN_attack_damagetype",
+          "current": "cold",
+          "max": "",
+          "id": "-MlN_UbxsmdqyED6Zbrf"
+        }
+      ]
+    },
+    {
+      "name": "Arcane Cannon: Lightning Shot",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUbxsmdqyED6Zbrg",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_description",
+          "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon shoots a ball of lightning to a point you can see within 1,200 feet of the Cannon. The lightning then expands to form a 20-foot-radius Sphere centered on that point. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one. Creatures wearing metal armor have disadvantage on the save.\n\nIt takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.",
+          "max": "",
+          "id": "-MlN_UbxsmdqyED6Zbrh"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_tohitrange",
+          "current": "+0, Range 1,200, 20-foot radius Sphere",
+          "max": "",
+          "id": "-MlN_UbyBhhpy89jTXpq"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_onhit",
+          "current": "33 (6d10) lightning damage",
+          "max": "",
+          "id": "-MlN_UbyBhhpy89jTXpr"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UbyBhhpy89jTXps"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_crit",
+          "current": "6d10",
+          "max": "",
+          "id": "-MlN_UbzuuDYxCN2QGfg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UbzuuDYxCN2QGfh"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Uc-jOjpbLCz0kKp"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_name",
+          "current": "Arcane Cannon: Lightning Shot",
+          "max": "",
+          "id": "-MlN_Uc-jOjpbLCz0kKq"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Uc-jOjpbLCz0kKr"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_Uc0OEUUVukyTMJp"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_tohit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Uc0OEUUVukyTMJq"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_range",
+          "current": "1,200",
+          "max": "",
+          "id": "-MlN_Uc1k2Bvdb7E8jCo"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_target",
+          "current": "20-foot radius Sphere",
+          "max": "",
+          "id": "-MlN_Uc1k2Bvdb7E8jCp"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_damage",
+          "current": "6d10",
+          "max": "",
+          "id": "-MlN_Uc2Qv3_7ukPH4it"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUbxsmdqyED6Zbrg_attack_damagetype",
+          "current": "lightning",
+          "max": "",
+          "id": "-MlN_Uc2Qv3_7ukPH4iu"
+        }
+      ]
+    },
+    {
+      "name": "Arcane Cannon: Poison Shot",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUc2Qv3Z7ukPH4iv",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_description",
+          "current": "Armor Class 19\nHit Points 100 each\n\nThe Arcane Cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (4d10) poison damage and is Poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn’t Poisoned. A creature Poisoned in this way can repeat the saving throw at the end of each of its turns, Ending the Effect on itself on a success.\n\nIt takes one action to aim the Cannon and one action to fire it. After the Cannon has fired, it must Recharge for 5 minutes before it can be fired again.",
+          "max": "",
+          "id": "-MlN_Uc3Jy-F2GsxzKl0"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_tohitrange",
+          "current": "+0, Range 60, 60-foot cone",
+          "max": "",
+          "id": "-MlN_Uc3Jy-F2GsxzKl1"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_onhit",
+          "current": "22 (4d10) poison damage",
+          "max": "",
+          "id": "-MlN_Uc3Jy-F2GsxzKl2"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_Uc4dXJebtBX43Mt"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_crit",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_Uc5_ene2gn6INtD"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Uc5_ene2gn6INtE"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Uc5_ene2gn6INtF"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_name",
+          "current": "Arcane Cannon: Poison Shot",
+          "max": "",
+          "id": "-MlN_Uc5_ene2gn6INtG"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Uc5_ene2gn6INtH"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_Uc7kZY5mXPFwNnT"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_range",
+          "current": "60",
+          "max": "",
+          "id": "-MlN_Uc7kZY5mXPFwNnU"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_target",
+          "current": "60-foot cone",
+          "max": "",
+          "id": "-MlN_Uc7kZY5mXPFwNnV"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_tohit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Uc7kZY5mXPFwNnW"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_damage",
+          "current": "4d10",
+          "max": "",
+          "id": "-MlN_Uc825q4d_VuLG_J"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc2Qv3Z7ukPH4iv_attack_damagetype",
+          "current": "poison",
+          "max": "",
+          "id": "-MlN_Uc825q4d_VuLG_K"
+        }
+      ]
+    },
+    {
+      "name": "Ballista: Bolt",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUc9kmaVfIbXWmZS",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Uc9kmaVfIbXWm_T"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_tohitrange",
+          "current": "+6, Range 120/480, one target",
+          "max": "",
+          "id": "-MlN_Uc9kmaVfIbXWm_U"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_onhit",
+          "current": "16 (3d10) piercing damage",
+          "max": "",
+          "id": "-MlN_UcA9ArbUu5catju"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UcA9ArbUu5catjv"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_crit",
+          "current": "3d10",
+          "max": "",
+          "id": "-MlN_UcBm2d0pvTSy60b"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcBm2d0pvTSy60c"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UcCgUIduULe_Hyt"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_name",
+          "current": "Ballista: Bolt",
+          "max": "",
+          "id": "-MlN_UcCgUIduULe_Hyu"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UcCgUIduULe_Hyv"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_range",
+          "current": "120/480",
+          "max": "",
+          "id": "-MlN_UcDau43bZ_f6YFf"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_tohit",
+          "current": "6",
+          "max": "",
+          "id": "-MlN_UcDau43bZ_f6YFg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_target",
+          "current": "one target",
+          "max": "",
+          "id": "-MlN_UcE2UKwGbv4j8CX"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_damage",
+          "current": "3d10",
+          "max": "",
+          "id": "-MlN_UcE2UKwGbv4j8CY"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_attack_damagetype",
+          "current": "piercing",
+          "max": "",
+          "id": "-MlN_UcFG3U6KYeK3nyT"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUc9kmaVfIbXWmZS_description",
+          "current": "Armor Class 15\nHit points 50 each\n\nIt takes one action to load the weapon, one action to aim it, and one action to fire it.",
+          "max": "",
+          "id": "-MlN_UcFG3U6KYeK3nyU"
+        }
+      ]
+    },
+    {
+      "name": "Cannon: Cannonball",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUcMv-qDLHvJkbrt",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_name",
+          "current": "Cannon: Cannonball",
+          "max": "",
+          "id": "-MlN_UcMv-qDLHvJkbru"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_UcNXyMVPl-d85yO"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_tohitrange",
+          "current": "+6, Range 600/2,400, one target",
+          "max": "",
+          "id": "-MlN_UcNXyMVPl-d85yP"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_onhit",
+          "current": "44 (8d10) bludgeoning damage",
+          "max": "",
+          "id": "-MlN_UcNXyMVPl-d85yQ"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UcQv_WTb6SJABcS"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_crit",
+          "current": "8d10",
+          "max": "",
+          "id": "-MlN_UcQv_WTb6SJABcT"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcRF68ir8BHBo9t"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UcRF68ir8BHBo9u"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UcRF68ir8BHBo9v"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_range",
+          "current": "600/2,400",
+          "max": "",
+          "id": "-MlN_UcRF68ir8BHBo9w"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_tohit",
+          "current": "6",
+          "max": "",
+          "id": "-MlN_UcRF68ir8BHBo9x"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_target",
+          "current": "one target",
+          "max": "",
+          "id": "-MlN_UcSSzDUOuIsDV_R"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_damage",
+          "current": "8d10",
+          "max": "",
+          "id": "-MlN_UcTpNZ9qqGBlMT7"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_attack_damagetype",
+          "current": "bludgeoning",
+          "max": "",
+          "id": "-MlN_UcTpNZ9qqGBlMT8"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcMv-qDLHvJkbrt_description",
+          "current": "Armor Class 19\nHit points 75\n\nA cannon is usually supported in a wooden frame with wheels. Before it can be fired, the cannon must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.",
+          "max": "",
+          "id": "-MlN_UcUHXphjrtUCr6S"
+        }
+      ]
+    },
+    {
+      "name": "Mangonel: Stone",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUcnuxfb8E6xqjH-",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Ucnuxfb8E6xqjH0"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_tohitrange",
+          "current": "+5, Range 200/800, one target",
+          "max": "",
+          "id": "-MlN_Ucnuxfb8E6xqjH1"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_onhit",
+          "current": "27 (5d10) bludgeoning damage",
+          "max": "",
+          "id": "-MlN_UcoPdz-Ik1oyNiF"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_UcoPdz-Ik1oyNiG"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_crit",
+          "current": "5d10",
+          "max": "",
+          "id": "-MlN_UcpVKzUyz0ynw-F"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcpVKzUyz0ynw-G"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UcpVKzUyz0ynw-H"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_name",
+          "current": "Mangonel: Stone",
+          "max": "",
+          "id": "-MlN_Ucq5nQSPa33MTSn"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UcrWOUQHAoSb50J"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_range",
+          "current": "200/800",
+          "max": "",
+          "id": "-MlN_UcrWOUQHAoSb50K"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_description",
+          "current": "Armor Class 15\nHit points 100\n\nA mangonel is a type of Catapult that hurls heavy projectiles in a high arc. This payload can hit Targets behind cover.\n\nBefore the mangonel can be fired, it must be loaded and aimed. It takes two Actions to load the weapon, two Actions to aim it, and one action to fire it.\n\nA mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different Effects.",
+          "max": "",
+          "id": "-MlN_UcrWOUQHAoSb50L"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_target",
+          "current": "one target",
+          "max": "",
+          "id": "-MlN_UcsJzFATDOEK6V5"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_tohit",
+          "current": "5",
+          "max": "",
+          "id": "-MlN_UcsJzFATDOEK6V6"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_damage",
+          "current": "5d10",
+          "max": "",
+          "id": "-MlN_UctJMDAnkS8OfTE"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcnuxfb8E6xqjH-_attack_damagetype",
+          "current": "bludgeoning",
+          "max": "",
+          "id": "-MlN_UctJMDAnkS8OfTF"
+        }
+      ]
+    },
+    {
+      "name": "Naval Ram",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUcu19T9XTUY1oou",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_flag",
+          "current": "0",
+          "max": "",
+          "id": "-MlN_Ucu19T9XTUY1oov"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlN_Ucu19T9XTUY1oow"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcvB18t8FaY9hYu"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcvB18t8FaY9hYv"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcwCZtHQ3o5l_rr"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UcwCZtHQ3o5l_rs"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UcxwoVsRSKblWKV"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_name",
+          "current": "Naval Ram",
+          "max": "",
+          "id": "-MlN_UcxwoVsRSKblWKW"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_attack_tohit",
+          "current": "0",
+          "max": "",
+          "id": "-MlN_UcyxN-mJ2Ut1KAN"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcu19T9XTUY1oou_description",
+          "current": "Armor Class 20\nHit points 100 (damage threshold 10)\n\nThe Water Vehicle has advantage on all Saving Throws relating to Crashing when it crashes into a creature or an object. Any damage it takes from the crash is applied to the naval ram rather than to the ship. These benefits don't apply if another vessel crashes into the Water Vehicle.",
+          "max": "",
+          "id": "-MlN_UcyxN-mJ2Ut1KAO"
+        }
+      ]
+    },
+    {
+      "name": "Ram",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUcyxN-mJ2Ut1KAP",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_name",
+          "current": "Ram",
+          "max": "",
+          "id": "-MlN_UcyxN-mJ2Ut1KAQ"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_UcyxN-mJ2Ut1KAR"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_tohitrange",
+          "current": "+8, Reach 5ft, one target",
+          "max": "",
+          "id": "-MlN_UczmIx2H8YU7PFc"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_onhit",
+          "current": "16 (3d10) bludgeoning damage",
+          "max": "",
+          "id": "-MlN_UczmIx2H8YU7PFd"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_Ud-x23x22K2t9nE"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_crit",
+          "current": "3d10",
+          "max": "",
+          "id": "-MlN_Ud-x23x22K2t9nF"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Ud0gBbzvqQRncmg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Ud0gBbzvqQRncmh"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_range",
+          "current": "5ft",
+          "max": "",
+          "id": "-MlN_Ud1NcG8C_xMJml8"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_tohit",
+          "current": "8",
+          "max": "",
+          "id": "-MlN_Ud1NcG8C_xMJml9"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_target",
+          "current": "one target",
+          "max": "",
+          "id": "-MlN_Ud2x2_sHPyfqb2u"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_damage",
+          "current": "3d10",
+          "max": "",
+          "id": "-MlN_Ud2x2_sHPyfqb2v"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_attack_damagetype",
+          "current": "bludgeoning",
+          "max": "",
+          "id": "-MlN_Ud3ikkifJ0uPQjq"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUcyxN-mJ2Ut1KAP_description",
+          "current": "Armor Class 15\nHit points 100\n\nIt takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.\n",
+          "max": "",
+          "id": "-MlN_Ud3ikkifJ0uPQjr"
+        }
+      ]
+    },
+    {
+      "name": "Suspended Cauldron: Boiling Oil",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUd4q0hy21UlI6vb",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_name",
+          "current": "Suspended Cauldron: Boiling Oil",
+          "max": "",
+          "id": "-MlN_Ud4q0hy21UlI6vc"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_Ud4q0hy21UlI6vd"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_tohitrange",
+          "current": "+0, Range infinite, 10-foot Square",
+          "max": "",
+          "id": "-MlN_Ud5DxMAc4_P37nY"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_onhit",
+          "current": "10 (3d6) fire damage",
+          "max": "",
+          "id": "-MlN_Ud5DxMAc4_P37nZ"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_damage_flag",
+          "current": "{{damage=1}} {{dmg1flag=1}} ",
+          "max": "",
+          "id": "-MlN_Ud6CXJaqjWkX1X6"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_crit",
+          "current": "3d6",
+          "max": "",
+          "id": "-MlN_Ud6CXJaqjWkX1X7"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_Ud7re7LVj-o8i7I"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_Ud7re7LVj-o8i7J"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_description",
+          "current": "Armor Class 19\nHit points 20\n\nThe cauldron pours Boiling Oil onto a 10-foot-square area directly below it. Any creature in the area must make a DC 15 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.\n",
+          "max": "",
+          "id": "-MlN_Ud8P5Tv5ukTmBVr"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_range",
+          "current": "infinite",
+          "max": "",
+          "id": "-MlN_Ud8P5Tv5ukTmBVs"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_target",
+          "current": "10-foot Square",
+          "max": "",
+          "id": "-MlN_Ud8P5Tv5ukTmBVt"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_damage",
+          "current": "3d6",
+          "max": "",
+          "id": "-MlN_Ud8P5Tv5ukTmBVu"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_damagetype",
+          "current": "fire",
+          "max": "",
+          "id": "-MlN_Ud9DX7Gw2FTbKD2"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUd4q0hy21UlI6vb_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_Ud9DX7Gw2FTbKD3"
+        }
+      ]
+    },
+    {
+      "name": "Trebuchet: Stone",
+      "type": "NPC Action",
+      "repeating_id": "-MlNZUdA2J4z1RsUg4cY",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_name",
+          "current": "Trebuchet: Stone",
+          "max": "",
+          "id": "-MlN_UdA2J4z1RsUg4cZ"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_flag",
+          "current": "on",
+          "max": "",
+          "id": "-MlN_UdA2J4z1RsUg4c_"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_tohitrange",
+          "current": "+5, Range 300/1,200, one target",
+          "max": "",
+          "id": "-MlN_UdBvuXVTsnEWtBg"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UdBvuXVTsnEWtBh"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UdCtNQ_cbSetndc"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UdCtNQ_cbSetndd"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlN_UdDU6tl7Oh8DXEn"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_rollbase",
+          "current": "@{wtype}&{template:npcatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=[@{name}](~repeating_npcaction_npc_dmg)}} {{rnamec=[@{name}](~repeating_npcaction_npc_crit)}} {{type=[^{attack-u}](~repeating_npcaction_npc_dmg)}} {{typec=[^{attack-u}](~repeating_npcaction_npc_crit)}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} @{charname_output}",
+          "max": "",
+          "id": "-MlN_UdDU6tl7Oh8DXEo"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_type",
+          "current": "Ranged",
+          "max": "",
+          "id": "-MlN_UdET_aBum6ZSu3G"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_range",
+          "current": "300/1,200",
+          "max": "",
+          "id": "-MlN_UdET_aBum6ZSu3H"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_target",
+          "current": "one target",
+          "max": "",
+          "id": "-MlN_UdFUotHL4ZnTnpL"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_attack_tohit",
+          "current": "5",
+          "max": "",
+          "id": "-MlN_UdFUotHL4ZnTnpM"
+        },
+        {
+          "name": "repeating_npcaction_-MlNZUdA2J4z1RsUg4cY_description",
+          "current": "Armor Class 15\nHit points 150\n\nA trebuchet is a powerful Catapult that throws its payload in a high arc, so it can hit Targets behind cover. Before the trebuchet can be fired, it must be loaded and aimed. It takes two Actions to load the weapon, two Actions to aim it, and one action to fire it.\n\nA trebuchet typically hurls a heavy stone. However, it can launch other kinds of projectiles, such as barrels of oil or sewage, with different Effects.",
+          "max": "",
+          "id": "-MlN_UdGp06LGBHPpq6E"
+        }
+      ]
+    },
+    {
+      "name": "Arcane Artillery",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdGp06LGBHPpq6F",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdGp06LGBHPpq6F_name",
+          "current": "Arcane Artillery",
+          "max": "",
+          "id": "-MlN_UdGp06LGBHPpq6G"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdGp06LGBHPpq6F_description",
+          "current": "Using methods similar to those used to produce magic weapons, a skilled spellcaster imbues a ship’s weapon with destructive energy. This weapon gains a +2 bonus to its attack and damage rolls, and its attacks count as magical.",
+          "max": "",
+          "id": "-MlN_UdHKc6DSun3Avyb"
+        }
+      ]
+    },
+    {
+      "name": "Concussive Rounds",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdHKc6DSun3Avyc",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdHKc6DSun3Avyc_name",
+          "current": "Concussive Rounds",
+          "max": "",
+          "id": "-MlN_UdHKc6DSun3Avyd"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdHKc6DSun3Avyc_description",
+          "current": "Enhanced by abjuration magic, this weapon’s attacks burst with raucous noise capable of momentarily distracting and disorienting enemy crews. If this weapon hits a vehicle’s hull, that vehicle’s speed decreases by 2d10 feet until the start of the attacker’s next turn.",
+          "max": "",
+          "id": "-MlN_UdIhDJrUScUHSfi"
+        }
+      ]
+    },
+    {
+      "name": "Explosive Rounds",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdIhDJrUScUHSfj",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdIhDJrUScUHSfj_name",
+          "current": "Explosive Rounds",
+          "max": "",
+          "id": "-MlN_UdIhDJrUScUHSfk"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdIhDJrUScUHSfj_description",
+          "current": "Drawing on powerful evocation magic, this weapon’s attacks are imbued with unstable energy that explodes in a fiery blast. When this weapon hits, it deals an extra 2d6 fire damage.",
+          "max": "",
+          "id": "-MlN_UdJM0uxPLYQppuI"
+        }
+      ]
+    },
+    {
+      "name": "Grasping Rounds",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdJM0uxPLYQppuJ",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdJM0uxPLYQppuJ_name",
+          "current": "Grasping Rounds",
+          "max": "",
+          "id": "-MlN_UdJM0uxPLYQppuK"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdJM0uxPLYQppuJ_description",
+          "current": "This weapon creates spectral chains that trail after its shots, restraining enemy vessels in their grasp. When this weapon hits a ship, that vehicle must succeed on a DC 14 Strength saving throw or it can’t move away from the attacker. As an action, the attacking ship can end this effect, and the target can end it by taking an action and succeeding on a DC 14 Strength check.",
+          "max": "",
+          "id": "-MlN_UdKKUb0kPAMs4BP"
+        }
+      ]
+    },
+    {
+      "name": "Modified Component Set",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdKKUb0kPAMs4BQ",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdKKUb0kPAMs4BQ_name",
+          "current": "Modified Component Set",
+          "max": "",
+          "id": "-MlN_UdKKUb0kPAMs4BR"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdKKUb0kPAMs4BQ_description",
+          "current": "If a siege weapon gets a \"To Hit\" bonus, the modifier is instead replaced with the Crew Morale, or if operated by a Player Character the Player's Proficiency Bonus.\n\nCrew Morale is recorded on the NPC sheet as \"Performance+X\" under skills.",
+          "max": "",
+          "id": "-MlN_UdKKUb0kPAMs4BS"
+        }
+      ]
+    },
+    {
+      "name": "Weapons Upgrades",
+      "type": "NPC Trait",
+      "repeating_id": "-MlNZUdL3XpjIfSSerZC",
+      "old_character_id": "-MlN_N4HKUu670vGKWLZ",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlNZUdL3XpjIfSSerZC_name",
+          "current": "Weapons Upgrades",
+          "max": "",
+          "id": "-MlN_UdL3XpjIfSSerZD"
+        },
+        {
+          "name": "repeating_npctrait_-MlNZUdL3XpjIfSSerZC_description",
+          "current": "The following upgrades can apply to any weapon mounted aboard a ship. A component can gain the benefits of one upgrade, or two upgrades if one of the upgrades is Arcane Artillery.",
+          "max": "",
+          "id": "-MlN_UdL3XpjIfSSerZE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MlGswTZstKstMQB4iIq",
+        "name": "Template: Hulls and Upgrades",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"objects\",\"vehicles\",\"templates\",\"ship\",\"hulls\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MlGswUZYRcbWJzl0gzl"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MlGswU_3nmX3EbtkKeP"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MlGswUcT90ZLjEKsJN4"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MlGswUdokozs1cKpIR2"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-MlGswUeB6KvAc8D2p7s"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlGswUgYy3et9pGgynL"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MlGswUhHRjRpp4gFyOr"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlGswUhHRjRpp4gFyOs"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MlGswUj9bxm5KhuOMmk"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVERporVfoZgdpe"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVHB8Ta-5ig1X53"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVJdFbFupYx2VSC"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVKMyLtf8xXWucE"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVLUks4Hcuq_Cla"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVMJ0ZwPuHd7d9v"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVNatd_M7gMTDQs"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVPv8WvbKOC1F1M"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVbGolZAhRviyJo"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVc3ij5Ym7aer5z"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVdLGTZdT72BJQc"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVfQQ5VZsMQSc1u"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVgNBl7-0eheabQ"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVhUGJ7Mc1G2vRG"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVhUGJ7Mc1G2vRH"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVhUGJ7Mc1G2vRI"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVjX0FkFKvwRlhR"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVjX0FkFKvwRlhS"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVkMYpK1grFhL1m"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVltrd6v2ZOT2oR"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVmnLdHUOxz4PiB"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVnG_vUivld6qFG"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVoQ9xrVtgktJNu"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVpXxLxIf28BqZG"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVqjSNDpdyOrigB"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGswVrjcIRLfHkoW-q"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0.1,
+                "max": "",
+                "id": "-MlGswWGzyhi_Es0J-EY"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGswYDL5tzwUgSwLq2_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-MlGswYEfXJzSSYuq7ik"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGswYDL5tzwUgSwLq2_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-MlGswYFDecQh2sXiZRc"
+            },
+            {
+                "name": "repeating_tohitmod_-MlGswYDL5tzwUgSwLq2_global_attack_active_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlGswYGWzUk_mRU7uA-"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "[[1d4[BLESS]]]",
+                "max": "",
+                "id": "-MlGsw_exfdHfXDWFa3_"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MlGsx0fBDF9-FKm8oHa"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MlGsx0hyAGKgrnxjI_1"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MlGsx0iCJGX8Zm1FIIS"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MlGsx19oDfaniXl3bLr"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MlGsx1W1KJKb0jXyaKR"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MlGsx3NvKYYsCCW9GGL"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGsx3NvKYYsCCW9GGM"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MlGsx3OLQjtFlHw_kNt"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MlGsx4dkyM9Twtz6Dd9"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlGsx53K8kHH8QSH12A"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGsx5IR-GoD8F_4tR3"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_name",
+                "current": "Hull: Barge",
+                "max": "",
+                "id": "-MlGtHZxrtXxYWX63peX"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_description",
+                "current": "Armor Class 15\nHit Points 500 (damage threshold 20)\n\nThese are the largest ships on the water. These include Warships and Galleys. The have multiple decks and require extensive crews to operate. 40+",
+                "max": "",
+                "id": "-MlGtHZxrtXxYWX63peY"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlGtHZz_MZhJWGgWWAz"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_-xaQKupgBMMEB"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_-xaQKupgBMMEC"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_0avHDk17yTduK"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_18ckvnIi9d8_M"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZxrtXxYWX63peW_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGtH_3oTnVARVu3rNz"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_name",
+                "current": "Hull: Flatboard",
+                "max": "",
+                "id": "-MlGtH_4YKHAXZnlvvvT"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_description",
+                "current": "Armor Class 11\nHit Points 50\n\nA thin skin of material, wood boards or leather hide, stretched over flexible ribs. Used for small boats meant to shuttle from one place to another. Passengers and Crew sit within the hull. Sometimes a bait well or box is used for storage.",
+                "max": "",
+                "id": "-MlGtH_6m9OkSIYl3iFt"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlGtH_6m9OkSIYl3iFu"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_6m9OkSIYl3iFv"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_7vnlfjXXw1L4o"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_8ji9NoIW327Vj"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_8ji9NoIW327Vk"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ4YKHAXZnlvvvS_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGtH_9U-9Vpl1txqE5"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_name",
+                "current": "Hull: Keel",
+                "max": "",
+                "id": "-MlGtH_9U-9Vpl1txqE7"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_description",
+                "current": "Armor Class 15\nHit Points 100 (damage threshold 10)\n\nThey are usually part of small sailing boats, like Keelboats, Yahts. They offer space below deck for storage and/or around 2 rooms.",
+                "max": "",
+                "id": "-MlGtH_A9HgLry0z-pPG"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlGtH_Bv6f5GRXT949x"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_Bv6f5GRXT949y"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_Bv6f5GRXT949z"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_CPmzufsY5ZLWe"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_CPmzufsY5ZLWf"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZ9U-9Vpl1txqE6_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGtH_CPmzufsY5ZLWg"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_name",
+                "current": "Hull: Sailing",
+                "max": "",
+                "id": "-MlGtH_CPmzufsY5ZLWi"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_description",
+                "current": "Armor Class 15\nHit Points 300 (damage threshold 15)\n\nThese Hulls are constructed to routinely encounter rough open water and/or combat. They range from Longboats to Sailboats. They may or may not have decks, but they generally are large enough to require more than one person to operate (unlike the flatboard, and keel hulls).",
+                "max": "",
+                "id": "-MlGtH_EX1pbfDXKG-Ih"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlGtH_EX1pbfDXKG-Ii"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_EX1pbfDXKG-Ij"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_EX1pbfDXKG-Ik"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_FQsPguwnneHZm"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_FQsPguwnneHZn"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZCPmzufsY5ZLWh_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGtH_G9SoudtIDdk_v"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_name",
+                "current": "Hull: Skyship",
+                "max": "",
+                "id": "-MlGtH_HWEPLxx8LVb9J"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_description",
+                "current": "Armor Class 13\nHit Points 300\n\nThe hulls of large sky ships are much like their water-borne counter parts, except maybe a few bottom facing ports.",
+                "max": "",
+                "id": "-MlGtH_HWEPLxx8LVb9K"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlGtH_I_bSw7q41eSrS"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_I_bSw7q41eSrT"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_JBb6uWNM3mAXi"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_JBb6uWNM3mAXj"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlGtH_JBb6uWNM3mAXk"
+            },
+            {
+                "name": "repeating_npcaction_-MlGtHZHWEPLxx8LVb9I_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlGtH_KKGvvvlRWsuCR"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZKKGvvvlRWsuCS_name",
+                "current": "Churning Hull",
+                "max": "",
+                "id": "-MlGtH_KKGvvvlRWsuCT"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZKKGvvvlRWsuCS_description",
+                "current": "A tempest rages within these rune-etched, iron chains. Raiders and pirates who operate under the blessings of a storm god sometimes make use of this upgrade.\n\nBy draping the chains over a ship’s hull, the storm’s fury thrashes into the water around it. The water within 210 feet of the ship is difficult terrain for everything other than this ship.",
+                "max": "",
+                "id": "-MlGtH_LOFHKNIDv_9Kb"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZLOFHKNIDvZ9Kc_name",
+                "current": "Death Vessel",
+                "max": "",
+                "id": "-MlGtH_LOFHKNIDv_9Kd"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZLOFHKNIDvZ9Kc_description",
+                "current": "Crafted with materials harvested from the Shadowfell, this upgrade grants a ship an aura of dread. As an action, the ship can create a pulse of horrific energy. Every creature that is an enemy of the ship who is on board or within 210 feet of it must make DC 14 Wisdom saving throw. On a failed save, a creature is frightened of the ship for 1 minute. On a successful save, the creature is immune to this ability for 24 hours. Once this ability is used, it can’t be used again until 1d4 hours have passed.",
+                "max": "",
+                "id": "-MlGtH_LOFHKNIDv_9Ke"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZMiQqnuuN4UN6W_name",
+                "current": "Frost-Locked Hull",
+                "max": "",
+                "id": "-MlGtH_MiQqnuuN4UN6X"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZMiQqnuuN4UN6W_description",
+                "current": "This upgrade replaces a ship’s hull with supernatural ice drawn from the elemental planes. The hull and the other components of the ship are immune to cold damage but vulnerable to fire damage. The ship can also move at its normal speed over ice of any thickness, floating on the ice at the same depth as it would in water.",
+                "max": "",
+                "id": "-MlGtH_MiQqnuuN4UN6Y"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZNmZ0d1TlclW3G_name",
+                "current": "Hull Upgrades",
+                "max": "",
+                "id": "-MlGtH_Nm_0d1TlclW3H"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZNmZ0d1TlclW3G_description",
+                "current": "Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.",
+                "max": "",
+                "id": "-MlGtH_Nm_0d1TlclW3I"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZOqgkAm8guWw22_name",
+                "current": "Hull Upgrades",
+                "max": "",
+                "id": "-MlGtH_OqgkAm8guWw23"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZOqgkAm8guWw22_description",
+                "current": "Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.",
+                "max": "",
+                "id": "-MlGtH_PSqN8yp8fSwOl"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZQFe6RxVZiIQrQ_name",
+                "current": "Living Vessel",
+                "max": "",
+                "id": "-MlGtH_QFe6RxVZiIQrR"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZQFe6RxVZiIQrQ_description",
+                "current": "This vessel’s hull was crafted in the Feywild under the direction of master eladrin shipwrights. It is a living plant, drawing sustenance from water and sunlight. Vines covered in thick leaves hang over its side, and the wood runs with fresh sap when damaged. The ship gains a +2 bonus to all Constitution checks or saving throws. As long as the ship has at least 1 hit point, it regains 10 hit points every minute.",
+                "max": "",
+                "id": "-MlGtH_QFe6RxVZiIQrS"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZQFe6RxVZiIQrT_name",
+                "current": "Reinforced Hull",
+                "max": "",
+                "id": "-MlGtH_QFe6RxVZiIQrU"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZQFe6RxVZiIQrT_description",
+                "current": "A master shipwright can use superior materials and clever design to make a ship’s hull more resilient. Such reinforcement doubles the hull’s hit point maximum.",
+                "max": "",
+                "id": "-MlGtH_R1MSLT2uzY293"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZR1MSLT2uzY294_name",
+                "current": "Vigilant Watch",
+                "max": "",
+                "id": "-MlGtH_R1MSLT2uzY295"
+            },
+            {
+                "name": "repeating_npctrait_-MlGtHZR1MSLT2uzY294_description",
+                "current": "A row of crystal orbs, each filled with viscous liquid and a beholder’s eyeball, is mounted along this ship’s hull. Invisible creatures are visible while on the ship or within 120 feet of it.",
+                "max": "",
+                "id": "-MlGtH_SbicBC42Q9Mgr"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MlGtIt61vYgVbNmPH_7"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MlGtIuxr7_nAHsZVBwa"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlGtJTNcU3Ak6QVJ844"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhKyeM3jj1e88mV"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhLvspifNGfxgND"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhMiq_hCZuBw57L"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhNz1hhlR9jQU-d"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhO2rhIeCN6TFwv"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlGtlhPLiE1MUAOjJJz"
+            }
+        ],
+        "abilities": []
+    }
+}

@@ -1,0 +1,942 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MlNW_QnP0joApjnkD61",
+        "name": "Template: Movement and Upgrades",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MlNW_RgAVv2FGXp_GD0"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MlNW_Rhtz-CQelbTPAI"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MlNW_RjXDmBoEof3erO"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MlNW_Rk9QBEUZBH5bkv"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-MlNW_RmQrX6RAGzcGHb"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlNW_RnEs1uMOrzKV9L"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MlNW_RpvAugeeeFvMg1"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlNW_Rq2B79rSSo8xj4"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MlNW_Rr0oPaouYl_QX_"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_U_gVFLMOy5qLnW"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_Uaq2-n6qh2R_S_"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UbeRPspNkFbOns"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UcDCSw70B5YLTY"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UdS30SXM5hZ0tv"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UeKt_KJ0zsC5tE"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UfkGumCzmk-fWu"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UfkGumCzmk-fWv"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_Uw4RUYynKcRuP9"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UxYjGWjuJMIW_x"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_UzRcWDP6YQVX8M"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V-pxTkJe_7bbOa"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V0jfju_eUID2sm"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V1oGhEsC2XS7oM"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V2Z0rSBkuwusFg"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V3sQUyTLXucOT4"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V4LhEapePaLD08"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V53Bl1P0NN6W3m"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V6hgUqvIWUmMGH"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V7c4lVfpF_ovGf"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V8PqYI-c8zJYBJ"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_V96t-qbzU0RwUX"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_VAh_ZcYTrtD55R"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_VBwcsFYyS09O2r"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_VCgjkX7VMb9nt6"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNW_VDBrcgDXvgLbiz"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0.1,
+                "max": "",
+                "id": "-MlNW_VPHK7Zln-3P4v_"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNWZXyQS0gQOlYyyaI_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-MlNW_XzEe_OIh76JYar"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNWZXyQS0gQOlYyyaI_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-MlNW_Y-s7-ukR65y_b0"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNWZXyQS0gQOlYyyaI_global_attack_active_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlNW_Y1gEzOxYfV_HQF"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "[[1d4[BLESS]]]",
+                "max": "",
+                "id": "-MlNW_ZkfthTold-ZtpN"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MlNWa-omcCZY2iWaiXq"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MlNWa-qq2tATw_GtltA"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MlNWa-sNIj0FeWvgJZ_"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MlNWa0HkJ9ZOnzxBf_i"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MlNWa0VuGf2wOHEBYv7"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MlNWa1fosWcdnZhuI6P"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNWa1gSHnbh1yWQ0eh"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MlNWa1gSHnbh1yWQ0ei"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MlNWa2zl7xg11h0VK3o"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNWa3cZr-lML6-tDxH"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNWa3tacjXsjXZCI2l"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_name",
+                "current": "Control and Movement: Oars",
+                "max": "",
+                "id": "-MlNXOC7CLcLpU4X7OXa"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_description",
+                "current": "Armor Class 12\nHit Points 25\nSpeed (water) 15 ft.\n\nMove up to the ship's speed, with one 90-degree turn. Without oars, the ship does not move.\n\nThis is for small one man crafts like row boats and canoes. ",
+                "max": "",
+                "id": "-MlNXOC98RilbkVdStwR"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCAb21-HkGdXGpg"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCBACHX2PYktcuI"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCCXJrbHwLzAuEa"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCDqH9bZMw7KRlM"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCDqH9bZMw7KRlN"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOC7CLcLpU4X7OXZ_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCEaUc7RgxaZ12s"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_name",
+                "current": "Movement: Balloon",
+                "max": "",
+                "id": "-MlNXOCFOXJoxWLu64nD"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_description",
+                "current": "Armor Class 12\nHit Points 50; -5 ft. speed per 25 damage taken\nSpeed (air) 25 ft.; 10 ft. while flying into the wind; 35 ft. while flying with the wind. If the balloon(s) are destroyed, the ship immediately begins crashing.",
+                "max": "",
+                "id": "-MlNXOCGck37dD4B6qTq"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCGck37dD4B6qTr"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCI7Lw18pqUSBUz"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCI7Lw18pqUSBV-"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCJpx4GMt8VR7AR"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCJpx4GMt8VR7AS"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCFOXJoxWLu64nC_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCKnW1MIm0nuDqP"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_name",
+                "current": "Movement: Elemental Engine",
+                "max": "",
+                "id": "-MlNXOCLQYqqYD2IvJAs"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_description",
+                "current": "Armor Class 18\nHit Points 100; -20 ft. speed per 25 damage taken\n\nSpeed (air) 80 ft. If the engine is destroyed, the ship immediately begins crashing.\n\nAn air elemental is trapped within a magitek prison. Its essence and force redirected to keep the ship aloft. If released.. probably not too happy.",
+                "max": "",
+                "id": "-MlNXOCLQYqqYD2IvJAt"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCMKvq5HhVsyxuD"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCMKvq5HhVsyxuE"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCN15RSDhYLE362"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCN15RSDhYLE363"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCOthbe6P8Abnx9"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCLQYqqYD2IvJAr_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCOthbe6P8AbnxA"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_name",
+                "current": "Movement: Oars (requires at least 1 crew)",
+                "max": "",
+                "id": "-MlNXOCPy4XNuwL-8ZP5"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_description",
+                "current": "Armor Class 12\nHit Points 100; -5 ft. speed per 25 damage taken\nSpeed (water) 20 ft.",
+                "max": "",
+                "id": "-MlNXOCPy4XNuwL-8ZP6"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCQ88-z4niKg1YJ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCRiOFUANwGM13W"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCRiOFUANwGM13X"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCSuxa8dU6xg-mW"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCSuxa8dU6xg-mX"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCPy4XNuwL-8ZP4_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCSuxa8dU6xg-mY"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_name",
+                "current": "Movement: Oars (requires at least 20 crew)",
+                "max": "",
+                "id": "-MlNXOCUkglWlMzBNMb9"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_description",
+                "current": "Armor Class 12\nHit Points 100; -5 ft. speed per 25 damage taken\nSpeed (water) 20 ft.",
+                "max": "",
+                "id": "-MlNXOCUkglWlMzBNMbA"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCVeu47JMuja9we"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCWn6uGCZOUmoK5"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCXsRJpjgvEmQEs"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCXsRJpjgvEmQEt"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCYFMDD01H3ZFaI"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCUkglWlMzBNMb8_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCYFMDD01H3ZFaJ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_name",
+                "current": "Movement: Oars (requires at least 40 crew)",
+                "max": "",
+                "id": "-MlNXOCZVsE8b4Yf79_7"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_description",
+                "current": "Armor Class 12\nHit Points 100; -5 ft. speed per 25 damage taken\nSpeed (water) 30 ft.",
+                "max": "",
+                "id": "-MlNXOCZVsE8b4Yf79_8"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOC_GFcBuYOAGz5S"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOC_GFcBuYOAGz5T"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOC_GFcBuYOAGz5U"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCa92aa_3WyriED"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCa92aa_3WyriEE"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCZVsE8b4Yf79Z6_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCa92aa_3WyriEF"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_name",
+                "current": "Movement: Paddle Wheel Engine",
+                "max": "",
+                "id": "-MlNXOCb1YdqoD9Lnpy8"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_description",
+                "current": "Armor Class 12\nHit Points 100; -5 ft. speed per 20 damage taken\n\nSpeed (water) 30 ft.\n\nThe paddle wheel can be powered by steam or elemental creatures. Its greatest advantage is allowing large boats to go into shallow water. It can also use its movement speed to turn 180 degrees.  ",
+                "max": "",
+                "id": "-MlNXOCb1YdqoD9Lnpy9"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCccS2dmz8QoTx1"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCdad74iF1X4P-P"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCdad74iF1X4P-Q"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCegrWBP9o9rJWM"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCegrWBP9o9rJWN"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCb1YdqoD9Lnpy7_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCfO_NGb19Y5bqd"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_name",
+                "current": "Movement: Sails (barge hull)",
+                "max": "",
+                "id": "-MlNXOCfO_NGb19Y5bqf"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_description",
+                "current": "Armor Class 12\nHit Points 100; -10 ft. speed per 20 damage taken\n\nSpeed (water) 35 ft.; 15 ft. while sailing into the wind; 50 ft. while sailing with the wind",
+                "max": "",
+                "id": "-MlNXOCgiVKrlY8usyuQ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCgiVKrlY8usyuR"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOChVg96QbCqlxdD"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCiZln3-jM_Re0h"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCiZln3-jM_Re0i"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCiZln3-jM_Re0j"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCfOZNGb19Y5bqe_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCjkbc3TaCp9Tv5"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_name",
+                "current": "Movement: Sails (keel hull)",
+                "max": "",
+                "id": "-MlNXOCjkbc3TaCp9Tv7"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_description",
+                "current": "Armor Class 12\nHit Points 100; -5 ft. speed per 20 damage taken\n\nSpeed (water) 25 ft.; 15 ft. while sailing into the wind; 35 ft. while sailing with the wind",
+                "max": "",
+                "id": "-MlNXOCkjtEk_4FleoKa"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOClhePSGbqLsTcm"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCm9Sr3et3cW7DP"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCm9Sr3et3cW7DQ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCnRkEqcNZNl_KK"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCnRkEqcNZNl_KL"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCjkbc3TaCp9Tv6_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCo4Kg2AGjkY9Fk"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_name",
+                "current": "Movement: Sails (sailing hull)",
+                "max": "",
+                "id": "-MlNXOCo4Kg2AGjkY9Fm"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_description",
+                "current": "Armor Class 12\nHit Points 100; -10 ft. speed per 20 damage taken\n\nSpeed (water) 45 ft.; 15 ft. while sailing into the wind; 60 ft. while sailing with the wind",
+                "max": "",
+                "id": "-MlNXOCpEBeFsCR78ZRg"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNXOCpEBeFsCR78ZRh"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCqUShfiOez3ljR"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCqUShfiOez3ljS"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCqUShfiOez3ljT"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNXOCrAxkOp3995k2_"
+            },
+            {
+                "name": "repeating_npcaction_-MlNXOCo4Kg2AGjkY9Fl_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNXOCrAxkOp3995k2a"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCsgWeeMR-xxLBg_description",
+                "current": "Using a combination of magic and clockwork, the oars on this ship require only one crew member to use them, pushing the button or lever that activates them.",
+                "max": "",
+                "id": "-MlNXOCsgWeeMR-xxLBh"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCsgWeeMR-xxLBg_name",
+                "current": "Clockwork Oars",
+                "max": "",
+                "id": "-MlNXOCsgWeeMR-xxLBi"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCtXlnLk8GPsw3e_name",
+                "current": "Defiant Sails",
+                "max": "",
+                "id": "-MlNXOCtXlnLk8GPsw3f"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCtXlnLk8GPsw3e_description",
+                "current": "These sails glitter with a fine coat of mithral treated with abjuration magic. While the sails are unfurled, ranged weapon attacks made against the ship and anyone aboard it are made with disadvantage, as a result of the sails’ protective magic. This drawback doesn’t apply if the attacker is aboard the ship.",
+                "max": "",
+                "id": "-MlNXOCu2c7FUUd-ZiVX"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCu2c7FUUd-ZiVY_description",
+                "current": "Dragon scales woven into these sails make them more resistant to damage. The sails gain a +3 bonus to AC, and they have resistance to a damage type based on the type of scales used to craft them, as shown on the Dragon Sails table.\n\nDragon Sails\nDragon Type\tDamage Type\nBlack\tAcid\nBlue\tLightning\nBrass\tFire\nBronze\tLightning\nCopper\tAcid\nGold\tFire\nGreen\tAcid\nRed\tFire\nSilver\tCold\nWhite\tCold",
+                "max": "",
+                "id": "-MlNXOCu2c7FUUd-ZiVZ"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCu2c7FUUd-ZiVY_name",
+                "current": "Dragon Sails",
+                "max": "",
+                "id": "-MlNXOCv5_pp6LsP47f2"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCv5Zpp6LsP47f3_description",
+                "current": "These billowing sails are woven from cloud-stuff drawn from the Elemental Plane of Air. Wind whips and whistles around them, allowing a ship to move with a speed of 60 feet regardless of direction relative to the wind.",
+                "max": "",
+                "id": "-MlNXOCv5_pp6LsP47f4"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCv5Zpp6LsP47f3_name",
+                "current": "Ever-Full Sails",
+                "max": "",
+                "id": "-MlNXOCv5_pp6LsP47f5"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCwe-jzDeGR4ayt_description",
+                "current": "Each movement upgrade applies to a specific movement type. A component can gain the benefits of one upgrade.",
+                "max": "",
+                "id": "-MlNXOCwe-jzDeGR4ayu"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCwe-jzDeGR4ayt_name",
+                "current": "Movement Upgrades",
+                "max": "",
+                "id": "-MlNXOCwe-jzDeGR4ayv"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCxDTZcgpx-c4Kf_description",
+                "current": "Woven from the energy of captured wraiths and bound with the spirit of a banshee, these sails groan mournfully when they catch the wind. As an action, while within 5 feet of the sails, the ship’s captain can cause the sails to unleash a howl. Every creature hostile to the ship who is on board or within 300 feet of it must succeed on a DC 14 Wisdom saving throw, or the creature takes 4d6 psychic damage and is then frightened for 1 minute. Once this ability has been used, it can’t be used again until 2d6 hours have passed.",
+                "max": "",
+                "id": "-MlNXOCxDTZcgpx-c4Kg"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCxDTZcgpx-c4Kf_name",
+                "current": "Screaming Sails",
+                "max": "",
+                "id": "-MlNXOCykI6i27PQxlhK"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCykI6i27PQxlhL_description",
+                "current": "Sharpened, magically reinforced oars make a vessel dangerous to approach. When the ship takes an action that moves it with these oars, any creature or object in the water within 10 feet of it at any point of the move must make a DC 10 Dexterity saving throw, taking 2d6 slashing damage on a failed save or half as much damage on a successful one.",
+                "max": "",
+                "id": "-MlNXOCykI6i27PQxlhM"
+            },
+            {
+                "name": "repeating_npctrait_-MlNXOCykI6i27PQxlhL_name",
+                "current": "Scything Oars",
+                "max": "",
+                "id": "-MlNXOCzHmlWddv4lbB7"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MlNXUtQtopLpRrW7jbC"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MlNXUvJMnfFDxyHsS_g"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlNXVHskCojRVA7su27"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawu6_X7Xp2LzJIzh"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawu7D3VT7ZIMrb-B"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawu8WEYypsbm-min"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawu9cvMeaXVvPc3D"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawuAzptqEHxvoqfO"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNawuBBsfzby-kYRAS"
+            }
+        ],
+        "abilities": []
+    }
+}

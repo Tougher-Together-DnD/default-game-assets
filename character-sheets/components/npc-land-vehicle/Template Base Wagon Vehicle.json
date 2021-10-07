@@ -1,0 +1,960 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MlNUMcN6QS9yXBovVPN",
+        "name": "Template: Base Wagon Vehicle",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-MlNUMdKxppZTEO-qwyB"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-MlNUMdNdq5Oi4Fx-DRb"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-MlNUMdQm1Oux6TlkoJx"
+            },
+            {
+                "name": "dtype",
+                "current": "pick",
+                "max": "",
+                "id": "-MlNUMdShFEmRl7Pi4wt"
+            },
+            {
+                "name": "init_tiebreaker",
+                "current": "@{dexterity}/100",
+                "max": "",
+                "id": "-MlNUMdUSSrff22tjqwD"
+            },
+            {
+                "name": "global_attack_mod_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlNUMdWWORSbSSpt0Jh"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{character_name}}}",
+                "max": "",
+                "id": "-MlNUMdX9qTBkZhNCcIb"
+            },
+            {
+                "name": "npc_name_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlNUMdYaKrejclwkyyW"
+            },
+            {
+                "name": "ammotracking",
+                "current": "on",
+                "max": "",
+                "id": "-MlNUMd_CW4whw8xGRvu"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgR03jL87n19jpc"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgTGZTfcu2YTPEu"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgUh6yvAk4OZtaH"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgV-FnIXvJxkD_5"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgX07wLZRa3_ERJ"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgYey1zM_RQZrWe"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgZSzm1M9Z2zlr9"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} @{advantagetoggle}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMg_kNpMSrLq46Zd"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgq9g5_OQD935je"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgrdbNM-0u3MI3d"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgt1AFVNCdS0y8q"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgunprSduvmou72"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgwVvcBpVOYeq5f"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgyqxxL784RItoO"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMgzMC5MQrr7I5TA"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh-09wYuDBP1RkK"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh1Yjbmjwc9Covl"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh2X5hK0P5Z0y1C"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh3LJ7CjlKK7zLd"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh4hLy44QFUSW2Y"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh5gC5B_PIXBcXF"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMh90_pX3idPINkB"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMhB3Xqf8I_ydFMk"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMhC3T8bCja2IGbd"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMhDKtClzSwWQRCT"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} @{advantagetoggle}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNUMhFA5KHEWfrrlB8"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 0.1,
+                "max": "",
+                "id": "-MlNUMhSetvWetaZnimy"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNUMjbe4TtI2U1ZOl6_global_attack_roll",
+                "current": "1d4",
+                "max": "",
+                "id": "-MlNUMjgau2jW215rAU2"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNUMjbe4TtI2U1ZOl6_global_attack_name",
+                "current": "BLESS",
+                "max": "",
+                "id": "-MlNUMji-KIQ6VmcoVYl"
+            },
+            {
+                "name": "repeating_tohitmod_-MlNUMjbe4TtI2U1ZOl6_global_attack_active_flag",
+                "current": "1",
+                "max": "",
+                "id": "-MlNUMjjDvM7IVOg12w4"
+            },
+            {
+                "name": "global_attack_mod",
+                "current": "[[1d4[BLESS]]]",
+                "max": "",
+                "id": "-MlNUMlTfgfFKegFuwkN"
+            },
+            {
+                "name": "hitdieroll",
+                "current": "4",
+                "max": "",
+                "id": "-MlNVByNOp-g59Eg8h_A"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-MlNVBz21CUXmg4MoGGM"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-MlNVBz4c7r0jhHAr7DQ"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-MlNVBzVu3-Yel_B9HXR"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "upgrade_to_4_2_1,fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_pc_skill_and_saving_rolls,fix_pc_saving_rolls,fix_pc_skill_and_saving_rolls_with_expertise,fix_pc_skill_and_saving_rolls_with_reliable_talent,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,enable_powerful_build_on_existing_characters,fix_pc_global_critical_damage_rolls,fix_npc_actions_with_damage,fix_pc_global_critical_stacked_damage_rolls,fix_pc_skill_rolls_tooltips,fix_pc_global_statical_critical_damage,fix_spell_school_ouput,fix_pc_global_multiple_statical_critical_damage,fix_spell_savedc_output,fix_spellpoints,fix_advantage_query,fix_attacks_spelllink,fix_pc_skills_when_jack_and_odd_prof,fix_armor_stealth_penalty",
+                "max": "",
+                "id": "-MlNVBzn5t_bdN61M4b7"
+            },
+            {
+                "name": "global_damage_mod_roll",
+                "current": "",
+                "max": "",
+                "id": "-MlNVC-YzczNufRT1bI9"
+            },
+            {
+                "name": "global_damage_mod_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVC-ZgemFkLM1Lrjp"
+            },
+            {
+                "name": "global_damage_mod_type",
+                "current": "",
+                "max": "",
+                "id": "-MlNVC-_QJIgYqvytuMy"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MlNVC1CdrizTuhUEXjd"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNVC24trdxwmOMyIQ8"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVC2KLsPTm20GUmQ-"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_description",
+                "current": "Armor Class (refer to Animal Stat)\nHit Points (refer to Animal Stat)\n\nLocomotion land; Use the Base Speed of the slowest pulling Animal.\n\nCargo Capacity: Add the Draft of the animals together and subtract the weight of the vehicle.",
+                "max": "",
+                "id": "-MlNVSDgfJHfMbkD6NlF"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVSDgfJHfMbkD6NlG"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDh5x5E8V0e6hkX"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDiQHBRRwwG3q4B"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDiQHBRRwwG3q4C"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDjj9JKaoljp0X8"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVSDklTULzppinF_d"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDfcXupHNECMTwd_name",
+                "current": "Movement: Two Draft Animals",
+                "max": "",
+                "id": "-MlNVSDluk_aV8j2sZGp"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_name",
+                "current": "Vehicle Actions",
+                "max": "",
+                "id": "-MlNVSDluk_aV8j2sZGr"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_description",
+                "current": "Actions available during vehicle phase if components are operated.\n\nMove: The wagon can move the speed of its Draft Animals using its Draft Animals. \n\nTurn: The Wagon can be directed to make turns if the Reins are operated.\n\nUsing a Bonus Action one can make a successful DC 15 Animal Handling check for the wagon to \"Dash\" using the Reins.",
+                "max": "",
+                "id": "-MlNVSDmuAdN_94LA4Q-"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVSDniEZ0aAC2J57k"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDniEZ0aAC2J57l"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDniEZ0aAC2J57m"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDogYZIRUovybQN"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVSDogYZIRUovybQO"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVSDlukZaV8j2sZGq_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVSDp39xHerrzTjaH"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_description",
+                "current": "Armor Class 18\nHit Points 15\n\nThe Reins include the bit, bridle, and yokes for the pulling animal. When operated they allow the wagon to make turns.\n\nEvasive maneuvers can be accomplished with successful Animal Handling checks defined by the DM.\n\nUsing a Bonus Action one can make a successful DC 15 Animal Handling check for the wagon to \"Dash\"",
+                "max": "",
+                "id": "-MlNVnAzBNgwLHkEjQ_2"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVnB06qaQz0MOLM1r"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnB1CrJil4qlTwz_"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnB3rQIVIKvMWZZT"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnB4IR1R6RbjziBJ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnB6S5Mb7pnTjDNU"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVnB6S5Mb7pnTjDNV"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnAzBNgwLHkEjQZ1_name",
+                "current": "Control: Reins",
+                "max": "",
+                "id": "-MlNVnB6S5Mb7pnTjDNW"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_name",
+                "current": "Hull: Canvas Covering",
+                "max": "",
+                "id": "-MlNVnB7qyaT4Hzquuvf"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_description",
+                "current": "Armor Class 11\nHit Points 27\n\nA Canvas Covering protects offers protection from the weather for cargo and passengers.\n\nIt obscures vision into the vehicle offering concealment (treat creatures under and inside the covering as \"invisible\").",
+                "max": "",
+                "id": "-MlNVnB7qyaT4Hzquuvg"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVnB9BkEjyZYAk-oV"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnB9BkEjyZYAk-oW"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBAFLJ_bJFjnRbp"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBAFLJ_bJFjnRbq"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBAFLJ_bJFjnRbr"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnB6S5Mb7pnTjDNX_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVnBBtjIEMYg7iElY"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_name",
+                "current": "Hull: Reinforced Cabin",
+                "max": "",
+                "id": "-MlNVnBBtjIEMYg7iEl_"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_description",
+                "current": "Armor Class 19\nHit Points 27 (damage threshold 15)\n\nSlats of Iron or Steel are hung from the vehicles sides and roof. It offers protection from the weather. If it has no windows it offers full cover (unseen), otherwise with windows three-quarters (+5 to passenger's AC).\n\nThis type of Hull reduces the cargo capacity by 1/4.",
+                "max": "",
+                "id": "-MlNVnBCe-H0G7Nf1XsQ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVnBCe-H0G7Nf1XsR"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBDncAGMj9C-xQZ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBDncAGMj9C-xQ_"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBEkplH8YYshJOn"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBFHyiIAUZlwwF5"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBBtjIEMYg7iElZ_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVnBFHyiIAUZlwwF6"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_name",
+                "current": "Hull: Wood Cabin",
+                "max": "",
+                "id": "-MlNVnBG70QiZWJEH3yz"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_description",
+                "current": "Armor Class 15\nHit Points 27\n\nA Cabin stores cargo and passengers. It offers protection from the weather. If it has no windows it offers full cover (+2 AC and DEX Saves), otherwise with windows three-quarters (+5 to AC and DEX Saves).",
+                "max": "",
+                "id": "-MlNVnBHetW4kCafjVYy"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVnBHetW4kCafjVYz"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBICe83SY1jQBr-"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBJ7x-FYB9hioBU"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBJ7x-FYB9hioBV"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBJ7x-FYB9hioBW"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBG70QiZWJEH3yy_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVnBJ7x-FYB9hioBX"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_description",
+                "current": "Armor Class (refer to Animal Stat)\nHit Points (refer to Animal Stat)\n\nLocomotion land; For short duration (under an hour) use the Base Speed of the pulling Animal.",
+                "max": "",
+                "id": "-MlNVnBLC4VQlWLmkLQJ"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-MlNVnBLC4VQlWLmkLQK"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBMkqJe509Jur6X"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBMkqJe509Jur6Y"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBMkqJe509Jur6Z"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-MlNVnBMkqJe509Jur6_"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-MlNVnBNWfxVP58INCeC"
+            },
+            {
+                "name": "repeating_npcaction_-MlNVnBLC4VQlWLmkLQI_name",
+                "current": "Movement: Draft Animals",
+                "max": "",
+                "id": "-MlNVnBNWfxVP58INCeD"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBPObYrR8ZzxDT5_name",
+                "current": "Carry Capacity: Refer to Draft Animal",
+                "max": "",
+                "id": "-MlNVnBPObYrR8ZzxDT6"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBPObYrR8ZzxDT5_description",
+                "current": "An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying Capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying Capacity together.\n\n*Note: Take the animals Normal Draft and subtract weight of vehicle.*",
+                "max": "",
+                "id": "-MlNVnBPObYrR8ZzxDT7"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBQLRfZ8SFThhdf_name",
+                "current": "Creature Capacity",
+                "max": "",
+                "id": "-MlNVnBQLRfZ8SFThhdg"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBQLRfZ8SFThhdf_description",
+                "current": "X Crew Y Passengers*\n\n*Passengers include Crew of Medium Creatures.",
+                "max": "",
+                "id": "-MlNVnBQLRfZ8SFThhdh"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBQLRfZ8SFThhdi_name",
+                "current": "Draft Animal: Donkey or Mule",
+                "max": "",
+                "id": "-MlNVnBQLRfZ8SFThhdj"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBQLRfZ8SFThhdi_description",
+                "current": "Donkey or mule\n* Cost: 8 gp\n* Speed: 40 ft.\n* Carry Capacity: 420 lb.\n* Normal Draft: 1,050 lb. (.525 ton)\n* Overloaded: 2,100 lb. (1.05 ton)",
+                "max": "",
+                "id": "-MlNVnBRHp_RQkSgcgO4"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBS2qCNM1hHPhwI_name",
+                "current": "Draft Animal: Elephant",
+                "max": "",
+                "id": "-MlNVnBS2qCNM1hHPhwJ"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBS2qCNM1hHPhwI_description",
+                "current": "Elephant\n* Cost: 200 gp\n* Speed: 40 ft.\n* Carry Capacity: 1,320 lb.\n* Normal Draft: 3,300 lb. (1.65 ton)\n* Overloaded: 6,600 lb. (3.3 ton)",
+                "max": "",
+                "id": "-MlNVnBS2qCNM1hHPhwK"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBTipe-OYIefydL_name",
+                "current": "Draft Animal: Horse, draft",
+                "max": "",
+                "id": "-MlNVnBTipe-OYIefydM"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBTipe-OYIefydL_description",
+                "current": "Horse, draft\n* Cost: 50 gp\n* Speed: 40 ft.\n* Carry Capacity: 540 lb.\n* Normal Draft: 1,350 (.675 ton)\n* Overloaded: 2,700 lb. (1.35 ton)",
+                "max": "",
+                "id": "-MlNVnBTipe-OYIefydN"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBUmZLTFyd7zjsq_name",
+                "current": "Draft Animal: Horse, riding",
+                "max": "",
+                "id": "-MlNVnBUm_LTFyd7zjsr"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBUmZLTFyd7zjsq_description",
+                "current": "Horse, riding\n* Cost: 75 gp\n* Speed: 60 ft.\n* Carry Capacity: 480 lb.\n* Normal Draft: 1,200 lb. (.55 tons)\n* Overloaded: 2,400 lb. (1.2 ton)",
+                "max": "",
+                "id": "-MlNVnBVOAyRFD5PSaD7"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBVOAyRFD5PSaD8_name",
+                "current": "Draft Animal: Mastiff",
+                "max": "",
+                "id": "-MlNVnBVOAyRFD5PSaD9"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBVOAyRFD5PSaD8_description",
+                "current": "Mastiff\n* Cost: 25 gp\n* Speed: 40 ft.\n* Carry Capacity: 195 lb.\n* Normal Draft: 487.5 lb.\n* Overloaded: 975 lb.",
+                "max": "",
+                "id": "-MlNVnBWyBcnN8fQyrqP"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBXO5fCUPTiyvCq_name",
+                "current": "Draft Animal: Pony",
+                "max": "",
+                "id": "-MlNVnBXO5fCUPTiyvCr"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBXO5fCUPTiyvCq_description",
+                "current": "Pony\n* Cost: 30 gp\n* Speed: 40 ft.\n* Carry Capacity: 225 lb.\n* Normal Draft: 562.5 lb.\n* Overloaded: 1,125 (.56 ton)",
+                "max": "",
+                "id": "-MlNVnBXO5fCUPTiyvCs"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBYp87R8xSiHUse_name",
+                "current": "Draft Animal: Warhorse",
+                "max": "",
+                "id": "-MlNVnBYp87R8xSiHUsf"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBYp87R8xSiHUse_description",
+                "current": "Warhorse\n* Cost: 400 gp\n* Speed: 60 ft.\n* Carry Capacity: 540 lb.\n* Normal Draft: 1,350 (.675 ton)\n* Overloaded: 2,700 lb. (1.35 ton)",
+                "max": "",
+                "id": "-MlNVnBYp87R8xSiHUsg"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBYp87R8xSiHUsh_name",
+                "current": "Draft Animals: Camel",
+                "max": "",
+                "id": "-MlNVnBZWjDbswPxBwCX"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBYp87R8xSiHUsh_description",
+                "current": "Camel\n* Cost: 50 gp\n* Speed: 50 ft.\n* Carry Capacity: 480 lb.\n* Normal Draft: 1,200 lb. (.55 tons)\n* Overloaded: 2,400 lb. (1.2 ton)",
+                "max": "",
+                "id": "-MlNVnBZWjDbswPxBwCY"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBZIU2jNFANShMr_name",
+                "current": "Travel Pace: Common Pace",
+                "max": "",
+                "id": "-MlNVnB_IU2jNFANShMs"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBZIU2jNFANShMr_description",
+                "current": "Fast: 400 ft. /min | 4 miles /hour | 30 miles /day | -5 penalty to passive Wisdom (Perception) scores\n\nNormal: 300 ft./min | 3 miles /hour | 24 miles/ day | no penalty\n\nSlow: 200 ft./min | 2 miles /hour | 18 miles /day | Able to use stealth \n\nWhile traveling, a group of Adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any Effect. A fast pace makes Characters less perceptive, while a slow pace makes it possible to sneak around and to sear⁠ch an area more carefully (see the “Activity While Traveling” later in this section for more information).",
+                "max": "",
+                "id": "-MlNVnB_IU2jNFANShMt"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBadhQVRi0bW7MJ_name",
+                "current": "Travel Pace: Flying Mount",
+                "max": "",
+                "id": "-MlNVnBadhQVRi0bW7MK"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBadhQVRi0bW7MJ_description",
+                "current": "A creature that serves as a flying mount must rest 1 hour for every 3 hours it flies, and it can’t fly for more than 9 hours per day. Thus, characters mounted on griffons (which have a flying speed of 80 feet) can travel at 8 miles per hour, covering 72 miles over 9 hours with two 1-hour-long rests over the course of the day. Mounts that don’t tire (such as a flying construct) aren’t subject to this limitation.",
+                "max": "",
+                "id": "-MlNVnBbBYnR4vJk6Hiy"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBbBYnR4vJk6Hiz_name",
+                "current": "Travel Pace: Forced March",
+                "max": "",
+                "id": "-MlNVnBbBYnR4vJk6Hj-"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBbBYnR4vJk6Hiz_description",
+                "current": "The Travel Pace table assumes that characters travel for 8 hours in the day. They can push on beyond that limit, at the risk of exhaustion.\n\nFor each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion.",
+                "max": "",
+                "id": "-MlNVnBbBYnR4vJk6Hj0"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBbBYnR4vJk6Hj1_name",
+                "current": "Travel Pace: Lone Rider Full Gallop",
+                "max": "",
+                "id": "-MlNVnBbBYnR4vJk6Hj2"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBbBYnR4vJk6Hj1_description",
+                "current": "For short spans of time (up to an hour), many animals move much faster than Humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh Mounts are available every 8 to 10 miles, Characters can cover larger distances at this pace, but this is very rare except in densely populated areas.",
+                "max": "",
+                "id": "-MlNVnBczicxHIHX7229"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBczicxHIHX722A_name",
+                "current": "Travel Pace: Special Methods",
+                "max": "",
+                "id": "-MlNVnBczicxHIHX722B"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBczicxHIHX722A_description",
+                "current": "Characters in wagons, carriages, or other Land Vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see “ Mounts and Vehicles ”), and they don’t suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to Travel for up to 24 hours per day.\n\nCertain speci⁠al Mounts, such as a Pegasus or Griffon, or spe⁠cial vehicles, such as a Carpet of Flying, allow you to Travel more swiftly. The Dungeon Master’s Guide contains more information on spec⁠ial methods of Travel.",
+                "max": "",
+                "id": "-MlNVnBe_pvkCmLbdCX1"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBfetloZ-ksKizw_name",
+                "current": "Yukon Stove",
+                "max": "",
+                "id": "-MlNVnBfetloZ-ksKizx"
+            },
+            {
+                "name": "repeating_npctrait_-MlNVnBfetloZ-ksKizw_description",
+                "current": "Vehicle contains a stove for cooking and hosting a fire to keep passenger and/or cargo warm.",
+                "max": "",
+                "id": "-MlNVnBfetloZ-ksKizy"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-MlNVo-LaUaozYlpRy_P"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-MlNVo1LMGW72fOqTuZs"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-MlNVolYgSaUJCtB86yK"
+            },
+            {
+                "name": "strength_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1LR_gi4Qd_m8us"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1N0hgNAJste0Ei"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1PPtIBzo3xdPTm"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1TFTyG4m8LLQvS"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1VTd_pHiq4UFh2"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-MlNcB1WKJfeuir9h29H"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-MlNeCW5UkEDRanq-ihM"
+            },
+            {
+                "name": "repeating_npctrait_-MlNfVsZh4xyE01-lI1d_name",
+                "current": "Inclosed Cabin",
+                "max": "",
+                "id": "-MlNfZ0RG8Gntz0O6fkY"
+            },
+            {
+                "name": "repeating_npctrait_-MlNfVsZh4xyE01-lI1d_description",
+                "current": "The vehicle has built-in shelter for cargo and passengers. This provides protection from the elements.\n\nRefer to Hull type for additional effects.",
+                "max": "",
+                "id": "-MlNfkeU4w3FTiD7E0VO"
+            },
+            {
+                "name": "repeating_npctrait_-MlNfqDFV5KAOotTCjZZ_name",
+                "current": "Yoke",
+                "max": "",
+                "id": "-MlNfr9dZJA0mJUzSHQo"
+            },
+            {
+                "name": "repeating_npctrait_-MlNfqDFV5KAOotTCjZZ_description",
+                "current": "The vehicle has a yoke to properly attach X Draft Animals.",
+                "max": "",
+                "id": "-MlNfwk_bS_4YRdGHhoZ"
+            },
+            {
+                "name": "repeating_npctrait_-MlNg15Jogw0NFdSkHXT_name",
+                "current": "Lantern Poles",
+                "max": "",
+                "id": "-MlNg3Zx2mSXT_e_8efr"
+            },
+            {
+                "name": "repeating_npctrait_-MlNg15Jogw0NFdSkHXT_description",
+                "current": "The vehicle has poles that extend to the sides. Lanterns and other light objects can be hung from these poles.",
+                "max": "",
+                "id": "-MlNgB-5ZxGYpusKapx9"
+            },
+            {
+                "name": "repeating_npctrait_-MlNgBVyofcEcE5MNAKO_name",
+                "current": "Prison Cage",
+                "max": "",
+                "id": "-MlNgDebVptcYooR4wH_"
+            },
+            {
+                "name": "repeating_npctrait_-MlNgBVyofcEcE5MNAKO_description",
+                "current": "The vehicle has a cage for prisoners and wild animals.\nIron Bars:\nArmor Class 19\nHit Points 27\nAthletics (DC 25) to bend.\n\nPrison Lock:\nArmor Class 19\nHit Points 27\nThieves' Tools (DC 20) to pick.\n",
+                "max": "",
+                "id": "-MlNgfYXJJZQ1bYgAlC8"
+            }
+        ],
+        "abilities": []
+    }
+}
