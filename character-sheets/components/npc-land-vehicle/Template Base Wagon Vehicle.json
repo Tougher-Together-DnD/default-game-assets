@@ -953,6 +953,210 @@
                 "current": "The vehicle has a cage for prisoners and wild animals.\nIron Bars:\nArmor Class 19\nHit Points 27\nAthletics (DC 25) to bend.\n\nPrison Lock:\nArmor Class 19\nHit Points 27\nThieves' Tools (DC 20) to pick.\n",
                 "max": "",
                 "id": "-MlNgfYXJJZQ1bYgAlC8"
+            },
+            {
+                "name": "npc_immunities",
+                "current": "poison, psychic",
+                "max": "",
+                "id": "-MlNi2eN73apCt9r1cAT"
+            },
+            {
+                "name": "npc_condition_immunities",
+                "current": "blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious",
+                "max": "",
+                "id": "-MlNi3ELdYPI1cXVXyzd"
+            },
+            {
+                "name": "intelligence_base",
+                "current": "0",
+                "max": "",
+                "id": "-MlNi84QCGUmoZe_5gyL"
+            },
+            {
+                "name": "intelligence_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi86RcNWch8UQo48j"
+            },
+            {
+                "name": "intelligence",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi86ToK5-qZHjum6d"
+            },
+            {
+                "name": "npc_int_negative",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi88etCEpAGZW2b47"
+            },
+            {
+                "name": "spell_attack_bonus",
+                "current": "0",
+                "max": "",
+                "id": "-MlNi88gR3NTQR1B0A7H"
+            },
+            {
+                "name": "spell_save_dc",
+                "current": "0",
+                "max": "",
+                "id": "-MlNi88iWp3iDxxnzSbQ"
+            },
+            {
+                "name": "intelligence_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi88vJgxOGdaOJKJY"
+            },
+            {
+                "name": "arcana_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi88yxucSLPztHqZQ"
+            },
+            {
+                "name": "history_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi89-LuCC9w08vv8S"
+            },
+            {
+                "name": "investigation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi890WOWWv7nrQ7iK"
+            },
+            {
+                "name": "nature_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi892N3C5dqDvvVgZ"
+            },
+            {
+                "name": "religion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi894fY-Ci4pPhBF7"
+            },
+            {
+                "name": "wisdom_base",
+                "current": "0",
+                "max": "",
+                "id": "-MlNi8HbLzTOTpg385DG"
+            },
+            {
+                "name": "wisdom_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8JdoEKYAE0m3Fm0"
+            },
+            {
+                "name": "wisdom",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8JfSRwfV9sVjEj8"
+            },
+            {
+                "name": "npc_wis_negative",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8Ln7vnva8JpuOvZ"
+            },
+            {
+                "name": "wisdom_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8M0IotQ1jvSO5mq"
+            },
+            {
+                "name": "animal_handling_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8MHxqAsPAMZbyFM"
+            },
+            {
+                "name": "insight_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8MJUb3b3p5s-52I"
+            },
+            {
+                "name": "medicine_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8MLWzvYkTv-dTWm"
+            },
+            {
+                "name": "perception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8MMIL3apDprv9C_"
+            },
+            {
+                "name": "survival_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi8MNnR8SfZO6L9x2"
+            },
+            {
+                "name": "passive_wisdom",
+                "current": 10,
+                "max": "",
+                "id": "-MlNi8M_txpq-BOP-V3U"
+            },
+            {
+                "name": "charisma_base",
+                "current": "0",
+                "max": "",
+                "id": "-MlNi8zAQTA07NTasnj7"
+            },
+            {
+                "name": "charisma_flag",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi900IpSwUYXZsdAJ"
+            },
+            {
+                "name": "charisma",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi903SdS2axQH-TH-"
+            },
+            {
+                "name": "npc_cha_negative",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi929DJMK1kyx06AJ"
+            },
+            {
+                "name": "charisma_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi92NEJXzt2lDUpZ-"
+            },
+            {
+                "name": "deception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi92PXBjk-ZoSSEVw"
+            },
+            {
+                "name": "intimidation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi92R1B4bxln3cebw"
+            },
+            {
+                "name": "performance_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi92STUnlu-uHNmhS"
+            },
+            {
+                "name": "persuasion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-MlNi92UOqaj5QzFpLeB"
             }
         ],
         "abilities": []
