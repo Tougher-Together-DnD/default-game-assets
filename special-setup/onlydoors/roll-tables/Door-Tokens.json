@@ -1,82 +1,92 @@
 {
     "name": "Door-Tokens",
     "showplayers": false,
-    "id": "-MkMJPF1WLqRMbemyiGH",
+    "id": "-MksQxqJsuRAIPUQd_DC",
     "items": {
-        "-MkMN--5cB-faZiEd3cA": {
+        "-MksQxqM42WpTKJyMPWo": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/wood-simple-closed.webp",
-            "id": "-MkMN--5cB-faZiEd3cA",
+            "id": "-MksQxqM42WpTKJyMPWo",
             "name": "wood-simple-closed"
         },
-        "-MkMN4bMsZ0VaDKdaYku": {
+        "-MksQxqPlnaGm3BeOjs8": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/wood-simple-open.webp",
-            "id": "-MkMN4bMsZ0VaDKdaYku",
+            "id": "-MksQxqPlnaGm3BeOjs8",
             "name": "wood-simple-open"
         },
-        "-MkMN8zrHe915RzLUp4H": {
+        "-MksQxqR8gfNnwyARACY": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/wood-dark-close.webp",
-            "id": "-MkMN8zrHe915RzLUp4H",
+            "id": "-MksQxqR8gfNnwyARACY",
             "name": "wood-dark-closed"
         },
-        "-MkMND68l3Oo8PcXVXn5": {
+        "-MksQxqVbY0TL3etrQ32": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/wood-dark-open.webp",
-            "id": "-MkMND68l3Oo8PcXVXn5",
+            "id": "-MksQxqVbY0TL3etrQ32",
             "name": "wood-dark-open"
         },
-        "-MkMNGLjrpmfvEwREjr1": {
+        "-MksQxqWd8x5xwmkiWQT": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-simple-closed.webp",
-            "id": "-MkMNGLjrpmfvEwREjr1",
+            "id": "-MksQxqWd8x5xwmkiWQT",
             "name": "stone-simple-closed"
         },
-        "-MkMNM522XMcbR6fwLwz": {
+        "-MksQxqXxxNeJNq5aqtX": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-simple-open.webp",
-            "id": "-MkMNM522XMcbR6fwLwz",
+            "id": "-MksQxqXxxNeJNq5aqtX",
             "name": "stone-simple-open"
         },
-        "-MkMNQ5VkhGLA_idJQt8": {
+        "-MksQxqZCGOicCmyhCcO": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-grass-closed.webp",
-            "id": "-MkMNQ5VkhGLA_idJQt8",
+            "id": "-MksQxqZCGOicCmyhCcO",
             "name": "stone-grass-closed"
         },
-        "-MkMNUppfU0Yp3vDqKhw": {
+        "-MksQxqbTJ4LLIRRNemO": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-grass-open.webp",
-            "id": "-MkMNUppfU0Yp3vDqKhw",
+            "id": "-MksQxqbTJ4LLIRRNemO",
             "name": "stone-grass-open"
         },
-        "-MkMNaEe23TdqLFQxRvZ": {
+        "-MksQxqc99tYj6mptycC": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-moon-closed.webp",
-            "id": "-MkMNaEe23TdqLFQxRvZ",
+            "id": "-MksQxqc99tYj6mptycC",
             "name": "stone-moon-closed"
         },
-        "-MkMNdxAsjoztLTllYji": {
+        "-MksQxqc99tYj6mptycD": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-moon-open.webp",
-            "id": "-MkMNdxAsjoztLTllYji",
+            "id": "-MksQxqc99tYj6mptycD",
             "name": "stone-moon-open"
         },
-        "-MkMNimL0HNFuDGi-5T3": {
+        "-MksQxqe2s9IshQysGy4": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-design-closed.webp",
-            "id": "-MkMNimL0HNFuDGi-5T3",
+            "id": "-MksQxqe2s9IshQysGy4",
             "name": "stone-design-closed"
         },
-        "-MkMNntinxrZjDjPez7r": {
+        "-MksQxqgomvKYjh49_S6": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-design-open.webp",
-            "id": "-MkMNntinxrZjDjPez7r",
+            "id": "-MksQxqgomvKYjh49_S6",
             "name": "stone-design-open"
         },
-        "-MkMK5WO8A4wSsNeVtk_": {
+        "-MksQxqi_VGSJW8rFgK2": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/wood-broken.webp",
-            "id": "-MkMK5WO8A4wSsNeVtk_",
+            "id": "-MksQxqi_VGSJW8rFgK2",
             "name": "wood-broken"
         },
-        "-MkMJphniJwbwj4Vgka8": {
+        "-MksQxqjCcjzGcpcYqY1": {
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/stone-broken.webp",
-            "id": "-MkMJphniJwbwj4Vgka8",
+            "id": "-MksQxqjCcjzGcpcYqY1",
             "name": "stone-broken"
         },
-        "-MkMJWu6dbiKFRBLKTrL": {
-            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/Special Setup/OnlyDoors Script/images/1-pixel-clear.png",
-            "id": "-MkMJWu6dbiKFRBLKTrL",
+        "-MksQxqkJzH3sT1Id0Tl": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/1-pixel-clear.png",
+            "id": "-MksQxqkJzH3sT1Id0Tl",
             "name": "Clear-Pixel"
+        },
+        "-MlSjwakpXlnomny2abl": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/bars-close.webp",
+            "id": "-MlSjwakpXlnomny2abl",
+            "name": "bars-open"
+        },
+        "-MlSk3yllYiP2oWKTZXX": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/special-setup/onlydoors/images/bars-open.webp",
+            "id": "-MlSk3yllYiP2oWKTZXX",
+            "name": "bars-open"
         }
     }
 }
