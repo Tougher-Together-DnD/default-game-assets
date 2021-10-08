@@ -37,6 +37,11 @@
             "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/vardos-top-red-token.png",
             "id": "-MlO8apq3LY33orUjXos",
             "name": "wagon-vardos-cover"
+        },
+        "-MlTC6WyBssoe1lld0Ig": {
+            "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/character-sheets/vehicles/wagons/images/carriage-inside-soldier-token.png",
+            "id": "-MlTC6WyBssoe1lld0Ig",
+            "name": "carriage-inside-soldier"
         }
     }
 }

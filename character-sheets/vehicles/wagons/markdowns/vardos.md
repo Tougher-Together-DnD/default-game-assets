@@ -32,16 +32,17 @@ img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:
 
 # Vardos Carriage
 ___
-> ## Rowboat
+> ## Vardos
 >*Large object (10 ft. by 5 ft.)*
 >___
 > - **Cost:** *Custom Build*
 > - **Travel Speed:** 3 mph per hour (24 miles per day)
 > - **Crew:** 1
 > - **Passengers:** 4
+> - **Weight:** 600 lbs
 > - **Cargo (tons):** .375 (750 lbs)
 
-<br>
+<br> 
 
 The Vistani make these barrel shaped wagons themselves. Ornately decorated and colorfully painted.
 They are enclosed wagons drawn by one horse. The interior can stay dry during raining weather. It contains a single burner pot stove and pipe for cooking and heating.

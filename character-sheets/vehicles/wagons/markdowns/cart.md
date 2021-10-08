@@ -33,7 +33,7 @@ img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:
 # Cart
 Carts are the cheapest and simplest of animal drawn vehicles. They consist of a cargo are above one axle.
 
-___
+___ 
 > ## Cart
 >*Large object (5 ft. by 2.5 ft.)*
 >___
