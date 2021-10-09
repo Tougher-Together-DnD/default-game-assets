@@ -1,9 +1,9 @@
 !import-table --Magic-Portal --show
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=red --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=blue --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=green --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=brown --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=purple --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=pink --1 --
-!import-table-item --Magic-Portal --set bar1_max|%%destinationID%% statusmarkers|=yellow --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=red --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=blue --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=green --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=brown --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=purple --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=pink --1 --
+!import-table-item --Magic-Portal --set bar1_max|-MlWmAy633Uzzh2v07TP statusmarkers|=yellow --1 --
 

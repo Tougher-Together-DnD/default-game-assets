@@ -4,3 +4,9 @@ Set "players can use -ids" to true so they can interact with tokens they do not 
 In Roll20Am:
 Be sure to import tracks into roll20AM.
 Turn display of menu off.
+
+For Magic Doors:
+bar2_max: !token-mod --ids -MlWjl-zKWBWJimkVAbN [[1t[Magic-Portal]]]
+
+
+set statusmarkers|=blue bar1_max|-MlWmAy633Uzzh2v07TP
