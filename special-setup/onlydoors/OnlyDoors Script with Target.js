@@ -9,7 +9,7 @@
 /* eslint-disable no-undef */
 var onlyDoors = onlyDoors || (function initOnlyDoors() {
 
-	let debug = true;
+	let debug = false;
 	let lockStatusmarker = "padlock";
 
 	let message = {};
@@ -55,8 +55,8 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 			log(`Path: ${path}`);
 		}
 
-		door.set({ layer: ("objects" === door.get("layer") ? "walls" : "objects") });
-		twin.set({ layer: ("objects" === twin.get("layer") ? "walls" : "objects") });
+		door.set({ layer: ("objects" === door.get("layer") ? "gmlayer" : "objects") });
+		twin.set({ layer: ("objects" === twin.get("layer") ? "gmlayer" : "objects") });
 		path.set({ layer: ("walls" === path.get("layer") ? "gmlayer" : "walls") });
 
 		// Perform change effect.
