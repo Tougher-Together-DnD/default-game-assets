@@ -55,12 +55,12 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 			log(`Path: ${path}`);
 		}
 
-		door.set({ layer: ("objects" === door.get("layer") ? "gmlayer" : "objects") });
-		twin.set({ layer: ("objects" === twin.get("layer") ? "gmlayer" : "objects") });
+		door.set({ layer: ("objects" === door.get("layer") ? "walls" : "objects") });
+		twin.set({ layer: ("objects" === twin.get("layer") ? "walls" : "objects") });
 		path.set({ layer: ("walls" === path.get("layer") ? "gmlayer" : "walls") });
 
 		// Perform change effect.
-		let strAction = door.get("bar2_max");
+		let strAction = door.get("bar2_value");
 		if (strAction != "") {
 			sendChat("", `${strAction}`);
 		}
