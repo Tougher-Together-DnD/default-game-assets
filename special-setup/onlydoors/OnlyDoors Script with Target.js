@@ -26,7 +26,9 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		}
 
 		let blnCorrectLayer = (obj.get("layer") === "objects") ? true : false;
-		let strBarValue = obj.get("bar3_value").toString();
+		let strBarValue = obj.get("bar3_value");
+
+		log("bar3_value: " + strBarValue)
 
 		if (blnCorrectLayer && strBarValue.startsWith("-")) {
 
@@ -141,12 +143,13 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 				let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")}`;
 
 				if (objDoorInfo.objMirrorDoor !== "") {
-					let strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
+					strEffectedDoors = `${objDoorInfo.objDoor.get("_id")} ${objDoorInfo.objMirrorDoor.get("_id")}`;
 				}
 
 				let strPlayerID = message.playerid;
 				let strPlayerName = message.who;
-				let keyHolder = (objDoorInfo.objDoor.get("controlledby").startsWith(",")) ? objDoorInfo.objDoor.get("controlledby").slice(1) : objDoorInfo.objDoor.get("controlledby")
+				let isGM = strPlayerName.includes("(GM)")
+				let isKeyHolder = objDoorInfo.objDoor.get("controlledby").split(",").includes(strPlayerID)
 				let isLocked = objDoorInfo.objDoor.get("statusmarkers").split(",")
 					.includes(lockStatusmarker);
 
@@ -155,31 +158,33 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 					return;
 				}
 
-				// See if player has control to lock unlock.
+				log("State: Locked=" + isLocked + " isGM=" + isGM + " isKeyHolder=" + isKeyHolder)
+				switch(true) {
+					case (isLocked && ( isGM || isKeyHolder)):
+						//unlock
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
 
-				log(strPlayerID + " holder: " + keyHolder)
+						if (isGM) {
+							// sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+						} else {
+							sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
+						}
 
-				if (isLocked && strPlayerID !== keyHolder && !(strPlayerName.includes("(GM)"))) {
-					sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
-					return;
-				}
+					  break;
+					case (!isLocked ):
+						//lock
 
-				if (!isLocked ) {
-					// Lock Door
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|${lockStatusmarker}`);
 
-					log(`GMname: ${strPlayerName.includes("(GM)")} with name: ${strPlayerName}`);
-					if (strPlayerName.includes("(GM)")) {
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
-					} else {
-						// sendChat( "OnlyDoors", `/w ${strPlayerName} You (as ${strPlayerName}) locked a door.` );
-						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby||+${strPlayerID}`);
-					}
-				} else {
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set statusmarkers|-${lockStatusmarker}`);
-					sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|`);
-
-				}
+						if (!isGM) {
+						sendChat("", `!token-mod --ignore-selected --ids ${strEffectedDoors} --set controlledby|+${strPlayerID}`);
+						}
+					  break;
+					default:
+						//no key
+						sendChat("", `/w ${strPlayerName} You don't have the key to that door.`);
+						return;
+				  } 
 
 				// !token-mod --ignore-selected --ids -MkLm02ZaDWqQ3sYWZrf -MkLm06CBmybGkoNmVel --[[1t[Magic-Portal]]]
 
@@ -345,7 +350,9 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 		// let tokens = msg.selected;
 		let tokens = [{ "_id": `${commands.shift()}`, "_type": "graphic" }];
 
-		log(tokens)
+		if (tokens[0]._id === "selected" ) {
+			tokens = msg.selected;
+		}
 
 		queue.map(function (element) {
 			let arrSegments = element.split(" ");
