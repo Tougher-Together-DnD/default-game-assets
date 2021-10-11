@@ -10,3 +10,6 @@ bar2_max: !token-mod --ids -MlWjl-zKWBWJimkVAbN [[1t[Magic-Portal]]]
 
 
 set statusmarkers|=blue bar1_max|-MlWmAy633Uzzh2v07TP
+
+!roll20AM --audio,play,nomenu|close-light-door
+!roll20AM --audio,play,nomenu|lock-heavy-door

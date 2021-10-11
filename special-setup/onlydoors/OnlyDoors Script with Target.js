@@ -232,7 +232,7 @@ var onlyDoors = onlyDoors || (function initOnlyDoors() {
 					.includes(lockStatusmarker);
 
 				if (isLocked) {
-					sendChat("", `/w ${strPlayerName} That Door is locked!`);
+					sendChat("", `/w ${strPlayerName} You have to take an action to unlock the door before opening it.`);
 					return;
 				}
 
