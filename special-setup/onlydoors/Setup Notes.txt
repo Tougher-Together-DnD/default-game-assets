@@ -12,6 +12,8 @@ For Magic Doors:
 // On open door AND on destination's open door
 !token-mod --ignore-selected --ids %%open-door-token_id%% %%closed-door-token_id%% --[[1t[Magic-Portal]]]
 
+!token-mod --ignore-selected --ids -MlWjmPE8a8erJpk_IcB -MlWjl-zKWBWJimkVAbN --[[1t[Magic-Portal]]]
+
 // On closed door
 !token-mod --ignore-selected --ids %%closed-door-token_id%% --set statusmarkers|=dead|-dead
 
