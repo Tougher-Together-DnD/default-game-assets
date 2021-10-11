@@ -5,11 +5,23 @@ In Roll20Am:
 Be sure to import tracks into roll20AM.
 Turn display of menu off.
 
+In Teleporter:
+set not to do FXs.. we can do FX with OnlyDoor chat commands.
+
 For Magic Doors:
-bar2_max: !token-mod --ids -MlWjl-zKWBWJimkVAbN [[1t[Magic-Portal]]]
+// On open door AND on destination's open door
+!token-mod --ignore-selected --ids %%open-door-token_id%% %%closed-door-token_id%% --[[1t[Magic-Portal]]]
 
+// On closed door
+!token-mod --ignore-selected --ids %%closed-door-token_id%% --set statusmarkers|=dead|-dead
 
-set statusmarkers|=blue bar1_max|-MlWmAy633Uzzh2v07TP
+// Be sure to hide bars
 
-!roll20AM --audio,play,nomenu|close-light-door
-!roll20AM --audio,play,nomenu|lock-heavy-door
+!import-table --Magic-Portal --show
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=red --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=blue --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=green --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=brown --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=purple --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=pink --1 --
+!import-table-item --Magic-Portal --set bar1_max|%%destination%% statusmarkers|=yellow --1 --
