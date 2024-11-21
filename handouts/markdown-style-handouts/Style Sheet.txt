@@ -1,0 +1,680 @@
+[css]
+
+
+
+bg {
+
+    background-image: url('https://i.imgur.com/vjL1blE.jpg');
+
+    padding: 30px;
+
+    padding-top: 1px;
+
+    margin: -30px;
+
+}
+
+
+
+p {
+
+    font-family: Georgia;
+
+    font-size: 13px;
+
+    margin-bottom: 0px;
+
+    text-indent: 10px;
+
+}
+
+
+
+p.first-of-type {
+
+    font-family: Georgia;
+
+    font-size: 13px !important;
+
+    margin-bottom: 0px;
+
+    text-indent: 0px!important;
+
+}
+
+
+
+ul {
+
+    font-family: Georgia !important;
+
+    font-size: 15px;
+
+    list-style-position: inside;
+
+    padding-left: 5px;
+
+    margin-bottom: 0px;
+
+    text-indent: -5px;
+
+}
+
+
+
+li {
+
+    font-family: Georgia !important;
+
+    font-size: 15px;
+
+    list-style-position: inside;
+
+    margin-bottom: 0px;
+
+    text-indent: -5px;
+
+}
+
+
+
+h1 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
+
+    color: #58170D;
+
+    font-weight: bolder;
+
+    font-variant: small-caps;
+
+    text-transform: capitalize;
+
+    font-size: 42px;
+
+    margin-top: 20px;
+
+    margin-bottom: 4px;
+
+    padding-top: 40px;
+
+    clear: both;
+
+}
+
+
+
+h2 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
+
+    color: #58170D;
+
+    font-weight: bolder;
+
+    font-variant: small-caps;
+
+    text-transform: capitalize;
+
+    margin-top: 10px;
+
+    font-size: 28px;
+
+}
+
+
+
+h3 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
+
+    color: #58170D;
+
+    font-weight: bolder;
+
+    font-variant: small-caps;
+
+    text-transform: capitalize;
+
+    font-size: 20px;
+
+    margin-top: 10px;
+
+    margin-bottom: 2px;
+
+    line-height: 80%;
+
+    border-bottom: 2px solid #c9ad6a;
+
+    clear: both;
+
+}
+
+
+
+h4 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
+
+    color: #58170D;
+
+    font-variant: small-caps;
+
+    text-transform: capitalize;
+
+    font-size: 16px;
+
+    margin-top: 10px;
+
+    margin-bottom: 2px;
+
+    line-height: 80%;
+
+}
+
+
+
+h5 {
+
+    font-family: Verdana, sans-serif !important;
+
+    color: black;
+
+    font-variant: small-caps;
+
+    font-size: 16px;
+
+    margin-top: 10px;
+
+    margin-bottom: 8px;
+
+    line-height: 80%;
+
+}
+
+
+
+blockquote {
+
+    font-family: Verdana, sans-serif !important;
+
+    float:right;
+
+    margin-left: 6px;
+
+    width: 40%;
+
+    margin-top: 1em;
+
+    margin-bottom: 1em;
+
+    padding: 5px 10px;
+
+    background-color: #e0e5c1;
+
+    border-top: 2px solid;
+
+    border-bottom: 2px solid;
+
+    border-left: 0px solid;
+
+    border-right: 0px solid;
+
+    box-shadow: 1px 4px 14px #888;
+
+}
+
+
+
+p.blockquote {
+
+    font-family: Verdana, sans-serif !important;
+
+    font-size: 13px;
+
+    margin-bottom: 0px;
+
+    text-indent: 10px;
+
+}
+
+
+
+a {
+
+    text-decoration: underline;
+
+    color: #58170D !important;
+
+}
+
+
+
+.note-editor a[href^='http://journal.roll20.net'] {
+
+    color: #58170D!important;
+
+    text-decoration: underline;
+
+}
+
+
+
+a:link {
+
+    text-decoration: underline;
+
+    color: #58170D;
+
+}
+
+
+
+left {
+
+    float: left;
+
+    margin-right: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 40%;
+
+}
+
+
+
+right {
+
+    float: right;
+
+    margin-left: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 40%;
+
+}
+
+
+
+left60 {
+
+    float: left;
+
+    margin-right: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 60%;
+
+}
+
+
+
+right60 {
+
+    float: right;
+
+    margin-left: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 60%;
+
+}
+
+
+
+right20 {
+
+    float: right;
+
+    margin-left: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 20%;
+
+}
+
+
+
+left20 {
+
+    float: left;
+
+    margin-left: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 20%;
+
+}
+
+
+
+left-thumb {
+
+    float: left;
+
+    margin-right: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-height: 140px;
+
+}
+
+
+
+left-icon {
+
+    float: left;
+
+    margin-right: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-width: 50px;
+
+}
+
+
+
+right-thumb {
+
+    float: right;
+
+    margin-left: 6px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    max-height: 140px;
+
+}
+
+
+
+center {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    margin-bottom: 2px;
+
+}
+
+
+
+feature {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+
+    width: 80%;
+
+}
+
+
+
+sidebar {
+
+    float: right;
+
+    margin-left: 6px;
+
+    max-width: 40%;
+
+    background: #b6d7a8;
+
+    border: 1px;
+
+    border-style: solid;
+
+    padding: 5px;
+
+}
+
+
+
+statblock {
+
+    font-family: sans-serif !important;
+
+    margin-top: 1em;
+
+    margin-bottom: 1em;
+
+    padding: 5px 10px;
+
+    background-color: #FDF1DC;
+
+    border-top: 2px solid;
+
+    border-bottom: 2px solid;
+
+    border-left: 0px solid;
+
+    border-right: 0px solid;
+
+    box-shadow: 1px 4px 14px #888;
+
+}
+
+
+
+statblockcap {
+
+    display: block;
+
+    background: #E69A28;
+
+    border: 1px solid #000;
+
+    height: 5px;
+
+    padding: 0 10px 0;
+
+    margin: -10px -10px 0;
+
+    box-sizing: initial;
+
+}
+
+
+
+
+
+tr:first-child {
+
+    width: 100%;
+
+    text-align: left;
+
+    background: transparent;
+
+    font-family: Verdana, sans-serif !important;
+
+    font-weight: bold;
+
+    font-size: 13px;
+
+    border: 0px solid #ffffff !important;
+
+}
+
+
+
+tr:nth-child(even) {
+
+    width: 100%;
+
+    text-align: left;
+
+    background: #E0E5C1;
+
+    font-family: Verdana, sans-serif !important;
+
+    font-size: 13px;
+
+    border: 0px solid #ffffff !important;
+
+}
+
+
+
+tr:nth-child(odd) {
+
+    width: 100%;
+
+    text-align: left;
+
+    background: transparent;
+
+    font-family: Verdana, sans-serif !important;
+
+    font-size: 13px;
+
+    border: 0px solid #ffffff !important;
+
+}
+
+
+
+table {
+
+    width: 100%;
+
+    border: none !important;
+
+    border-spacing: 0;
+
+    border: 0px solid #ffffff !important;
+
+    outline: none;
+
+}
+
+
+
+td.align-left {
+
+    border-collapse:collapse;
+
+    border: none !important;
+
+    border-spacing: 0;
+
+    border: 0px solid #ffffff !important;
+
+    outline:none;
+
+    padding-top: 2px;
+
+    padding-bottom: 2px;
+
+    text-align: left;
+
+}
+
+
+
+td.align-center {
+
+    border-collapse:collapse;
+
+    border: none !important;
+
+    border-spacing: 0;
+
+    border: 0px solid #ffffff !important;
+
+    outline:none;
+
+    padding-top: 2px;
+
+    padding-bottom: 2px;
+
+    text-align: center;
+
+}
+
+
+
+td.align-right {
+
+    border-collapse:collapse;
+
+    border: none !important;
+
+    border-spacing: 0;
+
+    border: 0px solid #ffffff !important;
+
+    outline:none;
+
+    padding-top: 2px;
+
+    padding-bottom: 2px;
+
+    text-align: right;
+
+}
+
+hr {
+background: url('https://i.imgur.com/r3771zY.png') no-repeat top center;
+background-size: contain;
+height: 11px;
+display: block:
+border: 0;
+}
+
+hr.style2 {
+    display: block;
+
+    width: 100%;
+
+    height: 1px;
+
+    border: none;
+
+}
+
+
+
+
+hr.style3 {
+height: 2px;
+background-color: #c9ad6a;
+display: block;
+border: 0;
+}
