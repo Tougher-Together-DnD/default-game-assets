@@ -1,0 +1,9 @@
+!import-table --%%TABLE-NAME%% --show
+!import-table-item --%%TABLE-NAME%% --new item %%ITEM1%% --1 --
+!import-table-item --%%TABLE-NAME%% --new item %%ITEM2%% --1 --
+!import-table-item --%%TABLE-NAME%% --new item %%ITEM3%% --1 --
+
+<!-- Replace %%TABLE-NAME%% with the name of the table you are creating. -->
+<!-- Replace each %%ITEMX%% for each item you want in the rollable table. -->
+<!-- Copy above this line and paste into VTTES Table Import. -->
+<!-- NOTE: Change "show" to "hide" to hide roll table from players. -->
