@@ -1,13 +1,15 @@
 # Intro
+
 %%FIRST-SENTENCE%% (First line seen in LFG... get that attention. Hook)
 
 %%FIRST-PARAGRAPH%% (Set up the conflict and atmosphere. Line)
 
 **Can the adventurers make a difference?** (Sinker)
 
-
 ---
+
 ## Welcome Adventurers!
+
 To Join, read through the Game Description then post under **"APPLY HERE!"**.
 
 ***NOTE: Any warnings to give.***
@@ -15,6 +17,7 @@ To Join, read through the Game Description then post under **"APPLY HERE!"**.
 ---
 
 ## Game Play Details
+
 *Specifics of Game mechanics*
 
 ### The Group
@@ -44,7 +47,10 @@ I want the player to have as much freedom and imagination in crafting an engagin
 * %%STUFF%% The player should consult with DM before using.
 * %%BANNED%% Stuff like flying races or Unearthed Arcana banned from being used (Some DM's ban that).
 
+---
+
 ## Sessions
+
 * We are all here to have fun. If something is bothering you, for any reason, please speak with me (the DM). I want to hear from you.
 * Be courteous to other players by showing up on time.
 * Include everyone in on the fun. We can accomplish this, by of course, the obligatory refraining from hate speech and abuse.
@@ -52,6 +58,8 @@ I want the player to have as much freedom and imagination in crafting an engagin
 * Each session is %%SESSION-LENGTH%% hours.
 
 ## Payment
+---
+
 A payment of $%%AMOUNT%% is expected before the beginning of each weekly session.
 Session 0 (zero) is free, as the players and DM get to know each other!
 

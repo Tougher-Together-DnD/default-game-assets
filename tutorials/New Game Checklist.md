@@ -14,5 +14,9 @@ Then edit the `game-description` to a more concise version for LFG post.
 
 ## Add Forum Posts
 
+When adding forum posts use the markdown templates. However instead of copy-pasting the markdown, Render the markdown in the VS Code previewer and copy-paste the rendered version. This will retain images and styling in the forum post.
+
+
+
 
 
