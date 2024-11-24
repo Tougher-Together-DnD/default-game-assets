@@ -1,32 +1,25 @@
-<!-- DM Introduction -->
-<!-- Post in Forums 2/4 -->
-
-<!-- Reference URLS -->
-[Homebrewery]: https://homebrewery.naturalcrit.com/ "Naturalcrit's Homebrewery V3.0.0"
-[Repo Files]: https://github.com/Tougher-Together-DnD/common-game-assets/tree/main/campaign-details "Tougher Together Files"
-[Repo Raw Path]: https://raw.githubusercontent.com/Tougher-Together-DnD/common-game-assets/main/campaign-details/images/ "Incomplete path; add image filename"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/common-game-assets/main/campaign-details/images/none.webp#banner "none"
-
 <style>
-/* CSS style for NaturalCrit's Homebrewery V3.0.0 */
-.page { background-color: transparent; }
-.page#p1{ text-align:left; }
-.page#p1:after{ display:none; }
-.page p+p { margin-top:.2em; }
-.page blockquote { margin-top:1em; margin-bottom:2em; }
-.page h1, .page h2, .page h3, .page h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.page table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
+  body {
+    font-family: "Georgia", serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 2rem;
+  }
 
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Cinzel", serif;
+    color: #34627B;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(63,107,169, 0.8);
+    margin-bottom: 1rem;
+  }
 </style>
 
-{{wide
+
+![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/gm-introduction.png)
+<br>
+
 ## About Me
 :
 ### Dungeon Master Background
