@@ -31,7 +31,7 @@ Roll20 for Maps and Session gameplay.
 ### Character Creation
 
 #### Sources:
-Official Content.
+Official **Wizards of the Coast** Content.
 
 #### Other allowed options:
 * Backgrounds:
@@ -43,16 +43,6 @@ I want the player to have as much freedom and imagination in crafting an engagin
 
 * %%STUFF%% The player should consult with DM before using.
 * %%BANNED%% Stuff like flying races or Unearthed Arcana banned from being used (Some DM's ban that).
-  
-#### House Rules:
-* Drinking a health potion is a bonus action, administering to another player is an action.
-* When you start making death saving throws, you also gain a level of exhaustion. (Consider it a concussion from going unconcious.)
-* Flanking an enemy with an Ally (or hostile to target) directly opposite of you, melee attacks get +2 to hit.
-* Shooting prone grant range weapon attacks +2 to hit.
-* DM Inspiration Pool is a running total of inspiration charges earned. They can be used in 1 of three ways:
-  * You can expend one or more charges of DM Inspiration Pool to add +1 per charge expended to any roll of dice you make.
-  * You can expend one charge of DM Inspiration Pool to infuse a health potion to heal for max amount.
-  * You can expend one charge of DM Inspiration Pool per spell level to cause a healing spell you cast to heal for max amount.
 
 ## Sessions
 * We are all here to have fun. If something is bothering you, for any reason, please speak with me (the DM). I want to hear from you.

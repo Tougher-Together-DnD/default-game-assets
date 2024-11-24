@@ -8,5 +8,11 @@ These markers will be used by players and Combat Master (api) to mark status aff
 
 ## Add Game and Looking For Group Descriptions
 
+The markdown for the game descriptions is very limited. Use the template under `templates` / `campaign-details`.
+
+Then edit the `game-description` to a more concise version for LFG post.
+
+## Add Forum Posts
+
 
 
