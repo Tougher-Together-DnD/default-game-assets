@@ -104,6 +104,13 @@ You gain proficiency with four weapons of your choice. Each one must be a simple
 
 ![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
 
+### Empowered Healing Spells
+
+All Healing spells (2014 versions) will roll one additional die in addition to the normal amount.
+Creatures that are immune to *Necrotic* take damage from healing spells.
+
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+
 ### Expend Half Movement to Perform Bonus Actions
 
 In our game, certain actions that traditionally require a bonus action or an action instead cost **Half Movement Speed**. This rule allows for more dynamic combat and smoother interactions without sacrificing a character’s primary actions.
