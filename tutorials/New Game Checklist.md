@@ -19,11 +19,14 @@ When adding forum posts use the markdown templates. However instead of copy-past
 Some Markdown documents may contain too much data to be successfully saved in one Forum Post. Break these up into one main post and subsequent replies.
 
 Close and make sticky the following order:
-1. Important Links
-2. House Rules and Modifications (In LFG As well)
-3. Dungeon Master Introduction (open)
-4. Character Introductions (open)
-5. Apply Here (Only in LFG)
+Here’s the reversed order of your list:
+
+1. Apply Here (Only in LFG)  
+2. Character Introductions (open)  
+3. Dungeon Master Introduction (open)  
+4. House Rules and Modifications (In LFG As well)  
+5. Important Links**
 
 
+## Game Settings
 
