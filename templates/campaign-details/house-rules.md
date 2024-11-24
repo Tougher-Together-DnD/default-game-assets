@@ -104,18 +104,6 @@ You gain proficiency with four weapons of your choice. Each one must be a simple
 
 ![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
 
-### Weapon Master Feat (Modified)
-
-You have practiced extensively with a variety of weapons, gaining the following benefits:
-
-```
-Increase your Strength or Dexterity score by 1, to a maximum of 20.
-You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
-*If you already have proficiency with the chosen weapon, you gain expertise.*
-```
-
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
-
 ### Expend Half Movement to Perform Bonus Actions
 
 In our game, certain actions that traditionally require a bonus action or an action instead cost **Half Movement Speed**. This rule allows for more dynamic combat and smoother interactions without sacrificing a character’s primary actions.
