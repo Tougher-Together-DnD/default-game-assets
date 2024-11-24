@@ -1,0 +1,355 @@
+[css]
+
+bg {
+    padding: 75px 30px;
+
+    background:
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_1.png') top center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_3.png') bottom center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_2.png') center repeat-y;
+
+    background-color: #f4f4f4;
+
+    background-size:
+
+        100% auto,
+
+        100% auto,
+
+        auto 100%;
+
+}
+
+h1 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+}
+
+h2 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+}
+
+h3 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+    border-bottom: 2px solid #c9ad6a;
+
+}
+
+h4 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+}
+
+h5 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+}
+
+h6 {
+
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
+
+    font-variant: small-caps;
+
+    letter-spacing: 2px;
+
+    margin-bottom: .5rem;
+
+    color: #34627B !important;
+
+    margin: .3rem !important;
+
+}
+
+hr {
+
+    border: none;
+
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-center-1.png') center center no-repeat;
+
+    height: 64px !important;
+
+    background-size: contain;
+
+    margin: 0;
+
+}
+
+hr.style2 {
+
+    height: 2px;
+
+    background-color: #c9ad6a;
+
+    display: block;
+
+    border: 0;
+
+}
+
+hr.style3 {
+
+    border: none;
+
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-ruler-1.png') left top no-repeat;
+
+    height: 32px !important;
+
+    background-size: contain;
+
+    margin: 0;
+
+}
+
+blockquote {
+
+    box-sizing: border-box;
+
+    box-shadow: 1px 4px 6px #000000;
+
+    background: rgba(208, 157, 109, 0.6) !important;
+
+    border: 1px solid #000000 !important;
+
+    border-top: 1px solid #000000 !important;
+
+    border-bottom: 1px solid #000000 !important;
+
+    width: 45%;
+
+    font-family: "Patrick Hand", cursive, sans-serif;
+
+    padding: .5rem 1rem !important;
+
+    float: right;
+
+    margin: 1rem .5rem !important;
+
+    clear: both;
+
+}
+
+table {
+
+    box-shadow: 1px 4px 6px #888888;
+
+    border: 1px solid #333333;
+
+}
+
+tr:first-child {
+
+    background-color: #34627B;
+
+    color: white !important;
+
+    text-transform: uppercase;
+
+}
+
+tr:nth-child(odd) {
+
+    background-color: rgba(118, 197, 120, 0.2);
+
+}
+
+td.align-left {
+
+    border: 1px solid #333333;
+
+    text-align: left;
+
+}
+
+td.align-center {
+
+    border: 1px solid #333333;
+
+    text-align: center;
+
+}
+
+td.align-right {
+
+    border: 1px solid #333333;
+
+    text-align: right;
+
+}
+
+
+ol {
+
+    list-style-type: decimal !important;
+
+}
+
+ul {
+
+    list-style-type: square !important;
+
+}
+
+li.ordered {
+
+    font-weight: lighter;
+
+}
+
+li.unordered {
+
+    font-style: italic;
+
+}
+
+pre {
+
+    display: block;
+
+    border-radius: 3px;
+
+    background: #2b2b2b;
+
+    unicode-bidi: embed;
+
+    font-family: monospace;
+
+    color: #bababa;
+
+    white-space: pre;
+
+}
+
+code {
+
+    border-radius: 3px;
+
+    background: #2b2b2b;
+
+    unicode-bidi: embed;
+
+    font-family: monospace;
+
+    color: #bababa;
+
+    white-space: pre;
+
+    padding: 1px;
+
+    margin: 1px;
+
+}
+
+p {
+
+    font-family:inherit;
+
+    font-size:inherit;
+
+}
+
+main_banner {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+
+img_center {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    padding: 0 1rem;
+
+}
+
+img_left {
+
+    display: block;
+
+    float: left;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    padding: 0 1rem;
+
+}
+
+img_right {
+
+    display: block;
+
+    float: right;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
