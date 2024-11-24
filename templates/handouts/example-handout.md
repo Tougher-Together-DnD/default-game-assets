@@ -21,7 +21,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 
-    font-family: "Cinzel", serif;
+    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
 
     color: #34627B;
 
@@ -212,9 +212,21 @@ hr {
     height: 50px;
 
 }
+
+.ttd-top-center-image {
+
+    margin-top: 40px;
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
 </style>
 
-![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/apply-here-banner.png)
+<img src="https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/apply-here-banner.png" alt="Main Banner" class="ttd-top-center-image"> 
 
 # The Homebrewery *V3*
 Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
