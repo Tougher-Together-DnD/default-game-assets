@@ -43,6 +43,10 @@ This system keeps combat structured, adds tactical depth, and allows for dynamic
 #### Natural 20 on Initiative
 Rolling a **natural 20** on your initiative allows you to **choose your position** in the turn order. You can act immediately before or after another player of your choice, giving you an early tactical advantage.
 
+#### Familiars and Summons
+
+Familiars and other such Summons=ed creatures take their turn on the player turn. They do not have their own initiative.
+
 ![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
 
 ### Inspiration Pool
@@ -97,5 +101,38 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
 *If you already have proficiency with the chosen weapon, you gain expertise.*
 ```
+
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+
+### Weapon Master Feat (Modified)
+
+You have practiced extensively with a variety of weapons, gaining the following benefits:
+
+```
+Increase your Strength or Dexterity score by 1, to a maximum of 20.
+You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
+*If you already have proficiency with the chosen weapon, you gain expertise.*
+```
+
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+
+### Expend Half Movement to Perform Bonus Actions
+
+In our game, certain actions that traditionally require a bonus action or an action instead cost **Half Movement Speed**. This rule allows for more dynamic combat and smoother interactions without sacrificing a character’s primary actions.
+
+1. **Commanding Companions**:
+   - Giving a verbal command to a familiar, summoned creature, or ranger’s beast companion.
+   - Examples:
+     - Instructing a familiar to deliver a spell.
+     - Ordering a beast companion to attack or disengage.
+
+2. **Manipulating Items**:
+   - Drinking a potion (for yourself).
+   - Tossing an item to an ally.
+   - Switching weapons when hands are full.
+   - Drawing or stowing a weapon or item.
+   - Donning or doffing a shield.
+
+This house rule shifts focus from bonus actions, giving characters more flexibility in combat while reinforcing strategic movement management.
 
 ![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)

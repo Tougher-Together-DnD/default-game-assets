@@ -16,7 +16,14 @@ Then edit the `game-description` to a more concise version for LFG post.
 
 When adding forum posts use the markdown templates. However instead of copy-pasting the markdown, Render the markdown in the VS Code previewer and copy-paste the rendered version. This will retain images and styling in the forum post.
 
+Some Markdown documents may contain too much data to be successfully saved in one Forum Post. Break these up into one main post and subsequent replies.
 
+Close and make sticky the following order:
+1. Important Links
+2. House Rules and Modifications (In LFG As well)
+3. Dungeon Master Introduction (open)
+4. Character Introductions (open)
+5. Apply Here (Only in LFG)
 
 
 
