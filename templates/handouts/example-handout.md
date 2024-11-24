@@ -1,225 +1,155 @@
 <style>
-
-/*bg */
 body {
-    padding: 75px 30px;
-    background:
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_1.png') top center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_3.png') bottom center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_2.png') center repeat-y;
-    background-color: #f4f4f4;
-
-    /* Make background images scale dynamically */
-    background-size: 
-        50% auto, /* Adjusts the first image to scale with the width */
-        50% auto, /* Adjusts the second image to scale with the width */
-        auto 100%; /* Adjusts the third image to scale with the height */
+  font-family: "Georgia", serif;
+	padding: 75px 30px;
+	background:
+		url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_1.png') top center no-repeat,
+		url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_3.png') bottom center no-repeat,
+		url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_2.png') center repeat-y;
+	background-color: #f4f4f4;
+	background-size: 
+		100% auto,
+		100% auto,
+		auto 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-
-    font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond;
-
-    color: #34627B;
-
-    font-variant: small-caps;
-
-    letter-spacing: 2px;
-
-    font-size: 42px !important;
-
-    text-shadow: 2px 2px 4px rgba(52, 98, 123, 0.8);
-
-    clear: both;
-
-}
-
-h2 {
-
-    font-size: 28px !important;
-
+	font-family: "Cinzel", serif;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+	margin-bottom: .5rem;
+	color: #34627B;
+	text-shadow: 2px 2px 4px rgba(63,107,169, 0.8);
 }
 
 h3 {
-
-    font-size: 20px !important;
-
-    border-bottom: 2px solid #C9AD6A;
-
-}
-
-h4, h5 {
-
-    font-size: 16px !important;
-
-}
-
-p {
-
-    font-family: Georgia;
-
-    font-size: 1rem;
-
-    margin-bottom: 1rem;
-
-    text-indent: 20px;
-
-}
-
-p.first-of-type {
-
-    font-size: 13px !important;
-
-    margin-bottom: 0px;
-
-    text-indent: 0px !important;
-
-}
-
-h1 + p::first-letter, 
-h2 + p::first-letter, 
-blockquote + p::first-letter {
-
-    display: inline-block;
-
-    font-size: 1.5rem;
-
-    color: #ffffff;
-
-    background-color: rgba(52, 98, 123, 0.8);
-
-    border: 2px solid #ffffff;
-
-    padding: 2px 6px;
-
-    margin-right: 5px;
-
-    font-family: "Cinzel", serif;
-
-    text-transform: uppercase;
-
-    border-radius: 8px;
-
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-
-}
-
-ul {
-
-    font-family: Georgia !important;
-
-    font-size: 15px;
-
-    list-style-position: inside;
-
-    padding-left: 5px;
-
-    margin-bottom: 0px;
-
-    text-indent: -5px;
-
-}
-
-li {
-
-    font-family: Georgia !important;
-
-    font-size: 15px;
-
-    list-style-position: inside;
-
-    margin-bottom: 0px;
-
-    text-indent: -5px;
-
-}
-
-blockquote {
-
-  float:right;
-
-  width: 40%;
-
-  margin: 1.5rem !important;
-
-  padding: 10px 10px !important;
-
-  background-color: rgba(201, 159, 119, 0.5) !important;
-
-  border-top: 3px solid #8655B6;
-
-  border-bottom: 3px solid #8655B6;
-
-  border-left: 0px solid;
-
-  border-right: 0px solid;
-
-  box-shadow: 1px 4px 14px #888;
-
-}
-
-table {
-
-  width: 598px !important;
-
-  border: none !important;
-
-  border: 0px solid #000000 !important;
-
-  border-collapse: collapse;
-
-  margin: 1rem 0;
-
-  font-size: 1rem;
-
-}
-
-th, td {
-
-  border: 1px solid #000 !important;
-
-  padding: 8px;
-
-  text-align: left;
-
-}
-
-th {
-
-  background-color: #34627B;
-
-  color: #ffffff !important;
-
-  text-transform: uppercase;
-
-}
-
-tr:nth-child(odd) {
-
-  background-color: rgba(118, 197, 120, 0.2);
-
+    border-bottom: 2px solid #c9ad6a;
 }
 
 hr {
-
-    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png') no-repeat top center;
-
+    border: none;
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png') left top no-repeat;
+    height: 32px !important;
     background-size: contain;
-
-    height: 50px;
-
+    margin: 0;
 }
 
-.ttd-top-center-image {
+hr.style2 {
+height: 2px;
+background-color: #c9ad6a;
+display: block;
+border: 0;
+}
 
-    margin-top: 40px;
+hr.style3 {
+height: 2px;
+background-color: #c9ad6a;
+display: block;
+border: 0;
+}
 
-    display: block;
+blockquote {
+box-sizing: border-box;
+box-shadow: 1px 4px 6px #888888;
+background: WhiteSmoke;
+border: 1px solid #333333;
+width:60%;
+font-family: "Patrick Hand", cursive, sans-serif;
+}
 
-    margin-left: auto;
+p.blockquote {
+font-family: "Patrick Hand", cursive, sans-serif;
+}
 
-    margin-right: auto;
+table {
+box-shadow: 1px 4px 6px #888888;
+border: 1px solid #333333;
+}
 
+tbody {
+font-style: italic;
+}
+
+tr:first-child {
+background-color: gray;
+}
+
+tr:nth-child(even) {
+background-color: white;
+}
+
+tr:nth-child(odd) {
+background-color: gainsboro;
+}
+
+tr:nth-child(last) {
+background-color: beige;
+}
+
+td.align-left {
+border: 1px solid #333333;
+text-align: left;
+color: red;
+}
+
+td.align-center {
+border: 1px solid #333333;
+text-align: center;
+color: blue;
+}
+
+td.align-right {
+border: 1px solid #333333;
+text-align: right;
+color: green;
+}
+
+ol {
+list-style-type: decimal;
+}
+
+ul {
+list-style-type: square;
+}
+
+pre {
+display: block;
+border-radius: 3px;
+background: #2b2b2b;
+unicode-bidi: embed;
+font-family: monospace;
+color: #bababa;
+white-space: pre;
+}
+
+code {
+border-radius: 3px;
+background: #2b2b2b;
+unicode-bidi: embed;
+font-family: monospace;
+color: #bababa;
+white-space: pre;
+padding: 1px;
+margin: 1px;
+}
+
+li.ordered {
+font-weight: lighter;
+}
+
+li.unordered {
+font-style: italic;
+}
+
+p {
+font-family:inherit;
+font-size:inherit;
+}
+
+img_mountain {
+float: right;
+width: 87px;
+height: 100px;
 }
 </style>
 
@@ -234,6 +164,8 @@ ____
 
 
 ***
+
+##### hFrellomcv natrjm
 
 ### Homebrew D&D made easy
 
