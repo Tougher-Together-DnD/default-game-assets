@@ -27,9 +27,11 @@ Here’s the reversed order of your list:
 4. House Rules and Modifications (In LFG As well)  
 5. Important Links (closed)
 
+## Enable and Configure API Scripts
+
 ***
 
-## Style Markdown Documentation
+### Style Markdown Documentation
 
 ![Style Markdown API Scripts](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/style-markdown-api-scripts.png)
 
@@ -39,7 +41,7 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
 >Note:
 >Ensure you have a Roll20 Pro subscription, as API script access is exclusive to Pro users. 
 
-### Installation Steps
+#### Installation Steps
 
 1. **Access the API Scripts Section:**
    - Navigate to your game's main page on Roll20.
@@ -59,13 +61,13 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
 3. **Restart the API Sandbox:**
 - After adding all scripts, click the **Restart API Sandbox** button to ensure they are active.
 
-### Usage Instructions
+#### Usage Instructions
 
 1. **Create or Edit a Handout:**
    - In your Roll20 game, go to the **Journal** tab.
    - Create a new handout called `Style Sheet`
    - In the 'GM Notes' add the CSS content
-     - ![Style Sheet](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/templates/handouts/ttd-default.css)
+     - [Style Sheet](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/templates/handouts/ttd-default.css)
    - Once saved, the Style Sheet Handout will have an ID after `[css]()` 
 
 2. **Apply Markdown Formatting:**
@@ -84,8 +86,27 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
 - The content will be rendered and converted by the API script
 
 4. Upload the Mrkdown templates or import the VTTES handouts
-   1. ![Github Repository](https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/quick-reference)
+   1. [Github Repository](https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/quick-reference)
 
 ***
 
-## 
+### 5th Edition OGL by Roll20 Companion
+
+Use the API script to enable the Ammo and Spell tracking for the OGL 5e Sheet.
+
+***
+
+### Tokenmod
+
+This script is used in many DM and Player Macros.
+
+***
+
+### Aura/Tint HealthColors
+
+This script is used to remove bars and show players auras to determine health.
+
+## Use VTTES
+
+[VTTES Recommended Settings]()
+

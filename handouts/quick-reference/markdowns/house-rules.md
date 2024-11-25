@@ -113,3 +113,20 @@ In our game, certain actions that traditionally require a bonus action or an act
    - Donning or doffing a shield.
 
 This house rule shifts focus from bonus actions, giving characters more flexibility in combat while reinforcing strategic movement management.
+
+***
+
+## Base Darkvision
+
+All player characters have a base darkvision of 10ft. It does not stack nor add to any other sources of darkvision. This reflects that many creatures can adjust to seeing in dim light.
+
+Rules-As-Written still apply.
+
+##### Types of Darkvision
+
+| **Light Conditions** | **Normal Vision**                                | **Darkvision**                                     | **Truesight**              | **Devil's Sight**                |
+|-----------------------|-------------------------------------------------|---------------------------------------------------|----------------------------|-----------------------------------|
+| **Bright Light**      | See normally                                    | See normally                                      | See normally               | See normally                     |
+| **Dim Light**         | Disadvantage on PER checks; -5 to passive perception | See normally                                      | See normally               | Disadvantage on PER checks; -5 to passive perception |
+| **Darkness**          | Blinded                                         | Disadvantage on PER checks; -5 to passive perception | See normally               | See normally (120 ft)            |
+| **Magical Darkness**  | Blinded                                         | Varies by Spell                                   | See normally               | See normally (120 ft)            |

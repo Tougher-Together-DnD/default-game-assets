@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "type": "vttes_settings",
+  "settings": {
+    "disablePlayerDrawing": {
+      "enabled": false
+    },
+    "tokenBarPositionAdjust": {
+      "idle_status_icon_opacity": 1,
+      "active_status_icon_opacity": 1,
+      "position_status_icons_outside_the_token": true,
+      "enabled": true
+    },
+    "libreAudio": {
+      "enabled": false
+    },
+    "tokenFromUrl": {
+      "enabled": true
+    },
+    "adjustableOpacity": {
+      "enabled": false,
+      "passiveGMLayerOpacity": 1
+    },
+    "animatedBackground": {
+      "muteAudio": false,
+      "audioVolume": 0.1,
+      "video_history": [],
+      "enabled": true
+    },
+    "autoOpenInitiativeTracker": {
+      "DIALOG_OPEN_DELAY_KEY": 500,
+      "enabled": true
+    },
+    "alternativeRadialMenu": {
+      "opacity": 1,
+      "superMinimal": false,
+      "auto_width": true,
+      "enabled": false
+    },
+    "arrowKeysCameraControls": {
+      "enabled": true
+    },
+    "alternativePageToolbarMenu": {
+      "opacity": 1,
+      "location": "right",
+      "enabled": false
+    },
+    "animationDisable": {
+      "disableRadial": false,
+      "disablePageToolbar": false,
+      "enabled": false
+    },
+    "autoPingNextToken": {
+      "enabled": true
+    },
+    "autoSelectNextToken": {
+      "enabled": true
+    },
+    "autoSortInitiative": {
+      "sortBy": 1,
+      "respectFirstTokenPosition": true,
+      "enabled": true
+    },
+    "bulkMacros": {
+      "delayBetweenRolls": 0,
+      "reselectAfter": true,
+      "performRollsSequentially": false,
+      "enabled": true
+    },
+    "toolsMenu": {
+      "enabled": true
+    },
+    "counterTokenName": {
+      "enabled": false
+    },
+    "changeRepresentsIdWhenDuplicating": {
+      "enabled": true
+    },
+    "characterImportExport": {
+      "enabled": true
+    },
+    "nightMode": {
+      "backgroundColor": [
+        13,
+        14,
+        15
+      ],
+      "backdrop_color": [
+        10,
+        11,
+        12
+      ],
+      "only_force_if_default": true,
+      "enabled": false
+    },
+    "activeLayerHud": {
+      "size": 26,
+      "showNotSelecting": true,
+      "notSelectingOpacity": 1,
+      "globalOpacity": 0.75,
+      "backgroundOpacity": 1,
+      "textFillOpacity": 1,
+      "textFillColor": [
+        255,
+        255,
+        255
+      ],
+      "textOutlineOpacity": 1,
+      "textOutlineColor": [
+        0,
+        0,
+        0
+      ],
+      "corner": "bottomRight",
+      "enabled": false
+    },
+    "duplicateInJournalContextMenu": {
+      "enabled": true
+    },
+    "exposeD20": {
+      "enabled": true
+    },
+    "initiativeShortcuts": {
+      "enabled": true
+    },
+    "jukeboxIO": {
+      "enabled": true
+    },
+    "macroGeneratorBase": {
+      "enabled": false
+    },
+    "characterTokenModifier": {
+      "enabled": true
+    },
+    "macroIO": {
+      "enabled": true
+    },
+    "middleClickToTokenLayer": {
+      "select": false,
+      "switchToGmLayer": true,
+      "switchToTokenLayer": true,
+      "switchToMapLayer": false,
+      "switchToLightsLayer": false,
+      "switchToForegroundLayer": false,
+      "switchToWeatherLayer": false,
+      "switchToBackgroundLayer": false,
+      "modAlt": false,
+      "modShift": false,
+      "modCtrl": false,
+      "modMeta": false,
+      "mouseButtonIndex": 1,
+      "enabled": false
+    },
+    "autoFocusNextToken": {
+      "enabled": true
+    },
+    "createFinalPageLoadEvent": {
+      "enabled": true
+    },
+    "rollAndApplyHitDice": {
+      "diceFormulaAttribute": "npc_hpformula",
+      "bar": "bar3",
+      "diceFormulaMacro": "",
+      "diceFormulaSumInline": true,
+      "enabled": false
+    },
+    "pluginSettings": {
+      "enabled": true
+    },
+    "sheetTabApi": {
+      "enabled": true
+    },
+    "seenadOverride": {
+      "enabled": true
+    },
+    "importExportTable": {
+      "enabled": true
+    },
+    "tokenResize": {
+      "placeTopLeft": true,
+      "useUnits": false,
+      "lastSquareWidth": 70,
+      "lastSquareHeight": 70,
+      "lastNumSquaresX": 25,
+      "lastNumSquaresY": 25,
+      "enabled": true
+    },
+    "tokenContextMenuApiModule": {
+      "enabled": true
+    },
+    "tokenLayerDrawing": {
+      "globalAlpha": 1,
+      "backgroundOpacity": 0.5,
+      "textStrokeWidth": 2,
+      "textStrokeOpacity": 1,
+      "textStrokeColor": [
+        0,
+        0,
+        0
+      ],
+      "textFillOpacity": 1,
+      "textFillColor": [
+        255,
+        255,
+        255
+      ],
+      "textFontSize": 6,
+      "rotateAlongWithToken": false,
+      "drawOnGmLayer": true,
+      "drawOnTokenLayer": true,
+      "drawOnMapLayer": true,
+      "drawOnLightsLayer": true,
+      "drawOnWeatherLayer": true,
+      "drawOnForegroundLayer": true,
+      "drawOnBackgroundLayer": true,
+      "enabled": true
+    },
+    "transparentPaperDivs": {
+      "opacity": 1,
+      "enabled": false
+    },
+    "hidePlayerList": {
+      "enabled": false
+    },
+    "setTableEntryAvatarByUrl": {
+      "enabled": true
+    },
+    "perfImprovements": {
+      "disable_frame_recorder": true,
+      "enabled": true
+    },
+    "characterAvatarfromUrl": {
+      "enabled": true
+    },
+    "cameraStartPosition": {
+      "send_local_event_messages": true,
+      "move_if_gm": true,
+      "enabled": false
+    },
+    "handoutImageFromUrl": {
+      "enabled": true
+    },
+    "customPathWidth": {
+      "enabled": false
+    },
+    "welcomeScreen": {
+      "hasShownDiscordPoll": false,
+      "showWelcomePopup": true,
+      "showStartupGuide": false,
+      "showChangelog": true,
+      "previousVersion": "1.28.22",
+      "has_shown_ui_preview_incompatibility_message": false,
+      "enabled": true
+    }
+  }
+}
