@@ -1,5 +1,8 @@
 ﻿
-![][Main Banner]
+[md]
+[css](-OCVFMyYfsylqoZPiW6l)
+
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities/downtime-activities-banner.webp)
 
 # Downtime Activities
 Downtime activities are tasks that usually take a workweek (5 days) or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.
@@ -21,7 +24,7 @@ Each of these sections has a table that offers possible complications. You can r
 ## Example Downtime Activities
 The following activities are suitable for any character who can afford to pursue them. As DM, you have the final say on which activities are available to the characters. The activities you allow might depend on the nature of the area where the characters are located. For example, you might disallow the creation of magic items or decide that the characters are in a town that is too isolated from major markets for them to buy such items.
 
-<br>
+***
 
 ### Buying a Magic Item
 Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
@@ -82,7 +85,7 @@ If the characters seek a specific magic item, first decide if it’s an item you
 
 *Might involve a rival
 
-<br>
+***
 
 ### Carousing
 Carousing is a default downtime activity for many characters. Between adventures, who doesn’t want to relax with a few drinks and a group of friends at a tavern?
@@ -162,9 +165,9 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 *Might involve a rival
 
-<br>
+***
 
-![][Crafting Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities/crafting-banner.webp)
 
 ### Crafting an Item
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
@@ -248,7 +251,7 @@ If all the above requirements are met, the result of the process is a magic item
 | Superior healing | 3 workweeks | 1,000 gp |
 | Supreme healing | 4 workweeks | 10,000 gp |
 
-<br>
+***
 
 ### Crime
 Sometimes it pays to be bad. This activity gives a character the chance to make some extra cash, at the risk of arrest.
@@ -290,7 +293,7 @@ To attempt a crime, the character makes three checks: Dexterity (Stealth), Dexte
 
 *Might involve a rival
 
-<r>
+***
 
 ### Gambling
 Games of chance are a way to make a fortune—and perhaps a better way to lose one.
@@ -322,7 +325,7 @@ The character makes three checks: Wisdom (Insight), Charisma (Deception), and Ch
 
 *Might involve a rival
 
-<br>
+***
 
 ### Pit Fighting
 Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. If you want to introduce competitive fighting in a battle-to-the-death situation, the standard combat rules apply to that sort of activity.
@@ -355,7 +358,7 @@ The character makes three checks: Strength (Athletics), Dexterity (Acrobatics), 
 
 *Might involve a rival
 
-<br>
+***
 
 ### Relaxation
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don’t want to make use of the downtime system.
@@ -366,7 +369,7 @@ Sometimes the best thing to do between adventures is relax. Whether a character 
 
 **Complications.** Relaxation rarely comes with complications. If you want to make life complicated for the characters, introduce an action or an event connected to a rival.
 
-<br>
+***
 
 ### Religious Service
 Characters with a religious bent might want to spend downtime in service to a temple, either by attending rites or by proselytizing in the community. Someone who undertakes this activity has a chance of winning the favor of the temple’s leaders.
@@ -400,7 +403,7 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 *Might involve a rival
 
-<br>
+***
 
 ### Research
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
@@ -437,7 +440,7 @@ In addition, a character might run into other complications during research. Eve
 
 *Might involve a rival
 
-<br>
+***
 
 ### Scribing a Spell Scroll
 With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll.
@@ -474,9 +477,9 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 *Might involve a rival
 
-<br>
+***
 
-![][Selling Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities/selling-banner.webp)
 
 ### Selling a Magic Item
 Selling a magic item is by no means an easy task. Con artists and thieves are always looking out for an easy score, and there’s no guarantee that a character will receive a good offer even if a legitimate buyer is found.
@@ -517,7 +520,7 @@ Selling a magic item is by no means an easy task. Con artists and thieves are al
 
 *Might involve a rival
 
-<br>
+***
 
 ### Training
 Given enough free time and the services of an instructor, a character can learn a language or pick up proficiency with a tool.
@@ -538,7 +541,7 @@ Given enough free time and the services of an instructor, a character can learn 
 
 *Might involve a rival
 
-<br>
+***
 
 ### Work
 When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character’s attempt to find temporary work, the quality and wages of which are difficult to predict.
@@ -568,8 +571,3 @@ When all else fails, an adventurer can turn to an honest trade to earn a living.
 | 6 | You gain a reputation for laziness (unjustified or not, as you choose), giving you disadvantage on checks made for this downtime activity for the next six workweeks you devote to it. |
 
 *Might involve a rival
-
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

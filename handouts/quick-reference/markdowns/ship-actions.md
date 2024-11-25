@@ -1,42 +1,12 @@
-﻿<!-- Ship Actions -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- ship-actions -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/ship-actions "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/ship-actions.webp#banner "topic main banner"
-[Crew Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/crew-banner.webp#banner
-[Officers Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/officers-banner.webp#banner
-[Captain Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/captain-banner.webp#banner
-[Bosun Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/bosun-banner.webp#banner
-[Firstmate Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/firstmate-banner.webp#banner
-[Deckwizard Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/deckwizard-banner.webp#banner
-[Surgeon Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/surgeon-banner.webp#banner
-[Quartermaster Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/ship-actions/quartermaster-banner.webp#banner
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/ship-actions.webp)
 
 # Ship Actions
 For a ship or vehicle to perform any action during its turn, crew members (Players or NPCs) must operate the vessel or weapon system.
+
+***
 
 ## Ships in Combat 
 Whether sailing to war or hunting notorious pirates, ships make deadly [Weapons](https://app.roll20.net/compendium/dnd5e/Weapons#h-Weapons) and dramatic battlefields. This section provides [Guidance](https://app.roll20.net/compendium/dnd5e/Guidance#h-Guidance) on using ships in [Combat](https://app.roll20.net/compendium/dnd5e/Combat#h-Combat).
@@ -90,9 +60,9 @@ In the case of Air Ships a falling condition arises if its engines are reduced t
 
 Generally, nonmagical repairs take too long to save a ship from sinking once it begins to go down.
 
-<br>
+***
 
-![][Crew Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/crew-banner.webp)
 
 ## Crew Members
 A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.
@@ -157,9 +127,9 @@ When the DM ends the mutiny, the crew’s quality score increases by 1d4.
 ### Shore Leave
 Life aboard a ship is a constant wear on the crew. Spending time in port allows the crew to relax and regain its composure. If a crew’s quality score is 3 or lower, the score increases by 1 for each day the crew spends in port or ashore.
 
-<br>
+***
 
-![][Officers Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/officers-banner.webp)
 
 ## Officers
 Each vessel requires people to run it: the officers in charge and the sailors who follow their orders.
@@ -168,7 +138,8 @@ If you’d like to explore running a ship, it needs officers to oversee its oper
 
 Each type of officer is described below, along with the Abilities and Proficiencies that help a character excel in that role:
 
-![][Captain Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/captain-banner.webp)
+
 ### Captain
 The captain issues orders. The best captains have high Wisdom and Charisma scores, as well as proficiency with Water Vehicles and the Intimidation and Persuasion Skills.
 
@@ -187,9 +158,8 @@ For 1 minute once a day the Captain can maintain a ships position against natura
 **Stealth (Captain Only)**
 The ship’s Captain can engage in this activity only if the weather conditions restrict visibility, such as in heavy fog. The ship makes a DC 18 Water Vehicle (Dexterity) check + Crew Quality score to determine if it can hide.
 
-<br>
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/bosun-banner.webp)
 
-![][Bosun Banner]
 ### Bosun
 The bosun (or boatswain) provides technical advice to the captain and crew and leads repair and maintenance efforts. A good bosun has a high Strength score, as well as proficiency with Carpenter’s tools and the Athletics skill.
 
@@ -204,14 +174,13 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Take Aim (First Mate, or Bosun Only)**
 As an action the First Mate, or Bosun directs the crew’s firing, aiding in aiming one of the ship’s Weapons. Select one of the ship’s Weapons that is within 10 feet of the officer. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality The Attack and Damage rolls of the weapon increase by +2, and attack rolls of 19 or 20 act as critical hits.
 
-<br>
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/deckwizard-banner.webp)
 
-![][Deckwizard Banner]
 ### Deck Wizard
 The Deck Wizard provides magical offensive and defensive capabilities to a ship. They aid and instruct the Bosun in making magical upgrades to the ship. A good Deck Wizard benefits from knowledge of the Arcane and Intelligence.
 
 **Man and Machine (Deck Wizard Only)**
-A Deck Wizard can take a long rest aboard a ship to attune themselves it. The ship does not count towards a characters' attuned item amount. When the Deck Wizard is at the Primrose or bow of a ship that they are attuned to, they may cast a spell with target self as if self where the ship.
+A Deck Wizard can take a long rest aboard a ship to attune themselves it. The ship does not count towards a characters' attuned item amount. When the Deck Wizard is at the Primrose or bow of a ship that they are attuned to, they may cast a spell (expending twice the spell slots) with range touch or self and target the ship.
 
 **Superior Upgrades (Deck Wizard Only)**
 A Deck Wizard using their extensive knowledge of magic can ascertain the materials and steps required for a superior upgrade. They can perform this upgrade at a reduced cost then hiring specialist. 
@@ -220,9 +189,8 @@ Adding an upgrade costs 7,000 gp and requires 1d4 weeks of work. During that tim
 
 At the end of the upgrade, the Deck Wizard makes a DC 18 Arcana (Intellect) check plus Crew Quality score. On a successful check the upgrade succeeds. On a failed check the DM may stipulate a reduced effect of the upgrade.
 
-<br>
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/firstmate-banner.webp)
 
-![][Firstmate Banner]
 ### First Mate
 This specialist keeps the crew’s morale high by providing supervision, encouragement, and discipline. A First Mate benefits from a high Charisma score, as well as proficiency with the Intimidation and Persuasion Skills.
 
@@ -235,21 +203,19 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Raise Morale (First Mate or Quartermaster Only)**
 The first mate can manage the crew’s time to grant extended breaks, provide instruction, and improve morale. The Quarter Master can acquire food for a feast, wine, smokes, or entertainment to come aboard. Once per day, if the crew’s quality score is 4 or lower, the first mate can make a DC 18 Charisma (Persuasion) check. Or the Quarter master can make a DC 18 Charisma (Performance) check. On a successful check, the crew’s quality score increases by 1.
 
-<br>
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/surgeon-banner.webp)
 
-![][Surgeon Banner]
 ### Surgeon
 The ship’s surgeon tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as proficiency with Herbalism kits and the Medicine skill.
 
 **Hygiene (Surgeon Only)**
-As an action once a day the ship Surgeon can encourage the crew to perform basic hygiene regiment. On success reducing the effects and likely hood of diseases aboard the ship. When the Surgeon makes a DC 18 Medicine (Wisdom) check + Crew Quality score, creatures making DC Constitution saves against disease gain a +2 against it's effects.
+As an action once a day the ship Surgeon can encourage the crew to perform basic hygiene regiment. On success reducing the effects and likely hood of diseases aboard the ship. When the Surgeon makes a DC 13 Medicine (Wisdom) check + Crew Quality score, creatures making DC Constitution saves against disease gain a +2 against it's effects.
 
 **Triage (Surgeon Only)**
 A ships Surgeon can reduce the recovery time of crew and players. Making a DC18 Medicine (Wisdom) or Herbalism kit check the Surgeon can affect a target humanoid as if a Healing Kit was used.
 
-<br>
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/quartermaster-banner.webp)
 
-![][Quartermaster Banner]
 ### Quartermaster
 The quartermaster plots the ship’s course, relying on knowledge of nautical charts and a study of weather and sea Conditions. A reliable quartermaster tends to have a high Wisdom and Intellect score, as well as proficiency with Navigator’s tools and the Nature skill. Quartermaster's would also be responsible for finding parts and supplies. A proficiency in History and Persuasion skills can aid in these duties. 
 
@@ -262,7 +228,3 @@ The first mate can manage the crew’s time to grant extended breaks, provide in
 **Cook a Meal (Quartermaster Only)**
 The Quartermaster act as the ships cook creating a meal or brew for the party. With cooking tools, Making a successful DC 18 Wisdom  (Survival) check the Quartermaster can prepare a meal that adds 1d(Level) Temporary health points to those that eat the meal.
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

@@ -1,37 +1,14 @@
-﻿<!-- Tool Proficiencies -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- tool=proficiency -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/tool-proficiency "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/tool-proficiency/tool-proficiency-banner.webp#banner "topic main banner"
-[Alchemist Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/tool-proficiency/alchemist-banner.webp#banner
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/tool-proficiency-banner.webp)
 
 # Tool Proficiencies
 [Tool Proficiencies](https://app.roll20.net/compendium/dnd5e/Chapter%202%20-%20Dungeon%20Master%27s%20Tools#h-Tool%20Proficiencies) are a useful way to highlight a character’s [Background](https://app.roll20.net/compendium/dnd5e/Personal%20Decisions#h-Background) and talents. At the game table, though, the use of tools sometimes overlaps with the use of [Skills](https://app.roll20.net/compendium/dnd5e/Monsters#h-Skills), and it can be unclear how to use them together in certain situations. This section offers various ways that tools can be used in the game.
 
 Taken from Xanathar's Guide to Everything (pg. 78)
+
+***
 
 ## [Tools](https://app.roll20.net/compendium/dnd5e/Tools#h-Tools) and [Skills](https://app.roll20.net/compendium/dnd5e/Monsters#h-Skills) Together
 [Tools](https://app.roll20.net/compendium/dnd5e/Tools#h-Tools) have more specific applications than [Skills](https://app.roll20.net/compendium/dnd5e/Monsters#h-Skills). The [History](https://app.roll20.net/compendium/dnd5e/History#h-History) skill applies to any event in the past. A tool such as a [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%20Kit) is used to make fake [Objects](https://app.roll20.net/compendium/dnd5e/Objects#h-Objects) and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
@@ -42,7 +19,7 @@ To make [Tool Proficiencies](https://app.roll20.net/compendium/dnd5e/Chapter%202
 
 **Added Benefit.** In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with mason’s tools makes a successful [Wisdom](https://app.roll20.net/compendium/dnd5e/Ability%20Scores#h-Wisdom) (Perception) check to find a [Secret](https://app.roll20.net/compendium/dnd5e/Cleric#h-Secret) door in a stone wall. Not only does the character notice the door’s presence, but you decide that the tool proficiency entitles the character to an automatic success on an [Intelligence](https://app.roll20.net/compendium/dnd5e/Ability%20Scores#h-Intelligence) (Investigation) check to determine how to open the door.
 
-<br>
+***
 
 ## Tool Descriptions
 The following sections go into detail about the tools presented in the *Player’s Handbook*, offering advice on how to use them in a campaign.
@@ -59,9 +36,10 @@ In addition, you can consider giving a character extra information or an added b
 
 **Sample DCs.** A table at the end of each section lists activities that a tool can be used to perform, and suggested DCs for the necessary [Ability Checks](https://app.roll20.net/compendium/dnd5e/Social%20Interaction#h-Ability%20Checks).
 
-<br>
+***
 
-![][Alchemist Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/alchemist-banner.webp)
+
 ## Alchemist’s Supplies
 Alchemist’s supplies enable a character to produce useful concoctions, such as acid or alchemist’s fire.
 
@@ -82,7 +60,7 @@ Alchemist’s supplies enable a character to produce useful concoctions, such as
 | Start a fire | 15 |
 | Neutralize acid | 20 |
 
-<br>
+***
 
 ## Brewer’s Supplies
 Brewing is the art of producing beer. Not only does beer serve as an alcoholic beverage, but the process of brewing purifies water. [Crafting](https://app.roll20.net/compendium/dnd5e/Resting#h-Crafting) beer takes weeks of fermentation, but only a few hours of work.
@@ -104,7 +82,7 @@ Brewing is the art of producing beer. Not only does beer serve as an alcoholic b
 | [Identify](https://app.roll20.net/compendium/dnd5e/Identify#h-Identify) alcohol | 15 |
 | Ignore [Effects](https://app.roll20.net/compendium/dnd5e/Designing%20Simple%20Traps#h-Effects) of alcohol | 20 |
 
-<br>
+***
 
 ## Calligrapher’s Supplies
 Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce text that is pleasing to the eye, using a style that is difficult to forge. Their supplies also give them some ability to examine scripts and determine if they are legitimate, since a calligrapher’s [Training](https://app.roll20.net/compendium/dnd5e/Resting#h-Training) involves long hours of studying writing and attempting to replicate its style and design.
@@ -125,7 +103,7 @@ Calligraphy treats writing as a delicate, beautiful art. Calligraphers produce t
 | Spot forged text | 15 |
 | Forge a signature | 20 |
 
-<br>
+***
 
 ## Carpenter’s [Tools](https://app.roll20.net/compendium/dnd5e/Tools#h-Tools)
 Skill at carpentry enables a character to [Construct](https://app.roll20.net/compendium/dnd5e/Chapter%206%20Friends%20and%20Foes#h-Construct) wooden structures. A carpenter can build a house, a shack, a wooden cabinet, or similar items.
@@ -152,7 +130,7 @@ Skill at carpentry enables a character to [Construct](https://app.roll20.net/com
 | Find a weak point in a wooden wall | 15 |
 | Pry apart a door | 20 |
 
-<br>
+***
 
 ## Cartographer’s Tools
 Using cartographer’s tools, you can create accurate maps to make [Travel](https://app.roll20.net/compendium/dnd5e/Travel#h-Travel) easier for yourself and those who come after you. These maps can range from large-scale depictions of [Mountain](https://app.roll20.net/compendium/dnd5e/Creatures%20by%20Terrain%20%28CC%29#h-Mountain) ranges to diagrams that show the layout of a dungeon level.
@@ -175,7 +153,7 @@ Using cartographer’s tools, you can create accurate maps to make [Travel](http
 | Discern that a map is fake | 15 |
 | Fill in a missing part of a map | 20 |
 
-<br>
+***
 
 ## Cobbler’s Tools
 Although the cobbler’s trade might seem too humble for an adventurer, a good pair of boots will see a character across rugged [Wilderness](https://app.roll20.net/compendium/dnd5e/Choosing%20a%20Guild%20for%20an%20Adventure#h-Wilderness) and through deadly [Dungeons](https://app.roll20.net/compendium/dnd5e/Monsters#h-Dungeons).
@@ -196,7 +174,7 @@ Although the cobbler’s trade might seem too humble for an adventurer, a good p
 | Determine a shoe’s age and [Origin](https://app.roll20.net/compendium/dnd5e/Outlander#h-Origin) | 10 |
 | Find a hidden compartment in a boot heel | 15 |
 
-<br>
+***
 
 ## Cook’s Utensils
 [Adventuring](https://app.roll20.net/compendium/dnd5e/Adventuring#h-Adventuring) is a hard life. With a cook along on the journey, your meals will be much better than the typical mix of hardtack and dried fruit.
@@ -219,7 +197,7 @@ Although the cobbler’s trade might seem too humble for an adventurer, a good p
 | Spot poison or impurities in food | 15 |
 | Create a gourmet meal | 15 |
 
-<br>
+***
 
 ## [Disguise kit](https://app.roll20.net/compendium/dnd5e/Disguise%20kit#h-Disguise%20kit)
 The perfect tool for anyone who wants to engage in trickery, a [Disguise kit](https://app.roll20.net/compendium/dnd5e/Disguise%20kit#h-Disguise%20kit) enables its owner to adopt a false identity.
@@ -245,7 +223,7 @@ At other times, it takes 10 minutes to craft a disguise that involves moderate c
 | Spot a disguise being used by someone else | 15 |
 | Copy a humanoid’s appearance | 20 |
 
-<br>
+***
 
 ## [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%20Kit)
 A [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%20Kit) is designed to duplicate documents and to make it easier to copy a person’s seal or signature.
@@ -264,15 +242,15 @@ A [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%
 
 **Quick Fake.** As part of a [Short Rest](https://app.roll20.net/compendium/dnd5e/Social%20Interaction#h-Short%20Rest), you can produce a forged document no more than one page in length. As part of a [Long Rest](https://app.roll20.net/compendium/dnd5e/Social%20Interaction#h-Long%20Rest), you can produce a document that is up to four pages long. Your [Intelligence](https://app.roll20.net/compendium/dnd5e/Ability%20Scores#h-Intelligence) check using a [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%20Kit) determines the DC for someone else’s [Intelligence](https://app.roll20.net/compendium/dnd5e/Ability%20Scores#h-Intelligence) (Investigation) check to spot the fake.
 
-<br>
+***
 
 ##### [Forgery Kit](https://app.roll20.net/compendium/dnd5e/Forgery%20Kit#h-Forgery%20Kit)
 | Activity | DC |
 | :--- | :--- |
-| [Mimic](https://app.roll20.net/compendium/dnd5e/Mimic#h-Mimic) handwriting | 15 |
+| Mimic handwriting | 15 |
 | Duplicate a wax seal | 20 |
 
-<br>
+***
 
 ## Gaming Set
 Proficiency with a gaming set applies to one type of game, such as [Three-Dragon Ante](https://app.roll20.net/compendium/dnd5e/Three-Dragon%20Ante#h-Three-Dragon%20Ante) or games of chance that use dice.
@@ -291,7 +269,7 @@ Proficiency with a gaming set applies to one type of game, such as [Three-Dragon
 | Catch a player cheating | 15 |
 | Gain [Insight](https://app.roll20.net/compendium/dnd5e/Insight#h-Insight) into an opponent’s personality | 15 |
 
-<br>
+***
 
 ## Glassblower’s Tools
 Someone who is proficient with glassblower’s tools has not only the ability to shape glass, but also specialized knowledge of the methods used to produce glass [Objects](https://app.roll20.net/compendium/dnd5e/Objects#h-Objects).
@@ -310,7 +288,7 @@ Someone who is proficient with glassblower’s tools has not only the ability to
 | [Identify](https://app.roll20.net/compendium/dnd5e/Identify#h-Identify) source of glass | 10 |
 | Determine what a glass object once held | 20 |
 
-<br>
+***
 
 ## [Herbalism Kit](https://app.roll20.net/compendium/dnd5e/Herbalism%20Kit#h-Herbalism%20Kit)
 Proficiency with an [Herbalism Kit](https://app.roll20.net/compendium/dnd5e/Herbalism%20Kit#h-Herbalism%20Kit) allows you to [Identify](https://app.roll20.net/compendium/dnd5e/Identify#h-Identify) [Plants](https://app.roll20.net/compendium/dnd5e/Creatures%20By%20Type#h-Plants) and safely collect their useful elements.
@@ -333,7 +311,7 @@ Proficiency with an [Herbalism Kit](https://app.roll20.net/compendium/dnd5e/Herb
 | Find [Plants](https://app.roll20.net/compendium/dnd5e/Creatures%20By%20Type#h-Plants) | 15 |
 | [Identify](https://app.roll20.net/compendium/dnd5e/Identify#h-Identify) poison | 20 |
 
-<br>
+***
 
 ## Jeweler’s Tools
 [Training](https://app.roll20.net/compendium/dnd5e/Resting#h-Training) with jeweler’s tools includes the basic [Techniques](https://app.roll20.net/compendium/dnd5e/Duelist#h-Techniques) needed to beautify gems. It also gives you expertise in identifying precious stones.
@@ -352,7 +330,7 @@ Proficiency with an [Herbalism Kit](https://app.roll20.net/compendium/dnd5e/Herb
 | Modify a gem’s appearance | 15 |
 | Determine a gem’s [History](https://app.roll20.net/compendium/dnd5e/History#h-History) | 20 |
 
-<br>
+***
 
 ## Land and [Water Vehicles](https://app.roll20.net/compendium/dnd5e/Water%20Vehicles#h-Water%20Vehicles)
 Proficiency with [Land Vehicles](https://app.roll20.net/compendium/dnd5e/Land%20Vehicles#h-Land%20Vehicles) covers a wide range of options, from [Chariots](https://app.roll20.net/compendium/dnd5e/Flying%20Chariot#h-Chariots) and howdahs to wagons and carts. Proficiency with [Water Vehicles](https://app.roll20.net/compendium/dnd5e/Water%20Vehicles#h-Water%20Vehicles) covers anything that navigates waterways. Proficiency with vehicles grants the knowledge needed to handle vehicles of that type, along with knowledge of how to repair and maintain them.
@@ -372,7 +350,7 @@ In addition, a character proficient with [Water Vehicles](https://app.roll20.net
 | Assess a vehicle’s condition | 15 |
 | Take a tight corner at high speed | 20 |
 
-<br>
+***
 
 ## Leatherworker’s Tools
 Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of [Leather Armor](https://app.roll20.net/compendium/dnd5e/Leather%20Armor#h-Leather%20Armor) and similar goods.
@@ -391,7 +369,7 @@ Knowledge of leatherworking extends to lore concerning animal hides and their pr
 | Modify a leather item’s appearance | 10 |
 | Determine a leather item’s [History](https://app.roll20.net/compendium/dnd5e/History#h-History) | 20 |
 
-<br>
+***
 
 ## Mason’s Tools
 Mason’s tools allow you to craft stone structures, including walls and buildings crafted from brick.
@@ -412,7 +390,7 @@ Mason’s tools allow you to craft stone structures, including walls and buildin
 | Chisel a small hole in a stone wall | 10 |
 | Find a weak point in a stone wall | 15 |
 
-<br>
+***
 
 ## Musical Instruments
 Proficiency with a musical [Instrument](https://app.roll20.net/compendium/dnd5e/Bard#h-Instrument) indicates you are familiar with the [Techniques](https://app.roll20.net/compendium/dnd5e/Duelist#h-Techniques) used to play it. You also have knowledge of some songs commonly performed with that [Instrument](https://app.roll20.net/compendium/dnd5e/Bard#h-Instrument).
@@ -429,7 +407,7 @@ Proficiency with a musical [Instrument](https://app.roll20.net/compendium/dnd5e/
 | [Identify](https://app.roll20.net/compendium/dnd5e/Identify#h-Identify) a tune | 10 |
 | Improvise a tune | 20 |
 
-<br>
+***
 
 ## Navigator’s Tools
 Proficiency with navigator’s tools helps you determine a true course based on observing the stars. It also grants you [Insight](https://app.roll20.net/compendium/dnd5e/Insight#h-Insight) into charts and maps while developing your sense of direction.
@@ -446,7 +424,7 @@ Proficiency with navigator’s tools helps you determine a true course based on 
 | Plot a course | 10 |
 | Discover your position on a nautical chart | 15 |
 
-<br>
+***
 
 ## Painter’s Supplies
 Proficiency with painter’s supplies represents your ability to paint and draw. You also acquire an understanding of art [History](https://app.roll20.net/compendium/dnd5e/History#h-History), which can aid you in examining works of art.
@@ -465,7 +443,7 @@ Proficiency with painter’s supplies represents your ability to paint and draw.
 | Paint an accurate portrait | 10 |
 | Create a painting with a hidden [Message](https://app.roll20.net/compendium/dnd5e/Message#h-Message) | 20 |
 
-<br>
+***
 
 ## Poisoner’s Kit
 A poisoner’s kit is a [Favored](https://app.roll20.net/compendium/dnd5e/Favored#h-Favored) resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply [Poisons](https://app.roll20.net/compendium/dnd5e/Poisons#h-Poisons) and create them from various materials. Your knowledge of [Poisons](https://app.roll20.net/compendium/dnd5e/Poisons#h-Poisons) also helps you treat them.
@@ -488,7 +466,7 @@ A poisoner’s kit is a [Favored](https://app.roll20.net/compendium/dnd5e/Favore
 | Spot a [Poisoned](https://app.roll20.net/compendium/dnd5e/Conditions#h-Poisoned) object | 10 |
 | Determine the [Effects](https://app.roll20.net/compendium/dnd5e/Designing%20Simple%20Traps#h-Effects) of a poison | 20 |
 
-<br>
+***
 
 ## Potter’s Tools
 Potter’s tools are used to create a variety of ceramic [Objects](https://app.roll20.net/compendium/dnd5e/Objects#h-Objects), most typically pots and similar vessels.
@@ -508,7 +486,7 @@ Potter’s tools are used to create a variety of ceramic [Objects](https://app.r
 | Create a serviceable pot | 15 |
 | Find a weak point in a ceramic object | 20 |
 
-<br>
+***
 
 ## Smith’s Tools
 Smith’s tools allow you to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items.
@@ -528,7 +506,7 @@ Smith’s tools allow you to work metal, heating it to alter its shape, repair d
 | Repair a suit of armor | 15 |
 | Sunder a nonmagical metal object | 15 |
 
-<br>
+***
 
 ## Thieves’ Tools
 Perhaps the most [Common](https://app.roll20.net/compendium/dnd5e/Common#h-Common) tools used by adventurers, thieves’ tools are designed for picking locks and foiling traps. Proficiency with the tools also grants you a general knowledge of traps and locks.
@@ -547,7 +525,7 @@ Perhaps the most [Common](https://app.roll20.net/compendium/dnd5e/Common#h-Commo
 | Pick a lock | Varies |
 | Disable a trap | Varies |
 
-<br>
+***
 
 ## Tinker’s Tools
 A set of tinker’s tools is designed to enable you to repair many mundane [Objects](https://app.roll20.net/compendium/dnd5e/Objects#h-Objects). Though you can’t manufacture much with tinker’s tools, you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of [Chain Mail](https://app.roll20.net/compendium/dnd5e/Chain%20Mail#h-Chain%20Mail).
@@ -566,7 +544,7 @@ A set of tinker’s tools is designed to enable you to repair many mundane [Obje
 | Temporarily repair a disabled device | 10 |
 | Repair an item in half the time | 15 |
 | Improvise a temporary item using scraps | 20 |
-<br>
+***
 
 ## Weaver’s Tools
 Weaver’s tools allow you to create cloth and tailor it into articles of clothing.
@@ -588,7 +566,7 @@ Weaver’s tools allow you to create cloth and tailor it into articles of clothi
 | Mend a hole in a piece of cloth | 10 |
 | Tailor an outfit | 15 |
 
-<br>
+***
 
 ## Woodcarver’s Tools
 Woodcarver’s tools allow you to craft intricate [Objects](https://app.roll20.net/compendium/dnd5e/Objects#h-Objects) from wood, such as wooden tokens or [Arrows](https://app.roll20.net/compendium/dnd5e/Arrows#h-Arrows).
@@ -609,7 +587,3 @@ Woodcarver’s tools allow you to craft intricate [Objects](https://app.roll20.n
 | Craft a small wooden figurine | 10 |
 | Carve an intricate pattern in wood | 15 |
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

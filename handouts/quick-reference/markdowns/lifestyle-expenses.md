@@ -1,33 +1,7 @@
-﻿<!-- Lifestyle Expenses -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- lifestyle-expenses -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/lifestyle-expenses "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/lifestyle-expenses/lifestyle-expenses-banner.webp#banner "topic main banner"
-[Food Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/lifestyle-expenses/food-banner.webp#banner
-[Services Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/lifestyle-expenses/services-banner.webp#banner
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/lifestyle-expenses-banner.webp)
 
 # Lifestyle Expenses
 Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
@@ -35,8 +9,6 @@ Lifestyle expenses provide you with a simple way to account for the cost of livi
 At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
-
-<br>
 
 ##### Lifestyle Expenses
 |Lifestyle|Price/Day|
@@ -68,9 +40,9 @@ The expenses and lifestyles described in this section assume that you are spendi
 
 Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in the " Between Adventures "section, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
 
-<br>
+***
 
-![][Food Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/food-banner.webp)
 
 ## Food, Drink, and Lodging
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. There prices are included in your total lifestyle expenses.
@@ -103,9 +75,9 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 |&emsp;&emsp;Com⁠mon (pitcher)|2 sp|
 |&emsp;&emsp;Fine (bottle)|10 gp|
 
-<br>
+***
 
-![][Services Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/services-banner.webp)
 
 ## Services
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
@@ -129,14 +101,10 @@ Ski⁠lled hirelings include anyone hired to perform a service that involves a p
 |Road or gate toll|1 cp|
 |Ship's passage|1 sp per mile|
 
-<br>
+***
 
 ## Spellcasting Services
 People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
 Hiring someone to cast a relatively com⁠mon spell of 1st or 2nd level, such as *cure wounds* or *identify*, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

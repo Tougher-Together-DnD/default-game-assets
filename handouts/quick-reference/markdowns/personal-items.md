@@ -1,38 +1,11 @@
-﻿<!-- Personal Items -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- personal-items -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/personal-items "Tougher Together Files"
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/adventure-gear-banner.webp)
 
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/personal-items/adventure-gear-banner.webp#banner "topic main banner"
-[Packs]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/personal-items/packs-banner.webp#banner
-[Cold Weather]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/personal-items/cold-weather-banner.webp#banner 
-[Magic Item]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/personal-items/magic-item-banner.webp#banner
+# A⁠dventuring Gear
 
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
-
-### A⁠dventuring Gear
-
-##### Common Items
+### Common Items
 |Item|Cost|Weight|
 |:---|---:|:---:|
 |[Abacus](https://roll20.net/compendium/dnd5e/Abacus#h-Abacus)|2 gp|2 lb.|
@@ -225,9 +198,9 @@ A cleric or paladin may create holy water by performing a spec⁠ial ritual. The
 
 **Torch.** A torch burns for 1 hour, providing bright lig⁠ht in a 20-foot radius and dim lig⁠ht for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-<br>
+***
 
-![][Packs]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/packs-banner.webp)
 
 ### Equipment Packs
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
@@ -267,9 +240,9 @@ The starting equipment you get from your class includes a collection of useful a
 
 *You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
-<br>
+***
 
-![][Cold Weather]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/cold-weather-banner.webp)
 
 ### Winter Survival Gear 
 The Winter Survival Gear table provides costs for cold weather clothing, crampons, and snowshoes, which can be added to the list of things that characters can buy in Ten-Towns.
@@ -287,9 +260,10 @@ The Winter Survival Gear table provides costs for cold weather clothing, crampon
 
 **Snowshoes (2gp).** Snowshoes reduce the likelihood of their wearer getting stuck in the deep snow.
 
-<br>
+***
 
-![][Magic Item]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/magic-item-banner.webp)
+
 ### Magic Items
 It is cheaper to craft an item, however a character may lack the resources, time, or skill to do so. At magic shops, in certain towns, magic items can be purchased for a price. If available the items base prices are listed below.
 
@@ -333,7 +307,3 @@ It is cheaper to craft an item, however a character may lack the resources, time
 | 8th             | 100,000 gp  |
 | 9th             | 500,000 gp |
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

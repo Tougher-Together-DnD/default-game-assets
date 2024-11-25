@@ -1,31 +1,7 @@
-﻿<!-- Mounts and Vehicles -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- mounts-vehicles -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/mounts-vehicles "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/mounts-vehicles/mounts-vehicles-banner.webp#banner "topic main banner"
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/mounts-vehicles/mounts-vehicles-banner.webp)
 
 # Mounts and Vehicles
 A good mount can help you move more quickly through the [Wilderness](https://app.roll20.net/compendium/dnd5e/Wilderness#h-Wilderness), but its primary [Purpose](https://app.roll20.net/compendium/dnd5e/Settlements#h-Purpose) is to carry the gear that would otherwise slow you down. The [Mounts](https://app.roll20.net/compendium/dnd5e/Mounts%20and%20Services#h-Mounts) and [Other Animals](https://app.roll20.net/compendium/dnd5e/Appendix%20A%20-%20Miscellaneous%20Creatures%20%28Monster%20Manual%29#h-Other%20Animals) table shows each animal’s speed and base carrying [Capacity](https://app.roll20.net/compendium/dnd5e/Sample%20Ships#h-Capacity).
@@ -84,7 +60,7 @@ Mounts other than those listed here are available in the worlds of D&D, but they
 | [Sailing Ship](https://app.roll20.net/compendium/dnd5e/Sailing%20Ship#h-Sailing%20Ship) | 10,000 gp | 2 mph |
 | [Warship](https://app.roll20.net/compendium/dnd5e/Sailing%20Ship%20and%20Warship#h-Warship) | 25,000 gp | 2 1/2 mph |
 
-<br>
+***
 
 ## Owning a Ship
 At some point in your campaign, the [Adventurers](https://app.roll20.net/compendium/dnd5e/Tosculi#h-Adventurers) might gain custody of a ship. They might purchase or [Capture](https://app.roll20.net/compendium/dnd5e/The%20Underdark#h-Capture) one or receive one to carry out a mission. It’s up to you whether a ship is available for purchase, and you have the power to deprive the [Adventurers](https://app.roll20.net/compendium/dnd5e/Tosculi#h-Adventurers) of a ship at any time should it become a nuisance (see the “Shipwrecks” sidebar).
@@ -113,8 +89,3 @@ A [Passenger](https://app.roll20.net/compendium/dnd5e/Random%20Ships#h-Passenger
 |[Rowboat](https://app.roll20.net/compendium/dnd5e/Rowboat#h-Rowboat) |50 gp|1 1/2 mph|1|3|—|11|50|—|
 |[Sailing Ship](https://app.roll20.net/compendium/dnd5e/Sailing%20Ship#h-Sailing%20Ship)|10,000 gp|2 mph|20|20|100|15|300|15|
 |[Warship](https://app.roll20.net/compendium/dnd5e/Sailing%20Ship%20and%20Warship#h-Warship) |25,000 gp|2 1/2 mph|60|60|200|15|500|20|
-
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

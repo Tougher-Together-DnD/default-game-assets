@@ -1,38 +1,7 @@
-﻿<!-- Weapons and Explosives -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- weapons-explosives -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/weapons-explosives "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/weapons-explosives/weapons-explosives-banner.webp#banner "topic main banner"
-[Firearms Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/weapons-explosives/firearms-banner.webp#banner "firearms banner"
-[Explosives Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/weapons-explosives/explosives-banner.webp#banner "explosives banner"
-
-<!-- Roll20 Links -->
-[Bullets Renaissance]: https://app.roll20.net/compendium/dnd5e/Items%3ABullets%20(Renaissance)?sharedCompendium=11505718&sharedCompendium=11505718#toc_2
-[Bullets Modern]: https://app.roll20.net/compendium/dnd5e/Items%3ABullets%20(Modern)?sharedCompendium=11505718#toc_2
-[Dynamite Stick]: https://app.roll20.net/compendium/dnd5e/Items%3ADynamite%20\(stick\)?sharedCompendium=9902360#toc_2
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/weapons-explosives-banner.webp)
 
 # Smallarm Weapons
 Smallarm weapons are individual weapons.
@@ -41,10 +10,14 @@ Your class grants proficiency in certain weapons, reflecting both the class’s 
 
 The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
+***
+
 ## Weapon Proficiency
 Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial Weapons because these wea⁠pons put their fighting style and training to best use.
 
 Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an att⁠ack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the at⁠tack roll.
+
+***
 
 ## Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
@@ -118,19 +91,17 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 | [Longbow](https://roll20.net/compendium/dnd5e/Longbow#h-Longbow) | 50 gp | 1d8 piercing | 2 lb. | Ammunition (range 150/600), heavy, two-handed |
 | [Net](https://roll20.net/compendium/dnd5e/Net#h-Net) | 1 gp | — | 3 lb. | Special, thrown (range 5/15) |
 
-<br>
-
-## Improvised Weapons
+### Improvised Weapons
 Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the DM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-## Silvered Weapons
+### Silvered Weapons
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-## Special Weapons
+### Special Weapons
 Weapons with special rules are described here.
 
 **Lance.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
@@ -139,9 +110,27 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-<br>
+***
 
-![][Firearms Banner]
+## Martial Mastery Properties
+
+| Mastery Property | Effect                                                                                     | Applicable Weapons                                                                 |
+|------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Cleave**       | Make an additional attack against a second adjacent target.                                | Greataxe, Halberd                                                                  |
+| **Graze**        | Deal damage equal to your ability modifier on a missed attack.                             | Glaive, Greatsword                                                                 |
+| **Nick**         | Make an additional attack with your off-hand weapon during the Attack action.              | Dagger, Light Hammer, Sickle, Scimitar                                             |
+| **Push**         | Push the target 10 feet away after a successful hit.                                       | Greatclub, Pike, Warhammer, Heavy Crossbow                                         |
+| **Sap**          | Impose disadvantage on the target's next attack roll after a hit.                          | Mace, Spear, Flail, Longsword, Morningstar, War Pick                               |
+| **Slow**         | Reduce the target's speed by 10 feet until the start of your next turn.                    | Club, Javelin, Light Crossbow, Sling, Whip, Longbow, Musket                        |
+| **Topple**       | Force the target to make a Constitution saving throw or fall prone after a hit.            | Quarterstaff, Battleaxe, Lance, Maul, Trident                                      |
+| **Vex**          | Gain advantage on your next attack roll against the same target after a hit.               | Handaxe, Dart, Shortbow, Rapier, Shortsword, Blowgun, Hand Crossbow, Pistol        |
+
+*Note: Characters can draw or stow one weapon each time they attack as part of the Attack action, allowing for strategic weapon switching during combat.*  
+
+***
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/firearms-banner.webp)
+
 ## Firearms
 If you want to model the swashbuckling style of *The Three Musketeers* and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
 
@@ -185,9 +174,10 @@ Firearms use special ammunition, and some of them have the burst fire or reload 
 | ***Ammunition*** | |
 |[Energy cell](https://app.roll20.net/compendium/dnd5e/Items%3AEnergy%20cell?sharedCompendium=11497404#toc_2) | - | - | 5 oz. | - |
 
-<br>
+***
 
-![][Explosives Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/explosives-banner.webp)
+
 ## Explosives
 A campaign might include explosives from the Renaissance or the modern world (the latter are priceless), as presented in the Explosives table.
 
@@ -228,7 +218,3 @@ One round after a smoke grenade lands, it emits a cloud of smoke that creates 
 | [Grenade, smoke](https://app.roll20.net/compendium/dnd5e/Items%3AGrenade%2C%20smoke?sharedCompendium=9902360#toc_2) | 25 gp | 2 lb. |
 | [Grenade launcher](https://app.roll20.net/compendium/dnd5e/Items%3AGrenade%20Launcher?sharedCompendium=9902360#toc_2) | 200 gp | 7 lb. |
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

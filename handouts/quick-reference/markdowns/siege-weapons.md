@@ -1,31 +1,7 @@
-﻿<!-- Siege Weapons -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- siege-weapons -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/siege-weapons "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/siege-weapons/siege-weapons-banner.webp#banner "topic main banner"
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/siege-weapons/siege-weapons-banner.webp)
 
 # Siege Weapons
 Siege Weapons are large weapons that require a crew to operate. They are either implaced, meaning restrained to one spot in a castle or aboard a ship, or they are mobile atop wheels or a large beast of burden.
@@ -53,7 +29,3 @@ Siege Weapons are large weapons that require a crew to operate. They are either 
 
 *Siege Property: Indicates the weapon deals double damage against buildings.
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

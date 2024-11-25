@@ -1,39 +1,14 @@
-﻿<!-- Superior Ship Upgrades -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- superior-ship-upgrades -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/superior-ship-upgrades "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/superior-ship-upgrades/superior-ship-upgrades-banner.webp#banner "topic main banner"
-[Weapons Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/superior-ship-upgrades/weapons-banner.webp#banner
-[Movement Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/superior-ship-upgrades/movement-banner.webp#banner
-[Figurehead Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/superior-ship-upgrades/figurehead-banner.webp#banner
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/superior-ship-upgrades-banner.webp)
 
 # Superior Ship Upgrades
 Some vessels possess extraordinary abilities, whether due to magic or superior artisanship. The upgrades below can replace a ship’s existing components or provide a new element to augment a ship’s abilities.
 
 Adding an upgrade costs 15,000 gp and requires 1d4 weeks of work. During that time, the ship must remain in port. If the ship leaves, the work must start over, but you don’t need to pay the gold piece cost a second time.
+
+***
 
 ## Hull Upgrades
 Any ship with a hull can gain one of the following upgrades. In some cases, an upgrade also provides a benefit to the ship’s other components.
@@ -58,9 +33,10 @@ A master shipwright can use superior materials and clever design to make a ship�
 ### Vigilant Watch
 A row of crystal orbs, each filled with viscous liquid and a beholder’s eyeball, is mounted along this ship’s hull. Invisible creatures are visible while on the ship or within 120 feet of it.
 
-<br>
+****
 
-![][Movement Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/movement-banner.webp)
+
 ## Movement Upgrades
 Each movement upgrade applies to a specific movement type. A component can gain the benefits of one upgrade.
 
@@ -96,9 +72,10 @@ Woven from the energy of captured wraiths and bound with the spirit of a banshee
 ### Scything Oars
 Sharpened, magically reinforced oars make a vessel dangerous to approach. When the ship takes an action that moves it with these oars, any creature or object in the water within 10 feet of it at any point of the move must make a DC 10 Dexterity saving throw, taking 2d6 slashing damage on a failed save or half as much damage on a successful one.
 
-<br>
+***
 
-![][Weapons Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/weapons-banner.webp)
+
 ## Weapon Upgrades
 The following upgrades can apply to any weapon mounted aboard a ship. A component can gain the benefits of one upgrade, or two upgrades if one of the upgrades is Arcane Artillery.
 
@@ -114,9 +91,10 @@ Drawing on powerful evocation magic, this weapon’s attacks are imbued with uns
 ### Grasping Rounds
 This weapon creates spectral chains that trail after its shots, restraining enemy vessels in their grasp. When this weapon hits a ship, that vehicle must succeed on a DC 14 Strength saving throw or it can’t move away from the attacker. As an action, the attacking ship can end this effect, and the target can end it by taking an action and succeeding on a DC 14 Strength check.
 
-<br>
+***
 
-![][Figurehead Banner]
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/figurehead-banner.webp)
+
 ## Figurehead Upgrades
 While figureheads are usually purely decorative, they might be magically treated to produce extraordinary effects. A ship can receive one figurehead upgrade.
 
@@ -129,7 +107,7 @@ This figurehead depicts a red dragon rearing to strike, its mouth open. As an ac
 ### Storm Giant Figurehead
 This figurehead depicts a storm giant clutching a thunderbolt. As an action, the ship can activate this item to create a 60-foot cone that originates from the figurehead. Each creature in the cone must make DC 12 Constitution saving throw, taking 14 (4d6) thunder damage on a failed save, or half as much damage on a successful one. A creature that fails its saving throw is also pushed 10 feet away from the figurehead. Once a ship uses this action, it can’t use it again for 1 minute.
 
-<br>
+***
 
 ## *Miscellaneous Upgrades*
 The following upgrades don’t apply to a specific element of the ship. A ship can use any number of them, but it can gain a specific upgrade only once.
@@ -144,8 +122,3 @@ The banner’s true power is its ability to aid a ship in making rapid escapes. 
 
 ### Taskmaster’s Drums
 This 4-foot-tall bronze drum comes with a pair of iron mallets. A creature can activate the drums as an action, causing the hammers to float above the drum and strike it to produce a thundering rhythm. For the next minute, the ship gains one additional action, as long as it has at least one action. Once this item is used, it can’t be activated again for 2d10 hours.
-
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

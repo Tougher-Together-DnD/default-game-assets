@@ -1,31 +1,7 @@
-﻿<!-- Recurring Expenses -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- recurring-expenses -->
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/recurring-expenses "Tougher Together Files"
-
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/recurring-expenses/recurring-expenses-banner.webp#banner "topic main banner"
-
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/recurring-expenses/recurring-expenses-banner.webp)
 
 # Recurring Expenses
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
@@ -57,7 +33,7 @@ The Maintenance Costs table shows the per-day upkeep cost for any such property.
 |    Tower, fortified     |       25 gp        |        10         |          —          |
 |      Trading post       |       10 gp        |         4         |          2          |
 
-<br>
+***
 
 ## Businesses
 An adventurer-owned business can earn enough money to cover its own maintenance costs. However, the owner needs to periodically ensure that everything is running smoothly by tending to the business between adventures. ~~See the information on running a business in the “Downtime Activities” section of this chapter.~~
@@ -79,7 +55,7 @@ If a character is required to pay a cost as a result of rolling on this table bu
 | 81-90 | The business covers its own maintenance cost for each day. It earns a profit of 2d8 x 5 gp. |
 | 91 or higher | The business covers its own maintenance cost for each day. It earns a profit of 3d10 x 5 gp. |
 
-<br>
+***
 
 ## Example Businesses
 
@@ -113,12 +89,7 @@ If a character is required to pay a cost as a result of rolling on this table bu
 
 **Monthly cost:** 150gp-300gp
 
-<br>
+***
 
 ## Garrisons
 Castles and keeps employ soldiers (use the veteran and guard statistics in the *Monster Manual*) to defend them. Roadside inns, outposts and forts, palaces, and temples rely on less-experienced defenders (use the guard statistics in the *Monster Manual*). These armed warriors make up the bulk of a property’s skilled hirelings.
-
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]

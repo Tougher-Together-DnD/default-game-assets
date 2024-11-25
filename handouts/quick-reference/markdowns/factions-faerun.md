@@ -1,36 +1,9 @@
-<!-- Factions of Faerun -->
-<!-- default-game-assets -->
-<!-- handouts -->
-<!-- factions-faerun -->
 
-<!-- Reference URLS -->
-[Repo Files]: https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/factions-faerun "Tougher Together Files"
+[md]
+[css](-OCVFMyYfsylqoZPiW6l)
 
-<!-- Images -->
-[Main Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/factions-faerun-banner.webp#banner "topic main banner"
-[Harpers Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/harpers-banner.webp#banner
-[Emerald Enclave Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/emerald-enclave-banner.webp#banner
-[Order of Gauntlet Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/order-of-gauntlet-banner.webp#banner
-[Lords Alliance Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/lords-alliance-banner.webp#banner
-[Zhentarim Banner]: https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/main/handouts/images/factions-faerun/zhentarim-banner.webp#banner
 
-<style>
-/* CSS style for NaturalCrit Homebrew render. */
-.phb#p1{ text-align:left; }
-.phb#p1:after{ display:none; }
-.phb p+p { margin-top:.2em; }
-.phb blockquote { margin-top:1em; margin-bottom:2em; }
-.phb h1, .phb h2, .phb h3, .phb h4, sup, span { color:#006699; }
-span { font-weight:bold; }
-ul li { line-height:2; }
-.phb table tbody tr td { border:1px solid #1C6EA4; text-align:left; }
-th:empty { display:none; }
-
-/* css for markdown */
-img[src*="#banner"] { display:block; margin-left:auto; margin-right:auto; width:750px; }
-</style>
-
-![][Main Banner]
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/factions-faerun-banner.webp)
 
 # A Guide to the Factions of Faerûn
 In the Forgotten Realms, five factions have risen to prominence. Seeking to further their respective agendas while opposing destructive forces that threaten the folk of Faerûn, each faction has its own motivations, goals, and philosophy. While some are more heroic than others, all band together in times of trouble to thwart major threats.
@@ -73,8 +46,6 @@ This is the rank a character receives when first joining a faction. It is availa
 | Lords’ Alliance | Signet right (symbol palm side) |
 | Zhentarim | Gold coin (stamped symbol) |
 
-<br>
-
 ### Rank 2: Agent
 Agents have shown that they’re aligned with the faction’s goals, and can take on more responsibility. Secret Missions. During certain adventures, you may be given the opportunity to undergo a secret mission on behalf of your faction. Completion of these missions might earn you additional benefits or enable you to advance to higher ranks within your faction.
 
@@ -91,7 +62,6 @@ Agents have shown that they’re aligned with the faction’s goals, and can tak
 | Lords’ Alliance | Jewelers tools, Mason’s tools, Navigator’s tools, Painters supplies, Gaming Set, Any Standard Language |
 | Zhentarim | Disguise Kit, Forgery kit, Poisoner's Kit, Thieves' Tools |
 
-<br>
 
 ### Rank 3: Stalwart
 Stalwarts are reliable faction members, entrusted with many secrets and deserving of additional support during adventures.
@@ -118,7 +88,6 @@ The item received in exchange for this increases your magic item count and is no
 | Lords Alliance | Ring of Mind Shielding (A) | Cape of the Mountebank |
 | Zhentarim | Slippers of Spider Climbing (A) | Ring of Evasion (A) |
 
-<br>
 
 ### Rank 4: Mentor
 Mentors are trusted voices within their given faction. They are looked upon as champions of the faction’s beliefs, and as mentors by those of lower rank.
@@ -159,17 +128,18 @@ If they do, they gain the following benefits:
 
 *Mentor’s Pride.* As your apprentice grows in power their deeds reflect on you. Each time your apprentice gains a level that would put them into a higher tier (levels 5, 11, or 17), you gain 1 renown.
 
-<br>
 
 ### Rank 5: Exemplar
 Exemplars are deeply ensconced within the leadership of their faction and have a great degree of influence, guiding faction decisions. Become a Faction Exemplar. When you play this character along with other members of your faction, you can choose one lower ranked member of your faction (Agent, at a minimum) to begin the game with Inspiration. This must be used by the end of the game session, or it is lost.
 
-<br>
-
 ## Adventure League Factions
 
+***
+
 ### Harpers
-![][Harpers Banner]
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/harpers-banner.webp)
+
 The *Harpers* is a scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power. The organization is benevolent, knowledgeable, and secretive. Bards and wizards of good alignments are commonly drawn to the Harpers.
 
 Harper agents are trained to act alone and rely on their own resources. When they get into scrapes, they don’t count on their fellow Harpers to rescue them. Nevertheless, Harpers are dedicated to helping one another in times of need, and friendships between Harpers are nigh unbreakable. Masterful spies and infiltrators, they use various guises and secret identities to form relationships, cultivate their information networks, and manipulate others into doing what needs to be done. Although most Harpers prefer to operate in the shadows, there are exceptions.
@@ -192,10 +162,11 @@ Harper agents are trained to act alone and rely on their own resources. When the
 - **Wise Owl** (rank 4)
 - **High Harper** (rank 5)
 
-<br>
+***
 
 ### Order of the Gauntlet
-![][Order of Gauntlet Banner]
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/order-of-gauntlet-banner.webp)
 
 The *Order of the Gauntlet* is composed of faithful and vigilant seekers of justice who protect others from the depredations of evildoers. The organization is honorable, vigilant, and zealous. Clerics, monks, and paladins of good (and often lawful good) alignments are commonly drawn to the Order of the Gauntlet.
 
@@ -219,10 +190,11 @@ The Order of the Gauntlet is a dedicated, tightly knit group of like-minded indi
 - **Vindicator** (rank 4)
 - **Righteous Hand** (rank 5)
 
-<br>
+***
 
 ### Emerald Enclave
-![][Emerald Enclave Banner]
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/emerald-enclave-banner.webp)
 
 The *Emerald Enclave** is a widespread group of wilderness survivalists who preserve the natural order while rooting out unnatural threats. The organization is decentralized, hardy, and reclusive. Barbarians, druids, and rangers of good or neutral alignments are commonly drawn to the Emerald Enclave.
 
@@ -246,10 +218,11 @@ Members of the Emerald Enclave are spread far and wide, and usually operate in i
 - **Winterstalker** (rank 4)
 - **Master of the Wild** (rank 5)
 
-<br>
+***
 
 ### Lords’ Alliance
-![][Lords Alliance Banner]
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/lords-alliance-banner.webp)
 
 The *Lords’ Alliance* is a loose coalition of established political powers concerned with mutual security and prosperity. The organization is aggressive, militant, and political. Fighters and sorcerers of lawful or neutral alignments are commonly drawn to the Lords’ Alliance.
 
@@ -273,10 +246,11 @@ To seek out and destroy threats to their homelands, agents of the Lords’ Allia
 - **Warduke** (rank 4)
 - **Lioncrown** (rank 5)
 
-<br>
+***
 
 ### Zhentarim
-![][Zhentarim Banner]
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/zhentarim-banner.webp)
 
 The *Zhentarim* is an unscrupulous shadow network that seeks to expand its influence and power throughout Faerûn. The organization is ambitious, opportunistic, and meritocratic. Rogues and warlocks of neutral and/or evil alignments are commonly drawn to the Zhentarim.
 
@@ -300,7 +274,3 @@ A member of the Zhentarim thinks of himself or herself as a member of a large fa
 - **Ardragon** (rank 4)
 - **Dread Lord** (rank 5)
 
-<br>
-
-## Footnotes
-1. [Source Files][Repo Files]
