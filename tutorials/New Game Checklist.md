@@ -28,5 +28,15 @@ Here’s the reversed order of your list:
 5. Important Links**
 
 
-## Game Settings
+## Add and configure API Scripts
+
+### Style Markdown Handouts
+
+All the markdown documents 
+
+### Token Mod
+
+
+
+### 
 
