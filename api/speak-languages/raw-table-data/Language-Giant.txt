@@ -1,0 +1,10 @@
+!import-table --Language-Giant --show
+!import-table-item --Language-Giant --fee --1 --
+!import-table-item --Language-Giant --feye --1 --
+!import-table-item --Language-Giant --fo --1 --
+!import-table-item --Language-Giant --yesgril --1 --
+!import-table-item --Language-Giant --endoruk --1 --
+!import-table-item --Language-Giant --jal --1 --
+!import-table-item --Language-Giant --lo --1 --
+!import-table-item --Language-Giant --aser --1 --
+!import-table-item --Language-Giant --kan --1 --

@@ -27,3 +27,5 @@ What Type of NPC:
 What Type of NPC:
 |Minions,&#47;gmroll 4 &amp;&#123;tracker&#125;|Boos, no
 }
+
+!cmaster --show,view,value=?{View|Favorites,favorites|Conditions,conditions|Spells,spells|All,all} --main

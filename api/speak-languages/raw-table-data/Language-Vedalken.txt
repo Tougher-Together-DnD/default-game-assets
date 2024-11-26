@@ -1,0 +1,10 @@
+!import-table --Language-Vedalken --show
+!import-table-item --Language-Vedalken --beste --1 --
+!import-table-item --Language-Vedalken --konntest --1 --
+!import-table-item --Language-Vedalken --letzir --1 --
+!import-table-item --Language-Vedalken --spielte --1 --
+!import-table-item --Language-Vedalken --schwanza --1 --
+!import-table-item --Language-Vedalken --gleichen --1 --
+!import-table-item --Language-Vedalken --fur --1 --
+!import-table-item --Language-Vedalken --jedemahtey --1 --
+!import-table-item --Language-Vedalken --mochtestihr --1 --

@@ -1,0 +1,10 @@
+!import-table --Language-Kraul --show
+!import-table-item --Language-Kraul --zzz --1 --
+!import-table-item --Language-Kraul --vree --1 --
+!import-table-item --Language-Kraul --chitchitchit --1 --
+!import-table-item --Language-Kraul --klick --1 --
+!import-table-item --Language-Kraul --kliz --1 --
+!import-table-item --Language-Kraul --eeyeer --1 --
+!import-table-item --Language-Kraul --clik --1 --
+!import-table-item --Language-Kraul --tut tut tut --1 --
+!import-table-item --Language-Kraul --buzzz --1 --

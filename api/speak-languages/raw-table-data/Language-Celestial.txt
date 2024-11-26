@@ -1,0 +1,11 @@
+!import-table --Language-Celestial --show
+!import-table-item --Language-Celestial --ohh ahh --1 --
+!import-table-item --Language-Celestial --leerin --1 --
+!import-table-item --Language-Celestial --teyfaal --1 --
+!import-table-item --Language-Celestial --meailnine --1 --
+!import-table-item --Language-Celestial --rueen --1 --
+!import-table-item --Language-Celestial --sofala --1 --
+!import-table-item --Language-Celestial --shalay --1 --
+!import-table-item --Language-Celestial --noon --1 --
+!import-table-item --Language-Celestial --feelu --1 --
+!import-table-item --Language-Celestial --cayne --1 --

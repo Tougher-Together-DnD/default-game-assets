@@ -1,0 +1,10 @@
+!import-table --Language-Sylvan --show
+!import-table-item --Language-Sylvan --ayre --1 --
+!import-table-item --Language-Sylvan --atamayre --1 --
+!import-table-item --Language-Sylvan --ent --1 --
+!import-table-item --Language-Sylvan --hithayre --1 --
+!import-table-item --Language-Sylvan --esk --1 --
+!import-table-item --Language-Sylvan --enyoreen --1 --
+!import-table-item --Language-Sylvan --envorya --1 --
+!import-table-item --Language-Sylvan --schualthey --1 --
+!import-table-item --Language-Sylvan --lani --1 --

@@ -1,0 +1,10 @@
+!import-table --Language-Goblin --show
+!import-table-item --Language-Goblin --hok-tok-nok --1 --
+!import-table-item --Language-Goblin --bahgawg --1 --
+!import-table-item --Language-Goblin --heekin --1 --
+!import-table-item --Language-Goblin --yelaw --1 --
+!import-table-item --Language-Goblin --yohoop --1 --
+!import-table-item --Language-Goblin --bugarr --1 --
+!import-table-item --Language-Goblin --itchin --1 --
+!import-table-item --Language-Goblin --neep --1 --
+!import-table-item --Language-Goblin --nachk --1 --

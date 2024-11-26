@@ -1,0 +1,52 @@
+{
+    "name": "Language-Halfling",
+    "showplayers": true,
+    "id": "-MT1gFROfQF-2bY_1B_2",
+    "items": {
+        "-MT1gFRRCgB4D4Pk5Nfi": {
+            "id": "-MT1gFRRCgB4D4Pk5Nfi",
+            "name": "regardez",
+            "weight": "1"
+        },
+        "-MT1gFRTMTGvywL8TBJK": {
+            "id": "-MT1gFRTMTGvywL8TBJK",
+            "name": "filmeyous",
+            "weight": "1"
+        },
+        "-MT1gFRWrBiFZNcQxt44": {
+            "id": "-MT1gFRWrBiFZNcQxt44",
+            "name": "connise",
+            "weight": "1"
+        },
+        "-MT1gFRZOv0OV6il9c7G": {
+            "id": "-MT1gFRZOv0OV6il9c7G",
+            "name": "newar",
+            "weight": "1"
+        },
+        "-MT1gFRbtxWdzhYjjlbJ": {
+            "id": "-MT1gFRbtxWdzhYjjlbJ",
+            "name": "reynion",
+            "weight": "1"
+        },
+        "-MT1gFReLX_a5JaRz1cx": {
+            "id": "-MT1gFReLX_a5JaRz1cx",
+            "name": "ia",
+            "weight": "1"
+        },
+        "-MT1gFRgLAeVAkigK8aj": {
+            "id": "-MT1gFRgLAeVAkigK8aj",
+            "name": "inutile",
+            "weight": "1"
+        },
+        "-MT1gFRjhZEQfv3ytloG": {
+            "id": "-MT1gFRjhZEQfv3ytloG",
+            "name": "entendez",
+            "weight": "1"
+        },
+        "-MT1gFRkXCaW-uDQO8V-": {
+            "id": "-MT1gFRkXCaW-uDQO8V-",
+            "name": "quel",
+            "weight": "1"
+        }
+    }
+}
