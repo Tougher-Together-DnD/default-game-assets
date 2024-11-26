@@ -13,14 +13,18 @@ We use the following house rules to keep gameplay flowing smoothly, while giving
 
 After every **combat** and **rest** players will **roll for initiative** to establish their **"around the table" turn order**. This turn order stays in place during combat encounters, keeping gameplay fast and strategic. NPCs and monsters follow preset initiatives based on their role in the encounter:
 
-- **Boss NPCs**: Act at initiative 20 to emphasize their dominance.  
-- **Home Field Advantage**: Creatures in lairs or favored environments act at 15.  
-- **Mini-Bosses/Shot Callers**: Act at initiative 11, commanding their minions.  
-- **Party Sidekicks**: Act at initiative 2, supporting the heroes.  
-- **Minions**: Act at initiative 1.  
-- **Jump Start Reaction**: Players can use their **reaction** to act first in the round. If multiple players choose this, their original initiative decides who goes first.  
-- **Pass Turn**: If unsure, you may pass your turn and act before the next NPC.  
-- **Surprise Round**: Ambushers act first without using their reaction. Surprised creatures lose their reaction for the round.
+Here's the updated chart with descriptions that redundantly emphasize the initiative order:
+
+| Initiative | Title                   | Reason/Description                                                                                     |
+|------------|-------------------------|--------------------------------------------------------------------------------------------------------|
+| 21         | Boss NPCs               | Boss NPCs act at initiative 21 to emphasize their dominance by taking the earliest turn possible.      |
+| 16         | Home Field Advantage    | Creatures in lairs or favored environments act at initiative 16, leveraging their advantage in battle. |
+| 10         | Mini-Bosses/Shot Callers| Mini-bosses or shot callers act at initiative 10, commanding their minions during the turn sequence.   |
+| 5          | Party Sidekicks         | Party sidekicks act at initiative 5, assisting the heroes as late-round supporters.                    |
+| 4          | Minions                 | Minions act at initiative 4, taking their turn last to reflect their lower combat importance.          |
+| Varies     | Jump Start Reaction     | Players can use their reaction to act first in the round, overriding the standard initiative order.    |
+| Varies     | Pass Turn               | If unsure, you may pass your turn and act before the next NPC, maintaining flexibility in the round.   |
+| Special    | Surprise Round          | Ambushers act first in the surprise round, without using their reaction, while surprised creatures lose their reaction for the round. |
 
 This system keeps combat structured, adds tactical depth, and allows for dynamic responses.
 

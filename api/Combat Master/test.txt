@@ -1,0 +1,29 @@
+@{selected|wtype}&{template:simple} {{rname=^{init-u}}} {{mod=@{selected|initiative_bonus}}} {{r1=[[@{selected|initiative_style}+@{selected|initiative_bonus}@{selected|pbd_safe}[INIT] &{tracker}]]}} {{normal=1}} @{selected|charname_output}
+
+?{
+What Type of NPC:
+|Minions,
+&#47;gmroll 4 &amp;&#123;tracker&#125;
+|Party Sidekicks,
+&#47;gmroll 5 &amp;&#123;tracker&#125;
+|Mini-Bosses,
+&#47;gmroll 10 &amp;&#123;tracker&#125;
+|Lair-Boss,
+&#47;gmroll 16 &amp;&#123;tracker&#125;
+|Boss NPC,
+&#47;gmroll 21 &amp;&#123;tracker&#125;
+}
+
+?{What Type of NPC:
+|Minions,&#47;gmroll 4 &amp;{tracker}
+|Party Sidekicks,&#47;gmroll 5 &amp;&#123;tracker&#125;
+|Mini-Bosses,&#47;gmroll 10 &amp;{tracker}
+|Lair-Boss,&#47;gmroll 6 &amp;{tracker}
+|Boss NPC,&#47;gmroll 21 &amp;{tracker}
+}
+
+
+?{
+What Type of NPC:
+|Minions,&#47;gmroll 4 &amp;&#123;tracker&#125;|Boos, no
+}

@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "!aura",
+                "istokenaction": false,
+                "name": "Open-Aura-Health-Menu",
+                "visibleto": ""
+            }
+        }
+    ]
+}

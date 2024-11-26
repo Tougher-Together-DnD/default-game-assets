@@ -57,8 +57,9 @@ For Games using Elevation:
 
 *Save changes and return to Settings for the Game Default Settings*
 * Game Default Settings
-  * (Optional) Change Grid Color to 'Yellow'
-  * (Optional) Adjust the Opacity to *Half of default*\
+  * Choose Measurement = Pathfinder (This works to find more accurate distances with 3D Range)
+  * (Optional) Change Grid Color to 'Grey' (third grey over)
+  * (Optional) Adjust the Opacity to *Half of default*
   * Enable `dynamic lighting barriers restrict movement`
   * Set Bar 2 Values to 0/0 (this will bar is used for Elevation)
   * Check `See` for Bars 1,2,3
@@ -149,6 +150,14 @@ This script is used to remove bars and show players auras to determine health.
 When in Game set the settings to ![Aura Health Colors Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/aura-health-colors-settings.png)
 
 Use the custom script so that temp hp is used when damage is taken.
+
+***
+
+### Combat Master
+
+This makes running combat easier. Use the `libTokenMarkers` Script to add custom markers to Combat Tracker.
+
+
 
 ## Use VTTES
 
