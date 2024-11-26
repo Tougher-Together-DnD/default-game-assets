@@ -27,6 +27,44 @@ Here’s the reversed order of your list:
 4. House Rules and Modifications (In LFG As well)  
 5. Important Links (closed)
 
+## Add a Game Looking for Group Banner
+
+Use the Krita template to design an eye catching banner.
+
+## Adjust Game Settings
+
+* Check `Allow public access to this game?`
+* (Optional) Pick `Game background image`
+* UnCheck `Allow players to create their own Characters?` (We will be using the Welcome API to auto create sheets for players)
+* Check `Allow players to transfer Characters?` (So players can use characters from the Creation Server and their Vault; If there is a need to delete archive toon)
+* Skip `Game Default Settings`
+* Choose `ROLL QUERIES` = Always Roll Advantage
+* Choose `WHISPER ROLLS TO GM` = Never Whisper Rolls
+* Choose `AUTO DAMAGE ROLL` - Auto Roll Damage and Crits
+* Check:
+  * ADD DEX TIEBREAKER TO INITIATIVE
+  * SHOW GLOBAL SAVE MODIFIER FIELD
+  * SHOW GLOBAL SKILL MODIFIER FIELD
+  * SHOW GLOBAL ATTACK MODIFIER FIELD
+  * SHOW GLOBAL DAMAGE MODIFIER FIELD
+* Choose `ADD CHARACTER NAME TO TEMPLATES` = On
+* Choose `AMMO TRACKING` = On (Will be using the Companion API script)
+* Set `BAR 3 LINK` = hp_temp
+
+For Games using Elevation:
+* Set `BAR 2 VALUE` = 0
+* Set `BAR 2 MAX` = 0
+
+*Save changes and return to Settings for the Game Default Settings*
+* Game Default Settings
+  * (Optional) Change Grid Color to 'Yellow'
+  * (Optional) Adjust the Opacity to *Half of default*\
+  * Enable `dynamic lighting barriers restrict movement`
+  * Set Bar 2 Values to 0/0 (this will bar is used for Elevation)
+  * Check `See` for Bars 1,2,3
+  * Choose Bar 2 Text Overlay 'Visible to Everyone'
+* Save Defaults
+
 ## Enable and Configure API Scripts
 
 ***
