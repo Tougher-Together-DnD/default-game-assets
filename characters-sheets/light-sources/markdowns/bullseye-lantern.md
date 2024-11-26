@@ -1,7 +1,7 @@
 [md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/custom-crafting/blueprint-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/bullseye-lantern.webp)
 
 ## Bullseye Lantern
 *Type: Adventuring Gear Cost: 10 gp Weight: 2 lbs*
