@@ -108,11 +108,11 @@ Be sure to check `Players can use --ids`
 
 This script is used to remove bars and show players auras to determine health.
 
-When in Game set the settings to ![Aura Health Colors Settings]()
+When in Game set the settings to ![Aura Health Colors Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/aura-health-colors-settings.png)
 
 Use the custom script so that temp hp is used when damage is taken.
 
 ## Use VTTES
 
-[VTTES Recommended Settings]()
+[VTTES Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
 
