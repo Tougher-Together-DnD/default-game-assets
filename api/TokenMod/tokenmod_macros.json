@@ -1,0 +1,85 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "!token-mod --set scale|*.5",
+                "istokenaction": true,
+                "name": "Resize-Half",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set scale|*2",
+                "istokenaction": true,
+                "name": "Resize-Double",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1}g height|?{What height|1}g",
+                "istokenaction": false,
+                "name": "Resize-Grid-Squares",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1}s height|?{What height|1}s",
+                "istokenaction": false,
+                "name": "Resize-Units",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "?{\nCommit to Layer:\n|Token,\n!token-mod --set layer#objects\n|GM,\n!token-mod --set layer#gmlayer\n|Map,\n!token-mod --set layer#map\n|Lighting,\n!token-mod --set layer#walls\n}",
+                "istokenaction": false,
+                "name": "Commit-to-Layer",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1} height|?{What height|1}",
+                "istokenaction": false,
+                "name": "Resize-Pixels",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "?{\nChoose Vision and Light Options:\n|Clear Token Settings,\n!token-mod --set has_bright_light_vision#off light_sensitivity_multiplier#100.0 has_night_vision#off night_vision_distance#0ft night_vision_effect#none night_vision_tint#transparent emits_bright_light#off bright_light_distance#0ft emits_low_light#off low_light_distance#0ft lightColor#transparent has_directional_bright_light#off directional_bright_light_total#0 directional_bright_light_center#0 statusmarkers#-401-Action-Debuff::5818063 defaulttoken\n|Normal Vision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#15ft night_vision_effect#dimming#5ft night_vision_tint##674ea7 defaulttoken\n|Blinded Condition,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#1.0 has_night_vision#off defaulttoken\n|Darkvision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#60 night_vision_effect#dimming#30ft night_vision_tint##674ea7 defaulttoken\n|Superior Darkvision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#120 night_vision_effect#dimming#60ft night_vision_tint##674ea7 defaulttoken\n|Snuff Emitting Light,\n!token-mod --set emits_bright_light#off emits_low_light#off lightColor#transparent defaulttoken \n !token-mod --set statusmarkers#-401-Action-Debuff::5818063\n|Hold Candle,\n!token-mod --set emits_bright_light#on bright_light_distance#5ft emits_low_light#on low_light_distance#10ft lightColor#transparent defaulttoken \n !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Torch,\n!token-mod --set emits_bright_light#on bright_light_distance#20ft emits_low_light#on low_light_distance#20ft lightColor#transparent defaulttoken \n !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Lantern (Hood Off),\n!token-mod --set emits_bright_light#on bright_light_distance#30ft emits_low_light#on low_light_distance#30ft lightColor#transparent defaulttoken \n !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Lantern (Hood On),\n!token-mod --set emits_bright_light#on bright_light_distance#0ft emits_low_light#on low_light_distance#5ft lightColor#transparent defaulttoken \n !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Bullseye Lantern,\n!token-mod --set emits_bright_light#on bright_light_distance#60ft emits_low_light#on low_light_distance#60ft lightColor#transparent has_directional_bright_light#on directional_bright_light_total#30 directional_bright_light_center#90 defaulttoken \n !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Emit Light Spell,\n!token-mod --set emits_bright_light#on bright_light_distance#20ft emits_low_light#on low_light_distance#20ft lightColor#transparent defaulttoken\n|Emit Darkness Spell,\n!token-mod --set emits_bright_light#on bright_light_distance#15ft emits_low_light#off low_light_distance#0ft lightColor##674ea7 defaulttoken\n|Emit Faerie Fire Spell,\n!token-mod --set emits_low_light#on low_light_distance#10ft lightColor##ff00ff defaulttoken\n}",
+                "istokenaction": true,
+                "name": "Vision-and-Light-Sources",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set defaulttoken",
+                "istokenaction": false,
+                "name": "Make-Default-Token",
+                "visibleto": ""
+            }
+        }
+    ]
+}

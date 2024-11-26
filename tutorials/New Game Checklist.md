@@ -100,11 +100,17 @@ Use the API script to enable the Ammo and Spell tracking for the OGL 5e Sheet.
 
 This script is used in many DM and Player Macros.
 
+Be sure to check `Players can use --ids`
+
 ***
 
 ### Aura/Tint HealthColors
 
 This script is used to remove bars and show players auras to determine health.
+
+When in Game set the settings to ![Aura Health Colors Settings]()
+
+Use the custom script so that temp hp is used when damage is taken.
 
 ## Use VTTES
 

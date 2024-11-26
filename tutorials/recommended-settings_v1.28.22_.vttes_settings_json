@@ -25,7 +25,7 @@
       "muteAudio": false,
       "audioVolume": 0.1,
       "video_history": [],
-      "enabled": true
+      "enabled": false
     },
     "autoOpenInitiativeTracker": {
       "DIALOG_OPEN_DELAY_KEY": 500,
@@ -204,7 +204,7 @@
         255,
         255
       ],
-      "textFontSize": 6,
+      "textFontSize": 8,
       "rotateAlongWithToken": false,
       "drawOnGmLayer": true,
       "drawOnTokenLayer": true,
@@ -245,9 +245,9 @@
     },
     "welcomeScreen": {
       "hasShownDiscordPoll": false,
-      "showWelcomePopup": true,
+      "showWelcomePopup": false,
       "showStartupGuide": false,
-      "showChangelog": true,
+      "showChangelog": false,
       "previousVersion": "1.28.22",
       "has_shown_ui_preview_incompatibility_message": false,
       "enabled": true
