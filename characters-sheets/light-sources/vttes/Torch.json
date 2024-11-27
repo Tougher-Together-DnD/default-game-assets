@@ -2,12 +2,12 @@
     "schema_version": 3,
     "type": "character",
     "character": {
-        "oldId": "-NDpCHRxARrj7Bkpf9Mk",
+        "oldId": "-OCevflLOdqFdj248t42",
         "name": "Torch",
-        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/common-game-assets/main/character-sheets/lighting/images/torch.webp",
-        "bio": "%3Cdiv%20class%3D%22userscript-block%20userscript-wide%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.34cm%20%3B%20padding%3A%200px%20%3B%20width%3A%20672.406px%20%3B%20display%3A%20block%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ch2%20id%3D%22userscript-torch%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%200.75cm%20%3B%20line-height%3A%200.988em%20%3B%20font-family%3A%20%26%2334%3Bmreavesremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%22%3E%3Cbr%20class%3D%22userscript-Apple-interchange-newline%22%3ETorch%3C/h2%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20block%22%3E%3Cem%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20italic%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3EType%3A%20Adventuring%20Gear%20Cost%3A%201%20cp%20Weight%3A%201%20lb%3C/em%3E%3C/p%3E%3Cdiv%20class%3D%22userscript-blank%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20height%3A%201em%22%3E%3C/div%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20block%22%3EA%20torch%20burns%20for%201%20hour%2C%20providing%20bright%20light%20in%20a%2020-foot%20radius%20and%20dim%20light%20for%20an%20additional%2020%20feet.%20If%20you%20make%20a%20melee%20attack%20with%20a%20burning%20torch%20and%20hit%2C%20it%20deals%201%20fire%20damage.%3C/p%3E%3Cdiv%20class%3D%22userscript-blank%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20height%3A%201em%22%3E%3C/div%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-weight%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20block%22%3ENotes%3A%20Damage%2C%20Utility%2C%20Exploration%2C%20Combat%3C/p%3E%3C/div%3E%3Cbr%20style%3D%22margin-top%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20font-size%3A%2012.8504px%20%3B%20font-style%3A%20normal%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Ch5%20id%3D%22userscript-attributes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.423cm%20%3B%20line-height%3A%200.951em%20%3B%20font-family%3A%20%26%2334%3Bscalysanssmallcapsremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EAttributes%3C/h5%3E%3Ctable%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.318cm%20%3B%20line-height%3A%201.2em%20%3B%20font-family%3A%20%26%2334%3Bscalysansremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.2cm%200px%200px%20%3B%20padding%3A%200px%20%3B%20border-collapse%3A%20collapse%20%3B%20border-spacing%3A%200px%20%3B%20width%3A%20319.188px%20%3B%20z-index%3A%2015%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cthead%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20inherit%20%3B%20font-variant%3A%20inherit%20%3B%20font-size%3A%20inherit%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20table-row-group%22%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3C/tr%3E%3C/thead%3E%3Ctbody%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20background-color%3A%20rgb%28%20224%20%2C%20229%20%2C%20193%20%29%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22left%22%3EDamage%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22center%22%3E1%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22left%22%3EDamage%20Type%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22center%22%3Efire%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20background-color%3A%20rgb%28%20224%20%2C%20229%20%2C%20193%20%29%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22left%22%3EDuration%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22center%22%3E1%20hour%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22left%22%3ERange%3C/td%3E%3Ctd%20style%3D%22border%3A%201px%20solid%20rgb%28%2028%20%2C%20110%20%2C%20164%20%29%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200.14em%200.4em%20%3B%20text-align%3A%20left%22%20align%3D%22center%22%3E20/40%3C/td%3E%3C/tr%3E%3C/tbody%3E%3C/table%3E%3Cdiv%20class%3D%22userscript-blank%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20height%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3C/div%3E%3Ch2%20id%3D%22userscript-footnotes%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%200.75cm%20%3B%20line-height%3A%200.988em%20%3B%20font-family%3A%20%26%2334%3Bmreavesremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20color%3A%20rgb%28%200%20%2C%20102%20%2C%20153%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3EFootnotes%3C/h2%3E%3Col%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%200px%200.8em%20%3B%20padding%3A%200px%200px%200px%201.4em%20%3B%20list-style%3A%20outside%20decimal%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//github.com/Tougher-Together-DnD/common-game-assets/tree/main/character-sheets/lighting%22%20title%3D%22Tougher%20Together%20Files%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ESource%20Files%3C/a%3E%3C/li%3E%3Cli%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3E%3Ca%20href%3D%22https%3A//www.dndbeyond.com/equipment/torch%22%20title%3D%22D%26amp%3BD%20Beyond%20item%20page%22%20style%3D%22border%3A%200px%20%3B%20font%3A%20inherit%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%22%3ED%26amp%3BD%20Beyond%20Link%3C/a%3E%3C/li%3E%3C/ol%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20block%20%3B%20text-indent%3A%201em%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%26nbsp%3B%3C/p%3E%3Cdiv%20class%3D%22userscript-columnSplit%22%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%20inherit%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200.325cm%200px%200px%20%3B%20padding%3A%200px%20%3B%20visibility%3A%20hidden%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%3C/div%3E%3Cp%20style%3D%22border%3A%200px%20%3B%20font-style%3A%20normal%20%3B%20font-size%3A%2012.8504px%20%3B%20line-height%3A%201.25em%20%3B%20font-family%3A%20%26%2334%3Bbookinsanityremake%26%2334%3B%20%3B%20vertical-align%3A%20baseline%20%3B%20margin%3A%200px%20%3B%20padding%3A%200px%20%3B%20display%3A%20block%20%3B%20color%3A%20rgb%28%200%20%2C%200%20%2C%200%20%29%20%3B%20letter-spacing%3A%20normal%20%3B%20text-align%3A%20left%20%3B%20text-indent%3A%200px%20%3B%20text-transform%3A%20none%20%3B%20white-space%3A%20normal%20%3B%20word-spacing%3A%200px%22%3E%26nbsp%3B%3C/p%3E",
-        "gmnotes": "%3Cp%3E%3Cbr%3E%3C/p%3E",
-        "defaulttoken": "{\"width\":35,\"height\":35,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/common-game-assets/main/character-sheets/lighting/images/torch.webp\",\"name\":\"Torch\",\"represents\":\"-NDpCHRxARrj7Bkpf9Mk\",\"emits_bright_light\":true,\"bright_light_distance\":20,\"emits_low_light\":true,\"dim_light_opacity\":\"0.75\",\"low_light_distance\":40,\"light_ui\":20}",
+        "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/torch-portrait.png",
+        "bio": "%3C%21--%20API_markdown%20--%3E%3Cdiv%20style%3D%22%20padding%3A%2075px%2030px%3B%20background%3A%20url%28%27https%3A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_1.png%27%29%20top%20center%20no-repeat%2C%20url%28%27https%3A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_3.png%27%29%20bottom%20center%20no-repeat%2C%20url%28%27https%3A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_2.png%27%29%20center%20repeat-y%3B%20background-color%3A%20%23f4f4f4%3B%20background-size%3A%20100%25%20auto%2C%20100%25%20auto%2C%20auto%20100%25%3B%22%20%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3Cimg%20src%3D%22https%3A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/torch-portrait.png%22%20style%3D%22%20display%3A%20block%3B%20margin-left%3A%20auto%3B%20margin-right%3A%20auto%3B%22%20%20title%3D%22main_banner%22%20%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Ch2%20style%3D%22%20font-family%3A%20%27mrs%20eaves%27%2C%20%27times%20new%20roman%27%2C%20times%2C%20baskerville%2C%20garamond%20%21important%3B%20font-variant%3A%20small-caps%3B%20letter-spacing%3A%202px%3B%20margin-bottom%3A%20.5rem%3B%20color%3A%20%2334627B%20%21important%3B%20margin%3A%20.3rem%20%21important%3B%22%20%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3ETorch%3C/td%3E%3C/tr%3E%3C/tbody%3E%3C/table%3E%3C/h2%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3Ci%20%3EType%3A%20Adventuring%20Gear%20Cost%3A%201%20cp%20Weight%3A%201%20lb%3C/i%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3EA%20torch%20burns%20for%201%20hour%2C%20providing%20bright%20light%20in%20a%2020-foot%20radius%20and%20dim%20light%20for%20an%20additional%2020%20feet.%20If%20you%20make%20a%20melee%20attack%20with%20a%20burning%20torch%20and%20hit%2C%20it%20deals%201%20fire%20damage.%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3ENotes%3A%20Damage%2C%20Utility%2C%20Exploration%2C%20Combat%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Ch5%20style%3D%22%20font-family%3A%20%27mrs%20eaves%27%2C%20%27times%20new%20roman%27%2C%20times%2C%20baskerville%2C%20garamond%20%21important%3B%20font-variant%3A%20small-caps%3B%20letter-spacing%3A%202px%3B%20margin-bottom%3A%20.5rem%3B%20color%3A%20%2334627B%20%21important%3B%20margin%3A%20.3rem%20%21important%3B%22%20%3EAttributes%3C/h5%3E%3Ctable%20style%3D%22%20box-shadow%3A%201px%204px%206px%20%23888888%3B%20border%3A%201px%20solid%20%23333333%3B%22%20%3E%3Ctbody%3E%3Ctr%20style%3D%22%20background-color%3A%20%2334627B%3B%20color%3A%20white%20%21important%3B%20text-transform%3A%20uppercase%3B%22%20%3E%3Ctable%20style%3D%22%20box-shadow%3A%201px%204px%206px%20%23888888%3B%20border%3A%201px%20solid%20%23333333%3B%22%20%3E%3Ctbody%3E%3Ctr%20style%3D%22%20background-color%3A%20%2334627B%3B%20color%3A%20white%20%21important%3B%20text-transform%3A%20uppercase%3B%22%20%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20%3C/td%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20Damage%20%3C/td%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%201%20%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22%20background-color%3A%20rgba%28118%2C%20197%2C%20120%2C%200.2%29%3B%22%20%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20Damage%20Type%20%3C/td%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20fire%20%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20Duration%20%3C/td%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%201%20hour%20%3C/td%3E%3C/tr%3E%3Ctr%20style%3D%22%20background-color%3A%20rgba%28118%2C%20197%2C%20120%2C%200.2%29%3B%22%20%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%20Range%20%3C/td%3E%3Ctd%20style%3D%22%20border%3A%201px%20solid%20%23333333%3B%20text-align%3A%20left%3B%22%20%3E%2020/40%20%3C/td%3E%3C/tr%3E%3C/tbody%3E%3C/table%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3Cp%20style%3D%22%20font-family%3Ainherit%3B%20font-size%3Ainherit%3B%22%20%3E%3C/p%3E%3C/div%3E%3C%21--%20API_markdown_end%20--%3E",
+        "gmnotes": "%3Cp%3E%5Bmd%5D%3Cbr%3E%5Bcss%5D%28-OCVFMyYfsylqoZPiW6l%29%3Cbr%3E%3Cbr%3E%21%5Bmain_banner%5D%28https%3A//raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/torch-portrait.png%29%3Cbr%3E%3Cbr%3E%23%23%20Torch%3Cbr%3E*Type%3A%20Adventuring%20Gear%20Cost%3A%201%20cp%20Weight%3A%201%20lb*%3Cbr%3E%3Cbr%3EA%20torch%20burns%20for%201%20hour%2C%20providing%20bright%20light%20in%20a%2020-foot%20radius%20and%20dim%20light%20for%20an%20additional%2020%20feet.%20If%20you%20make%20a%20melee%20attack%20with%20a%20burning%20torch%20and%20hit%2C%20it%20deals%201%20fire%20damage.%3Cbr%3E%3Cbr%3ENotes%3A%20Damage%2C%20Utility%2C%20Exploration%2C%20Combat%3Cbr%3E%3Cbr%3E%23%23%23%23%23%20Attributes%3Cbr%3E%7C%20%7C%20%7C%3Cbr%3E%7C%20%3A---%20%7C%20%3A---%3A%20%7C%3Cbr%3E%7C%20Damage%20%7C%201%20%7C%3Cbr%3E%7C%20Damage%20Type%20%7C%20fire%20%7C%3Cbr%3E%7C%20Duration%20%7C%201%20hour%20%7C%3Cbr%3E%7C%20Range%20%7C%2020/40%20%7C%3Cbr%3E%3Cbr%3E%3C/p%3E",
+        "defaulttoken": "{\"width\":35,\"height\":35,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/torch.webp\",\"name\":\"Torch\",\"bar3_value\":\"1\",\"bar3_max\":\"1\",\"represents\":\"-OCevflLOdqFdj248t42\",\"showplayers_bar3\":true,\"playersedit_bar1\":false,\"playersedit_bar2\":false,\"emits_bright_light\":true,\"bright_light_distance\":20,\"emits_low_light\":true,\"low_light_distance\":40,\"dim_light_opacity\":\"0.75\"}",
         "tags": "[\"lighting\"]",
         "controlledby": "all",
         "inplayerjournals": "all",
@@ -20,7 +20,7 @@
             },
             {
                 "name": "rtype",
-                "current": "@{advantagetoggle}",
+                "current": "{{always=1}} {{r2=[[@{d20}",
                 "max": "",
                 "id": "-M2u7L8FmoGJCzXwHUTr"
             },
@@ -74,7 +74,7 @@
             },
             {
                 "name": "mancer_confirm_flag",
-                "current": 1,
+                "current": "",
                 "max": "",
                 "id": "-M2u7QQXs2JjPPzrxVuY"
             },
@@ -86,7 +86,7 @@
             },
             {
                 "name": "wtype",
-                "current": "@{whispertoggle}",
+                "current": "",
                 "max": "",
                 "id": "-M5Fj1Ds-3XsxFtBwKeX"
             },
@@ -116,7 +116,7 @@
             },
             {
                 "name": "appliedUpdates",
-                "current": "fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_spell_school_ouput,fix_advantage_query",
+                "current": "fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_spell_school_ouput,fix_advantage_query,fix_npc_charactersheet_type",
                 "max": "",
                 "id": "-M965SRoApq6iBJuapwU"
             },
@@ -839,8 +839,581 @@
                 "current": 0,
                 "max": "",
                 "id": "-MjDFXJsWDh_YIut-Uos"
+            },
+            {
+                "name": "kingdom_culture_action",
+                "current": "%{Torch|kingdom-culture-action}",
+                "max": "",
+                "id": "-OCbMWySnvkB7pH9gq_L"
+            },
+            {
+                "name": "kingdom_economy_action",
+                "current": "%{Torch|kingdom-economy-action}",
+                "max": "",
+                "id": "-OCbMWyUguBNQwnq6VWi"
+            },
+            {
+                "name": "kingdom_loyalty_action",
+                "current": "%{Torch|kingdom-loyalty-action}",
+                "max": "",
+                "id": "-OCbMWyUguBNQwnq6VWj"
+            },
+            {
+                "name": "kingdom_stability_action",
+                "current": "%{Torch|kingdom-stability-action}",
+                "max": "",
+                "id": "-OCbMWyV3aXPRC4PqbCW"
+            },
+            {
+                "name": "kingdom_agriculture_action",
+                "current": "%{Torch|kingdom-agriculture-action}",
+                "max": "",
+                "id": "-OCbMWyV3aXPRC4PqbCX"
+            },
+            {
+                "name": "kingdom_arts_action",
+                "current": "%{Torch|kingdom-arts-action}",
+                "max": "",
+                "id": "-OCbMWyWbTvHg0mh37OE"
+            },
+            {
+                "name": "kingdom_boating_action",
+                "current": "%{Torch|kingdom-boating-action}",
+                "max": "",
+                "id": "-OCbMWyWbTvHg0mh37OF"
+            },
+            {
+                "name": "kingdom_defense_action",
+                "current": "%{Torch|kingdom-defense-action}",
+                "max": "",
+                "id": "-OCbMWyWbTvHg0mh37OG"
+            },
+            {
+                "name": "kingdom_engineering_action",
+                "current": "%{Torch|kingdom-engineering-action}",
+                "max": "",
+                "id": "-OCbMWyXsjOPxBsIK9Ty"
+            },
+            {
+                "name": "kingdom_exploration_action",
+                "current": "%{Torch|kingdom-exploration-action}",
+                "max": "",
+                "id": "-OCbMWyXsjOPxBsIK9Tz"
+            },
+            {
+                "name": "kingdom_folklore_action",
+                "current": "%{Torch|kingdom-folklore-action}",
+                "max": "",
+                "id": "-OCbMWyXsjOPxBsIK9U-"
+            },
+            {
+                "name": "kingdom_industry_action",
+                "current": "%{Torch|kingdom-industry-action}",
+                "max": "",
+                "id": "-OCbMWyZjbeAGq7Jfroa"
+            },
+            {
+                "name": "kingdom_intrigue_action",
+                "current": "%{Torch|kingdom-intrigue-action}",
+                "max": "",
+                "id": "-OCbMWyZjbeAGq7Jfrob"
+            },
+            {
+                "name": "kingdom_magic_action",
+                "current": "%{Torch|kingdom-magic-action}",
+                "max": "",
+                "id": "-OCbMWyZjbeAGq7Jfroc"
+            },
+            {
+                "name": "kingdom_politics_action",
+                "current": "%{Torch|kingdom-politics-action}",
+                "max": "",
+                "id": "-OCbMWy_XKhziL0lqTYj"
+            },
+            {
+                "name": "kingdom_scholarship_action",
+                "current": "%{Torch|kingdom-scholarship-action}",
+                "max": "",
+                "id": "-OCbMWy_XKhziL0lqTYk"
+            },
+            {
+                "name": "kingdom_statecraft_action",
+                "current": "%{Torch|kingdom-statecraft-action}",
+                "max": "",
+                "id": "-OCbMWyaBh2apx5kInmN"
+            },
+            {
+                "name": "kingdom_trade_action",
+                "current": "%{Torch|kingdom-trade-action}",
+                "max": "",
+                "id": "-OCbMWyaBh2apx5kInmO"
+            },
+            {
+                "name": "kingdom_warfare_action",
+                "current": "%{Torch|kingdom-warfare-action}",
+                "max": "",
+                "id": "-OCbMWyaBh2apx5kInmP"
+            },
+            {
+                "name": "kingdom_wilderness_action",
+                "current": "%{Torch|kingdom-wilderness-action}",
+                "max": "",
+                "id": "-OCbMWyb0JI0X5pTuOMQ"
+            },
+            {
+                "name": "army_scouting_action",
+                "current": "%{Torch|army-scouting-action}",
+                "max": "",
+                "id": "-OCbMWycXfBfya9JYIBJ"
+            },
+            {
+                "name": "army_maneuver_action",
+                "current": "%{Torch|army-maneuver-action}",
+                "max": "",
+                "id": "-OCbMWycXfBfya9JYIBK"
+            },
+            {
+                "name": "army_morale_action",
+                "current": "%{Torch|army-morale-action}",
+                "max": "",
+                "id": "-OCbMWycXfBfya9JYIBL"
+            },
+            {
+                "name": "army_ranged_action",
+                "current": "%{Torch|army-ranged-action}",
+                "max": "",
+                "id": "-OCbMWyd_Tx7l-GuF9sU"
+            },
+            {
+                "name": "filter_traits_by",
+                "current": "",
+                "max": "",
+                "id": "-OCenUF67Tor0rMI0S3N"
+            },
+            {
+                "name": "kingmaker_tab",
+                "current": "nav-tabs-kingmaker--settings",
+                "max": "",
+                "id": "-OCenUFhJ2wg-eIUcDyK"
+            },
+            {
+                "name": "sheet_version",
+                "current": 1,
+                "max": "",
+                "id": "-OCenUFl3PzOHkOv_VMj"
+            },
+            {
+                "name": "charactersheet_type",
+                "current": "vehicle",
+                "max": "",
+                "id": "-OCenUFzDBzv_ZEYCMjV"
+            },
+            {
+                "name": "is_vehicle",
+                "current": "1",
+                "max": "",
+                "id": "-OCenUJ57sgblpOQQGxm"
+            },
+            {
+                "name": "kingdom",
+                "current": "0",
+                "max": "",
+                "id": "-OCenUJ7xbUVLVLuu3oZ"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-OCenUqyHp341Tzd4hBw"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-OCenVEgRV7GPoR2p93y"
+            },
+            {
+                "name": "strength_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{strength-save-u}}} {{mod=@{strength_save_bonus}}} {{r1=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{strength_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSNZ3NN__NZ3l31"
+            },
+            {
+                "name": "dexterity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{dexterity-save-u}}} {{mod=@{dexterity_save_bonus}}} {{r1=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{dexterity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSS4cuOwXoNSIR2"
+            },
+            {
+                "name": "constitution_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{constitution-save-u}}} {{mod=@{constitution_save_bonus}}} {{r1=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{constitution_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSTT3Eui6kgjuQX"
+            },
+            {
+                "name": "intelligence_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intelligence-save-u}}} {{mod=@{intelligence_save_bonus}}} {{r1=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{intelligence_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSVY32EUDAWisxo"
+            },
+            {
+                "name": "wisdom_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{wisdom-save-u}}} {{mod=@{wisdom_save_bonus}}} {{r1=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{wisdom_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSXpwvlGngWVfwG"
+            },
+            {
+                "name": "charisma_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{charisma-save-u}}} {{mod=@{charisma_save_bonus}}} {{r1=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{charisma_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXS_Dx7M9EqvPx-X"
+            },
+            {
+                "name": "honor_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{honor-save-u}}} {{mod=@{honor_save_bonus}}} {{r1=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{honor_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSa-yz05V8oHtpq"
+            },
+            {
+                "name": "sanity_save_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sanity-save-u}}} {{mod=@{sanity_save_bonus}}} {{r1=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{sanity_save_bonus}@{pbd_safe}]]}} {{global=@{global_save_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSbKMNlIO-i6QPB"
+            },
+            {
+                "name": "athletics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{athletics-u}}} {{mod=@{athletics_bonus}}} {{r1=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{athletics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXScr2jMC1P-ei5_"
+            },
+            {
+                "name": "acrobatics_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{acrobatics-u}}} {{mod=@{acrobatics_bonus}}} {{r1=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{acrobatics_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSd7KAFeCcnLnBr"
+            },
+            {
+                "name": "sleight_of_hand_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{sleight_of_hand-u}}} {{mod=@{sleight_of_hand_bonus}}} {{r1=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{sleight_of_hand_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSfWf7mysN0hYsy"
+            },
+            {
+                "name": "stealth_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{stealth-u}}} {{mod=@{stealth_bonus}}} {{r1=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{stealth_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSgCQJ_PXaGU6PR"
+            },
+            {
+                "name": "arcana_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{arcana-u}}} {{mod=@{arcana_bonus}}} {{r1=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{arcana_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSinNyETkgfyVDM"
+            },
+            {
+                "name": "history_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{history-u}}} {{mod=@{history_bonus}}} {{r1=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{history_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSjr13Q7O5Na_mC"
+            },
+            {
+                "name": "investigation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{investigation-u}}} {{mod=@{investigation_bonus}}} {{r1=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{investigation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSkM4vqD9RxsvOV"
+            },
+            {
+                "name": "nature_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{nature-u}}} {{mod=@{nature_bonus}}} {{r1=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{nature_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSleAiCXVBJEGGT"
+            },
+            {
+                "name": "religion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{religion-u}}} {{mod=@{religion_bonus}}} {{r1=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{religion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSmxnZueR9aJK0b"
+            },
+            {
+                "name": "animal_handling_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{animal_handling-u}}} {{mod=@{animal_handling_bonus}}} {{r1=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{animal_handling_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSnWdug5tF-DD4I"
+            },
+            {
+                "name": "insight_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{insight-u}}} {{mod=@{insight_bonus}}} {{r1=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{insight_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSoZ8hevn_Aujjl"
+            },
+            {
+                "name": "medicine_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{medicine-u}}} {{mod=@{medicine_bonus}}} {{r1=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{medicine_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSpYQbecJP2nMvP"
+            },
+            {
+                "name": "perception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{perception-u}}} {{mod=@{perception_bonus}}} {{r1=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{perception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSrrRQem8eMJu3O"
+            },
+            {
+                "name": "survival_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{survival-u}}} {{mod=@{survival_bonus}}} {{r1=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{survival_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSsTbT2ajYztCNf"
+            },
+            {
+                "name": "deception_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{deception-u}}} {{mod=@{deception_bonus}}} {{r1=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{deception_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXStREHiAcP7Y05Z"
+            },
+            {
+                "name": "intimidation_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{intimidation-u}}} {{mod=@{intimidation_bonus}}} {{r1=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{intimidation_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSub2qLC_SOl-kj"
+            },
+            {
+                "name": "performance_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{performance-u}}} {{mod=@{performance_bonus}}} {{r1=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{performance_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSviDsefs0LT1nl"
+            },
+            {
+                "name": "persuasion_roll",
+                "current": "@{wtype}&{template:simple} {{rname=^{persuasion-u}}} {{mod=@{persuasion_bonus}}} {{r1=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{always=1}} {{r2=[[@{d20}+@{persuasion_bonus}[Mods]@{pbd_safe}]]}} {{global=@{global_skill_mod}}} @{charname_output}",
+                "max": "",
+                "id": "-OCenXSwM4A4cTKO_0nd"
+            },
+            {
+                "name": "kingdom_drop_name",
+                "current": "Torch",
+                "max": "",
+                "id": "-OCenduSVyTxaD8Kp2Qj"
+            },
+            {
+                "name": "kingdom_drop_data",
+                "current": "{\"Range\":\"20/40\",\"Damage\":\"1\",\"Source\":\"5th Edition SRD\",\"Weight\":\"1\",\"Category\":\"Items\",\"Duration\":\"1 Hour\",\"Item Type\":\"Adventuring Gear\",\"data-List\":\"false\",\"Damage Type\":\"Fire\",\"Item Rarity\":\"Standard\",\"blobs\":{},\"expansion\":4415}",
+                "max": "",
+                "id": "-OCenduWb5u3teC3buY9"
+            },
+            {
+                "name": "drop_category",
+                "current": "",
+                "max": "",
+                "id": "-OCenduZs542IjHQE8ri"
+            },
+            {
+                "name": "drop_name",
+                "current": "",
+                "max": "",
+                "id": "-OCendudS1rY9vY-GkAf"
+            },
+            {
+                "name": "drop_data",
+                "current": "",
+                "max": "",
+                "id": "-OCendugF6u20TVF1F12"
+            },
+            {
+                "name": "drop_content",
+                "current": "",
+                "max": "",
+                "id": "-OCendujn-3WNWiSBEzP"
+            },
+            {
+                "name": "tab",
+                "current": "core",
+                "max": "",
+                "id": "-OCendzFFRJ-GiFQSdXR"
+            },
+            {
+                "name": "repeating_vehicle-cargo-items_-OCendzFvOzy-uRu8dMz_name",
+                "current": "Torch",
+                "max": "",
+                "id": "-OCendzHEBdEQjslc5h7"
+            },
+            {
+                "name": "repeating_vehicle-cargo-items_-OCendzFvOzy-uRu8dMz_quantity",
+                "current": 1,
+                "max": "",
+                "id": "-OCendzIN5toKz6il01b"
+            },
+            {
+                "name": "repeating_vehicle-cargo-items_-OCendzFvOzy-uRu8dMz_weight",
+                "current": "1",
+                "max": "",
+                "id": "-OCendzKViaYQRR5aLvh"
+            },
+            {
+                "name": "vehicle_total_weight",
+                "current": "0.00",
+                "max": "",
+                "id": "-OCene0M-NTqqeVfxIVZ"
+            },
+            {
+                "name": "vehicle_is_overweight",
+                "current": "1",
+                "max": "",
+                "id": "-OCene0Oa1GVFfytHXyP"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_name",
+                "current": "Duration",
+                "max": "",
+                "id": "-OCeng-tKu3TVTzgxqYZ"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_attack_flag",
+                "current": "0",
+                "max": "",
+                "id": "-OCeng1H6_lvaQ8Wwnfk"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_attack_tohitrange",
+                "current": "+0",
+                "max": "",
+                "id": "-OCeng3R5pH9eZh2Xirq"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_attack_onhit",
+                "current": "",
+                "max": "",
+                "id": "-OCeng3Uhk9XmZX4HFAO"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_damage_flag",
+                "current": "",
+                "max": "",
+                "id": "-OCeng3Wtn8l48-BO42Z"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_attack_crit",
+                "current": "",
+                "max": "",
+                "id": "-OCeng3XBcD_Qa4ddEM4"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-OCeng3ZiluE-O8IbCw6"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_rollbase",
+                "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeng3ao7wEhb9fD5WT"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-OCeng5XTaLivQj3fL3R"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCenehYfZAkafESidAA_description",
+                "current": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals +2 fire damage (with Improvised Weapon).",
+                "max": "",
+                "id": "-OCerP2r251dvn4jnEd2"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_name",
+                "current": "Burn",
+                "max": "",
+                "id": "-OCerSC_Vd8BBRL-NVCG"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_tohit",
+                "current": "0",
+                "max": "",
+                "id": "-OCerTDOW9us64BA3WlD"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_tohitrange",
+                "current": "+0, Reach 5 ft",
+                "max": "",
+                "id": "-OCerTFYaIQCTtKWMs0l"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_onhit",
+                "current": "2 (1d4) bludgeoning damage plus 2 (2) fire damage",
+                "max": "",
+                "id": "-OCerTFaCIrFXfwlCkj9"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
+                "max": "",
+                "id": "-OCerTFcCudYb-WWDxjo"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_crit",
+                "current": "1d4",
+                "max": "",
+                "id": "-OCerTFfFcdeLHGEoojt"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-OCerTFgClkGoe2EiC6i"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_rollbase",
+                "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-OCerTFj_6nG0H8J3jmL"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_damage",
+                "current": "1d4",
+                "max": "",
+                "id": "-OCes3hYUekDpuBrBWxh"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_damagetype",
+                "current": "bludgeoning",
+                "max": "",
+                "id": "-OCes7pkdBwJaeQXBunu"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_damage2",
+                "current": "2",
+                "max": "",
+                "id": "-OCes8PfnxpTLxi28-lY"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_damagetype2",
+                "current": "fire",
+                "max": "",
+                "id": "-OCes9UcZYDQAjjP5LpQ"
+            },
+            {
+                "name": "repeating_vehicleactions_-OCerQmjlphvPSrPFZvJ_attack_range",
+                "current": "5 ft",
+                "max": "",
+                "id": "-OCesB63CzQqzct7HhCi"
             }
         ],
-        "abilities": []
+        "abilities": [
+            {
+                "name": "Snuff-Torch",
+                "description": "",
+                "istokenaction": true,
+                "action": "!token-mod --set emits_bright_light#off emits_low_light#off lightColor#transparent",
+                "order": -1
+            },
+            {
+                "name": "Light-Torch",
+                "description": "",
+                "istokenaction": true,
+                "action": "!token-mod --set emits_bright_light#on bright_light_distance#20ft emits_low_light#on low_light_distance#20ft lightColor#transparent",
+                "order": -1
+            }
+        ]
     }
 }

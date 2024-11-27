@@ -2,12 +2,12 @@
     "schema_version": 3,
     "type": "character",
     "character": {
-        "oldId": "-OCR-TE_jEI29hck0hbQ",
+        "oldId": "-OCaeQEbbdbkr6ihakc4",
         "name": "Training Dummy",
         "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/utility/images/utility-token.png",
         "bio": "%3Cp%3ETesting%20Player%20Character%3Cbr%3E%3C/p%3E",
         "gmnotes": "",
-        "defaulttoken": "{\"width\":70,\"height\":70,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/utility/images/utility-token.png\",\"name\":\"Training Dummy\",\"tooltip\":\"@{selected|character_id}\",\"show_tooltip\":false,\"represents\":\"-OCR-TE_jEI29hck0hbQ\",\"bar1_value\":\"12\",\"bar1_max\":\"12\",\"bar1_link\":\"-MjQsZrxCoJq0nTPMdN6\",\"bar2_value\":\"0\",\"bar2_max\":\"0\",\"bar2_num_permission\":\"everyone\",\"bar3_link\":\"-MjlesefWWJfRp7PzgE2\",\"aura1_radius\":\"0.63\",\"aura1_color\":\"#05ff00\",\"aura2_radius\":\"0.034999999999999996\",\"aura2_color\":\"#2B4EF0\",\"showplayers_bar1\":true,\"showplayers_bar2\":true,\"showplayers_bar3\":true,\"showplayers_aura1\":true,\"showplayers_aura2\":true,\"has_bright_light_vision\":true,\"has_low_light_vision\":true,\"has_night_vision\":true,\"night_vision_distance\":15,\"night_vision_tint\":\"#674ea7\",\"night_vision_effect\":\"Dimming_0.3333333333333333\",\"dim_light_opacity\":\"0.75\",\"pageid\":\"-KjoLUzi4buRXENJK5Fs\",\"vttes_dimming_start\":5}",
+        "defaulttoken": "{\"width\":70,\"height\":70,\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/utility/images/utility-token.png\",\"name\":\"Training Dummy\",\"show_tooltip\":false,\"represents\":\"-OCaeQEbbdbkr6ihakc4\",\"bar1_value\":\"12\",\"bar1_max\":\"12\",\"bar1_link\":\"-MjQsZrxCoJq0nTPMdN6\",\"bar2_value\":\"0\",\"bar2_max\":\"0\",\"bar2_num_permission\":\"everyone\",\"bar3_link\":\"-MjlesefWWJfRp7PzgE2\",\"aura1_color\":\"transparent\",\"aura2_color\":\"transparent\",\"showplayers_bar1\":true,\"showplayers_bar2\":true,\"showplayers_bar3\":true,\"showplayers_aura1\":true,\"showplayers_aura2\":true,\"has_bright_light_vision\":true,\"has_low_light_vision\":true,\"has_night_vision\":true,\"night_vision_distance\":15,\"night_vision_tint\":\"#674ea7\",\"night_vision_effect\":\"Dimming_0.3333333333333333\",\"dim_light_opacity\":\"0.75\",\"pageid\":\"-KjoLUzi4buRXENJK5Fs\",\"vttes_dimming_start\":5}",
         "tags": "[\"utility\",\"dm\"]",
         "controlledby": "-OCFs0SdesuZT8kgkaI5",
         "inplayerjournals": "-OCFs0SdesuZT8kgkaI5",
@@ -1022,7 +1022,7 @@
             },
             {
                 "name": "ac",
-                "current": 0,
+                "current": 18,
                 "max": 0,
                 "id": "-MjQsZs6Lh2gBrIfrwQ3"
             },
@@ -2846,7 +2846,7 @@
             },
             {
                 "name": "repeating_inventory_-MjQsZBihgn5vTw5OjMh_itemmodifiers",
-                "current": "Item Type: Ranged Weapon, Damage: 1d8, Damage Type: Piercing, Range: 80/320,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20",
+                "current": "Item Type: Ranged Weapon, Damage: 1d8, Damage Type: Piercing, Range: 80/320,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20,Critical Range: 20",
                 "max": "",
                 "id": "-MjQs_FHK8WnOVOnhrGL"
             },
@@ -3392,19 +3392,19 @@
             },
             {
                 "name": "repeating_inventory_-MjQsZBhR8nEaIo0ixw1_itemattackid",
-                "current": "-OCZwqVONJ4IwANsOaj3",
+                "current": "-OCeujqYYjjurgw1ZLRC",
                 "max": "",
                 "id": "-MjQs_Wyur7wamZoI5Z0"
             },
             {
                 "name": "repeating_inventory_-MjQsZBihgn5vTw5OjMg_itemattackid",
-                "current": "-OCZwqVqTg3ECLjToPSA",
+                "current": "-OCeujrLwhZKCp4GQeAu",
                 "max": "",
                 "id": "-MjQs_X5R73XCudexND9"
             },
             {
                 "name": "repeating_inventory_-MjQsZBihgn5vTw5OjMh_itemattackid",
-                "current": "-OCZwqVxaqFTKtokZ3qK",
+                "current": "-OCeujrRSbqYJVRq4oQZ",
                 "max": "",
                 "id": "-MjQs_XEIADRdG5Mv6zo"
             },
@@ -3620,7 +3620,7 @@
             },
             {
                 "name": "repeating_inventory_-MjQsZBihgn5vTw5OjMi_itemresourceid",
-                "current": "-oczfj4c6nzjppogi8to_resource_right",
+                "current": "-OCeujrXn4KRxZHa1re-_resource_left",
                 "max": "",
                 "id": "-MjQs__6ElML_J2l5D29"
             },
@@ -4064,7 +4064,7 @@
             },
             {
                 "name": "repeating_hd_-MjQszI5pGdVP-BYbofo_available",
-                "current": 1,
+                "current": 2,
                 "max": "",
                 "id": "-MjQszIMIFpK08OBhE9T"
             },
@@ -6683,6 +6683,252 @@
                 "current": 20,
                 "max": "",
                 "id": "-OC_xhYTEghshP-E3GDd"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-OCeuliaLP72VeW840Ay"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_itemid",
+                "current": "-mjqszbhr8neaio0ixw1",
+                "max": "",
+                "id": "-OCeulie11XA7_8oYQzf"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_atkname",
+                "current": "Shortsword",
+                "max": "",
+                "id": "-OCeulilvIIDK9DbZSDw"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_dmgbase",
+                "current": "1d6",
+                "max": "",
+                "id": "-OCeulinDUiRx-AKGE5N"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_dmgtype",
+                "current": "Piercing",
+                "max": "",
+                "id": "-OCeuliu9V9YKDY3c_2C"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_atkattr_base",
+                "current": "@{strength_mod}",
+                "max": "",
+                "id": "-OCeulixpAkZiLK1PJbH"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_dmgattr",
+                "current": "@{strength_mod}",
+                "max": "",
+                "id": "-OCeuliyrB2EC3vSnr49"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_atkmagic",
+                "current": "",
+                "max": "",
+                "id": "-OCeulj1oCCqF42yKW5z"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-OCeulo8PLWQe-g4TtQs"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_itemid",
+                "current": "-mjqszbihgn5vtw5ojmg",
+                "max": "",
+                "id": "-OCeuloAnv2KiF7A9U1Q"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_atkname",
+                "current": "Battleaxe",
+                "max": "",
+                "id": "-OCeuloIwkPmGGkUn8xb"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_dmgbase",
+                "current": "1d8",
+                "max": "",
+                "id": "-OCeuloMmFH01zWA7ooG"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_dmgtype",
+                "current": "Slashing",
+                "max": "",
+                "id": "-OCeuloN6K-F4ZnTYZgm"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_atkattr_base",
+                "current": "@{strength_mod}",
+                "max": "",
+                "id": "-OCeuloV17wpTnLmhFdo"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_dmgattr",
+                "current": "@{strength_mod}",
+                "max": "",
+                "id": "-OCeuloXetqCoZkjL8dm"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_atkmagic",
+                "current": "",
+                "max": "",
+                "id": "-OCeuloZQx2vCR8MV56M"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-OCeum0p0CqKS8ez7WV3"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_itemid",
+                "current": "-mjqszbihgn5vtw5ojmh",
+                "max": "",
+                "id": "-OCeum0sc5gdobvYgcdV"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkname",
+                "current": "Light Crossbow",
+                "max": "",
+                "id": "-OCeum0tslHEz3k5gujN"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_dmgbase",
+                "current": "1d8",
+                "max": "",
+                "id": "-OCeum0v36HsvvtEe-K_"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_dmgtype",
+                "current": "Piercing",
+                "max": "",
+                "id": "-OCeum0xmXrtksdPNsY9"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkcritrange",
+                "current": "20",
+                "max": "",
+                "id": "-OCeum16NCvS0wa9l4sj"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkrange",
+                "current": "80/320",
+                "max": "",
+                "id": "-OCeum1DTicLPDx-Qidn"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkattr_base",
+                "current": "@{dexterity_mod}",
+                "max": "",
+                "id": "-OCeum1JH80iRYUwPGKq"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_dmgattr",
+                "current": "@{dexterity_mod}",
+                "max": "",
+                "id": "-OCeum1LqbulkUr51JfS"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkmagic",
+                "current": "",
+                "max": "",
+                "id": "-OCeum1MkRCnC3n9BX3S"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_atkdmgtype",
+                "current": "1d6+3 Piercing ",
+                "max": "",
+                "id": "-OCeupMmk8U_9W5VnaaL"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_rollbase_dmg",
+                "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d6 + 3[STR]]]}} {{dmg1type=Piercing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupMowB6eHA-Yo7ia"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_rollbase_crit",
+                "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d6 + 3[STR]]]}} {{dmg1type=Piercing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d6]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupMs2MrNGhWAIu-G"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_atkbonus",
+                "current": "+5",
+                "max": "",
+                "id": "-OCeupMyqVvyzcJHqp-k"
+            },
+            {
+                "name": "repeating_attack_-OCeujqYYjjurgw1ZLRC_rollbase",
+                "current": "@{wtype}&{template:atk} {{mod=@{atkbonus}}} {{rname=[@{atkname}](~repeating_attack_attack_dmg)}} {{rnamec=[@{atkname}](~repeating_attack_attack_crit)}} {{r1=[[@{d20}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} {{range=@{atkrange}}} {{desc=@{atk_desc}}} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} ammo=@{ammo} @{charname_output}",
+                "max": "",
+                "id": "-OCeupMz0T6kLrpj1TH0"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_atkdmgtype",
+                "current": "1d8+3 Slashing ",
+                "max": "",
+                "id": "-OCeupSgeXQ1owCek4xb"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_rollbase_dmg",
+                "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupSofDuZvfU0KkQU"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_rollbase_crit",
+                "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d8]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupSpAqJZ9job59lK"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_atkbonus",
+                "current": "+5",
+                "max": "",
+                "id": "-OCeupSti1A_gFiNeQr4"
+            },
+            {
+                "name": "repeating_attack_-OCeujrLwhZKCp4GQeAu_rollbase",
+                "current": "@{wtype}&{template:atk} {{mod=@{atkbonus}}} {{rname=[@{atkname}](~repeating_attack_attack_dmg)}} {{rnamec=[@{atkname}](~repeating_attack_attack_crit)}} {{r1=[[@{d20}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} {{range=@{atkrange}}} {{desc=@{atk_desc}}} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} ammo=@{ammo} @{charname_output}",
+                "max": "",
+                "id": "-OCeupSuDQ75jwHF3QJL"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkdmgtype",
+                "current": "1d8+2 Piercing ",
+                "max": "",
+                "id": "-OCeupYevhyF6t9wcZxI"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_rollbase_dmg",
+                "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 2[DEX]]]}} {{dmg1type=Piercing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupYmRK1S1Yu5Tnyf"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_rollbase_crit",
+                "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 2[DEX]]]}} {{dmg1type=Piercing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d8]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+                "max": "",
+                "id": "-OCeupYovUk0giw8mrCU"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_atkbonus",
+                "current": "+4",
+                "max": "",
+                "id": "-OCeupYpkib-R-uVzRY7"
+            },
+            {
+                "name": "repeating_attack_-OCeujrRSbqYJVRq4oQZ_rollbase",
+                "current": "@{wtype}&{template:atk} {{mod=@{atkbonus}}} {{rname=[@{atkname}](~repeating_attack_attack_dmg)}} {{rnamec=[@{atkname}](~repeating_attack_attack_crit)}} {{r1=[[@{d20}cs>@{atkcritrange} + 2[DEX] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 2[DEX] + 2[PROF]]]}} {{range=@{atkrange}}} {{desc=@{atk_desc}}} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} ammo=@{ammo} @{charname_output}",
+                "max": "",
+                "id": "-OCeupYvB0e87ZkAkppM"
             }
         ],
         "abilities": []
