@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/mounts-vehicles/mounts-vehicles-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/mounts-vehicles/mounts-vehicles-banner.png)
 
 # Mounts and Vehicles
 A good mount can help you move more quickly through the [Wilderness](https://app.roll20.net/compendium/dnd5e/Wilderness#h-Wilderness), but its primary [Purpose](https://app.roll20.net/compendium/dnd5e/Settlements#h-Purpose) is to carry the gear that would otherwise slow you down. The [Mounts](https://app.roll20.net/compendium/dnd5e/Mounts%20and%20Services#h-Mounts) and [Other Animals](https://app.roll20.net/compendium/dnd5e/Appendix%20A%20-%20Miscellaneous%20Creatures%20%28Monster%20Manual%29#h-Other%20Animals) table shows each animal’s speed and base carrying [Capacity](https://app.roll20.net/compendium/dnd5e/Sample%20Ships#h-Capacity).
@@ -40,10 +40,10 @@ Mounts other than those listed here are available in the worlds of D&D, but they
 | Chariot | 250 gp | 100 lb. |
 | Feed (per day) | 5 cp | 10 lb. |
 | ***Saddle*** | | |
-| &emsp;&emsp;Exotic | 60 gp | 40 lb. |
-| &emsp;&emsp;[Military](https://app.roll20.net/compendium/dnd5e/Government#h-Military) | 20 gp | 30 lb. |
-| &emsp;&emsp;Pack | 5 gp | 15 lb. |
-| &emsp;&emsp;Riding | 10 gp | 25 lb. |
+| . . Exotic | 60 gp | 40 lb. |
+| . . [Military](https://app.roll20.net/compendium/dnd5e/Government#h-Military) | 20 gp | 30 lb. |
+| . . Pack | 5 gp | 15 lb. |
+| . . Riding | 10 gp | 25 lb. |
 |||
 | Saddlebags | 4 gp | 8 lb. |
 | Sled | 20 gp | 300 lb. |

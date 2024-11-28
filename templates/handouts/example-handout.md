@@ -1,12 +1,13 @@
 <style>
 
+/* Change to 'bg' */
 body {
     padding: 75px 30px;
 
     background:
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_1.png') top center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_3.png') bottom center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-page_2.png') center repeat-y;
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-top') top center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-bottom.png') bottom center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-body.png') center repeat-y;
 
     background-color: #f4f4f4;
 
@@ -122,7 +123,7 @@ hr {
 
     border: none;
 
-    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-center-1.png') center center no-repeat;
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-center-design.png') center center no-repeat;
 
     height: 64px !important;
 
@@ -148,7 +149,7 @@ hr.style3 {
 
     border: none;
 
-    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-ruler-1.png') left top no-repeat;
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png') left top no-repeat;
 
     height: 32px !important;
 
@@ -368,9 +369,9 @@ img[alt="img_right"] {
 
 ##### Example Rulers
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-center-1.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-center-design.png)
 
-![ruler-left](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-ruler-1.png)
+![ruler-left](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 Style 1 Bar
 

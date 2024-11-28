@@ -23,7 +23,7 @@
 
 We use the following house rules to keep gameplay flowing smoothly, while giving players room for creative and tactical decisions:
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Initiative Turn Order
 
@@ -47,23 +47,23 @@ Rolling a **natural 20** on your initiative allows you to **choose your position
 
 Familiars and other such Summons=ed creatures take their turn on the player turn. They do not have their own initiative.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Inspiration Pool
 
 Instead of standard Inspiration, when awarded by the DM, you will gain **1 Inspiration Point** to store and use at your discretion. On your turn, you can spend these points to **adjust your roll** by 1 per point spent, either increasing or decreasing the roll result. This gives you more control over when and how you use your Inspiration, turning it into a valuable strategic resource.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Stealth and Group Checks
 When the party attempts a group stealth check, the **highest and lowest stealth rolls** are averaged to determine the party’s DC. You must be at least **30 feet away** to roll for individual stealth (unless using special features).
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Exhaustion After 0 HP
 If you are reduced to **0 hit points** and then restored, you immediately gain **1 level of exhaustion**. This reflects the physical toll of being brought back from the brink of death and adds tension to future battles.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Ranged Weapon Attacks While Prone
 You gain **+2 to Ranged Weapon Attack Rolls** with ranged weapons while prone, reflecting the stability of a low firing stance.  
@@ -71,7 +71,7 @@ You gain **+2 to Ranged Weapon Attack Rolls** with ranged weapons while prone, r
 ### Ranged Weapon Attacks Point Blank Range
 Ranged weapon attacks do not suffer disadvantage if a hostile creature is within 5 feet.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Modified Weapon Mastery
 
@@ -102,14 +102,14 @@ You gain proficiency with four weapons of your choice. Each one must be a simple
 *If you already have proficiency with the chosen weapon, you gain expertise.*
 ```
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Empowered Healing Spells
 
 All Healing spells (2014 versions) will roll one additional die in addition to the normal amount.
 Creatures that are immune to *Necrotic* take damage from healing spells.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Expend Half Movement to Perform Bonus Actions
 
@@ -130,4 +130,4 @@ In our game, certain actions that traditionally require a bonus action or an act
 
 This house rule shifts focus from bonus actions, giving characters more flexibility in combat while reinforcing strategic movement management.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)

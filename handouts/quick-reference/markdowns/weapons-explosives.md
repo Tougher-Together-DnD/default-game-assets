@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/weapons-explosives-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/weapons-explosives-banner.png)
 
 # Smallarm Weapons
 Smallarm weapons are individual weapons.
@@ -129,7 +129,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/firearms-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/firearms-banner.png)
 
 ## Firearms
 If you want to model the swashbuckling style of *The Three Musketeers* and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
@@ -152,7 +152,7 @@ Firearms use special ammunition, and some of them have the burst fire or reload 
 |[Pistol](https://app.roll20.net/compendium/dnd5e/Items%3APistol?sharedCompendium=11497404&sharedCompendium=11497404#toc_2) | 250 gp | 1d10 piercing | 3 lb. | Ammunition (range 30/90), loading |
 |[Musket](https://app.roll20.net/compendium/dnd5e/Items%3AMusket?sharedCompendium=11497404#toc_2) | 500 gp | 1d12 piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
 | ***Ammunition*** | |
-|[Bullets (10)][Bullets Renaissance] | 3 gp | - | 2 lb. | - |
+|[Bullets (10)](https://app.roll20.net/compendium/dnd5e/Items:Bullets%20&#40;Renaissance&#41;?sharedCompendium=11497404#toc_2) | 3 gp | - | 2 lb. | - |
 
 ##### Modern
 | Modern Item | Cost | Damage | Weight | Properties |
@@ -163,7 +163,7 @@ Firearms use special ammunition, and some of them have the burst fire or reload 
 |[Rifle, automatic](https://app.roll20.net/compendium/dnd5e/Items%3ARifle%2C%20automatic?sharedCompendium=11497404#toc_2) | - | 2d8 piercing | 8 lb. | Ammunition (range 80/240), burst fire, reload (30 shots), two-handed |
 |[Shotgun](https://app.roll20.net/compendium/dnd5e/Items%3AShotgun?sharedCompendium=11497404#toc_2) | - | 2d8 piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
 | ***Ammunition*** | |
-|[Bullets (10)][Bullets Modern] | - | - | 1 lb. | - |
+|[Bullets (10)](https://app.roll20.net/compendium/dnd5e/Items:Bullets%20&#40;Modern&#41;?sharedCompendium=11497404#toc_2) | - | - | 1 lb. | - |
 
 ##### Futuristic Item
 | Futuristic Item | Cost | Damage | Weight | Properties |
@@ -176,7 +176,7 @@ Firearms use special ammunition, and some of them have the burst fire or reload 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/explosives-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/explosives-banner.png)
 
 ## Explosives
 A campaign might include explosives from the Renaissance or the modern world (the latter are priceless), as presented in the Explosives table.
@@ -213,7 +213,7 @@ One round after a smoke grenade lands, it emits a cloud of smoke that creates 
 ##### Modern Explosives
 | Modern Item | Cost | Weight |
 | :---: | :---: | :---: |
-| [Dynamite (stick)][Dynamite Stick] | 40 gp | 1 lb. |
+| [Dynamite (stick)](https://app.roll20.net/compendium/dnd5e/Items%3ADynamite%20&#40;stick&#41;?sharedCompendium=9902360#toc_2) | 40 gp | 1 lb. |
 | [Grenade, fragmentation](https://app.roll20.net/compendium/dnd5e/Items%3AGrenade%2C%20fragmentation?sharedCompendium=9902360#toc_2) | 100 gp | 1 lb. |
 | [Grenade, smoke](https://app.roll20.net/compendium/dnd5e/Items%3AGrenade%2C%20smoke?sharedCompendium=9902360#toc_2) | 25 gp | 2 lb. |
 | [Grenade launcher](https://app.roll20.net/compendium/dnd5e/Items%3AGrenade%20Launcher?sharedCompendium=9902360#toc_2) | 200 gp | 7 lb. |

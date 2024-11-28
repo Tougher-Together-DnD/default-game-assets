@@ -3,7 +3,7 @@
 [css](-OCVFMyYfsylqoZPiW6l)
 
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/factions-faerun-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/factions-faerun-banner.png)
 
 # A Guide to the Factions of Faerûn
 In the Forgotten Realms, five factions have risen to prominence. Seeking to further their respective agendas while opposing destructive forces that threaten the folk of Faerûn, each faction has its own motivations, goals, and philosophy. While some are more heroic than others, all band together in times of trouble to thwart major threats.
@@ -138,7 +138,7 @@ Exemplars are deeply ensconced within the leadership of their faction and have a
 
 ### Harpers
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/harpers-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/harpers-banner.png)
 
 The *Harpers* is a scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power. The organization is benevolent, knowledgeable, and secretive. Bards and wizards of good alignments are commonly drawn to the Harpers.
 
@@ -166,7 +166,7 @@ Harper agents are trained to act alone and rely on their own resources. When the
 
 ### Order of the Gauntlet
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/order-of-gauntlet-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/order-of-gauntlet-banner.png)
 
 The *Order of the Gauntlet* is composed of faithful and vigilant seekers of justice who protect others from the depredations of evildoers. The organization is honorable, vigilant, and zealous. Clerics, monks, and paladins of good (and often lawful good) alignments are commonly drawn to the Order of the Gauntlet.
 
@@ -194,7 +194,7 @@ The Order of the Gauntlet is a dedicated, tightly knit group of like-minded indi
 
 ### Emerald Enclave
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/emerald-enclave-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/emerald-enclave-banner.png)
 
 The *Emerald Enclave** is a widespread group of wilderness survivalists who preserve the natural order while rooting out unnatural threats. The organization is decentralized, hardy, and reclusive. Barbarians, druids, and rangers of good or neutral alignments are commonly drawn to the Emerald Enclave.
 
@@ -222,7 +222,7 @@ Members of the Emerald Enclave are spread far and wide, and usually operate in i
 
 ### Lords’ Alliance
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/lords-alliance-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/lords-alliance-banner.png)
 
 The *Lords’ Alliance* is a loose coalition of established political powers concerned with mutual security and prosperity. The organization is aggressive, militant, and political. Fighters and sorcerers of lawful or neutral alignments are commonly drawn to the Lords’ Alliance.
 
@@ -250,7 +250,7 @@ To seek out and destroy threats to their homelands, agents of the Lords’ Allia
 
 ### Zhentarim
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/zhentarim-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/factions-faerun/zhentarim-banner.png)
 
 The *Zhentarim* is an unscrupulous shadow network that seeks to expand its influence and power throughout Faerûn. The organization is ambitious, opportunistic, and meritocratic. Rogues and warlocks of neutral and/or evil alignments are commonly drawn to the Zhentarim.
 

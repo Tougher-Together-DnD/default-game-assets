@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/tool-proficiency-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/tool-proficiency-banner.png)
 
 # Tool Proficiencies
 [Tool Proficiencies](https://app.roll20.net/compendium/dnd5e/Chapter%202%20-%20Dungeon%20Master%27s%20Tools#h-Tool%20Proficiencies) are a useful way to highlight a character’s [Background](https://app.roll20.net/compendium/dnd5e/Personal%20Decisions#h-Background) and talents. At the game table, though, the use of tools sometimes overlaps with the use of [Skills](https://app.roll20.net/compendium/dnd5e/Monsters#h-Skills), and it can be unclear how to use them together in certain situations. This section offers various ways that tools can be used in the game.
@@ -38,7 +38,7 @@ In addition, you can consider giving a character extra information or an added b
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/alchemist-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/alchemist-banner.png)
 
 ## Alchemist’s Supplies
 Alchemist’s supplies enable a character to produce useful concoctions, such as acid or alchemist’s fire.

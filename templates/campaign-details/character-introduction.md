@@ -26,4 +26,4 @@ Let Everyone know who is joining the party (optional). You can post images, elab
 
 This helps other players immerse themselves in visualizing your character and engaging with them in game.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)

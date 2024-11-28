@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/ship-actions.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/ship-actions.png)
 
 # Ship Actions
 For a ship or vehicle to perform any action during its turn, crew members (Players or NPCs) must operate the vessel or weapon system.
@@ -62,7 +62,7 @@ Generally, nonmagical repairs take too long to save a ship from sinking once it 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/crew-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/crew-banner.png)
 
 ## Crew Members
 A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.
@@ -129,7 +129,7 @@ Life aboard a ship is a constant wear on the crew. Spending time in port allows 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/officers-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/officers-banner.png)
 
 ## Officers
 Each vessel requires people to run it: the officers in charge and the sailors who follow their orders.
@@ -138,7 +138,7 @@ If you’d like to explore running a ship, it needs officers to oversee its oper
 
 Each type of officer is described below, along with the Abilities and Proficiencies that help a character excel in that role:
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/captain-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/captain-banner.png)
 
 ### Captain
 The captain issues orders. The best captains have high Wisdom and Charisma scores, as well as proficiency with Water Vehicles and the Intimidation and Persuasion Skills.
@@ -158,7 +158,7 @@ For 1 minute once a day the Captain can maintain a ships position against natura
 **Stealth (Captain Only)**
 The ship’s Captain can engage in this activity only if the weather conditions restrict visibility, such as in heavy fog. The ship makes a DC 18 Water Vehicle (Dexterity) check + Crew Quality score to determine if it can hide.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/bosun-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/bosun-banner.png)
 
 ### Bosun
 The bosun (or boatswain) provides technical advice to the captain and crew and leads repair and maintenance efforts. A good bosun has a high Strength score, as well as proficiency with Carpenter’s tools and the Athletics skill.
@@ -174,7 +174,7 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Take Aim (First Mate, or Bosun Only)**
 As an action the First Mate, or Bosun directs the crew’s firing, aiding in aiming one of the ship’s Weapons. Select one of the ship’s Weapons that is within 10 feet of the officer. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality The Attack and Damage rolls of the weapon increase by +2, and attack rolls of 19 or 20 act as critical hits.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/deckwizard-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/deckwizard-banner.png)
 
 ### Deck Wizard
 The Deck Wizard provides magical offensive and defensive capabilities to a ship. They aid and instruct the Bosun in making magical upgrades to the ship. A good Deck Wizard benefits from knowledge of the Arcane and Intelligence.
@@ -189,7 +189,7 @@ Adding an upgrade costs 7,000 gp and requires 1d4 weeks of work. During that tim
 
 At the end of the upgrade, the Deck Wizard makes a DC 18 Arcana (Intellect) check plus Crew Quality score. On a successful check the upgrade succeeds. On a failed check the DM may stipulate a reduced effect of the upgrade.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/firstmate-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/firstmate-banner.png)
 
 ### First Mate
 This specialist keeps the crew’s morale high by providing supervision, encouragement, and discipline. A First Mate benefits from a high Charisma score, as well as proficiency with the Intimidation and Persuasion Skills.
@@ -203,7 +203,7 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Raise Morale (First Mate or Quartermaster Only)**
 The first mate can manage the crew’s time to grant extended breaks, provide instruction, and improve morale. The Quarter Master can acquire food for a feast, wine, smokes, or entertainment to come aboard. Once per day, if the crew’s quality score is 4 or lower, the first mate can make a DC 18 Charisma (Persuasion) check. Or the Quarter master can make a DC 18 Charisma (Performance) check. On a successful check, the crew’s quality score increases by 1.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/surgeon-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/surgeon-banner.png)
 
 ### Surgeon
 The ship’s surgeon tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as proficiency with Herbalism kits and the Medicine skill.
@@ -214,7 +214,7 @@ As an action once a day the ship Surgeon can encourage the crew to perform basic
 **Triage (Surgeon Only)**
 A ships Surgeon can reduce the recovery time of crew and players. Making a DC18 Medicine (Wisdom) or Herbalism kit check the Surgeon can affect a target humanoid as if a Healing Kit was used.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/quartermaster-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/quartermaster-banner.png)
 
 ### Quartermaster
 The quartermaster plots the ship’s course, relying on knowledge of nautical charts and a study of weather and sea Conditions. A reliable quartermaster tends to have a high Wisdom and Intellect score, as well as proficiency with Navigator’s tools and the Nature skill. Quartermaster's would also be responsible for finding parts and supplies. A proficiency in History and Persuasion skills can aid in these duties. 

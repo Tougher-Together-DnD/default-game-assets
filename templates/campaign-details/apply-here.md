@@ -26,7 +26,7 @@ To apply just "copy/paste" the below template into a new post. Then edit with yo
 
 Once accepted you will have access to the **Campaign Forums**. That forum has threads for important links and party introductions. 
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ## Player Information
 **Name:**  

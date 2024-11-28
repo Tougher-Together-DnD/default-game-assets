@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/adventure-gear-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/adventure-gear-banner.png)
 
 # A⁠dventuring Gear
 
@@ -12,17 +12,17 @@
 |[Acid](https://roll20.net/compendium/dnd5e/Acid#h-Acid) (vial)|25 gp|1 lb.|
 |[Alchemist's fire](https://roll20.net/compendium/dnd5e/Alchemist's%20Fire#h-Alchemist's%20Fire) (flask)|50 gp|1 lb.|
 |***A⁠mmunition***|||
-|&emsp;&emsp;[Arrows](https://roll20.net/compendium/dnd5e/Arrows#h-Arrows) (20)|1 gp|1 lb.|
-|&emsp;&emsp;[Blowgun needles](https://roll20.net/compendium/dnd5e/Blowgun%20Needles#h-Blowgun%20Needles) (50)|1 gp|1 lb.|
-|&emsp;&emsp;[Crossbow bolts](https://roll20.net/compendium/dnd5e/Crossbow%20bolts#h-Crossbow%20bolts) (20)|1 gp|1½ lb.|
-|&emsp;&emsp;[Sling bullets](https://roll20.net/compendium/dnd5e/Sling%20bullets#h-Sling%20bullets) (20)|4 cp|1½ lb.|
+|. . [Arrows](https://roll20.net/compendium/dnd5e/Arrows#h-Arrows) (20)|1 gp|1 lb.|
+|. . [Blowgun needles](https://roll20.net/compendium/dnd5e/Blowgun%20Needles#h-Blowgun%20Needles) (50)|1 gp|1 lb.|
+|. . [Crossbow bolts](https://roll20.net/compendium/dnd5e/Crossbow%20bolts#h-Crossbow%20bolts) (20)|1 gp|1½ lb.|
+|. . [Sling bullets](https://roll20.net/compendium/dnd5e/Sling%20bullets#h-Sling%20bullets) (20)|4 cp|1½ lb.|
 |[Antitoxin](https://roll20.net/compendium/dnd5e/Antitoxin#h-Antitoxin) (vial)|50 gp|—|
 |***Arcanefocus***|||
-|&emsp;&emsp;[Crystal](https://roll20.net/compendium/dnd5e/Crystal#h-Crystal)|10 gp|1 lb.|
-|&emsp;&emsp;[Orb](https://roll20.net/compendium/dnd5e/Orb#h-Orb)|20 gp|3 lb.|
-|&emsp;&emsp;[Rod](https://roll20.net/compendium/dnd5e/Rod#h-Rod)|10 gp|2 lb.|
-|&emsp;&emsp;[Staff](https://roll20.net/compendium/dnd5e/Staff#h-Staff)|5 gp|4 lb.|
-|&emsp;&emsp;[Wand](https://roll20.net/compendium/dnd5e/Wand#h-Wand)|10 gp|1 lb.|
+|. . [Crystal](https://roll20.net/compendium/dnd5e/Crystal#h-Crystal)|10 gp|1 lb.|
+|. . [Orb](https://roll20.net/compendium/dnd5e/Orb#h-Orb)|20 gp|3 lb.|
+|. . [Rod](https://roll20.net/compendium/dnd5e/Rod#h-Rod)|10 gp|2 lb.|
+|. . [Staff](https://roll20.net/compendium/dnd5e/Staff#h-Staff)|5 gp|4 lb.|
+|. . [Wand](https://roll20.net/compendium/dnd5e/Wand#h-Wand)|10 gp|1 lb.|
 |[Backpack](https://roll20.net/compendium/dnd5e/Backpack#h-Backpack)|2 gp|5 lb.|
 |[Ball bearings](https://roll20.net/compendium/dnd5e/Ball%20bearings#h-Ball%20bearings) (bag of 1,000)|1 gp|2 lb.|
 |[Barrel](https://roll20.net/compendium/dnd5e/Barrel#h-Barrel)|2 gp|70 lb.|
@@ -49,10 +49,10 @@
 |[Component pouch](https://roll20.net/compendium/dnd5e/Component%20pouch#h-Component%20pouch)|25 gp|2 lb.|
 |[Crowbar](https://roll20.net/compendium/dnd5e/Crowbar#h-Crowbar)|2 gp|5 lb.|
 |***Dr⁠uidic focus***|||
-|&emsp;&emsp;[Sprig of mistletoe](https://roll20.net/compendium/dnd5e/Sprig%20of%20mistletoe#h-Sprig%20of%20mistletoe)|1 gp|—|
-|&emsp;&emsp;[Totem](https://roll20.net/compendium/dnd5e/Totem#h-Totem)|1 gp|—|
-|&emsp;&emsp;[Wooden staff](https://roll20.net/compendium/dnd5e/Wooden%20staff#h-Wooden%20staff)|5 gp|4 lb.|
-|&emsp;&emsp;[Yew wand](https://roll20.net/compendium/dnd5e/Yew%20wand#h-Yew%20wand)|10 gp|1 lb.|
+|. . [Sprig of mistletoe](https://roll20.net/compendium/dnd5e/Sprig%20of%20mistletoe#h-Sprig%20of%20mistletoe)|1 gp|—|
+|. . [Totem](https://roll20.net/compendium/dnd5e/Totem#h-Totem)|1 gp|—|
+|. . [Wooden staff](https://roll20.net/compendium/dnd5e/Wooden%20staff#h-Wooden%20staff)|5 gp|4 lb.|
+|. . [Yew wand](https://roll20.net/compendium/dnd5e/Yew%20wand#h-Yew%20wand)|10 gp|1 lb.|
 |[Fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20tackle#h-Fishing%20tackle)|1 gp|4 lb.|
 |[Flask](https://roll20.net/compendium/dnd5e/Flask#h-Flask) or[tankard](https://roll20.net/compendium/dnd5e/Items:Tankard#content)|2 cp|1 lb.|
 |[Grappling hook](https://roll20.net/compendium/dnd5e/Grappling%20hook#h-Grappling%20hook)|2 gp|4 lb.|
@@ -60,9 +60,9 @@
 |[Hammer, sledge](https://roll20.net/compendium/dnd5e/Sledge%20hammer#h-Sledge%20hammer)|2 gp|10 lb.|
 |[Healer's kit](https://roll20.net/compendium/dnd5e/Healer's%20kit#h-Healer's%20kit)|5 gp|3 lb.|
 |***Holy sym⁠bol***|5 gp|1 lb.|
-|&emsp;&emsp;[Amulet](https://roll20.net/compendium/dnd5e/Amulet#h-Amulet)|5 gp|—|
-|&emsp;&emsp;[Emblem](https://roll20.net/compendium/dnd5e/Emblem#h-Emblem)|5 gp|2 lb.|
-|&emsp;&emsp;[Reliquary](https://roll20.net/compendium/dnd5e/Reliquary#h-Reliquary)|5 gp|1 lb.|
+|. . [Amulet](https://roll20.net/compendium/dnd5e/Amulet#h-Amulet)|5 gp|—|
+|. . [Emblem](https://roll20.net/compendium/dnd5e/Emblem#h-Emblem)|5 gp|2 lb.|
+|. . [Reliquary](https://roll20.net/compendium/dnd5e/Reliquary#h-Reliquary)|5 gp|1 lb.|
 |[Holy water](https://roll20.net/compendium/dnd5e/Holy%20Water#h-Holy%20Water) (flask)|25 gp|1 lb.|
 |[Hourglass](https://roll20.net/compendium/dnd5e/Hourglass#h-Hourglass)|25 gp|1 lb.|
 |[Hunting trap](https://roll20.net/compendium/dnd5e/Hunting%20trap#h-Hunting%20trap)|5 gp|25 lb.|
@@ -200,7 +200,7 @@ A cleric or paladin may create holy water by performing a spec⁠ial ritual. The
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/packs-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/packs-banner.png)
 
 ### Equipment Packs
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
@@ -242,7 +242,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/cold-weather-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/cold-weather-banner.png)
 
 ### Winter Survival Gear 
 The Winter Survival Gear table provides costs for cold weather clothing, crampons, and snowshoes, which can be added to the list of things that characters can buy in Ten-Towns.
@@ -262,7 +262,7 @@ The Winter Survival Gear table provides costs for cold weather clothing, crampon
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/magic-item-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-items/magic-item-banner.png)
 
 ### Magic Items
 It is cheaper to craft an item, however a character may lack the resources, time, or skill to do so. At magic shops, in certain towns, magic items can be purchased for a price. If available the items base prices are listed below.

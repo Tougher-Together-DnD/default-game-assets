@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/superior-ship-upgrades-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/superior-ship-upgrades-banner.png)
 
 # Superior Ship Upgrades
 Some vessels possess extraordinary abilities, whether due to magic or superior artisanship. The upgrades below can replace a ship’s existing components or provide a new element to augment a ship’s abilities.
@@ -35,7 +35,7 @@ A row of crystal orbs, each filled with viscous liquid and a beholder’s eyebal
 
 ****
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/movement-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/movement-banner.png)
 
 ## Movement Upgrades
 Each movement upgrade applies to a specific movement type. A component can gain the benefits of one upgrade.
@@ -74,7 +74,7 @@ Sharpened, magically reinforced oars make a vessel dangerous to approach. When t
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/weapons-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/weapons-banner.png)
 
 ## Weapon Upgrades
 The following upgrades can apply to any weapon mounted aboard a ship. A component can gain the benefits of one upgrade, or two upgrades if one of the upgrades is Arcane Artillery.
@@ -93,7 +93,7 @@ This weapon creates spectral chains that trail after its shots, restraining enem
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/figurehead-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/superior-ship-upgrades/figurehead-banner.png)
 
 ## Figurehead Upgrades
 While figureheads are usually purely decorative, they might be magically treated to produce extraordinary effects. A ship can receive one figurehead upgrade.

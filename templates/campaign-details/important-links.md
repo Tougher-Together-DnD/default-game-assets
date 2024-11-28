@@ -50,7 +50,7 @@ Pay %%AMOUNT%% per session via [Venmo] %%VENMO_AT%% or [Paypal] %%PAYPAL_AT%%.
 *Remember this is all for fun, if payment ever becomes an issue talk to your DM.*
 
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/horizontal-ruler-1.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
 
 ### Need Help?
 

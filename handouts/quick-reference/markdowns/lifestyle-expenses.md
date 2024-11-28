@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/lifestyle-expenses-banner.webp)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/lifestyle-expenses-banner.png)
 
 # Lifestyle Expenses
 Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
@@ -42,7 +42,7 @@ Maintaining this kind of lifestyle doesn’t require you to spend any coin, but 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/food-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/food-banner.png)
 
 ## Food, Drink, and Lodging
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. There prices are included in your total lifestyle expenses.
@@ -51,33 +51,33 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 |Item|Cost|
 | :---|---: |
 |*Ale*||
-|&emsp;&emsp;Gallon|2 sp|
-|&emsp;&emsp;Mug|4 cp|
+|. . Gallon|2 sp|
+|. . Mug|4 cp|
 |Banquet (per person)|10 gp|
 |Bread, loaf|2 cp|
 |Cheese, hunk|1 sp|
 |*Inn stay (per day)*||
-|&emsp;&emsp;Squalid|7 cp|
-|&emsp;&emsp;Poor|1 sp|
-|&emsp;&emsp;Modest|5 sp|
-|&emsp;&emsp;Comfortable|8 sp|
-|&emsp;&emsp;Wealthy|2 gp|
-|&emsp;&emsp;Aristocratic|4 gp|
+|. . Squalid|7 cp|
+|. . Poor|1 sp|
+|. . Modest|5 sp|
+|. . Comfortable|8 sp|
+|. . Wealthy|2 gp|
+|. . Aristocratic|4 gp|
 |*Meals (per day)*||
-|&emsp;&emsp;Squalid|3 cp|
-|&emsp;&emsp;Poor|6 cp|
-|&emsp;&emsp;Modest|3 sp|
-|&emsp;&emsp;Comfortable|5 sp|
-|&emsp;&emsp;Wealthy|8 sp|
-|&emsp;&emsp;Aristocratic|2 gp|
+|. . Squalid|3 cp|
+|. . Poor|6 cp|
+|. . Modest|3 sp|
+|. . Comfortable|5 sp|
+|. . Wealthy|8 sp|
+|. . Aristocratic|2 gp|
 |Meat, chunk|3 sp|
 |*Wine*||
-|&emsp;&emsp;Com⁠mon (pitcher)|2 sp|
-|&emsp;&emsp;Fine (bottle)|10 gp|
+|. . Com⁠mon (pitcher)|2 sp|
+|. . Fine (bottle)|10 gp|
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/services-banner.webp)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses/services-banner.png)
 
 ## Services
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
@@ -92,11 +92,11 @@ Ski⁠lled hirelings include anyone hired to perform a service that involves a p
 |Service|Pay|
 | :---|---: |
 |*Coach cab*||
-|&emsp;&emsp;Between towns|3 cp per mile|
-|&emsp;&emsp;Within a city|1 cp|
+|. . Between towns|3 cp per mile|
+|. . Within a city|1 cp|
 |*Hireling*||
-|&emsp;&emsp;Sk⁠illed|2 gp per day|
-|&emsp;&emsp;Untrained|2 sp per day|
+|. . Sk⁠illed|2 gp per day|
+|. . Untrained|2 sp per day|
 |Messenger|2 cp per mile|
 |Road or gate toll|1 cp|
 |Ship's passage|1 sp per mile|
