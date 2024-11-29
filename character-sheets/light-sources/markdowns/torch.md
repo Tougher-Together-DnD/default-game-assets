@@ -1,7 +1,7 @@
 [md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/characters-sheets/light-sources/images/torch-portrait.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/light-sources/images/torch-portrait.png)
 
 ## Torch
 
