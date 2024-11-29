@@ -3,7 +3,7 @@
 
 ![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-banner.png)
 
-# Ship Actions
+# Ship and Crew Actions
 
 Ship actions represent the coordinated efforts required to operate a vessel during its turn. To perform any action, whether it's navigating treacherous waters, firing a ballista, raising sails, or engaging in evasive maneuvers, crew members—whether players or NPCs—must fulfill specific roles.
 
