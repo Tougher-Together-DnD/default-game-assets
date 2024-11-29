@@ -1,3 +1,9 @@
+[md]
+[css](-OCVFMyYfsylqoZPiW6l)
+
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/house-rules-banner.png)
+
+
 # House Rules and Gameplay Mechanics
 
 Welcome to the table! These house rules aim to keep gameplay immersive and fluid, empowering players to focus on strategy, creativity, and storytelling. The following sections guide you through what to expect during your turn, how to make decisions, and how the game world interacts with your character's actions. If you feel any these house rules negatively impact a particular skill or feature of your character talk to your Dungeon Master (DM). Sometimes to restore balance to the game the DM will choose to modify that skill or feat. Such as the "Master Weapon" feat.
