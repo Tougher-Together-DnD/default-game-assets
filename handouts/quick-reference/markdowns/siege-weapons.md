@@ -1,13 +1,15 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/siege-weapons/siege-weapons-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/siege-weapons-banner.png)
 
 # Siege Weapons
-Siege Weapons are large weapons that require a crew to operate. They are either implaced, meaning restrained to one spot in a castle or aboard a ship, or they are mobile atop wheels or a large beast of burden.
 
-##### Siege Weapons
-| Item | Cost | Damage | Stats | Properties |
+Siege Weapons are large weapons that require a crew to operate. They are either emplaced, meaning restrained to one spot in a castle or aboard a ship, or they are mobile atop wheels or a large beast of burden.
+
+###### Siege Weapons Table
+
+| **Item** | **Cost** | **Damage** | **Stats** | **Properties** |
 | :--- | ---: | :--- | ---: | :--- |
 | [Ballista](https://app.roll20.net/compendium/dnd5e/Items:Ballista?expansion=7583#content) | 60 gp | 3d10 | AC 15/HP 50 | Ammunition (range 120/480), reload |
 | [Arcane Cannon](https://app.roll20.net/compendium/dnd5e/Items:Arcane%20Cannon/#h-Arcane%20Cannon) | 1,000 gp | Varies | AC 19/HP 100 | Pick one from types. |
@@ -27,5 +29,5 @@ Siege Weapons are large weapons that require a crew to operate. They are either 
 | . . Stone | 1 gp | | 20 lb. | |
 | . . Pitch Covered Stone | 50 gp | | 20 lb. | Deploys Alchemist Fire in addition to damage. |
 
-*Siege Property: Indicates the weapon deals double damage against buildings.
+\* Siege Property: Indicates the weapon deals double damage against buildings.
 

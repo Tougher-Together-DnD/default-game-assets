@@ -1,18 +1,23 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/intoxicating-drinks/intoxicating-drinks-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/intoxicating-drinks-banner.png)
 
 # Intoxicating Drinks
+
+Intoxicating drinks can add flavor to your D&D game, offering a mix of roleplay opportunities and mechanical effects. Whether it's a celebratory ale after a hard-won battle, a potent dwarven spirit shared during tense negotiations, or an exotic elven wine served at a noble's banquet, these drinks can bring depth to your world. Characters might indulge for courage, camaraderie, or cultural connection, but every sip carries the risk of inebriation.
+
+Mechanically, consuming intoxicating drinks could temporarily boost Charisma for social interactions, or grant resistance to fear effects, but excessive indulgence might impose penalties to Dexterity or Wisdom checks. Roll Constitution saving throws to resist intoxication, with DCs increasing for each drink consumed in quick succession. Tailoring drinks to your world—like firebrand whiskey from the Elemental Plane of Fire or enchanted fey mead that induces dreams—can make these moments memorable and unique.
 
 ***
 
 ## Strength of Drinks
+
 Use the Strength of the Drink table for your Table 2 calculations.
 
-##### Table 1 - Strength of Drinks
+###### Strength of Drinks Table 1
 
-| Level | Label | Description |
+| **Level** | **Label** | **Description** |
 | :---:| :---: |:---|
 | .5 | Watered Down | The drink has been watered down or grog. Takes twice as many glasses to equal a full serving. |
 | 1 | Weak | Common ales and beers served in tall mugs. |
@@ -23,11 +28,12 @@ Use the Strength of the Drink table for your Table 2 calculations.
 ***
 
 ## Intoxication Threshold
+
 To gain an effect after each glass of a drink make a Constitution Saving Throw Vs. Intoxication (10 + Strength of Drink + any levels of [Exhaustion](https://app.roll20.net/compendium/dnd5e/Rules%3AConditions?sharedCompendium=11497404#toc_4)). Upon a failure add a level of **Inebriation** to your character and apply the effect.
 
-##### Table 2 - Character Levels of Inebriation
+###### Character Levels of Inebriation Table 2
 
-| Inebriated | Name | Effects |
+| **Inebriated** | **Name** | **Effects** |
 | :-------: |:---:|:---|
 | 0 | Sober | No ill effects |
 | 1 | Slight | Roll from Table Two. |
@@ -38,10 +44,12 @@ To gain an effect after each glass of a drink make a Constitution Saving Throw V
 ***
 
 ## Effects of Liquor
+
 With a failed Constitution Save roll to see what effect the drink has upon you.
 
-##### Table 3 - Character Effects
-| 1d8 | Condition | Description |
+###### Character Effects Table 3
+
+| **1d8** | **Condition** | **Description** |
 | :---: | :---|:---|
 | 1 | "Liquid Courage" | Your nerves are calmed. you feel surprisingly brave. (Advantage on Saving Throws and Checks against *Feared* and *Intimidation*) |
 | 2 | "Three Sheets to the Wind" | You begin to lurch side to side as you walk, making a zig-zag motion. (Disadvantage on Dexterity Saving Throws, Movement speed cut in half). |
@@ -55,6 +63,7 @@ With a failed Constitution Save roll to see what effect the drink has upon you.
 ***
 
 ## Detoxing and Hangovers
+
 Your **Levels of Inebriation** are decreased by 1 at the end of a short rest, and are zero at the end of a long rest.
 
 If you have at least 1 level of exhaustion gained from intoxication and no **Levels of Inebriation**, you have a ***Hangover***.
@@ -63,16 +72,18 @@ While you’re ***hungover***, you are vulnerable to thunder damage and have dis
 
 ***
 
-## Record of Exposure
+## Player Record of Exposure
+
 Due to physical and psychological effects, many people have the belief that the same type of liquor consistently affects them the same way. Record your results for each type of liquor you partake of, for quick reference for effects to apply.
 
-##### Table 4 - Record of Known Liquors
-| BEVERAGE | STRENGTH | FIRST EFFECT | SECOND EFFECT |
+###### Record of Known Liquors
+
+| **BEVERAGE** | **STRENGTH** | **FIRST EFFECT** | **SECOND EFFECT** |
 | :---: | :---: | :---: | :---: |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | |<!----> |
+|. | | | |
+|. | | | |
+|. | | | |
+|. | | | |
+|. | | | |
+|. | | | |
+|. | | | |

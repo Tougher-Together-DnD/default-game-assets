@@ -1,11 +1,15 @@
-﻿
+﻿[md]
+[css](-OCVFMyYfsylqoZPiW6l)
+
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/motd-note-banner.png)
 
 # Welcome!
+
 Glad to have you join this session for Invasion of Eirinn.
 
 Be sure to check out the **Player References** folder for handouts regarding macros, Adventuring Gear, Downtime Activities, Factions, and more.
 
-## **Token Bars**
+## Token Bars
 Token bars are setup as follows: Bar 1: hp Bar 2: temp\_hp Bar 3: elevation
 
 When you modify your HP (Bar 1), an API script will automatically adjust your temporary hp and hp bar to adjust.

@@ -16,11 +16,14 @@ An important change to bear in mind is: Characters do **not** need to be spellca
 
 ## Requirements
 
-1. **Formula**: A *formula*,*blueprint*, or recipe is required. This is the secret knowledge to prepare the rare material component to imbue magical properties into the item. Or for a common item, pragmatically preserve the material, such as turn hide into leather for shoes.
-2. **Materials**: Exotic materials are necessary for magical items, often found throughout the adventure in thematically appropriate locations (e.g., Yeti skin or water from the Elemental Plane of Water). Even common non-magical items will have some starting material needed.
-3. **Gold Cost and Time Cost**: Costs and times differ from the DMG, as players gather materials by encountering creatures.
-4. **Tools and Skills Proficiencies**  
-   Appropriate proficiencies (e.g., Jeweler’s Tools, Arcana) are required.
+###### Crafting Requirements Table
+
+| **Requirement**               | **Details**                                                                                                                 |
+| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| Formula                       | A formula, blueprint, or recipe is required. It provides the knowledge to prepare materials, whether for magical or common. |
+| Materials                     | Exotic materials for magical items or common materials for non-magical items.                                               |
+| Gold Cost and Time Cost       | Costs and crafting times vary based on the item's rarity and materials, often tied to creature encounters.                  |
+| Tools and Skill Proficiencies | Specific tools (e.g., Jeweler’s Tools) and skills (e.g., Arcana) are needed to craft items successfully.                    |
 
 ### Formula
 
@@ -34,10 +37,10 @@ Materials are the pragmatic components needed for crafting, ranging from common 
 
 Characters can gather resources from creatures, mine rare minerals, or purchase supplies from specialized merchants. Some materials may also need refining, such as smelting ores into usable ingots or treating hides into leather. Rare and legendary materials often involve greater challenges, adding a sense of achievement to the crafting process. By linking materials to exploration and roleplay, crafting becomes an adventure, creating meaningful and memorable items.
 
-**Crafting Table**
+###### Crafting Materials, Cost, and Time Table
 
 | **Item Rarity** | **Material CR Range** | **Cost**   | **Workweeks** |
-| --------------- | --------------------- | ---------- | ------------- |
+| :-------------- | :-------------------- | :--------- | :------------ |
 | Non-Magical     | less than 1           | 25 gp      | .5            |
 | Common          | 1–3                   | 50 gp      | 1             |
 | Uncommon        | 4–8                   | 200 gp     | 2             |
@@ -55,10 +58,10 @@ A Character attempting to make an item will need the right tools and the experti
 
 These skills reflect the character’s deeper understanding of the materials or magic involved. Without the proper tools or proficiencies, crafting becomes much harder, increasing the risk of failure or wasting resources.
 
-**Skills to item Table**
+###### Crafting Skills Table
 
 | **Tool Proficiency**    | **Items a Character Can Craft**                                 |
-| ----------------------- | --------------------------------------------------------------- |
+| :---------------------- | :-------------------------------------------------------------- |
 | Alchemist’s Supplies    | Acid, alchemist’s fire, antitoxins, oils, perfumes, soap        |
 | Brewer’s Supplies       | Beer, ale, purified water                                       |
 | Calligrapher’s Supplies | Scrolls, ornate scripts, treasure maps with hidden messages     |
@@ -93,8 +96,10 @@ These skills reflect the character’s deeper understanding of the materials or 
 
 Even when all the requirements for crafting are met, setbacks can occur, adding tension and narrative depth to the process. Crafting isn't always a straightforward task; tools may break, rival artisans might interfere, or unforeseen events can complicate progress. These challenges represent the unpredictability of crafting in a dynamic world and offer opportunities for roleplay and creative problem-solving.
 
+###### Crafting Challenges Table
+
 | **D6 Roll** | **Complication**                                      |
-| ----------- | ----------------------------------------------------- |
+| :---------- | :---------------------------------------------------- |
 | 1           | Rumors swirl that your work is unstable.              |
 | 2           | Your tools are stolen, forcing you to buy new ones.   |
 | 3           | A local wizard insists on observing your work.        |
@@ -110,12 +115,14 @@ Selling magic items isn’t as simple as walking into a market and naming your p
 
 Once a buyer is found, the final price depends on the seller’s ability to negotiate. A **Charisma (Persuasion)** check determines the offer made, with higher rolls yielding more lucrative deals. The rarity of the item also influences its base price, as shown below:
 
-| **Rarity**  | **Roll 1–10** | **Roll 11–20** | **Roll 21+** |
-|-------------|---------------|----------------|--------------|
-| Common      | 50 gp         | 100 gp         | 150 gp       |
-| Uncommon    | 200 gp        | 400 gp         | 600 gp       |
-| Rare        | 2,000 gp      | 4,000 gp       | 6,000 gp     |
-| Very Rare   | 20,000 gp     | 40,000 gp      | 60,000 gp    |
-| Legendary   | 100,000 gp    | 200,000 gp     | 300,000 gp   |
+###### Selling Magic Item Negotiations Table
+
+| **Rarity** | **Roll 1–10** | **Roll 11–20** | **Roll 21+** |
+| :--------- | :------------ | :------------- | :----------- |
+| Common     | 50 gp         | 100 gp         | 150 gp       |
+| Uncommon   | 200 gp        | 400 gp         | 600 gp       |
+| Rare       | 2,000 gp      | 4,000 gp       | 6,000 gp     |
+| Very Rare  | 20,000 gp     | 40,000 gp      | 60,000 gp    |
+| Legendary  | 100,000 gp    | 200,000 gp     | 300,000 gp   |
 
 Selling magic items can lead to roleplay opportunities, as the process of finding buyers may draw the attention of merchants, nobles, or even thieves. Players should be prepared to negotiate, navigate complications, or turn down unfavorable offers. The challenge of selling magic items makes them feel valuable and reinforces their role as treasures in the world.

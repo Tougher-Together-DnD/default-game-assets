@@ -12,84 +12,83 @@ The Maintenance Costs table shows the per-day upkeep cost for any such property.
 
 **Total Cost per Day.** The cost includes everything it takes to maintain the property and keep things running smoothly, including the salaries of hirelings. If the property earns money that can offset maintenance costs (by charging fees, collecting tithes or donations, or selling goods), that is taken into account in the table.
 
-**Skilled and Untrained Hirelings**. The *Player’s Handbook* explains the difference between a skilled hireling and an untrained one.
+**Skilled and Untrained Hirelings**. Skilled hirelings are professionals with specific proficiencies (such as in weapons, tools, or skills) and include mercenaries, artisans, or scribes, often requiring higher pay. Unskilled hirelings perform basic labor or tasks needing no special expertise, such as porters, maids, or general laborers.
 
-##### Maintenance Costs
-| Property | Total Cost per Day | Skilled Hirelings | Untrained Hirelings |
-| :---|---: | :---------------: | :-----------------: |
-|          Abbey          |       20 gp        |         5         |         25          |
-|          Farm           |        5 sp        |         1         |          2          |
-| Guildhall, town or city |        5 gp        |         5         |          3          |
-|   Inn, rural roadside   |       10 gp        |         5         |         10          |
-|    Inn, town or city    |        5 gp        |         1         |          5          |
-|  Keep or small castle   |       100 gp       |        50         |         50          |
-|     Lodge, hunting      |       5 sp,        |         1         |          —          |
-|      Noble estate       |       10 gp        |         3         |         15          |
-|     Outpost or fort     |       50 gp        |        20         |         40          |
-| Palace or large castle  |       400 gp       |        200        |         100         |
-|          Shop           |        2 gp        |         1         |          —          |
-|      Temple, large      |       25 gp        |        10         |         10          |
-|      Temple, small      |        1 gp        |         2         |          —          |
-|    Tower, fortified     |       25 gp        |        10         |          —          |
-|      Trading post       |       10 gp        |         4         |          2          |
+**Garrisons**: Castles and keeps employ soldiers (use the veteran and guard statistics in the *Monster Manual*) to defend them. Roadside inns, outposts and forts, palaces, and temples rely on less-experienced defenders (use the guard statistics in the *Monster Manual*). These armed warriors make up the bulk of a property’s skilled hirelings.
 
-***
+###### General Maintenance Costs Table
 
-## Businesses
-An adventurer-owned business can earn enough money to cover its own maintenance costs. However, the owner needs to periodically ensure that everything is running smoothly by tending to the business between adventures. ~~See the information on running a business in the “Downtime Activities” section of this chapter.~~
-
-A character rolls a percentile dice and adds the number of days spent on his downtime activity (maximum 30), then compares the total to the **Running a Business* table to determine what happens.
-
-If the character spends 1gp per day to promote the business add +1 (maximum 30) to the die roll.
-
-If a character is required to pay a cost as a result of rolling on this table but fails to do so, the business begins to fail. For each unpaid debt incurred in this manner, the character takes a -10 penalty to subsequent rolls made on this table.
-
-###### Running a Business
-| 1d100 + days | Result |
-| :---|---: |
-| 01-20 | You must pay one and a half times the business's maintenance cost for each of the days. |
-| 21-30 | You must pay the business's full maintenance cost for each of the days. |
-| 31-40 | You must pay half the business's maintenance cost for each day. |
-| 41-60 | The business covers its own maintenance cost for each of the days. |
-| 61-80 | The business covers its own maintenance cost for each day. It earns a profit of 1d6 x 5 gp. |
-| 81-90 | The business covers its own maintenance cost for each day. It earns a profit of 2d8 x 5 gp. |
-| 91 or higher | The business covers its own maintenance cost for each day. It earns a profit of 3d10 x 5 gp. |
+| **Property**            | **Total Cost per Day** | **Skilled Hirelings** | **Untrained Hirelings** |
+| :---------------------- | :--------------------: | :-------------------: | :---------------------: |
+| Abbey                   |         20 gp          |           5           |           25            |
+| Farm                    |          5 sp          |           1           |            2            |
+| Guildhall, town or city |          5 gp          |           5           |            3            |
+| Inn, rural roadside     |         10 gp          |           5           |           10            |
+| Inn, town or city       |          5 gp          |           1           |            5            |
+| Keep or small castle    |         100 gp         |          50           |           50            |
+| Lodge, hunting          |         5 sp,          |           1           |            —            |
+| Noble estate            |         10 gp          |           3           |           15            |
+| Outpost or fort         |         50 gp          |          20           |           40            |
+| Palace or large castle  |         400 gp         |          200          |           100           |
+| Shop                    |          2 gp          |           1           |            —            |
+| Temple, large           |         25 gp          |          10           |           10            |
+| Temple, small           |          1 gp          |           2           |            —            |
+| Tower, fortified        |         25 gp          |          10           |            —            |
+| Trading post            |         10 gp          |           4           |            2            |
 
 ***
 
-## Example Businesses
+## Running a Business
 
-### Basic Shop Build:
-**Requirements:**
-* Deed to conduct business (100gp for acquiring a place of business, using the "deed estate ownership" pricing.)
-* Hire a Shopkeeper
-* Upkeep(including Hireling expenses) of 2gp/day.
+Adventurer-owned businesses can sustain themselves and even earn profits, but owners must occasionally check in to ensure operations run smoothly. Use the **Running a Business** table to determine the outcome of tending to the business during downtime.
 
-**Startup cost:** 162gp+
+1. **Roll 1d100 + downtime days**: Characters can donate Downtime days to being present and managing the business (maximum 30 days).  
+2. **Promote the business**: By spending 1gp per day to gain a +1 bonus to the roll (maximum +30).  
+3. **Debts**: If required to pay costs due to the roll and fail to do so, the business incurs debts. Each unpaid debt imposes a -10 penalty on future rolls.
 
-**Monthly cost:** 60gp
+###### Running a Business Table
 
-### Basic Farm Build:
-**Requirements:**
-* Royal Charter, land grant or deed as proof of ownership to a plot of land. (1000gp for a small estate)
-* 1 skilled hireling, 2 unskilled hireling
-* Upkeep(including Hireling expenses) of 5sp/day.
+| **1d100 + Days** | **Outcome**                                             |
+| :--------------- | :------------------------------------------------------ |
+| 01-20            | Pay 1.5x the business's maintenance cost per day.       |
+| 21-30            | Pay the full maintenance cost per day.                  |
+| 31-40            | Pay half the maintenance cost per day.                  |
+| 41-60            | Business breaks even, covering its maintenance cost.    |
+| 61-80            | Business breaks even and earns a profit of 1d6 × 5 gp.  |
+| 81-90            | Business breaks even and earns a profit of 2d8 × 5 gp.  |
+| 91 or higher     | Business breaks even and earns a profit of 3d10 × 5 gp. |
 
-**Startup Cost:** 1015gp
+#### Example Business Setups
 
-**Monthly cost:** 15gp
-### Basic Tavern Build:
-**Requirements:**
-* Royal Charter, land grant or deed as proof of ownership to a plot of land. (1000gp for a small estate)
-* 5,000gp and 60 days of construction time to build a Guildhall Stronghold as the Tavern.
-* 5 skilled hirelings and 10 unskilled hirelings, or 1 skilled hireling and 5 unskilled hireling
-* Upkeep(including Hireling expenses) of 5gp-10gp/day.
+###### Basic Shop Table
 
-**Startup cost:** 6150gp-6300gp
+| **Requirement**     | **Cost/Details**   |
+| :------------------ | :----------------- |
+| Deed                | 100 gp             |
+| Shopkeeper Hireling | Included in upkeep |
+| Upkeep              | 2 gp/day           |
+| **Startup Cost**    | 162 gp             |
+| **Monthly Cost**    | 60 gp              |
 
-**Monthly cost:** 150gp-300gp
+###### Basic Farm Table
 
-***
+| **Requirement**     | **Cost/Details**       |
+| :------------------ | :--------------------- |
+| Land Deed           | 1,000 gp               |
+| Skilled Hireling    | Included in upkeep     |
+| Unskilled Hirelings | 2 (included in upkeep) |
+| Upkeep              | 5 sp/day               |
+| **Startup Cost**    | 1,015 gp               |
+| **Monthly Cost**    | 15 gp                  |
 
-## Garrisons
-Castles and keeps employ soldiers (use the veteran and guard statistics in the *Monster Manual*) to defend them. Roadside inns, outposts and forts, palaces, and temples rely on less-experienced defenders (use the guard statistics in the *Monster Manual*). These armed warriors make up the bulk of a property’s skilled hirelings.
+###### Basic Tavern Table
+
+| **Requirement**  | **Cost/Details**                                              |
+| :--------------- | :------------------------------------------------------------ |
+| Land Deed        | 1,000 gp                                                      |
+| Construction     | Guildhall (5,000 gp, 60 days)                                 |
+| Staffing         | 5 skilled, 10 unskilled hirelings (or 1 skilled, 5 unskilled) |
+| Upkeep           | 5–10 gp/day                                                   |
+| **Startup Cost** | 6,150–6,300 gp                                                |
+| **Monthly Cost** | 150–300 gp                                                    |
+

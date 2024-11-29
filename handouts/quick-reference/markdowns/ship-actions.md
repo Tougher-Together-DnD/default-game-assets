@@ -1,22 +1,20 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/ship-actions.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-banner.png)
 
 # Ship Actions
-For a ship or vehicle to perform any action during its turn, crew members (Players or NPCs) must operate the vessel or weapon system.
 
-***
+Ship actions represent the coordinated efforts required to operate a vessel during its turn. To perform any action, whether it's navigating treacherous waters, firing a ballista, raising sails, or engaging in evasive maneuvers, crew members—whether players or NPCs—must fulfill specific roles.
 
-## Ships in Combat 
 Whether sailing to war or hunting notorious pirates, ships make deadly [Weapons](https://app.roll20.net/compendium/dnd5e/Weapons#h-Weapons) and dramatic battlefields. This section provides [Guidance](https://app.roll20.net/compendium/dnd5e/Guidance#h-Guidance) on using ships in [Combat](https://app.roll20.net/compendium/dnd5e/Combat#h-Combat).
 
-### Initiative
+## Initiative
+
 A ship rolls [Initiative](https://app.roll20.net/compendium/dnd5e/Designing%20Complex%20Traps#h-Initiative) using its [Dexterity](https://app.roll20.net/compendium/dnd5e/Ability%20Scores#h-Dexterity), and it uses its crew’s quality score as a modifier to that roll.
 
 On a ship’s turn, the captain decides which of the ship’s Actions to use.
 
-### Basic Actions
 **Move.** For Each Movement Component operated, the Ship will have a Speed Unit available during the Ship Phase. Each Speed Unit is a set distance.
 
 **Turn.** When a Helm Component is operated, the Ship will be able to make turns, or evasive maneuvers.
@@ -31,15 +29,17 @@ During the next Ship Phase, your ships will be adjacent to each other (0 ft apar
 
 If you equal or beat your opponent’s check, the escape attempt succeeds. The escaping ship’s speed increases by 10 ft. and is no longer grappled.
 
-### Crashing a Ship
+## Crashing a Ship
+
 If a ship moves into the space occupied by a creature or an object, the ship might crash. A ship avoids Crashing if the creature or object is at least two sizes smaller than it.
 
 When a ship crashes, it must immediately make a DC 10 Constitution saving throw. On a failed save, it takes damage to its hull based on the size of the creature or object it crashed into, as shown on the Crash Damage table. It also stops moving if the object or creature is one size smaller than it or larger. Otherwise the ship continues moving and the creature or object collided with moves to the nearest unoccupied space that isn’t in the ship’s path. At the DM’s discretion, an object that is forced to move but is fixed in place is instead destroyed.
 
 A creature struck by a ship must make a Dexterity saving throw with a DC equal to 10 + the ship’s Strength modifier, taking damage based on the ship’s size (as shown on the Crash Damage table) on a failed save, or half as much damage on a successful one.
 
-##### Crash Damage
-|    Size    | Bludgeoning Damage |
+###### Crash Damage
+
+|    **Size**    | **Bludgeoning Damage** |
 | :---: | :---: |
 |   Small    |        1d6         |
 |   Medium   |        1d10        |
@@ -47,7 +47,8 @@ A creature struck by a ship must make a Dexterity saving throw with a DC equal t
 |    Huge    |        8d10        |
 | Gargantuan |       16d10        |
 
-### Sinking Condition
+#### Sinking Condition
+
 A ship that has its Hull reduced to 0 or fewer [hit points](https://www.5esrd.com/gamemastering/combat#TOC-Hit-Points) gains the sinking condition. A sinking ship cannot move or [attack](https://www.5esrd.com/gamemastering/combat#TOC-Attack), and it takes on water and in 10 rounds after gaining the sinking condition submerges completely underwater. 
 
 Each additional hit on a sinking ship that deals more than 25 points of damage reduces the remaining time for it to submerge by 1 round. 
@@ -62,16 +63,16 @@ Generally, nonmagical repairs take too long to save a ship from sinking once it 
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/crew-banner.png)
-
 ## Crew Members
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-crew.png)
+
 A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.
 
 The Quality of the Crew adds a bonus to some actions and features. Most ships have a base Initiative of 10. The Quality of the Crew is added to the Initiative for purposes of turn order.
 
 A typical crew member uses the Commoner stat block in the Monster Manual.
 
-### Basic Actions
 During a players turn they can take their normal Action or perform a *Crew Action* that benefits the operation of the vessel. 
 
 Some positions such as weapons or engine components must continually be manned to offer benefits. A Player can still take their Bonus, Movement, and other such actions. Some *components* require a Player to stay within range to operate.
@@ -79,6 +80,7 @@ Some positions such as weapons or engine components must continually be manned t
 Essentially, a component must be manned for its *effect* to be available to the Ship during its Ship Phase.
 
 ### Operate
+
 The most used Crew Action will be "Operate". Players and NPC Crew members will operate a component of the ship granting an effect or action that can be used during the ship phase. Here are some of the most common components of a ship:
 
 **Movement.**
@@ -101,6 +103,7 @@ For every crew member operating a weapon, the ship receives an Attack action wit
 Other equipment on board a ship may also require the "Operate" Crew Action. The description of these items will detail how they are to be interacted with and their effect.
 
 ### Communicate
+
 Crews that operate well with each other communicate their actions to other members. The ship then becomes a well oiled machine and able to rise in initiative. The following is taken from the Crew Action Command but is more aptly called Communicate.
 
 While each sailor contributes in their own way to the efficiency of the ship, it is ultimately useless without people to co-ordinate it and ensure the ship doesn’t end up sailing in circles. Anyone is capable of taking the action, whether it’s a galley master beating a double time beat on the drums, a navy officer waving flag signals, or just someone passing on instructions to the sailors below deck.
@@ -108,14 +111,17 @@ While each sailor contributes in their own way to the efficiency of the ship, it
 Taking the “Communicate” Crew Action takes a successful DC 10 Charisma check. Success adds +2 to the ship’s initiative during the Ship Phase. This bonus only lasts for one round and a ship’s initiative score is reset to its normal value at the end of each round. There is no limit to how many characters may take the Communicate Crew Action in one round. Multiple successful Communicate Crew Actions stack.
 
 ### Forage 
+
 The character casts out fishing lines, keeping an eye out for sources of food, making a Wisdom (Survival) check when the DM calls for it.
 
 ### Scan for Threats
+
 Use the passive Wisdom (Perception) score of the characters or the crew to determine whether anyone on the ship notices a hidden threat. The crew has a passive Wisdom (Perception) score equal to 10 + Crew Quality.
 
 The DM might decide that a threat can be noticed only by characters in a specific area of the ship. For example, only characters below deck might have a chance to hear or spot a creature hiding on board.
 
 ### Mutiny
+
 A poorly led or mistreated crew might turn against its officers. Once per day, if a crew’s quality score is lower than 0, the captain must make a Charisma (Intimidation or Persuasion) check modified by the crew’s quality score.
 
 If the check total is between 1 and 9, the crew’s quality score decreases by 1.
@@ -125,22 +131,25 @@ If the check total is 0 or lower, the crew mutinies. They become Hostile to the 
 When the DM ends the mutiny, the crew’s quality score increases by 1d4.
 
 ### Shore Leave
+
 Life aboard a ship is a constant wear on the crew. Spending time in port allows the crew to relax and regain its composure. If a crew’s quality score is 3 or lower, the score increases by 1 for each day the crew spends in port or ashore.
 
 ***
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/officers-banner.png)
-
 ## Officers
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-officers.png)
+
 Each vessel requires people to run it: the officers in charge and the sailors who follow their orders.
 
 If you’d like to explore running a ship, it needs officers to oversee its operations, officers who fill six different roles. Some roles aboard a ship reflect the need for trained experts to direct a crew’s efforts. Other roles focus on keeping the crew’s health and morale in order. The roles are meant to provide a sense of the types of Ability Checks useful to managing a ship. Of these, though, captain is the only role that must be filled for the ship to function. A ship needs a single person to issue orders and respond to threats, otherwise a ship risks chaos and confusion during a crisis.
 
 Each type of officer is described below, along with the Abilities and Proficiencies that help a character excel in that role:
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/captain-banner.png)
-
 ### Captain
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-captain.png)
+
 The captain issues orders. The best captains have high Wisdom and Charisma scores, as well as proficiency with Water Vehicles and the Intimidation and Persuasion Skills.
 
 **Full Speed Ahead (Captain, First Mate, or Bosun Only)**
@@ -158,9 +167,10 @@ For 1 minute once a day the Captain can maintain a ships position against natura
 **Stealth (Captain Only)**
 The ship’s Captain can engage in this activity only if the weather conditions restrict visibility, such as in heavy fog. The ship makes a DC 18 Water Vehicle (Dexterity) check + Crew Quality score to determine if it can hide.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/bosun-banner.png)
-
 ### Bosun
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-bosun.png)
+
 The bosun (or boatswain) provides technical advice to the captain and crew and leads repair and maintenance efforts. A good bosun has a high Strength score, as well as proficiency with Carpenter’s tools and the Athletics skill.
 
 These actions are different from the abilities capable by a shipwright background.
@@ -174,9 +184,10 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Take Aim (First Mate, or Bosun Only)**
 As an action the First Mate, or Bosun directs the crew’s firing, aiding in aiming one of the ship’s Weapons. Select one of the ship’s Weapons that is within 10 feet of the officer. Make a DC 18 Charisma (Persuasion or Intimidation) + Crew Quality The Attack and Damage rolls of the weapon increase by +2, and attack rolls of 19 or 20 act as critical hits.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/deckwizard-banner.png)
-
 ### Deck Wizard
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-deckwizard.png)
+
 The Deck Wizard provides magical offensive and defensive capabilities to a ship. They aid and instruct the Bosun in making magical upgrades to the ship. A good Deck Wizard benefits from knowledge of the Arcane and Intelligence.
 
 **Man and Machine (Deck Wizard Only)**
@@ -189,9 +200,10 @@ Adding an upgrade costs 7,000 gp and requires 1d4 weeks of work. During that tim
 
 At the end of the upgrade, the Deck Wizard makes a DC 18 Arcana (Intellect) check plus Crew Quality score. On a successful check the upgrade succeeds. On a failed check the DM may stipulate a reduced effect of the upgrade.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/firstmate-banner.png)
-
 ### First Mate
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-firstmate.png)
+
 This specialist keeps the crew’s morale high by providing supervision, encouragement, and discipline. A First Mate benefits from a high Charisma score, as well as proficiency with the Intimidation and Persuasion Skills.
 
 **Take Aim (First Mate, or Bosun Only)**
@@ -203,9 +215,10 @@ As an action while on deck, the Captain, First Mate, or Bosun can exhort the cre
 **Raise Morale (First Mate or Quartermaster Only)**
 The first mate can manage the crew’s time to grant extended breaks, provide instruction, and improve morale. The Quarter Master can acquire food for a feast, wine, smokes, or entertainment to come aboard. Once per day, if the crew’s quality score is 4 or lower, the first mate can make a DC 18 Charisma (Persuasion) check. Or the Quarter master can make a DC 18 Charisma (Performance) check. On a successful check, the crew’s quality score increases by 1.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/surgeon-banner.png)
-
 ### Surgeon
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-surgeon.png)
+
 The ship’s surgeon tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as proficiency with Herbalism kits and the Medicine skill.
 
 **Hygiene (Surgeon Only)**
@@ -214,9 +227,10 @@ As an action once a day the ship Surgeon can encourage the crew to perform basic
 **Triage (Surgeon Only)**
 A ships Surgeon can reduce the recovery time of crew and players. Making a DC18 Medicine (Wisdom) or Herbalism kit check the Surgeon can affect a target humanoid as if a Healing Kit was used.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions/quartermaster-banner.png)
-
 ### Quartermaster
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-quartermaster.png)
+
 The quartermaster plots the ship’s course, relying on knowledge of nautical charts and a study of weather and sea Conditions. A reliable quartermaster tends to have a high Wisdom and Intellect score, as well as proficiency with Navigator’s tools and the Nature skill. Quartermaster's would also be responsible for finding parts and supplies. A proficiency in History and Persuasion skills can aid in these duties. 
 
 **Navigate (Quartermaster Only)**

@@ -53,6 +53,20 @@ h2 {
 
 }
 
+h2:after {
+    content: "";
+
+    display: block;
+
+    height: 70px;
+
+    background-image: url(https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png);
+
+    background-repeat: no-repeat;
+
+    background-position: center bottom;
+}
+
 h3 {
 
     font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
@@ -107,15 +121,13 @@ h6 {
 
     font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
 
-    font-variant: small-caps;
-
     letter-spacing: 2px;
 
-    margin-bottom: .5rem;
+    color: #000000 !important;
 
-    color: #34627B !important;
+    margin-bottom: -.2rem !important;
 
-    margin: .3rem !important;
+    margin-left: 1.5rem !important;
 
 }
 
@@ -365,7 +377,7 @@ img[alt="img_right"] {
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Heading 6
+###### Heading 6 (Table Headers)
 
 ##### Example Rulers
 

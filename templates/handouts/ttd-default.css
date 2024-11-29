@@ -4,9 +4,9 @@ bg {
     padding: 75px 30px;
 
     background:
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-top.png') top center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-bottom.png') bottom center no-repeat,
-        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/handout-body.png') center repeat-y;
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/handout-page-top.png') top center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/handout-page-bottom.png') bottom center no-repeat,
+        url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/handout-page-body.png') center repeat-y;
 
     background-color: #f4f4f4;
 
@@ -49,6 +49,10 @@ h2 {
     color: #34627B !important;
 
     margin: .3rem !important;
+
+    padding-bottom: 20px;
+
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png') left bottom no-repeat;
 
 }
 
@@ -106,15 +110,15 @@ h6 {
 
     font-family: 'mrs eaves', 'times new roman', times, baskerville, garamond !important;
 
-    font-variant: small-caps;
-
     letter-spacing: 2px;
 
-    margin-bottom: .5rem;
+    color: #000000 !important;
 
-    color: #34627B !important;
+    margin-top: 1.5rem !important;
 
-    margin: .3rem !important;
+    margin-bottom: -1.7rem !important;
+
+    margin-left: 1.5rem !important;
 
 }
 
@@ -122,7 +126,7 @@ hr {
 
     border: none;
 
-    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-center-design.png') center center no-repeat;
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-center-design.png') center center no-repeat;
 
     height: 64px !important;
 
@@ -148,7 +152,7 @@ hr.style3 {
 
     border: none;
 
-    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/handouts/images/standard/horizontal-ruler.png') left top no-repeat;
+    background: url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png') left top no-repeat;
 
     height: 32px !important;
 
@@ -312,7 +316,6 @@ main_banner {
     margin-left: auto;
 
     margin-right: auto;
-
 }
 
 
@@ -351,5 +354,4 @@ img_right {
     margin-left: auto;
 
     margin-right: auto;
-
 }
