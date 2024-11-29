@@ -1,7 +1,7 @@
 [md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/house-rules-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-banner.png)
 
 
 # House Rules and Gameplay Mechanics
@@ -13,7 +13,7 @@ Welcome to the table! These house rules aim to keep gameplay immersive and fluid
 This flowchart provides a clear decision-making process for when to require dice rolls, helping you maintain a balance between storytelling and mechanics. Follow these steps during gameplay:
 
 1. **Evaluate the Challenge**: 
-   - If the environment, object, or motive isn’t challenging, there’s no need to roll—roleplay the success.  
+   - If the environment, object, or motive isn’t challenging, there’s no need to roll; roleplay the success.  
    - If it is challenging, move to the next step.
 
 2. **Assess Character Expertise**:
@@ -28,20 +28,24 @@ This flowchart provides a clear decision-making process for when to require dice
 
 4. **Roll If Needed**:
    - If the passive score isn’t enough, the player rolls a die and adds the appropriate modifier. Compare the result to the DC to determine success or failure.
- 
+
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-dm-flowchart.png)
+
+<!--
 ```mermaid
 flowchart TD
     A[Is the Character's intent vs the environment, object, or motive inherently or purposefully challenging?]
-    A -->|No| B[Roleplay success]
-    A -->|Yes| C[Is the Character's intent likely within their basic 'wheel house'?]
-    C -->|Yes| D[Roleplay success]
-    C -->|No| E[Set a DC for an Ability Check, Save, or Attack Roll]
-    E --> F[Are the character's passives equal to or higher than the DC?]
-    F -->|Yes| G[Roleplay success]
-    F -->|No| H[Player rolls dice, adjust score vs DC to determine result]
-    H -->|Roll is equal to or higher than DC| I[Roleplay success]
-    H -->|Roll is lower than DC| J[Roleplay setback]
+    A --\>|No| B[Roleplay success]
+    A --\>|Yes| C[Is the Character's intent likely within their basic 'wheel house'?]
+    C --\>|Yes| D[Roleplay success]
+    C --\>|No| E[Set a DC for an Ability Check, Save, or Attack Roll]
+    E --\> F[Are the character's passives equal to or higher than the DC?]
+    F --\>|Yes| G[Roleplay success]
+    F --\>|No| H[Player rolls dice, adjust score vs DC to determine result]
+    H --\>|Roll is equal to or higher than DC| I[Roleplay success]
+    H --\>|Roll is lower than DC| J[Roleplay setback]
 ```
+-->
 
 ### Example Scenarios
 
@@ -123,6 +127,9 @@ Action economy represents the energy your character uses during their turn to ch
 
 You can imagine your action economy as a nested set of intents. Once you have chosen a Main Action, you can only perform what is left in your Bonus, Move, and free actions.
 
+![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-nested-actions.png)
+
+<!--
 ```mermaid
 graph TD
 	direction LR
@@ -156,7 +163,6 @@ graph TD
 				end
 				subgraph BonusList["`
 					• Attack Off Hand Weapon
-					• Unarmed Strike
 					• Activate Abilities
 					• Cast a Spell (1 ba)
 					• Martial Mastery
@@ -171,6 +177,7 @@ graph TD
 			subgraph ActionList["`
 				• Attack w/ Weapon
 				• Cast Spell (1 action)
+				• Unarmed Strike
 				• Disengage
 				• Dodge
 				• Grapple/Shove
@@ -185,6 +192,7 @@ graph TD
 		end
 	end
 ```
+-->
 
 #### Main Action
 
@@ -194,6 +202,7 @@ The most impactful thing you do during your turn. Your Main Action is the also m
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Attack Main Hand Weapon**        | Use weapons to deal damage or apply effects to a target.                                                         |
 | **Cast a Spell (1 action)**        | Cast a spell with casting time of one Action.                                                                    |
+| **Unarmed Strike**                | Headbutt, Knee, elbow, or other physical body attack. If currently grappling an opponent may include choke hold.          |
 | **Disengage**                      | Move without provoking opportunity attacks until the end of your turn.                                           |
 | **Dodge**                          | Focus on defense, gaining advantage on Dexterity saving throws and imposing disadvantage on attacks against you. |
 | **Grapple/Shove**                  | Control or reposition enemies by grappling them or pushing them away.                                            |
@@ -212,7 +221,6 @@ A Bonus Action is a quick, additional activity you can perform on your turn to c
 | **Intent**                        | **Description**                                                                                                           |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Attack Off Hand Weapon**        | Use weapons to deal damage or apply effects to a target.                                                                  |
-| **Unarmed Strike**                | Headbutt, Knee, elbow, or other physical body attack. If currently grappling an opponent may include choke hold.          |
 | **Activate Abilities**            | Trigger class features, racial traits, or other abilities that require a Bonus Action.                                    |
 | **Cast a Spell (1 bonus action)** | Cast a spell with a casting time of one Bonus Action.                                                                     |
 | **Martial Mastery Property**       | If you are proficient with a martial weapon you can expend a bonus action to perform its martial mastery move (see below) |
@@ -254,10 +262,15 @@ Free Actions are simple, quick tasks that your character can perform without usi
 | **Draw an Item**              | Fetch an prepared item from a pouch or belt loop (if a free hand is available.). This can be things like a potion, rope, ect. |
 | **Look Around**               | Glance at the surroundings for *obvious* details or changes.                                                                  |
 
-
 ## Modified Weapon Mastery
 
-These are modifications of the 2024 Weapon Mastery Properties for each weapon. All Martial weapons have mastery properties
+> Weapon Master Feat (Modified)
+> You have practiced extensively with a variety of weapons, gaining the following benefits:
+> Increase your Strength or Dexterity score by 1, to a maximum of 20.
+> You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
+> *If you already have proficiency with the chosen weapon, you gain expertise.*
+
+These are modifications of the 2024 Weapon Mastery Properties for each weapon. All Martial weapons have mastery properties.
 
 A Character can perform one of the additional effects as a bonus action if they are proficient with a weapon.
 
@@ -274,22 +287,18 @@ A Character can perform one of the additional effects as a bonus action if they 
 
 *Note: Characters can draw or stow one weapon each time they attack as part of the Attack action, allowing for strategic weapon switching during combat. A Player could draw and attack, next turn attack and stow, third turn draw and attack with different weapon. Alternatively a character can drop a weapon without expending an Interact with Object free action.*  
 
->Weapon Master Feat (Modified)
->
->You have practiced extensively with a variety of weapons, gaining the following benefits:
->
->Increase your Strength or Dexterity score by 1, to a maximum of 20.
->You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.
->*If you already have proficiency with the chosen weapon, you gain expertise.*
-
 ### Empowered Healing Spells
 
 All Healing spells (2014 versions) will roll one additional die in addition to the normal amount.
 Creatures that are **immune** to *Necrotic* take damage from healing spells.
 
+### Spiritual Weapon Clarifications
+
+Spiritual weapons are not creatures. They do not have a will to act at their own discretion. As such they have no **reaction** for opportunity attacks. They are ephemeral, therefore can not stop another creature from passing through them. They still grant a flanking bonus to other creatures, as that bonus stems from the target being distracted and less about the attackers. A spiritual weapon can only perform two tasks: Attack and Move.
+
 ## Boons, Banes, and Environmental Factors
 
-Once you have decided on what your character will do, announce each part to your Dungeon Master (DM). If required the Dm will call for a roll. Your die roll will be argumented by a few factors. First you may be asked to roll twice to take the lower (disadvantage) or higher (advantage). Then we apply your flat bonuses to both rolls. To add more impact to tactical situations and manuevers, some things that RAW grant advantage will now grant +2 bonus. more than one flat bonus can be added to a roll, however only one advantage or disadvantage can occur.
+Once you have decided on what your character will do, announce each part to your Dungeon Master (DM). If required the Dm will call for a roll. Your die roll will be augmented by a few factors. First you may be asked to roll twice to take the lower (disadvantage) or higher (advantage). Then we apply your flat bonuses to both rolls. To add more impact to tactical situations and manuevers, some things that RAW grant advantage will now grant +2 bonus. more than one flat bonus can be added to a roll, however only one advantage or disadvantage can occur.
 
 The following modifications change what would normally grant advantage into +2 flat bonuses.
 
@@ -307,6 +316,9 @@ Attacks while falling or flying (if you lack a flying speed)
 Ranged weapon attacks within 5ft of hostile do not incur disadvantage.
 Ranged spell attacks while casting a cantrip within 5ft of a hostile do not incur disadvantage.
 
+## Downtime Activity
+
+At the end of a long rest you roll a 1d4 for Downtime days accrued as a resource. You can expend these days during a long rest within an Inn or other safe places to perform out of session Downtime Activities. 
 
 ## Inspiration Pool
 
@@ -317,12 +329,4 @@ When the party attempts a group stealth check, the **highest and lowest stealth 
 
 ## Exhaustion After 0 HP
 If you are reduced to **0 hit points** and then restored, you immediately gain **1 level of exhaustion**. This reflects the physical toll of being brought back from the brink of death and adds tension to future battles.
-
-## Spiritual Weapon Clarifications
-
-Spiritual weapons are not creatures. They do not have a will to act at their own discretion. As such they have no **reaction** for opportunity attacks. They are ephemeral, therefore can not stop another creature from passing through them. They still grant a flanking bonus to other creatures, as that bonus stems from the target being distracted and less about the attackers. A spiritual weapon can only perform two tasks: Attack and Move.
-
-## Downtime Activity
-
-At the end of a long rest you roll a 1d4 for Downtime days accrued as a resource. You can expend these days during a long rest within an Inn or other safe places to perfrom out of session Downtime Activities. 
 
