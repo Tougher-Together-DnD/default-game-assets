@@ -16,6 +16,8 @@
 	}
 </style>
 
+<!-- Copy and Paste the Rendered output into the Roll20 Forums. -->
+
 ![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/gm-introduction.png)
 <br>
 
@@ -24,11 +26,11 @@
 ### Dungeon Master Background
 (Snippet about DM experience)
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
 
 ### Real Life Stuff
 (Snippet about walks on the beach...)
 
 #### I look forward to seeing you all in game!
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)

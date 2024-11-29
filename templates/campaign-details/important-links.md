@@ -16,6 +16,8 @@
 	}
 </style>
 
+<!-- Copy and Paste the Rendered output into the Roll20 Forums. -->
+
 ![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/important-links-banner.png)
 <br>
 
@@ -25,7 +27,7 @@
 
 Join Discord for voice chat and private messaging. Its how you will communicate with your Dungeon Master (DM) and other party members.
 
-**Link:** [Discord Link]
+**Link:** %%DISCORD_LINK%%
 
 <br>
 
@@ -33,13 +35,13 @@ Join Discord for voice chat and private messaging. Its how you will communicate 
 
 Make your character on D&D Beyond.
 
-**Link:** [D&D Beyond Campaign Link]
+**Link:** %%GAME_LINK%%
 
 <br>
 
 Make your character on the Creation Server on Roll20.
 
-**Link:** [Roll20 Creation Server]
+**Link:** %%CREATIONS_SERVER%%
 
 ### 3. Payment
 
@@ -50,7 +52,7 @@ Pay %%AMOUNT%% per session via [Venmo] %%VENMO_AT%% or [Paypal] %%PAYPAL_AT%%.
 *Remember this is all for fun, if payment ever becomes an issue talk to your DM.*
 
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/branding-images/standard/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
 
 ### Need Help?
 
