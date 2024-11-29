@@ -1,0 +1,17 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "!cmaster --show,view,value=?{View|Favorites,favorites|Conditions,conditions|Spells,spells|All,all} --main",
+                "istokenaction": false,
+                "name": "Open-Combat-Master-Menu",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        }
+    ]
+}

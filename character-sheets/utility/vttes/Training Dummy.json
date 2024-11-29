@@ -7,10 +7,10 @@
         "avatar": "https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/utility/images/utility-token.png",
         "bio": "%3Cp%3ETesting%20Player%20Character%3Cbr%3E%3C/p%3E",
         "gmnotes": "",
-        "defaulttoken": "{\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/utility/images/utility-token.png\",\"width\":70,\"height\":70,\"has_night_vision\":true,\"dim_light_opacity\":\"0.75\",\"showplayers_bar1\":true,\"bar2_value\":\"0\",\"bar2_max\":\"0\",\"bar2_num_permission\":\"everyone\",\"showplayers_bar2\":true,\"showplayers_bar3\":true,\"name\":\"Training Dummy\",\"bar1_max\":\"12\",\"bar1_link\":\"-MjQsZrxCoJq0nTPMdN6\",\"bar3_link\":\"-MjlesefWWJfRp7PzgE2\",\"represents\":\"-OCaeQEbbdbkr6ihakc4\",\"aura1_color\":\"transparent\",\"aura2_color\":\"transparent\",\"showplayers_aura1\":true,\"showplayers_aura2\":true,\"has_bright_light_vision\":true,\"night_vision_tint\":\"#674ea7\",\"night_vision_distance\":20,\"night_vision_effect\":\"Dimming_0.25\",\"vttes_dimming_start\":5,\"bar3_max\":\"\"}",
+        "defaulttoken": "{\"pageid\":\"-OCan_n6U6ShQX9OpH0f\",\"left\":938,\"top\":355,\"width\":70,\"height\":70,\"layer\":\"objects\",\"imgsrc\":\"https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/utility/images/utility-token.png\",\"name\":\"Training Dummy\",\"bar1_value\":12,\"bar1_max\":12,\"bar1_link\":\"-MjQsZrxCoJq0nTPMdN6\",\"bar2_value\":\"0\",\"bar2_max\":\"0\",\"bar3_link\":\"-MjlesefWWJfRp7PzgE2\",\"represents\":\"-OCaeQEbbdbkr6ihakc4\",\"aura1_color\":\"transparent\",\"aura2_color\":\"transparent\",\"showplayers_bar1\":true,\"showplayers_bar2\":true,\"showplayers_bar3\":true,\"showplayers_aura1\":true,\"showplayers_aura2\":true,\"has_bright_light_vision\":true,\"has_night_vision\":true,\"night_vision_tint\":\"#674ea7\",\"night_vision_distance\":20,\"night_vision_effect\":\"Dimming_0.25\",\"dim_light_opacity\":\"0.75\"}",
         "tags": "[\"utility\",\"dm\"]",
-        "controlledby": "",
-        "inplayerjournals": "",
+        "controlledby": "-OCFs0SdesuZT8kgkaI5",
+        "inplayerjournals": "-OCFs0SdesuZT8kgkaI5",
         "attribs": [
             {
                 "name": "dtype",

@@ -156,9 +156,15 @@ Use the custom script so that temp hp is used when damage is taken.
 
 ### Combat Master
 
+> WARNING
+> This API script is only fully functional while used in 'Jumpgate' version games.
+> Suggest only implementing in player games not templates of development.
+
 This makes running combat easier. Use the `libTokenMarkers` Script to add custom markers to Combat Tracker.
 
-Load the Combat Master settings with recomm
+Load the Combat Master settings with recommended settings.
+
+
 
 
 
