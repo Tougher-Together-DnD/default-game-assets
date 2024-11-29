@@ -31,22 +31,6 @@ This flowchart provides a clear decision-making process for when to require dice
 
 ![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-dm-flowchart.png)
 
-<!--
-```mermaid
-flowchart TD
-    A[Is the Character's intent vs the environment, object, or motive inherently or purposefully challenging?]
-    A --\>|No| B[Roleplay success]
-    A --\>|Yes| C[Is the Character's intent likely within their basic 'wheel house'?]
-    C --\>|Yes| D[Roleplay success]
-    C --\>|No| E[Set a DC for an Ability Check, Save, or Attack Roll]
-    E --\> F[Are the character's passives equal to or higher than the DC?]
-    F --\>|Yes| G[Roleplay success]
-    F --\>|No| H[Player rolls dice, adjust score vs DC to determine result]
-    H --\>|Roll is equal to or higher than DC| I[Roleplay success]
-    H --\>|Roll is lower than DC| J[Roleplay setback]
-```
--->
-
 ### Example Scenarios
 
 1. **Simple Task**: A character attempts to climb a ladder.  
@@ -128,71 +112,6 @@ Action economy represents the energy your character uses during their turn to ch
 You can imagine your action economy as a nested set of intents. Once you have chosen a Main Action, you can only perform what is left in your Bonus, Move, and free actions.
 
 ![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-nested-actions.png)
-
-<!--
-```mermaid
-graph TD
-	direction LR
-	subgraph Turn["Your Turn"]
-		direction LR
-		subgraph Action["Action"]
-			direction LR
-			subgraph Bonus["Bonus"]
-				direction LR
-				subgraph Move["Movement"]
-					direction LR
-					subgraph Free["Free"]
-						subgraph FreeList["`
-							• Speak Briefly (no reply)
-							• Draw an Item
-							• Drop an Item
-							• Drop Concentration
-							• Draw or Sheathe a Weapon
-							• Interact with Environment
-							• Look Around
-						`"]
-						end
-					end
-					subgraph MoveList["`
-						• Movement
-						• Communicate /w Allies (include a reply)
-						• Toss an Item
-						• Mount/Dismount
-						• Perform a Free `"]
-					end
-				end
-				subgraph BonusList["`
-					• Attack Off Hand Weapon
-					• Activate Abilities
-					• Cast a Spell (1 ba)
-					• Martial Mastery
-					• Pin/Lift
-					• Overrun
-					• Break a Condition
-					• Drink a Potion
-					• Search/Study/Insight
-					• Perform a 1/2 Movement Action`"]
-				end
-			end
-			subgraph ActionList["`
-				• Attack w/ Weapon
-				• Cast Spell (1 action)
-				• Unarmed Strike
-				• Disengage
-				• Dodge
-				• Grapple/Shove
-				• Hide
-				• Ready
-				• Administer Potion
-				• Operate Machine or Tool
-				• Perform a Bonus Action
-				• Perform a Movement Action
-				• Perform a Free Action`"]
-			end
-		end
-	end
-```
--->
 
 #### Main Action
 
@@ -316,17 +235,30 @@ Attacks while falling or flying (if you lack a flying speed)
 Ranged weapon attacks within 5ft of hostile do not incur disadvantage.
 Ranged spell attacks while casting a cantrip within 5ft of a hostile do not incur disadvantage.
 
-## Downtime Activity
+## Miscellaneous Changes
+
+### Downtime Activity
 
 At the end of a long rest you roll a 1d4 for Downtime days accrued as a resource. You can expend these days during a long rest within an Inn or other safe places to perform out of session Downtime Activities. 
 
-## Inspiration Pool
+### Inspiration Pool
 
 Instead of standard Inspiration, when awarded by the DM, you will gain **1 Inspiration Point** to store and use at your discretion. On your turn, you can spend these points to **adjust your roll** by 1 per point spent, either increasing or decreasing the roll result. This gives you more control over when and how you use your Inspiration, turning it into a valuable strategic resource.
 
-## Stealth and Group Checks
+### Stealth and Group Checks
 When the party attempts a group stealth check, the **highest and lowest stealth rolls** are averaged to determine the party’s DC. You must be at least **30 feet away** to roll for individual stealth (unless using special features).
 
-## Exhaustion After 0 HP
+### Exhaustion After 0 HP
 If you are reduced to **0 hit points** and then restored, you immediately gain **1 level of exhaustion**. This reflects the physical toll of being brought back from the brink of death and adds tension to future battles.
 
+### Falling onto a Creature
+
+If a creature falls into the space of a second creature and neither of them is Tiny, the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them
+
+### Unwillingly Dismounted
+
+When a mounted creature is unwillingly dismounted off of a vehicle or mount, they creature becomes prone.
+
+## Impact of these House Rules
+
+These modifications are to adapt the game mechanics to the style of play preferred by players and dungeons masters. They are designed to make combat move faster, give bonuses for tactical decisions, more options and actions in a single turn. Players accustomed to playing Rules-As-Written (RAW) might find the combat is not as repetitive or mechanical; Hopefully a little more realistic and dynamic as well.
