@@ -1,0 +1,134 @@
+[css]
+bg {
+padding: 10px;
+background: AliceBlue;
+background-image: url('https://i.imgur.com/i9vmkzO.png');
+}
+
+h1 {
+color: red;
+}
+
+h2 {
+color: purple;
+}
+
+h3 {
+color: pink;
+}
+
+h4 {
+color: blue;
+}
+
+h5 {
+color: brown;
+}
+
+h6 {
+color: green;
+}
+
+blockquote {
+box-sizing: border-box;
+box-shadow: 1px 4px 6px #888888;
+background: WhiteSmoke;
+border: 1px solid #333333;
+width:60%;
+font-family: "Patrick Hand", cursive, sans-serif;
+}
+
+p.blockquote {
+font-family: "Patrick Hand", cursive, sans-serif;
+}
+
+table {
+box-shadow: 1px 4px 6px #888888;
+border: 1px solid #333333;
+}
+
+tbody {
+font-style: italic;
+}
+
+tr:first-child {
+background-color: gray;
+}
+
+tr:nth-child(even) {
+background-color: white;
+}
+
+tr:nth-child(odd) {
+background-color: gainsboro;
+}
+
+tr:nth-child(last) {
+background-color: beige;
+}
+
+td.align-left {
+border: 1px solid #333333;
+text-align: left;
+color: red;
+}
+
+td.align-center {
+border: 1px solid #333333;
+text-align: center;
+color: blue;
+}
+
+td.align-right {
+border: 1px solid #333333;
+text-align: right;
+color: green;
+}
+
+ol {
+list-style-type: decimal;
+}
+
+ul {
+list-style-type: square;
+}
+
+pre {
+display: block;
+border-radius: 3px;
+background: #2b2b2b;
+unicode-bidi: embed;
+font-family: monospace;
+color: #bababa;
+white-space: pre;
+}
+
+code {
+border-radius: 3px;
+background: #2b2b2b;
+unicode-bidi: embed;
+font-family: monospace;
+color: #bababa;
+white-space: pre;
+padding: 1px;
+margin: 1px;
+}
+
+li.ordered {
+font-weight: lighter;
+}
+
+li.unordered {
+font-style: italic;
+}
+
+p {
+font-family:inherit;
+font-size:inherit;
+}
+
+img_mountain {
+float: right;
+width: 87px;
+height: 100px;
+}

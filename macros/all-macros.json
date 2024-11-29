@@ -1,0 +1,365 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "!welcomePackageCreateCharacter ?{Character Name:}",
+                "istokenaction": false,
+                "name": "CreateACharacter",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!CARRY_TOKENS_MENU",
+                "istokenaction": false,
+                "name": "CarryTokensMenu",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!aura",
+                "istokenaction": false,
+                "name": "Open-Aura-Health-Menu",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!cal",
+                "istokenaction": false,
+                "name": "Calendar",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w \"Language: ?{Language|@{Macro-Bar: Speak Languages|known_languages}}\" ``[?{Who|@{selected|token_name}} in ?{Language}]`` ?{Message}\nIn an unfamiliar tongue, ``[?{Who}]`` says: [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]]...",
+                "istokenaction": false,
+                "name": "Speak-Tongues-DM",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w \"Language: ?{Language|@{selected|known_languages}}\" ``[@{selected|character_name} in ?{Language}]`` ?{Message}\nIn an unfamiliar tongue, ``[@{selected|character_name}]`` says: [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]] [[1t[Language-?{Language}] ]]...",
+                "istokenaction": false,
+                "name": "Speak-Tongues",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "[[1t[Lingering-Injury]]]",
+                "istokenaction": false,
+                "name": "Lingering-Injury",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!range @{selected|token_id},@{target|2nd Target|token_id}",
+                "istokenaction": false,
+                "name": "Get-Range",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set scale|*.5",
+                "istokenaction": false,
+                "name": "Set-Size-Half",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set scale|*2",
+                "istokenaction": false,
+                "name": "Set-Size-Double",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:default} {{name=@{selected|npc_name}}} {{HP=[[@{selected|bar1}]] / [[@{selected|bar1|max}]]}} {{AC=@{selected|AC}}} {{Speed=@{selected|npc_speed}}} {{Type=@{selected|npc_type}}} {{Senses=@{selected|npc_senses}}} {{Immunity=@{selected|npc_immunities}}} {{Immunity Condition=@{selected|npc_condition_immunities}}} {{Damage Resistance=@{selected|npc_resistances}}} {{Damage Vulnerable=@{selected|npc_vulnerabilities}}} {{Languages=@{selected|npc_languages}}} {{Challenge=@{selected|npc_challenge}}} {{XP=@{selected|npc_xp}}}",
+                "istokenaction": false,
+                "name": "NPC-Info",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:default} {{name=@{selected|character_name}}} {{Status=@{selected|encumberance}}} {{HP=[[@{selected|bar1}]] / [[@{selected|bar1|max}]]}} {{AC=@{selected|AC}}} {{Speed=@{selected|speed}}} {{Height/Weight=@{selected|height}/@{selected|weight}}} {{Alignment=@{selected|alignment}}} {{Passive Perception (WIS)=@{selected|passive_wisdom}}} {{Passive Investigation (INT)=[[10+@{selected|investigation_bonus}]]}} {{Spell Attack Mod=+@{selected|spell_attack_bonus}}} {{Spell DC=+@{selected|spell_save_dc}}} {{Encumbered*=[[@{selected|strength}*5}]] lbs}} {{Heavily Encumbered*=[[@{selected|strength}*10}]] lbs}} {{Standing Long Jump=[[@{selected|strength}/2]]}} {{Running Long Jump (10ft)=[[@{selected|strength}]]}} {{Standing High Jump=[[(@{selected|strength_mod}+3)/2]]}} {{Running High Jump (10ft)=[[@{selected|strength_mod}+3]]}} {{Hold Breath=[[@{selected|constitution_mod}+1]] mins}}{{Rounds without Breath=[[@{selected|constitution_mod}]]}}{{Without Food=[[@{selected|constitution_mod}+3]] days}} {{* Powerful Builds are doubled}}",
+                "istokenaction": false,
+                "name": "PC-Info",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!cmaster --show,view,value=?{View|Favorites,favorites|Conditions,conditions|Spells,spells|All,all} --main",
+                "istokenaction": false,
+                "name": "Open-Combat-Master-Menu",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!teleport --menu",
+                "istokenaction": false,
+                "name": "Teleport-Menu",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Image](?{Image URL|http://i.imgur.com/9DR2apr.jpg})",
+                "istokenaction": false,
+                "name": "Show-URL-Image",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "**Math =** [[?{Calculator}]] ",
+                "istokenaction": false,
+                "name": "Quick-Calculator",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm  **Conditions: ** [Blinded](!token-mod --set statusmarkers|Blinded)[Charmed](!token-mod --set statusmarkers|Charmed)[Concentration](!token-mod --set statusmarkers|Concentrating)[Deafened](!token-mod --set statusmarkers|Deafened)[Exhausted](!token-mod --set statusmarkers|Exhausted)[Encumbered](!token-mod --set statusmarkers|Encumbered)[Frightened](!token-mod --set statusmarkers|Frightened)[Grappled](!token-mod --set statusmarkers|Grappled)[Heavily Encumbered](!token-mod --set statusmarkers|Heavy Encumbered)[Incapacitated](!token-mod --set statusmarkers|Incapacitated)[Invisible](!token-mod --set statusmarkers|Invisible)[Paralyzed](!token-mod {{ --set statusmarkers|Incapacitated statusmarkers|Paralyzed }})[Petrified](!token-mod {{ --set statusmarkers|Incapacitated statusmarkers||Petrified }})[Poisoned](!token-mod --set statusmarkers|Poisoned)[Prone](!token-mod --set statusmarkers|Prone)[Silenced](!token-mod --set statusmarkers|Silence)[Sleeping](!token-mod {{ --set statusmarkers|Incapacitated statusmarkers|Sleeping }})[Stealth](!token-mod --set statusmarkers|Stealth)[Stunned](!token-mod {{ --set statusmarkers|Incapacitated statusmarkers|Stunned }})[Suffocating](!token-mod --set statusmarkers|Suffocating)[Unconscious](!token-mod {{ --set statusmarkers|Incapacitated statusmarkers|Unconscious }})[Remove All TokenMod](!token-mod --set statusmarkers|=dead|-dead)",
+                "istokenaction": false,
+                "name": "Apply-Conditions-Short",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm  **Spells: ** [Bane](!token-mod --set statusmarkers|Bane)[Bardic Inspiration](!token-mod --set statusmarkers|Bardic Inspiration)[Bless](!token-mod --set statusmarkers|Blessed)[Blur](!token-mod --set statusmarkers|Blur)[Booming Blade](!token-mod --set statusmarkers|Staggered)[Charmed](!token-mod --set statusmarkers|Charmed)[Haste](!token-mod --set statusmarkers|Haste)[Hex](!token-mod --set statusmarkers|Hex)[Hex Blue](!token-mod --set statusmarkers|Blue Hex)[Hexblades Curse](!token-mod --set statusmarkers|Hexblades Curse)[Hunters Marked](!token-mod --set statusmarkers|Marked)[Invisible](!token-mod --set statusmarkers|Invisible)[Mage Armor](!token-mod --set statusmarkers|Mage Armor)[Mind Spike](!token-mod --set statusmarkers|Eyebite)[Mirror Images](!token-mod --set statusmarkers|Mirror Image)[Protection Good/Evil](!token-mod --set statusmarkers|Protection)[Raging](!token-mod --set statusmarkers|Raging)[Slowed](!token-mod --set statusmarkers|Slowed)[Synaptic Static](!token-mod --set statusmarkers|Hypno)[Tasha Mind Whip](!token-mod --set statusmarkers|Synaptic Static)",
+                "istokenaction": false,
+                "name": "Apply-Spells-Short",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm **Status: ** [Advantage](!token-mod --set statusmarkers|Advantage)[Climbing](!token-mod --set statusmarkers|Climbing)[Full Cover](!token-mod --set statusmarkers|Cover)[1/2 Cover](!token-mod --set statusmarkers|HalfCover)[3/4 Cover](!token-mod --set statusmarkers|ThreeQuarterCover)[Death](!token-mod --set statusmarkers|Death)[Disadvantage](!token-mod --set statusmarkers|Disadvantage)[Diseased](!token-mod --set statusmarkers|Diseased)[Dodging](!token-mod --set statusmarkers|Dodging)[Ethereal](!token-mod --set statusmarkers|Ethereal)[Flying](!token-mod --set statusmarkers|Flying)[Readied Action](!token-mod --set statusmarkers|Readied)[Suffer Acid](!token-mod --set statusmarkers|Acid)[Suffer Fire](!token-mod --set statusmarkers|Fire)[Weapon Poisoned](!token-mod --set statusmarkers|WeaponPoison)[Weapon Fire](!token-mod --set statusmarkers|WeaponFire)\n/w gm **Lingering Injury: **[Broken Ribs](!token-mod --set statusmarkers|Broken Rib)[Horrible Scar](!token-mod --set statusmarkers|Horrible Scar)[Internal Bleeding](!token-mod --set statusmarkers|Internal Bleeding)[Limp](!token-mod --set statusmarkers|Limp)[Lose an Eye](!token-mod --set statusmarkers|Lose Eye)[Lose Arm/Hand](!token-mod --set statusmarkers|Lose Hand)[Lose Leg/Foot](!token-mod --set statusmarkers|Lose Foot)[Pulled Shoulder](!token-mod --set statusmarkers|Pulled Shoulder)\n/w gm **Inebriated: ** [1st Inebriated Effect](!token-mod --set statusmarkers|Inebriated 1st Level)[2nd Inebriated Effect](!token-mod --set statusmarkers|Inebriated 2nd Level)[Hungover](!token-mod --set statusmarkers|Hungover)",
+                "istokenaction": false,
+                "name": "Apply-Status-Short",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Save\n|Strength,+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]}} {{rname=^{strength-save-u}}} {{mod=[[ [[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|strength_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_str_save}*@{selected|npc})]][STR SAVE] ]]\n|Dexterity,+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]}} {{rname=^{dexterity-save-u}}} {{mod=[[ [[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|dexterity_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_dex_save}*@{selected|npc})]][DEX SAVE] ]]\n|Constitution,+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]}} {{rname=^{constitution-save-u}}} {{mod=[[ [[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|constitution_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_con_save}*@{selected|npc})]][CON SAVE] ]]\n|Intelligence,+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]}} {{rname=^{intelligence-save-u}}} {{mod=[[ [[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|intelligence_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_int_save}*@{selected|npc})]][INT SAVE] ]]\n|Wisdom,+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]}} {{rname=^{wisdom-save-u}}} {{mod=[[ [[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|wisdom_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_wis_save}*@{selected|npc})]][WIS SAVE] ]]\n|Charisma,+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]}} {{rname=^{charisma-save-u}}} {{mod=[[ [[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|charisma_save_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_cha_save}*@{selected|npc})]][CHA SAVE] ]]\n}}} @{selected|global_save_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
+                "istokenaction": false,
+                "name": "Saving-Throw",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Skill\n|Acrobatics,+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]}} {{rname=^{acrobatics-u}}} {{mod=[[ [[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|acrobatics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_acrobatics}*@{selected|npc})]][ACRO] ]]\n|Animal Handling,+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]}} {{rname=^{animal-handling-u}}}{{mod=[[ (@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|animal_handling_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_animal_handling}*@{selected|npc})]][ANIM] ]]\n|Arcana,+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARC] ]]}} {{rname=^{arcana-u}}} {{mod=[[ [[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|arcana_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_arcana}*@{selected|npc})]][ARCA] ]]\n|Athletics,+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ARC] ]]}} {{rname=^{athletics-u}}} {{mod=[[ [[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|athletics_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_athletics}*@{selected|npc})]][ATHL] ]]\n|Decpetion,+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][ARC] ]]}} {{rname=^{deception-u}}} {{mod=[[ [[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|deception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_deception}*@{selected|npc})]][DECE] ]]\n|History,+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][ARC] ]]}} {{rname=^{history-u}}} {{mod=[[ [[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|history_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_history}*@{selected|npc})]][HIST] ]]\n|Insight,+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][ARC] ]]}} {{rname=^{insight-u}}} {{mod=[[ [[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|insight_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_insight}*@{selected|npc})]][INSI] ]]\n|Intimidation,+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][ARC] ]]}} {{rname=^{intimidation-u}}} {{mod=[[ [[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|intimidation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_intimidation}*@{selected|npc})]][INTI] ]]\n|Investigation,+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][ARC] ]]}} {{rname=^{investigation-u}}} {{mod=[[ [[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|investigation_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_investigation}*@{selected|npc})]][INVE] ]]\n|Medicine,+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][ARC] ]]}} {{rname=^{medicine-u}}} {{mod=[[ [[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|medicine_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_medicine}*@{selected|npc})]][MEDI] ]]\n|Nature,+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][ARC] ]]}} {{rname=^{nature-u}}} {{mod=[[ [[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|nature_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_nature}*@{selected|npc})]][NATU] ]]\n|Perception,+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][ARC] ]]}} {{rname=^{perception-u}}} {{mod=[[ [[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|perception_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_perception}*@{selected|npc})]][PERC] ]]\n|Performance,+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][ARC] ]]}} {{rname=^{performance-u}}} {{mod=[[ [[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|performance_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_performance}*@{selected|npc})]][PERF] ]]\n|Persuasion,+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][ARC] ]]}} {{rname=^{persuasion-u}}} {{mod=[[ [[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|persuasion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_persuasion}*@{selected|npc})]][PERS] ]]\n|Religion,+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][ARC] ]]}} {{rname=^{religion-u}}} {{mod=[[ [[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|religion_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_religion}*@{selected|npc})]][RELI] ]]\n|Sleight of Hand,+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][ARC] ]]}} {{rname=^{sleight_of_hand-u}}} {{mod=[[ [[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|sleight_of_hand_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_sleight_of_hand}*@{selected|npc})]][SLEI] ]]\n|Stealth,+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][ARC] ]]}} {{rname=^{stealth-u}}} {{mod=[[ [[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|stealth_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_stealth}*@{selected|npc})]][STEA] ]]\n|Survival,+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][ARC] ]]}} {{rname=^{survival-u}}} {{mod=[[ [[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]}} {{r1=[[@{selected|d20}+[[(@{selected|survival_bonus}@{selected|pbd_safe}*(1-ceil((@{selected|npc})*0.00001)))+(@{selected|npc_survival}*@{selected|npc})]][SURV] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output} {{charname=@{selected|character_name}}}",
+                "istokenaction": false,
+                "name": "Skill-Check",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Stat\n|Strength,+[[@{selected|strength_mod}]][STR] ]]}} {{rname=^{strength-u}}} {{mod=[[ [[@{selected|strength_mod}]][STR] ]]}} {{r1=[[@{selected|d20}+[[@{selected|strength_mod}]][STR] ]]\n|Dexterity,+[[@{selected|dexterity_mod}]][DEX] ]]}} {{rname=^{dexterity-u}}} {{mod=[[ [[@{selected|dexterity_mod}]][DEX] ]]}} {{r1=[[@{selected|d20}+[[@{selected|dexterity_mod}]][DEX] ]]\n|Constitution,+[[@{selected|constitution_mod}]][CON] ]]}} {{rname=^{constitution-u}}} {{mod=[[ [[@{selected|constitution_mod}]][CON] ]]}} {{r1=[[@{selected|d20}+[[@{selected|constitution_mod}]][CON] ]]\n|Intelligence,+[[@{selected|intelligence_mod}]][INT] ]]}} {{rname=^{intelligence-u}}} {{mod=[[ [[@{selected|intelligence_mod}]][INT] ]]}} {{r1=[[@{selected|d20}+[[@{selected|intelligence_mod}]][INT] ]]\n|Wisdom,+[[@{selected|wisdom_mod}]][WIS] ]]}} {{rname=^{wisdom-u}}} {{mod=[[ [[@{selected|wisdom_mod}]][WIS] ]]}} {{r1=[[@{selected|d20}+[[@{selected|wisdom_mod}]][WIS] ]]\n|Charisma,+[[@{selected|charisma_mod}]][CHA] ]]}} {{rname=^{charisma-u}}} {{mod=[[ [[@{selected|charisma_mod}]][CHA] ]]}} {{r1=[[@{selected|d20}+[[@{selected|charisma_mod}]][CHA] ]]\n}}} @{selected|global_skill_mod} @{selected|charname_output}{{charname=@{selected|character_name}}}",
+                "istokenaction": false,
+                "name": "Ability-Check",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx ?{Type|Beam,beam|Bomb,bomb|Breath,breath|Bubbling,bubbling|Burn,burn|Burst,burst|Explosion,explode|Glow,glow|Missile,missile|Nova,nova|Spatter,splatter}-?{Color|Acid,acid|Blood,blood|Charm,charm|Death,death|Fire,fire|Frost,frost|Holy,holy|Magic,magic|Slime,slime|Smoke,smoke|Water,water} @{target|Source|token_id} @{target|Destination|token_id}",
+                "istokenaction": false,
+                "name": "Special-Effect",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!HandsUp_raiseHand",
+                "istokenaction": false,
+                "name": "RaiseHand",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1}g height|?{What height|1}g",
+                "istokenaction": false,
+                "name": "Set-Size-by-Grid-Squares",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1}s height|?{What height|1}s",
+                "istokenaction": false,
+                "name": "Set-Size-by-Units",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "?{\nCommit to Layer:\n|Token,\n!token-mod --set layer#objects\n|GM,\n!token-mod --set layer#gmlayer\n|Map,\n!token-mod --set layer#map\n|Lighting,\n!token-mod --set layer#walls\n}",
+                "istokenaction": false,
+                "name": "Move-Token-To-Layer",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set width|?{What width|1} height|?{What height|1}",
+                "istokenaction": false,
+                "name": "Set-Size-by-Pixels",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "?{\nChoose Vision and Light Options:\n|Clear Token Settings,\n!token-mod --set has_bright_light_vision#off light_sensitivity_multiplier#100.0 has_night_vision#off night_vision_distance#0ft night_vision_effect#none night_vision_tint#transparent emits_bright_light#off bright_light_distance#0ft emits_low_light#off low_light_distance#0ft lightColor#transparent has_directional_bright_light#off directional_bright_light_total#0 directional_bright_light_center#0 statusmarkers#-401-Action-Debuff::5818063 defaulttoken\n|Normal Vision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#20ft night_vision_effect#dimming#5ft night_vision_tint##674ea7 defaulttoken\n|Blinded Condition,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#1.0 has_night_vision#off defaulttoken\n|Darkvision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#60 night_vision_effect#dimming#30ft night_vision_tint##674ea7 defaulttoken\n|Superior Darkvision,\n!token-mod --set has_bright_light_vision#on light_sensitivity_multiplier#100.0 has_night_vision#on night_vision_distance#120 night_vision_effect#dimming#60ft night_vision_tint##674ea7 defaulttoken\n|Snuff Emitting Light,\n!token-mod --set emits_bright_light#off emits_low_light#off lightColor#transparent defaulttoken &#013; !token-mod --set statusmarkers#-401-Action-Debuff::5818063\n|Hold Candle,\n!token-mod --set emits_bright_light#on bright_light_distance#5ft emits_low_light#on low_light_distance#10ft lightColor#transparent defaulttoken &#013; !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Torch,\n!token-mod --set emits_bright_light#on bright_light_distance#20ft emits_low_light#on low_light_distance#20ft lightColor#transparent defaulttoken &#013; !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Lantern (Hood Off),\n!token-mod --set emits_bright_light#on bright_light_distance#30ft emits_low_light#on low_light_distance#30ft lightColor#transparent defaulttoken &#013; !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Lantern (Hood On),\n!token-mod --set emits_bright_light#on bright_light_distance#0ft emits_low_light#on low_light_distance#5ft lightColor#transparent defaulttoken &#013; !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Hold Bullseye Lantern,\n!token-mod --set emits_bright_light#on bright_light_distance#60ft emits_low_light#on low_light_distance#60ft lightColor#transparent has_directional_bright_light#on directional_bright_light_total#30 directional_bright_light_center#90 defaulttoken &#013; !token-mod --set statusmarkers#+401-Action-Debuff::5818063\n|Emit Light Spell,\n!token-mod --set emits_bright_light#on bright_light_distance#20ft emits_low_light#on low_light_distance#20ft lightColor#transparent defaulttoken\n|Emit Darkness Spell,\n!token-mod --set emits_bright_light#on bright_light_distance#15ft emits_low_light#off low_light_distance#0ft lightColor##674ea7 defaulttoken\n|Emit Faerie Fire Spell,\n!token-mod --set emits_low_light#on low_light_distance#10ft lightColor##ff00ff defaulttoken\n}",
+                "istokenaction": true,
+                "name": "Vision-and-Light-Sources",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm ?{Message}",
+                "istokenaction": false,
+                "name": "Whisper-DM",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|token_name} speaks low.\n/w @{target|token_name} ?{\"Whisper\"|Psst...}",
+                "istokenaction": false,
+                "name": "Whisper-Target-Token",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/talktomyself",
+                "istokenaction": false,
+                "name": "Toggle-Talking-To-Myself",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!OnlyDoors --selected --link",
+                "istokenaction": false,
+                "name": "Link-OnlyDoors",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!OnlyDoors --@{target|Door|token_id} --open-close",
+                "istokenaction": false,
+                "name": "Open-Close-Doors",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!OnlyDoors --@{target|Door|token_id} --lock-unlock",
+                "istokenaction": false,
+                "name": "Lock-Unlock-Doors",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set defaulttoken",
+                "istokenaction": false,
+                "name": "Set-as-Default-Token",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set controlledby#?{Who the Controlling Player} represents#?{Which Character does it Represent} showplayers_bar1#on bar1_link#hp ?{Elevation or AC|Elevation,showplayers_bar2#on bar2_value#0 bar2_max#0|Armor Class,bar2_link#ac} showplayers_bar3#on bar3_link#hp_temp ",
+                "istokenaction": false,
+                "name": "Set-As-Player-Token",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set show_tooltip#?{Show|Yes,on|No,off} ?{Update Tooltip|No,|Yes,tooltip#?{Tooltip Text}}",
+                "istokenaction": false,
+                "name": "Set-Token-Tooltip",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} {{rname=^{init-u}}} {{mod=@{selected|initiative_bonus}}} {{r1=[[@{selected|initiative_style}+@{selected|initiative_bonus}@{selected|pbd_safe}[INIT] &{tracker}]]}} {{normal=1}} @{selected|charname_output}",
+                "istokenaction": false,
+                "name": "Roll-Player-Initiative",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "?{\nWhat Type of NPC:\n|Minions,\n/gmroll 4 &{tracker}\n|Party Sidekicks,\n/gmroll 5 &{tracker}\n|Mini-Bosses,\n/gmroll 10 &{tracker}\n|Lair-Boss,\n/gmroll 16 &{tracker}\n|Boss NPC,\n/gmroll 21 &{tracker}\n}",
+                "istokenaction": false,
+                "name": "Roll-Monster-Initiative",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "!token-mod --set statusmarkers|=blue|-blue",
+                "istokenaction": false,
+                "name": "Remove-All-Token-Markers",
+                "visibleto": ""
+            }
+        }
+    ]
+}

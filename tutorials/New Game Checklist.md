@@ -1,18 +1,30 @@
 # New Game Checklist
 
-## Adjust the Token Markers
+## Use VTTES
+
+[VTTES Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
+
+## Update Campaign Page
+
+### Adjust the Token Markers
 
 These markers will be used by players and Combat Master (api) to mark status affects on characters.
 
 ![Token Markers](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/token-marker-sets.png)
 
-## Add Game and Looking For Group Descriptions
+### Add Game and Looking For Group Descriptions
 
 The markdown for the game descriptions is very limited. Use the template under `templates` / `campaign-details`.
 
 Then edit the `game-description` to a more concise version for LFG post.
 
-## Add Forum Posts
+### Add Looking for Group Banner
+
+Use the Krita template to create a banner for the Game.
+
+Once uploaded this banner will go into your library. It is more efficient to create a template game and duplicate it for players to use.
+
+### Add Forum Posts
 
 When adding forum posts use the markdown templates. However instead of copy-pasting the markdown, Render the markdown in the VS Code previewer and copy-paste the rendered version. This will retain images and styling in the forum post.
 
@@ -27,11 +39,7 @@ Here’s the reversed order of your list:
 4. House Rules and Modifications (In LFG As well)  
 5. Important Links (closed)
 
-## Add a Game Looking for Group Banner
-
-Use the Krita template to design an eye catching banner.
-
-## Adjust Game Settings
+### Adjust Game Settings
 
 * Check `Allow public access to this game?`
 * (Optional) Pick `Game background image`
@@ -67,8 +75,6 @@ For Games using Elevation:
 * Save Defaults
 
 ## Enable and Configure API Scripts
-
-***
 
 ### Style Markdown Documentation
 
@@ -127,13 +133,9 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
 4. Upload the Mrkdown templates or import the VTTES handouts
    1. [Github Repository](https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/quick-reference)
 
-***
-
 ### 5th Edition OGL by Roll20 Companion
 
 Use the API script to enable the Ammo and Spell tracking for the OGL 5e Sheet.
-
-***
 
 ### Tokenmod
 
@@ -141,9 +143,10 @@ This script is used in many DM and Player Macros.
 
 Be sure to check `Players can use --ids`
 
-***
-
 ### Aura/Tint HealthColors
+
+> WARNING
+> If developing a game do not add this API. It adds Auras to token hard coded, these are then improperly saved with the token when VTTES is exported.
 
 This script is used to remove bars and show players auras to determine health.
 
@@ -151,15 +154,11 @@ When in Game set the settings to ![Aura Health Colors Settings](https://raw.gith
 
 Use the custom script so that temp hp is used when damage is taken.
 
-***
-
 ### Combat Master
 
 This makes running combat easier. Use the `libTokenMarkers` Script to add custom markers to Combat Tracker.
 
+Load the Combat Master settings with recomm
 
 
-## Use VTTES
-
-[VTTES Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
 
