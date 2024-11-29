@@ -7,9 +7,12 @@
 
 Crafting items in Dungeons & Dragons allows characters to transform raw materials into something unique and personal, whether it’s a finely tuned weapon, a potion of healing, or a magical artifact infused with creativity and purpose. It’s a way for adventurers to use their downtime meaningfully. For many Characters crafting isn’t just about utility; it’s a form of self-expression and a chance to shape the world with their own hands.
 
-> **Optional Usage**  
-> This handout is an optional feature that replaces "crafting" as written in the Dungeon Master Guide (DMG) or Xanathar's Guide to Everything (XgtE) Downtime Activities. As such its meant to make crafting meld with the roleplay adventure. Making your players look for additional resources to make their build stronger. This is a great addition to worlds low on items, or things to purchase.
-> An important change to bear in mind is: Characters do **not** need to be spellcasters to create magic items. Material components and spell slots are not expended, except for spell scrolls. The magic of an item comes from the preparation of the exotic material used in the recipe.
+**Optional Usage**  
+This handout is an optional feature that replaces "crafting" as written in the Dungeon Master Guide (DMG) or Xanathar's Guide to Everything (XgtE) Downtime Activities. As such its meant to make crafting meld with the roleplay adventure. Making your players look for additional resources to make their build stronger. This is a great addition to worlds low on items, or things to purchase.
+
+An important change to bear in mind is: Characters do **not** need to be spellcasters to create magic items. Material components and spell slots are not expended, except for spell scrolls. The magic of an item comes from the preparation of the exotic material used in the recipe.
+
+***
 
 ## Requirements
 
@@ -84,7 +87,9 @@ These skills reflect the character’s deeper understanding of the materials or 
 | Weaver’s Tools          | Cloaks, robes, tapestries, decorative fabrics                   |
 | Woodcarver’s Tools      | Wooden arrows, staffs, figurines, wooden engravings             |
 
-### Crafting Challenges
+***
+
+## Crafting Challenges
 
 Even when all the requirements for crafting are met, setbacks can occur, adding tension and narrative depth to the process. Crafting isn't always a straightforward task; tools may break, rival artisans might interfere, or unforeseen events can complicate progress. These challenges represent the unpredictability of crafting in a dynamic world and offer opportunities for roleplay and creative problem-solving.
 
@@ -97,7 +102,9 @@ Even when all the requirements for crafting are met, setbacks can occur, adding 
 | 5           | A dwarf clan accuses you of stealing its secrets.     |
 | 6           | A competitor spreads rumors that your work is faulty. |
 
-### Selling Magic Items
+***
+
+## Selling Magic Items
 
 Selling magic items isn’t as simple as walking into a market and naming your price. Magic is rare and valuable, and finding the right buyer requires effort, time, and a bit of luck. To sell a magic item, a character must spend **25 gp per workweek** to spread the word, advertise their item, or network with potential buyers. Only one magic item can be sold at a time, emphasizing the unique nature of these transactions.
 

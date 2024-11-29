@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/recurring-expenses/recurring-expenses-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/building-expenses-banner.png)
 
 # Recurring Expenses
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
