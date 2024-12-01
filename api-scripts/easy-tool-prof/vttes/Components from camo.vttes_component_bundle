@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Svirfneblin Camouflage",
+      "type": "Trait",
+      "repeating_id": "-OD--a12LdeIhYZIR0Py",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_name",
+          "current": "Svirfneblin Camouflage",
+          "max": "",
+          "id": "-OD--a32IYIPWjLAIyIH"
+        },
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_description",
+          "current": "When you make a Dexterity (Stealth) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+          "max": "",
+          "id": "-OD--a33u43fL0w8CNAx"
+        },
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_source_type",
+          "current": "Deep Gnome",
+          "max": "",
+          "id": "-OD--a34ruei_iB_dYWk"
+        },
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_source",
+          "current": "Racial",
+          "max": "",
+          "id": "-OD--a356n7KE_KtVa4d"
+        },
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-OD--a36VcZG4Lb_jZ6d"
+        },
+        {
+          "name": "repeating_traits_-OD--a12LdeIhYZIR0Py_display_flag",
+          "current": "on",
+          "max": "",
+          "id": "-OD--a37wO7LyGlQS-Or"
+        }
+      ]
+    }
+  ]
+}

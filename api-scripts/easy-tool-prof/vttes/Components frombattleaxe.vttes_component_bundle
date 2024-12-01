@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Battleaxe",
+      "type": "Item",
+      "repeating_id": "-OD-06oJ88vpeLd6Z9If",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemname",
+          "current": "Battleaxe",
+          "max": "",
+          "id": "-OD-06oLwphnvRz2o2Cb"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemcount",
+          "current": 1,
+          "max": "",
+          "id": "-OD-06oO3R2_TXSXmDXK"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemproperties",
+          "current": "Versatile",
+          "max": "",
+          "id": "-OD-06oQDbbRclpispRw"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemweight",
+          "current": "4",
+          "max": "",
+          "id": "-OD-06oS0337ga6Q3jdJ"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemcontent",
+          "current": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t Battleaxe\nMelee weapon (martial, battleaxe)  Versatile.&nbsp;This weapon can be used with one or two hands. A damage value in parentheses appears with the property- the damage when the weapon is used with two hands to make a melee attack.&nbsp;\n  Damage: 1d8 (1d10)\nDamage Type: Slashing\nProperties: Versatile\nWeight: 4 \n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+          "max": "",
+          "id": "-OD-06oYZNNkM9FbmXVX"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemmodifiers",
+          "current": "Item Type: Melee Weapon, Damage: 1d8, Damage Type: Slashing, Alternate Damage: 1d10, Alternate Damage Type: Slashing",
+          "max": "",
+          "id": "-OD-06oZ-H3UyulInlkY"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_hasattack",
+          "current": 1,
+          "max": "",
+          "id": "-OD-06oa8ss4SENSQJmO"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-OD-06odIp11pJTSc5Lj"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_itemattackid",
+          "current": "-OD-06ogYQxjEJD1THpv,-OD-06ogYQxjEJD1THpw",
+          "max": "",
+          "id": "-OD-06p67QuH3cEwnmra"
+        },
+        {
+          "name": "repeating_inventory_-OD-06oJ88vpeLd6Z9If_inventorysubflag",
+          "current": "0",
+          "max": "",
+          "id": "-OD-08HkaUownt4xaUba"
+        }
+      ]
+    }
+  ]
+}

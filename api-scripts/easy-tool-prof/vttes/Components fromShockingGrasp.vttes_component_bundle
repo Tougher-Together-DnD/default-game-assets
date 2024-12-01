@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Shocking Grasp",
+      "type": "Attack",
+      "repeating_id": "-OD--aBOJWf2bzbqKcCB",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkattr_base",
+          "current": "@{intelligence_mod}",
+          "max": "",
+          "id": "-OD--ab3Hv_RdgflyPgT"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-OD--ab5lEu_7rI0WTiA"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_spellid",
+          "current": "-OD--a18FZ2p8Ray6wSF",
+          "max": "",
+          "id": "-OD--ab6ibZz90xfKx6v"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_spelllevel",
+          "current": "cantrip",
+          "max": "",
+          "id": "-OD--ab8ifCehw9uohrJ"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_savedc",
+          "current": "(@{intelligence_mod}+8+@{spell_dc_mod}+@{pb})",
+          "max": "",
+          "id": "-OD--ab9uEU4biu0S2gB"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkname",
+          "current": "Shocking Grasp",
+          "max": "",
+          "id": "-OD--abAymzB6rYzSin_"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkflag",
+          "current": "{{attack=1}}",
+          "max": "",
+          "id": "-OD--abBq0VFNUD8rDPm"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmgbase",
+          "current": "[[round((@{level} + 1) / 6 + 0.5)]]d8",
+          "max": "",
+          "id": "-OD--abD2g1uMiZ0Pqrw"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmgflag",
+          "current": "{{damage=1}} {{dmg1flag=1}}",
+          "max": "",
+          "id": "-OD--abE1wpNaSOOxEpj"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmgattr",
+          "current": "0",
+          "max": "",
+          "id": "-OD--abFKUm9a9-Yv3tD"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmgtype",
+          "current": "Lightning",
+          "max": "",
+          "id": "-OD--abG7sGJNpF99vWD"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmg2base",
+          "current": "",
+          "max": "",
+          "id": "-OD--abOhCsU3SKBQ55W"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmg2attr",
+          "current": "0",
+          "max": "",
+          "id": "-OD--abWQ9mtx6oPOgWt"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmg2flag",
+          "current": 0,
+          "max": "",
+          "id": "-OD--abaoEpy1LMzGhlF"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_dmg2type",
+          "current": "",
+          "max": "",
+          "id": "-OD--abg6wDYjpbvXvV8"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkrange",
+          "current": "Touch",
+          "max": "",
+          "id": "-OD--abm-9xC5WH7zX1O"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_saveflag",
+          "current": "0",
+          "max": "",
+          "id": "-OD--abtJl_hwwRtyPy3"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_saveeffect",
+          "current": "",
+          "max": "",
+          "id": "-OD--abz0l6JMh7obrfr"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_hldmg",
+          "current": "",
+          "max": "",
+          "id": "-OD--ac3r9CHt0A2d-kY"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_spell_innate",
+          "current": "",
+          "max": "",
+          "id": "-OD--ac9x7UzMmtcHHid"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atk_desc",
+          "current": "",
+          "max": "",
+          "id": "-OD--acFi1YpDJZ9gOIc"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_spelldesc_link",
+          "current": "%{-OD--7r8tcEoJ7TPrT7D|repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_output}",
+          "max": "",
+          "id": "-OD--acLrJrUBu4j5zwM"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkdmgtype",
+          "current": "1d8 Lightning ",
+          "max": "",
+          "id": "-OD--bKSNWbbUCoFHQEc"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_rollbase_dmg",
+          "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[[[round((@{level} + 1) / 6 + 0.5)]]d8]]}} {{dmg1type=Lightning}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} {{spelldesc_link=[Show Spell Description](~repeating_attack_spelldesc_link)}} @{charname_output}",
+          "max": "",
+          "id": "-OD--bKUL5tvYvFML_-D"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_rollbase_crit",
+          "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[[[round((@{level} + 1) / 6 + 0.5)]]d8]]}} {{dmg1type=Lightning}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[[[round((@{level} + 1) / 6 + 0.5)]]d8]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} {{spelldesc_link=[Show Spell Description](~repeating_attack_spelldesc_link)}} @{charname_output}",
+          "max": "",
+          "id": "-OD--bKWwP3jMbkuWynP"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_atkbonus",
+          "current": "+3",
+          "max": "",
+          "id": "-OD--bKYawbGM9fPngfn"
+        },
+        {
+          "name": "repeating_attack_-OD--aBOJWf2bzbqKcCB_rollbase",
+          "current": "@{wtype}&{template:atkdmg} {{mod=@{atkbonus}}} {{rname=@{atkname}}} {{r1=[[@{d20}cs>@{atkcritrange} + 1[INT] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 1[INT] + 2[PROF]]]}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[[[round((@{level} + 1) / 6 + 0.5)]]d8]]}} {{dmg1type=Lightning}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[[[round((@{level} + 1) / 6 + 0.5)]]d8[CRIT]]]}} {{crit2=[[0[CRIT]]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} ammo=@{ammo} {{spelldesc_link=[Show Spell Description](~repeating_attack_spelldesc_link)}} @{charname_output}",
+          "max": "",
+          "id": "-OD--bKdCvjRntfs0Mw8"
+        }
+      ]
+    },
+    {
+      "name": "Shocking Grasp",
+      "type": "Cantrip",
+      "repeating_id": "-OD--a18FZ2p8Ray6wSF",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_details-flag",
+          "current": 0,
+          "max": "",
+          "id": "-OD--a4WUyFfbfZ1w98i"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_options-flag",
+          "current": 0,
+          "max": "",
+          "id": "-OD--a4XCX_rv8VfsMsZ"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_rollcontent",
+          "current": "%{-OD--7r8tcEoJ7TPrT7D|repeating_attack_-OD--aBOJWf2bzbqKcCB_attack}",
+          "max": "",
+          "id": "-OD--a4YudFcj9Jyf6Rb"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spell_ability",
+          "current": "@{intelligence_mod}+",
+          "max": "",
+          "id": "-OD--a4YudFcj9Jyf6Rc"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_innate",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4Zz4t4qBRSZPb_"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spell_damage_progression",
+          "current": "Cantrip Dice",
+          "max": "",
+          "id": "-OD--a4_cz5OFhtE-bs6"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellathigherlevels",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4apuQDLUTrpXFp"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellattack",
+          "current": "Melee",
+          "max": "",
+          "id": "-OD--a4apuQDLUTrpXFq"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellcastingtime",
+          "current": "1 action",
+          "max": "",
+          "id": "-OD--a4cn-ghPbAizsx1"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellclass",
+          "current": "Artificer",
+          "max": "",
+          "id": "-OD--a4dFmzMVB9CXJz1"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellcomp_m",
+          "current": 0,
+          "max": "",
+          "id": "-OD--a4dFmzMVB9CXJz2"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellcomp_materials",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4eT3_vnXZnNeuQ"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellcomp_s",
+          "current": "{{s=1}}",
+          "max": "",
+          "id": "-OD--a4f4i5LlAkAmgtE"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellcomp_v",
+          "current": "{{v=1}}",
+          "max": "",
+          "id": "-OD--a4gsd9cmjWJSp5q"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellconcentration",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4hF5PJW9xQYIjM"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldamage2",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4hF5PJW9xQYIjN"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldamage",
+          "current": "1d8",
+          "max": "",
+          "id": "-OD--a4i46EQAyk_AYJV"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldamagetype2",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4kZm_-OtSDH8MR"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldamagetype",
+          "current": "Lightning",
+          "max": "",
+          "id": "-OD--a4lFEDz3frBK05R"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldescription",
+          "current": "Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn.   ​The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
+          "max": "",
+          "id": "-OD--a4lFEDz3frBK05S"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelldmgmod",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4m3hPqY1_qLuRd"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellduration",
+          "current": "Instantaneous",
+          "max": "",
+          "id": "-OD--a4nOqvFeABuvJTx"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellhealing",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4oS8j4VlmXc47W"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellhlbonus",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4pP1VYeSPpFD6R"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellhldie",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4pP1VYeSPpFD6S"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellhldietype",
+          "current": "",
+          "max": "",
+          "id": "-OD--a4qOlSDvBJ9g33D"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelllevel",
+          "current": "cantrip",
+          "max": "",
+          "id": "-OD--a4s_QRoMxxkO7Rz"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellname",
+          "current": "Shocking Grasp",
+          "max": "",
+          "id": "-OD--a4tptdgg8FdR1CX"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelloutput",
+          "current": "ATTACK",
+          "max": "",
+          "id": "-OD--a50AUZXBhyHKg0M"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellrange",
+          "current": "Touch",
+          "max": "",
+          "id": "-OD--a53GG4q_4Usqsur"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellritual",
+          "current": "",
+          "max": "",
+          "id": "-OD--a56NelGoKMqMEw2"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellsave",
+          "current": "",
+          "max": "",
+          "id": "-OD--a5ATEqjOUVsFCOK"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellsavesuccess",
+          "current": "",
+          "max": "",
+          "id": "-OD--a5Cg4nKEi7n2M-a"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellschool",
+          "current": "evocation",
+          "max": "",
+          "id": "-OD--a5FhbIra7Fn4t2a"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellsource",
+          "current": "",
+          "max": "",
+          "id": "-OD--a5I-O5jpK4urJjB"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spelltarget",
+          "current": "A creature you try to touch",
+          "max": "",
+          "id": "-OD--a5LAjP4vWb3nUom"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_spellattackid",
+          "current": "-OD--aBOJWf2bzbqKcCB",
+          "max": "",
+          "id": "-OD--aZ0E2h4Ph7LSh1D"
+        },
+        {
+          "name": "repeating_spell-cantrip_-OD--a18FZ2p8Ray6wSF_roll_output_dc",
+          "current": 11,
+          "max": "",
+          "id": "-OD--ar2Vlil107hNcrc"
+        }
+      ]
+    }
+  ]
+}

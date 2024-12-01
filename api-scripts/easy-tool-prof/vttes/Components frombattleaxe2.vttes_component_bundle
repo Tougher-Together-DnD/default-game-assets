@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Battleaxe (One-Handed)",
+      "type": "Attack",
+      "repeating_id": "-OD-0sGFja7MFZp-g0Xl",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-OD-0sHG7vnFL6w0zkVi"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_itemid",
+          "current": "-OD-0sFxA0vsbGF86ko0",
+          "max": "",
+          "id": "-OD-0sHIAjrCOg_gHhk2"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_atkname",
+          "current": "Battleaxe (One-Handed)",
+          "max": "",
+          "id": "-OD-0sHJc17DxKx6BgVd"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_dmgbase",
+          "current": "1d8",
+          "max": "",
+          "id": "-OD-0sHLm-QBu3D7q_r0"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_dmgtype",
+          "current": "Slashing",
+          "max": "",
+          "id": "-OD-0sHNxSSODIpEmGuz"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_atkattr_base",
+          "current": "@{strength_mod}",
+          "max": "",
+          "id": "-OD-0sHPQhnLWgI2PHIc"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_dmgattr",
+          "current": "@{strength_mod}",
+          "max": "",
+          "id": "-OD-0sHRw6lI2fOExtaE"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_atkmagic",
+          "current": "",
+          "max": "",
+          "id": "-OD-0sHSbdy1MO41Ne1z"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_atkdmgtype",
+          "current": "1d8+3 Slashing ",
+          "max": "",
+          "id": "-OD-0sIjGBaqHcztjluw"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_rollbase_dmg",
+          "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sIlbRR6EwMhUhkk"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_rollbase_crit",
+          "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d8]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sImtkdbDAw3Lp01"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_atkbonus",
+          "current": "+5",
+          "max": "",
+          "id": "-OD-0sIoXhBISN6d4MyZ"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGFja7MFZp-g0Xl_rollbase",
+          "current": "@{wtype}&{template:atkdmg} {{mod=@{atkbonus}}} {{rname=@{atkname}}} {{r1=[[@{d20}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d8 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d8[CRIT]]]}} {{crit2=[[0[CRIT]]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} ammo=@{ammo} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sIpbTWTR9H8Di3r"
+        }
+      ]
+    },
+    {
+      "name": "Battleaxe (Two-Handed)",
+      "type": "Attack",
+      "repeating_id": "-OD-0sGG0q2GeqOKXVuZ",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_options-flag",
+          "current": "0",
+          "max": "",
+          "id": "-OD-0sHUQTVRQPIvIrqq"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_itemid",
+          "current": "-OD-0sFxA0vsbGF86ko0",
+          "max": "",
+          "id": "-OD-0sHWRzVE_uN3oIcH"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_atkname",
+          "current": "Battleaxe (Two-Handed)",
+          "max": "",
+          "id": "-OD-0sHXxJEiIulCJfKt"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_dmgbase",
+          "current": "1d10",
+          "max": "",
+          "id": "-OD-0sHZ_2nO_KiuOEw1"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_dmgtype",
+          "current": "Slashing",
+          "max": "",
+          "id": "-OD-0sH_ELJ83m-HzNP4"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_versatile_alt",
+          "current": "1",
+          "max": "",
+          "id": "-OD-0sHbhTL-e4j1QQhr"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_atkattr_base",
+          "current": "@{strength_mod}",
+          "max": "",
+          "id": "-OD-0sHcBqb8CG_O320N"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_dmgattr",
+          "current": "@{strength_mod}",
+          "max": "",
+          "id": "-OD-0sHdBh2zAR0bkbya"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_atkmagic",
+          "current": "",
+          "max": "",
+          "id": "-OD-0sHen1A-O8gdbjIT"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_atkdmgtype",
+          "current": "1d10+3 Slashing ",
+          "max": "",
+          "id": "-OD-0sItOTDA0sjane9c"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_rollbase_dmg",
+          "current": "@{wtype}&{template:dmg} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d10 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg} {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sIuemLD1uYHIhsK"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_rollbase_crit",
+          "current": "@{wtype}&{template:dmg} {{crit=1}} {{rname=@{atkname}}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d10 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d10]]}} {{crit2=[[0]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sIvq1bLojDiXdjY"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_atkbonus",
+          "current": "+5",
+          "max": "",
+          "id": "-OD-0sIxegzX1IiYNJfP"
+        },
+        {
+          "name": "repeating_attack_-OD-0sGG0q2GeqOKXVuZ_rollbase",
+          "current": "@{wtype}&{template:atkdmg} {{mod=@{atkbonus}}} {{rname=@{atkname}}} {{r1=[[@{d20}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{rtype}cs>@{atkcritrange} + 3[STR] + 2[PROF]]]}} @{atkflag} {{range=@{atkrange}}} @{dmgflag} {{dmg1=[[1d10 + 3[STR]]]}} {{dmg1type=Slashing}} @{dmg2flag} {{dmg2=[[0]]}} {{dmg2type=}} {{crit1=[[1d10[CRIT]]]}} {{crit2=[[0[CRIT]]]}} @{saveflag} {{desc=@{atk_desc}}} @{hldmg}  {{spelllevel=@{spelllevel}}} {{innate=@{spell_innate}}} {{globalattack=@{global_attack_mod}}} {{globaldamage=[[0]]}} {{globaldamagecrit=[[0]]}} {{globaldamagetype=@{global_damage_mod_type}}} ammo=@{ammo} @{charname_output}",
+          "max": "",
+          "id": "-OD-0sIzS62oVe1Ot4K6"
+        }
+      ]
+    },
+    {
+      "name": "Battleaxe",
+      "type": "Item",
+      "repeating_id": "-OD-0sFxA0vsbGF86ko0",
+      "old_character_id": "-OD--7r8tcEoJ7TPrT7D",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemname",
+          "current": "Battleaxe",
+          "max": "",
+          "id": "-OD-0sFyj81diQjF_xUL"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemcount",
+          "current": 1,
+          "max": "",
+          "id": "-OD-0sG1HJ0hw9NbBGPF"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemproperties",
+          "current": "Versatile",
+          "max": "",
+          "id": "-OD-0sG3FXAt6JthtNQR"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemweight",
+          "current": "4",
+          "max": "",
+          "id": "-OD-0sG60y-U1eSgrX4R"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemcontent",
+          "current": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t Battleaxe\nMelee weapon (martial, battleaxe)  Versatile.&nbsp;This weapon can be used with one or two hands. A damage value in parentheses appears with the property- the damage when the weapon is used with two hands to make a melee attack.&nbsp;\n  Damage: 1d8 (1d10)\nDamage Type: Slashing\nProperties: Versatile\nWeight: 4 \n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+          "max": "",
+          "id": "-OD-0sG8zokhdC3Tqtck"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemmodifiers",
+          "current": "Item Type: Melee Weapon, Damage: 1d8, Damage Type: Slashing, Alternate Damage: 1d10, Alternate Damage Type: Slashing",
+          "max": "",
+          "id": "-OD-0sGADXYxEKbcYvIe"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_hasattack",
+          "current": 1,
+          "max": "",
+          "id": "-OD-0sGDtfSvc2HOY1IF"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-OD-0sGENS2-vpbyoFqy"
+        },
+        {
+          "name": "repeating_inventory_-OD-0sFxA0vsbGF86ko0_itemattackid",
+          "current": "-OD-0sGFja7MFZp-g0Xl,-OD-0sGG0q2GeqOKXVuZ",
+          "max": "",
+          "id": "-OD-0sG_6iaKqeI2ywnx"
+        }
+      ]
+    }
+  ]
+}
