@@ -5,24 +5,6 @@
 
 # Crafting Items
 
-[md2]
-
-# Header
-
-- List item
-  - sublist 1
-    - sublist 1.2
-
-1. Ordered list
-2. ordered
-   1. order a
-
-> Blockquote
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Cell 1   | Cell 2   |
-
 Crafting items in Dungeons & Dragons allows characters to transform raw materials into something unique and personal, whether it's a finely tuned weapon, a potion of healing, or a magical artifact infused with creativity and purpose. It's a way for adventurers to use their downtime meaningfully. For many Characters crafting isn't just about utility; it's a form of self-expression and a chance to shape the world with their own hands.
 
 **Optional Usage**  
