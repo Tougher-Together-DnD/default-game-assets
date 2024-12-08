@@ -397,6 +397,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-/_*/
+_*/
 
 eslint-demo.js

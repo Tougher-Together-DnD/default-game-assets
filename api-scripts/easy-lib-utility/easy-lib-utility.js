@@ -102,11 +102,11 @@ const EASY_LIB_UTILITY = (() => {
 
 		return {
 			// Get the entire map or a specific handler by code
-			get: ({ code } = {}) => (code ? codeToFunctionMap[code] : codeToFunctionMap),
+			get: ({ code } = {}) => {return (code ? codeToFunctionMap[code] : codeToFunctionMap);},
 
 			// Set or replace the entire map
 			set: ({ newMap }) => {
-				Object.keys(codeToFunctionMap).forEach(key => delete codeToFunctionMap[key]); // Clear existing entries
+				Object.keys(codeToFunctionMap).forEach(key => {return delete codeToFunctionMap[key];}); // Clear existing entries
 				Object.assign(codeToFunctionMap, newMap); // Add new entries
 			},
 
@@ -122,30 +122,29 @@ const EASY_LIB_UTILITY = (() => {
 		};
 	};
 
-	function _createCssStyleMappings({ stylesObject }) {
-		const codeToFunctionMap = {
-			"0": () => { return thisUtilities.LogSyslogMessage({ severity: "INFO", code: "0", message: "Success" }); },
+	function _createCssStyleMappings({ thisCssStyles }) {
+		const themeToFunctionMap = {
+			"chatError": () => { return thisCssStyles.({ }); },
 		};
-
 
 		return {
 			// Get the entire map or a specific handler by code
-			get: ({ code } = {}) => (code ? codeToFunctionMap[code] : codeToFunctionMap),
+			get: ({ theme } = {}) => {return (theme ? themeToFunctionMap[theme] : themeToFunctionMap);},
 
 			// Set or replace the entire map
 			set: ({ newMap }) => {
-				Object.keys(codeToFunctionMap).forEach(key => delete codeToFunctionMap[key]); // Clear existing entries
-				Object.assign(codeToFunctionMap, newMap); // Add new entries
+				Object.keys(themeToFunctionMap).forEach(key => {return delete themeToFunctionMap[key];}); // Clear existing entries
+				Object.assign(themeToFunctionMap, newMap); // Add new entries
 			},
 
 			// Add new handlers or overwrite existing ones
 			add: ({ newHandlers }) => {
-				Object.assign(codeToFunctionMap, newHandlers);
+				Object.assign(themeToFunctionMap, newHandlers);
 			},
 
 			// Remove a specific handler by code
-			remove: ({ code } = {}) => {
-				delete codeToFunctionMap[code];
+			remove: ({ theme } = {}) => {
+				delete themeToFunctionMap[theme];
 			},
 		};
 	};
@@ -187,6 +186,7 @@ const EASY_LIB_UTILITY = (() => {
 		// Helper function to generate the syslog-compatible timestamp
 		const _getSyslogTimestamp = () => {
 			const now = new Date();
+
 			return now.toISOString();
 		};
 
@@ -200,7 +200,6 @@ const EASY_LIB_UTILITY = (() => {
 
 		return logMessage;
 	};
-
 
 	// ANCHOR Utility Whisper Player ID (or GM) a Message
 	/**
@@ -494,9 +493,10 @@ const EASY_LIB_UTILITY = (() => {
 
 		const regex = new RegExp(`${regexString}`, "gs");
 		const matchesArray = [...content.matchAll(regex)];
-
+		
 		// Extract and return the matched content
 		return matchesArray.map(match => { return match[1] || ""; }).filter(Boolean);
+
 	};
 
 	// !SECTION End of Utility Functions
@@ -512,7 +512,7 @@ const EASY_LIB_UTILITY = (() => {
 		_logSyslogMessage.call(moduleSettings, {
 			severity: "INFO",
 			code: "10000",
-			message: `.=> Initializing <=.`
+			message: ".=> Initializing <=."
 		});
 
 		// NOTE Possibly more checks to perform in the future...
@@ -529,7 +529,7 @@ const EASY_LIB_UTILITY = (() => {
 		_logSyslogMessage.call(moduleSettings, {
 			severity: "INFO",
 			code: "20000",
-			message: `.=> Ready <=.`
+			message: ".=> Ready <=."
 		});
 
 		return 0;
