@@ -3,12 +3,12 @@
 
 # Orc
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Orcs |
-| Phonetics | Words of few syllables, prone to spit words out |
-| Script | Dethek |
-| Difficulty | ★☆☆☆☆ |
+|                 |                                                 |
+| :-------------- | :---------------------------------------------- |
+| Typical Speaker | Orcs                                            |
+| Phonetics       | Words of few syllables, prone to spit words out |
+| Script          | Dethek                                          |
+| Difficulty      | ★☆☆☆☆                                           |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -28,9 +28,9 @@ Daraktan used the Dethek script.
 
 ## Fonts
 
-Link to [Dethek Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/dethek-stone.zip).
+Link to [Dethek Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/dethek-stone.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 ugush, kloonas, gashoal, tosh, utgool, thag, grum, thorguk, toash

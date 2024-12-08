@@ -28,9 +28,9 @@ Though CSL has no formal written system, users often sketch diagrams or adapt Co
 
 ## Fonts
 
-Link to [Thorass Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/kingthings-conundrum.zip).
+Link to [Thorass Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/kingthings-conundrum.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/kingthings-conundrum-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/kingthings-conundrum-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 "...nothing. The message appears to be conveyed silently through intricate hand shapes.

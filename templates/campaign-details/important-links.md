@@ -18,7 +18,7 @@
 
 <!-- Copy and Paste the Rendered output into the Roll20 Forums. -->
 
-![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/important-links-banner.png)
+![Main Banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/important-links-banner.png)
 <br>
 
 ## Welcome to %%GAME_TITLE%% Campaign!
@@ -52,7 +52,7 @@ Pay %%AMOUNT%% per session via [Venmo] %%VENMO_AT%% or [Paypal] %%PAYPAL_AT%%.
 *Remember this is all for fun, if payment ever becomes an issue talk to your DM.*
 
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
 
 ### Need Help?
 

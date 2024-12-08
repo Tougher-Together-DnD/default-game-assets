@@ -3,12 +3,12 @@
 
 # Giant
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Giants, ogres |
-| Phonetics | Sounds like softer version of Common |
-| Script | Dethek |
-| Difficulty | ★☆☆☆☆ |
+|                 |                                      |
+| :-------------- | :----------------------------------- |
+| Typical Speaker | Giants, ogres                        |
+| Phonetics       | Sounds like softer version of Common |
+| Script          | Dethek                               |
+| Difficulty      | ★☆☆☆☆                                |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -28,9 +28,9 @@ Both ancient and modern Giant is written with Dethek runes. Ancient giants also 
 
 ## Fonts
 
-Link to [Dethek Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/dethek-stone.zip).
+Link to [Dethek Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/dethek-stone.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 fee, feye, fo, yesgril, endoruk, jal, lo, aser, kan

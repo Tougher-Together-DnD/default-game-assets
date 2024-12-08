@@ -3,12 +3,12 @@
 
 # Halfling
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Halflings |
-| Phonetics | TBD |
-| Script | Common (Thorass) |
-| Difficulty | TBD |
+|                 |                  |
+| :-------------- | :--------------- |
+| Typical Speaker | Halflings        |
+| Phonetics       | TBD              |
+| Script          | Common (Thorass) |
+| Difficulty      | TBD              |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -28,9 +28,9 @@ Common
 
 ## Fonts
 
-Link to [Thorass Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/kingthings-conundrum.zip).
+Link to [Thorass Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/kingthings-conundrum.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/kingthings-conundrum-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/kingthings-conundrum-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 hok-tok-nok, bahgawg, heekin, yelaw, yohoop, bugarr, itchin, neep, nachk

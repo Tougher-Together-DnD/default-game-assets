@@ -3,12 +3,12 @@
 
 # Abyssal
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Demons, chaotic evil outsiders |
-| Phonetics | Foreboding animal sounds hiss, bark, click, teeth rattle corrupted words |
-| Script | Infernal, historically Barazhad |
-| Difficulty | ★★★☆☆ |
+|                 |                                                                          |
+| :-------------- | :----------------------------------------------------------------------- |
+| Typical Speaker | Demons, chaotic evil outsiders                                           |
+| Phonetics       | Foreboding animal sounds hiss, bark, click, teeth rattle corrupted words |
+| Script          | Infernal, historically Barazhad                                          |
+| Difficulty      | ★★★☆☆                                                                    |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -38,9 +38,9 @@ More commonly written in the Infernal script (which itself is an evolution of ba
 
 ## Fonts
 
-Link to [Barazhad Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/barazhad.zip).
+Link to [Barazhad Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/barazhad.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 Grrr, zymur, hailbeynaz, sszzoul, yuoz, wheel, parrreesh, hufloricawn, quorallach, day eye

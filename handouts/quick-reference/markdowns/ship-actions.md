@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-banner.png)
 
 # Ship and Crew Actions
 
@@ -65,7 +65,7 @@ Generally, nonmagical repairs take too long to save a ship from sinking once it 
 
 ## Crew Members
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-crew.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-crew.png)
 
 A ship requires a number of able-bodied sailors to crew it, as specified in its stat block. A crew’s skill, experience, morale, and health are defined by its quality score. This score can affect a number of general ship activities, like the crew’s ability to notice threats or contend with Hazards. A crew starts with a quality score of +4, but that score varies over time, going as low as −10 and as high as +10. It decreases as a crew takes casualties, suffers hardship, or endures poor health. It increases if the crew enjoys high morale, has good health care, and receives fair leadership.
 
@@ -138,7 +138,7 @@ Life aboard a ship is a constant wear on the crew. Spending time in port allows 
 
 ## Officers
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-officers.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-officers.png)
 
 Each vessel requires people to run it: the officers in charge and the sailors who follow their orders.
 
@@ -148,7 +148,7 @@ Each type of officer is described below, along with the Abilities and Proficienc
 
 ### Captain
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-captain.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-captain.png)
 
 The captain issues orders. The best captains have high Wisdom and Charisma scores, as well as proficiency with Water Vehicles and the Intimidation and Persuasion Skills.
 
@@ -169,7 +169,7 @@ The ship’s Captain can engage in this activity only if the weather conditions 
 
 ### Bosun
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-bosun.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-bosun.png)
 
 The bosun (or boatswain) provides technical advice to the captain and crew and leads repair and maintenance efforts. A good bosun has a high Strength score, as well as proficiency with Carpenter’s tools and the Athletics skill.
 
@@ -186,7 +186,7 @@ As an action the First Mate, or Bosun directs the crew’s firing, aiding in aim
 
 ### Deck Wizard
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-deckwizard.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-deckwizard.png)
 
 The Deck Wizard provides magical offensive and defensive capabilities to a ship. They aid and instruct the Bosun in making magical upgrades to the ship. A good Deck Wizard benefits from knowledge of the Arcane and Intelligence.
 
@@ -202,7 +202,7 @@ At the end of the upgrade, the Deck Wizard makes a DC 18 Arcana (Intellect) chec
 
 ### First Mate
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-firstmate.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-firstmate.png)
 
 This specialist keeps the crew’s morale high by providing supervision, encouragement, and discipline. A First Mate benefits from a high Charisma score, as well as proficiency with the Intimidation and Persuasion Skills.
 
@@ -217,7 +217,7 @@ The first mate can manage the crew’s time to grant extended breaks, provide in
 
 ### Surgeon
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-surgeon.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-surgeon.png)
 
 The ship’s surgeon tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as proficiency with Herbalism kits and the Medicine skill.
 
@@ -229,7 +229,7 @@ A ships Surgeon can reduce the recovery time of crew and players. Making a DC18 
 
 ### Quartermaster
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-quartermaster.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/ship-actions-quartermaster.png)
 
 The quartermaster plots the ship’s course, relying on knowledge of nautical charts and a study of weather and sea Conditions. A reliable quartermaster tends to have a high Wisdom and Intellect score, as well as proficiency with Navigator’s tools and the Nature skill. Quartermaster's would also be responsible for finding parts and supplies. A proficiency in History and Persuasion skills can aid in these duties. 
 

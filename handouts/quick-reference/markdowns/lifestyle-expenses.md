@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-banner.png)
 
 # Lifestyle Expenses
 
@@ -46,7 +46,7 @@ Proficiency in the Survival skill lets you live at the equivalent of a poor life
 
 ## Food, Drink, and Lodging
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-food.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-food.png)
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. There prices are included in your total lifestyle expenses.
 
@@ -83,7 +83,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 ## Services
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-services.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/lifestyle-expenses-services.png)
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 

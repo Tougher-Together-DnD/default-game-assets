@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency-banner.png)
 
 # Tool Proficiencies
 
@@ -39,7 +39,7 @@ In addition, you can consider giving a character extra information or an added b
 
 ## Alchemist’s Supplies
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/alchemist-banner.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/tool-proficiency/alchemist-banner.png)
 
 Alchemist’s supplies enable a character to produce useful concoctions, such as acid or alchemist’s fire.
 

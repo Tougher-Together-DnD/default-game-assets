@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/intoxicating-drinks-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/intoxicating-drinks-banner.png)
 
 # Intoxicating Drinks
 

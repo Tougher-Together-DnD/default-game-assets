@@ -3,12 +3,12 @@
 
 # Leonin
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Leonin |
-| Phonetics | Bold inflections, purrs |
-| Script | TBD |
-| Difficulty | TBD |
+|                 |                         |
+| :-------------- | :---------------------- |
+| Typical Speaker | Leonin                  |
+| Phonetics       | Bold inflections, purrs |
+| Script          | TBD                     |
+| Difficulty      | TBD                     |
 
 <div style="display: none;">
 <!-- ★ ☆ -->

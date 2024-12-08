@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-banner.png)
 
 # Downtime Activities
 Downtime activities are tasks that usually take a workweek (5 days) or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.
@@ -183,7 +183,7 @@ Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, an
 
 ## Crafting an Item
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-crafting.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-crafting.png)
 
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 
@@ -562,7 +562,7 @@ Crafting a spell scroll is a solitary task, unlikely to attract much attention. 
 
 ## Selling a Magic Item
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-selling.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/downtime-activities-selling.png)
 
 Selling a magic item is by no means an easy task. Con artists and thieves are always looking out for an easy score, and there’s no guarantee that a character will receive a good offer even if a legitimate buyer is found.
 

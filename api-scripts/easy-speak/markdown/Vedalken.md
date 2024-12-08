@@ -3,12 +3,12 @@
 
 # Vedalken
 
-| | |
-|:---:|:---:|
+|                 |          |
+| :-------------- | :------- |
 | Typical Speaker | Vedalken |
-| Phonetics | German |
-| Script | TBD |
-| Difficulty | TBD |
+| Phonetics       | German   |
+| Script          | TBD      |
+| Difficulty      | TBD      |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -29,9 +29,9 @@ Most vedalken care far more about invention and inquiry than about politics. The
 ### Script
 
 ## Fonts
-Link to [Gnome Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/rpg-katakana.zip).
+Link to [Gnome Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/rpg-katakana.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 beste, konntest, letzir, spielte, schwanza, gleichen, fur, jedemahtey, mochtestihr

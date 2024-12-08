@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/weapons-explosives-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/weapons-explosives-banner.png)
 
 # Smallarm Weapons
 
@@ -144,7 +144,7 @@ A Character can perform one of the additional effects as a bonus action if they 
 
 ## Firearms
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/firearms-banner.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/firearms-banner.png)
 
 If you want to model the swashbuckling style of *The Three Musketeers* and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
 
@@ -197,7 +197,7 @@ Firearms use special ammunition, and some of them have the burst fire or reload 
 
 ## Explosives
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/explosives-banner.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/weapons-explosives/explosives-banner.png)
 
 A campaign might include explosives from the Renaissance or the modern world (the latter are priceless), as presented in the Explosives table.
 

@@ -1,7 +1,7 @@
 [md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/light-sources/images/sun-portrait.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/character-sheets/light-sources/images/sun-portrait.png)
 
 ## Sun
 
@@ -9,4 +9,4 @@
 
 Suns emit bright light in 300 feet. No dim light.
 
-[Clear Token](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/character-sheets/light-sources/images/1-pixel-clear.png)
+[Clear Token](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/character-sheets/light-sources/images/1-pixel-clear.png)

@@ -1,7 +1,7 @@
 ﻿[md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-banner.png)
 
 # Personal Gear
 
@@ -211,7 +211,7 @@ A cleric or paladin may create holy water by performing a spec⁠ial ritual. The
 
 ## Equipment Packs
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-packs.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-packs.png)
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
@@ -255,7 +255,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 ## Winter Survival Gear
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-cold-weather.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-cold-weather.png)
 
 The Winter Survival Gear table provides costs for cold weather clothing, crampons, and snowshoes, which can be added to the list of things that characters can buy in Ten-Towns.
 
@@ -277,7 +277,7 @@ The Winter Survival Gear table provides costs for cold weather clothing, crampon
 
 ## Magic Items
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-magic-items.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/personal-gear-magic-items.png)
 
 It is cheaper to craft an item, however a character may lack the resources, time, or skill to do so. At magic shops, in certain towns, magic items can be purchased for a price. If available the items base prices are listed below.
 

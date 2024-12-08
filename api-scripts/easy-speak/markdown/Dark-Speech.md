@@ -3,12 +3,12 @@
 
 # Dark Speech
 
-| | |
-|:---:|:---:|
+|                 |                                     |
+| :-------------- | :---------------------------------- |
 | Typical Speaker | Dark Vestiges, Evil deities, fiends |
-| Phonetics | Foreboding, mental agony |
-| Script | Gnim (Gnomish), esoteric symbology |
-| Difficulty | ★★★★★ |
+| Phonetics       | Foreboding, mental agony            |
+| Script          | Gnim (Gnomish), esoteric symbology  |
+| Difficulty      | ★★★★★                               |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -33,9 +33,9 @@ Because the Gnomish language has rich nuances and depth of representation, when 
 
 ## Fonts
 
-Link to [Gnome Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/rpg-katakana.zip).
+Link to [Gnome Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/rpg-katakana.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 ฿l0od, ₢uilt₰, H⚥p∌le≵, ₫eceiv℁r, ☣ea☾l♅ng, $0Ul, ￥uf₳€, ☥a⚧k⤕, vas≭uin ௹, mmwuhahaha

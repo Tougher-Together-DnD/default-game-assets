@@ -16,9 +16,9 @@ The Roll20 Enhancement Suite (VTTES) is a powerful browser extension designed to
 ## **VTTES Settings in Roll20**
 After installation, VTTES provides new options within Roll20. Adjust these settings for optimal DMing:
 
-![Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
+![Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
 
-Import the settings using the vttes settings json: [Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/recommended-settings_v1.28.22_.vttes_settings_json)
+Import the settings using the vttes settings json: [Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/recommended-settings_v1.28.22_.vttes_settings_json)
 
 ## **Managing Handouts, Macros, and Characters**
 

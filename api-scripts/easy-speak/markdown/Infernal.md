@@ -3,12 +3,12 @@
 
 # Infernal
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Devils, evil outsiders |
-| Phonetics | Harsh, gravelly, wicked |
-| Script | Infernal, corrupted Barazhad |
-| Difficulty | ★★★☆☆ |
+|                 |                              |
+| :-------------- | :--------------------------- |
+| Typical Speaker | Devils, evil outsiders       |
+| Phonetics       | Harsh, gravelly, wicked      |
+| Script          | Infernal, corrupted Barazhad |
+| Difficulty      | ★★★☆☆                        |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -38,9 +38,9 @@ Infernal is very similar to Barazhad with minor alterations to make the runes ha
 
 ## Fonts
 
-Link to [Barazhad Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/barazhad.zip).
+Link to [Barazhad Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/barazhad.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 swarquey, rumgurghup, cammariss, baulroon, kelparnok, perslghkeel, bghoaurngraw, auch, bhsflemasnu

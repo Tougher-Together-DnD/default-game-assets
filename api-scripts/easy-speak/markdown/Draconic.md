@@ -3,12 +3,12 @@
 
 # Draconic
 
-| | |
-|:---:|:---:|
+|                 |                                    |
+| :-------------- | :--------------------------------- |
 | Typical Speaker | Dragonkin, lizardfolk, troglodytes |
-| Phonetics | hard consonants, long *ss* |
-| Script | Iokharic |
-| Difficulty | ★★☆☆☆ |
+| Phonetics       | hard consonants, long *ss*         |
+| Script          | Iokharic                           |
+| Difficulty      | ★★☆☆☆                              |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -38,9 +38,9 @@ More distasteful to dragons is that elven scholars theorize that kobolds, rather
 
 ## Fonts
 
-Link to [Iokharic Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/iokharic.zip).
+Link to [Iokharic Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/iokharic.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/iokharic-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/iokharic-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 darastrix, earenk, faessi, ekess, dartak, gix, jhank, kothar, hessjing, ghent

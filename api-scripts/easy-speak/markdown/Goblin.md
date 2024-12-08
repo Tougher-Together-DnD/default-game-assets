@@ -3,12 +3,12 @@
 
 # Goblin
 
-| | |
-|:---:|:---:|
+|                 |                               |
+| :-------------- | :---------------------------- |
 | Typical Speaker | Bugbears, goblins, hobgoblins |
-| Phonetics | Squeals, squeaks, and shrills |
-| Script | Dethek |
-| Difficulty | ★☆☆☆☆ |
+| Phonetics       | Squeals, squeaks, and shrills |
+| Script          | Dethek                        |
+| Difficulty      | ★☆☆☆☆                         |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -30,9 +30,9 @@ Goblin is written in Dethek, but more recently goblins and hobgoblins have begun
 
 ## Fonts
 
-Link to [Dethek Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/dethek-stone.zip).
+Link to [Dethek Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/dethek-stone.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 hok-tok-nok, bahgawg, heekin, yelaw, yohoop, bugarr, itchin, neep, nachk

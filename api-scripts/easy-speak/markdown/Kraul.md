@@ -3,12 +3,12 @@
 
 # Kraul
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Kraul |
-| Phonetics | Insectoid, chirps, chittering, pheromones |
-| Script | N/A |
-| Difficulty | ★★★★★ |
+|                 |                                           |
+| :-------------- | :---------------------------------------- |
+| Typical Speaker | Kraul                                     |
+| Phonetics       | Insectoid, chirps, chittering, pheromones |
+| Script          | N/A                                       |
+| Difficulty      | ★★★★★                                     |
 
 <div style="display: none;">
 <!-- ★ ☆ -->

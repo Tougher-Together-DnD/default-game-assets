@@ -1,7 +1,7 @@
 [md]
 [css](-OCVFMyYfsylqoZPiW6l)
 
-![main_banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-banner.png)
+![main_banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-banner.png)
 
 # House Rules and Gameplay Mechanics
 
@@ -32,7 +32,7 @@ This flowchart provides a clear decision-making process for when to require dice
 4. **Roll If Needed**:
    - If the passive score isn’t enough, the player rolls a die and adds the appropriate modifier. Compare the result to the DC to determine success or failure.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-dm-flowchart.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-dm-flowchart.png)
 
 ### Example Scenarios
 
@@ -116,7 +116,7 @@ Action economy represents the energy your character uses during their turn to ch
 
 You can imagine your action economy as a nested set of intents. Once you have chosen a Main Action, you can only perform what is left in your Bonus, Move, and free actions.
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-nested-actions.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/handouts/quick-reference/images/tougher-together-house-rules-nested-actions.png)
 
 #### Main Action
 

@@ -18,7 +18,7 @@
 
 <!-- Copy and Paste the Rendered output into the Roll20 Forums. -->
 
-![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/apply-here-banner.png)
+![Main Banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/apply-here-banner.png)
 <br>
 
 # Welcome!
@@ -28,7 +28,7 @@ To apply just "copy/paste" the below template into a new post. Then edit with yo
 
 Once accepted you will have access to the **Campaign Forums**. That forum has threads for important links and party introductions. 
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
 
 ## Player Information
 **Name:**  

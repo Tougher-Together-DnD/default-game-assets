@@ -29,13 +29,38 @@ export default [
       "prefer-const": ["warn"],
       "no-var": "error",
       "no-console": "warn",
-      "no-restricted-syntax": [
+      "padding-line-between-statements": [
+        "error",
+        { "blankLine": "always", "prev": "*", "next": "return" },
+        { "blankLine": "always", "prev": "*", "next": "block-like" },
+        { "blankLine": "always", "prev": "block-like", "next": "*" },
+        { "blankLine": "always", "prev": "*", "next": "block" }, // Use "block" for block comments
+        { "blankLine": "always", "prev": "directive", "next": "*" },
+        { "blankLine": "always", "prev": "*", "next": "directive" }
+      ],
+      "lines-around-comment": [
         "error",
         {
-          selector: "ObjectPattern",
-          message: "Destructuring is discouraged. Use explicit property access instead.",
-        },
+          "beforeBlockComment": true,
+          "beforeLineComment": true,
+          "allowBlockStart": true,
+          "allowObjectStart": true,
+          "allowArrayStart": true
+        }
       ],
-    },
-  },
+      "prefer-destructuring": [
+        "warn",
+        {
+          "VariableDeclarator": {
+            "array": true,
+            "object": true
+          },
+          "AssignmentExpression": {
+            "array": true,
+            "object": true
+          }
+        }
+      ]
+    }
+  }
 ];

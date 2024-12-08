@@ -3,12 +3,12 @@
 
 # Dwarvish
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Dwarves |
-| Phonetics | Short low syllable words, terse |
-| Script | Dethek |
-| Difficulty | ★☆☆☆☆ |
+|                 |                                 |
+| :-------------- | :------------------------------ |
+| Typical Speaker | Dwarves                         |
+| Phonetics       | Short low syllable words, terse |
+| Script          | Dethek                          |
+| Difficulty      | ★☆☆☆☆                           |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -34,9 +34,9 @@ All Dwarvish languages use a runic script known as Dethek. Dethek runes are rare
 
 ## Fonts
 
-Link to [Dethek Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/dethek-stone.zip).
+Link to [Dethek Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/dethek-stone.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/dethek-stone-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 argal, helmas, waslup, burnaph, harniplik, defilok, vanis, woermielis, wotounton

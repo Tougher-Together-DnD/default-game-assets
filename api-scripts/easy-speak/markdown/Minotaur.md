@@ -3,12 +3,12 @@
 
 # Minotaur
 
-| | |
-|:---:|:---:|
+|                 |          |
+| :-------------- | :------- |
 | Typical Speaker | Minotaur |
-| Phonetics | Greek |
-| Script | TBD |
-| Difficulty | TBD |
+| Phonetics       | Greek    |
+| Script          | TBD      |
+| Difficulty      | TBD      |
 
 <div style="display: none;">
 <!-- ★ ☆ -->

@@ -2,7 +2,7 @@
 
 ## Use VTTES
 
-[VTTES Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
+[VTTES Recommended Settings](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/images/vttes-changed-settings.png)
 
 ## Update Campaign Page
 
@@ -10,7 +10,7 @@
 
 These markers will be used by players and Combat Master (api) to mark status affects on characters.
 
-![Token Markers](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/token-marker-sets.png)
+![Token Markers](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/images/token-marker-sets.png)
 
 ### Add Game and Looking For Group Descriptions
 
@@ -78,7 +78,7 @@ For Games using Elevation:
 
 ### Style Markdown Documentation
 
-![Style Markdown API Scripts](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/style-markdown-api-scripts.png)
+![Style Markdown API Scripts](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/images/style-markdown-api-scripts.png)
 
 
 To enhance your Roll20 game with Markdown-styled handouts and bios, follow these steps to install and configure the necessary API scripts.
@@ -101,7 +101,7 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
    - **Save the Script:** Click **Save Script** to add it to your game.
 
 >Note:
->Repeat this process for all three scripts available at the [GitHub repository](https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/api/style-markdown-handouts).
+>Repeat this process for all three scripts available at the [GitHub repository](https://github.com/Tougher-Together-Gaming/default-game-assets/tree/main/api/style-markdown-handouts).
 
 3. **Restart the API Sandbox:**
 - After adding all scripts, click the **Restart API Sandbox** button to ensure they are active.
@@ -112,7 +112,7 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
    - In your Roll20 game, go to the **Journal** tab.
    - Create a new handout called `Style Sheet`
    - In the 'GM Notes' add the CSS content
-     - [Style Sheet](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/templates/handouts/ttd-default.css)
+     - [Style Sheet](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/templates/handouts/ttd-default.css)
    - Once saved, the Style Sheet Handout will have an ID after `[css]()` 
 
 2. **Apply Markdown Formatting:**
@@ -131,7 +131,7 @@ To enhance your Roll20 game with Markdown-styled handouts and bios, follow these
 - The content will be rendered and converted by the API script
 
 4. Upload the Mrkdown templates or import the VTTES handouts
-   1. [Github Repository](https://github.com/Tougher-Together-DnD/default-game-assets/tree/main/handouts/quick-reference)
+   1. [Github Repository](https://github.com/Tougher-Together-Gaming/default-game-assets/tree/main/handouts/quick-reference)
 
 ### 5th Edition OGL by Roll20 Companion
 
@@ -150,7 +150,7 @@ Be sure to check `Players can use --ids`
 
 This script is used to remove bars and show players auras to determine health.
 
-When in Game set the settings to ![Aura Health Colors Settings](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/tutorials/images/aura-health-colors-settings.png)
+When in Game set the settings to ![Aura Health Colors Settings](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/tutorials/images/aura-health-colors-settings.png)
 
 Use the custom script so that temp hp is used when damage is taken.
 

@@ -3,12 +3,12 @@
 
 # Undercommon
 
-| | |
-|:---:|:---:|
+|                 |                           |
+| :-------------- | :------------------------ |
 | Typical Speaker | Drow, Underdark residents |
-| Phonetics | Assertive whispers |
-| Script | Espruar |
-| Difficulty | ★☆☆☆☆ |
+| Phonetics       | Assertive whispers        |
+| Script          | Espruar                   |
+| Difficulty      | ★☆☆☆☆                     |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -36,9 +36,9 @@ Amoung the Underdark and usage for Undercommon, the script is loose with irregul
 
 ## Fonts
 
-Link to [Espruar Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/olde-espruar.zip).
+Link to [Espruar Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/olde-espruar.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/olde-espruar-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/olde-espruar-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 usawna, nealan, shgun, faulsa, meyso, hungrr, belnapkeen, quayla, nickhaf

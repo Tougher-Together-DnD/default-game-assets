@@ -3,12 +3,12 @@
 
 # Loxodon
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Loxodon |
-| Phonetics | Gutteral, trumpets, low vibrations |
-| Script | TBD |
-| Difficulty | TBD |
+|                 |                                    |
+| :-------------- | :--------------------------------- |
+| Typical Speaker | Loxodon                            |
+| Phonetics       | Gutteral, trumpets, low vibrations |
+| Script          | TBD                                |
+| Difficulty      | TBD                                |
 
 <div style="display: none;">
 <!-- ★ ☆ -->

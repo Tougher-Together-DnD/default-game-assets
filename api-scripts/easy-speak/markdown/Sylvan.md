@@ -3,12 +3,12 @@
 
 # Sylvan
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Fey, sentient plants |
-| Phonetics | Musical, like the wind rustling leafs |
-| Script | Espruar, Eladrin |
-| Difficulty | ★★☆☆☆ |
+|                 |                                       |
+| :-------------- | :------------------------------------ |
+| Typical Speaker | Fey, sentient plants                  |
+| Phonetics       | Musical, like the wind rustling leafs |
+| Script          | Espruar, Eladrin                      |
+| Difficulty      | ★★☆☆☆                                 |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -28,9 +28,9 @@ Fey creatures do not usually write anything down, being long lived and apart fro
 
 ## Fonts
 
-Link to [Eladrin Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/eldarin.zip).
+Link to [Eladrin Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/eldarin.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/eladrin-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/eladrin-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 ayre, atamayre, ent, hithayre, esk, enyoreen, envorya, schualthey, lani

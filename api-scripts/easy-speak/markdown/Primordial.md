@@ -3,12 +3,12 @@
 
 # Primordial
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Primordial |
-| Phonetics | Depends on Dialect |
-| Script | Barazhad, Dethek |
-| Difficulty | ★★★☆☆ |
+|                 |                    |
+| :-------------- | :----------------- |
+| Typical Speaker | Primordial         |
+| Phonetics       | Depends on Dialect |
+| Script          | Barazhad, Dethek   |
+| Difficulty      | ★★★☆☆              |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -28,9 +28,9 @@ Originally Barazhad as with the oldest languages, but not uncommon to see it tra
 
 ## Fonts
 
-Link to [Barazhad Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/barazhad.zip).
+Link to [Barazhad Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/barazhad.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/barazhad-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 iram, sylve, bloop, loknok, loowoonu, crakeen, crieayk, hatlooshtim, yotfalakris

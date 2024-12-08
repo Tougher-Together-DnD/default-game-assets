@@ -18,7 +18,7 @@
 
 <!-- Copy and Paste the Rendered output into the Roll20 Forums. -->
 
-![Main Banner](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/character-introductions-banner.png)
+![Main Banner](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/character-introductions-banner.png)
 <br>
 
 ## Welcome!
@@ -27,4 +27,4 @@ Let Everyone know who is joining the party (optional). You can post images, elab
 
 This helps other players immerse themselves in visualizing your character and engaging with them in game.
 
-![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)
+![Horizontal Ruler](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/themes/default/horizontal-ruler.png)

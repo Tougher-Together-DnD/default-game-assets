@@ -3,12 +3,12 @@
 
 # Elvish
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Elves |
-| Phonetics | Deliberate, paced use of throat and mouth regions |
-| Script | Espruar |
-| Difficulty | ★★★☆☆ |
+|                 |                                                   |
+| :-------------- | :------------------------------------------------ |
+| Typical Speaker | Elves                                             |
+| Phonetics       | Deliberate, paced use of throat and mouth regions |
+| Script          | Espruar                                           |
+| Difficulty      | ★★★☆☆                                             |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -32,9 +32,9 @@ Elves, and other peoples, use, Espruar to write Common, Deep Speech, Elvish, and
 
 ## Fonts
 
-Link to [Espruar Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/olde-espruar.zip).
+Link to [Espruar Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/olde-espruar.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/olde-espruar-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/olde-espruar-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 drii, elandi, ausa, ilphu, saaden, tha, irasku, kulaa, sain, sanerek

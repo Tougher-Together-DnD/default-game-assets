@@ -13,9 +13,9 @@ bg {
     margin: -30px;
 
 	background: 
-	url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/page-top.png') top center no-repeat, /* Top image */
-	url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/page-top.png') bottom center no-repeat, /* Bottom image */
-	url('https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/templates/campaign-details/images/page-middle.png') center repeat-y; /* Middle image */
+	url('https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/page-top.png') top center no-repeat, /* Top image */
+	url('https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/page-top.png') bottom center no-repeat, /* Bottom image */
+	url('https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/templates/campaign-details/images/page-middle.png') center repeat-y; /* Middle image */
 
 	background-size: contain, contain, auto; /* Sizes for images */
 

@@ -3,12 +3,12 @@
 
 # Druidic
 
-| | |
-|:---:|:---:|
-| Typical Speaker | Only druids |
-| Phonetics | Celtic sounding, animal sounds, rhythmic |
-| Script | Druidic* |
-| Difficulty | Secret |
+|                 |                                          |
+| :-------------- | :--------------------------------------- |
+| Typical Speaker | Only druids                              |
+| Phonetics       | Celtic sounding, animal sounds, rhythmic |
+| Script          | Druidic*                                 |
+| Difficulty      | Secret                                   |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -46,9 +46,9 @@ Begs the question, "Why alert other druids to rest?". Probably because the trail
 
 ## Fonts
 
-Link to [Druidic Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/bamum-symbols.zip).
+Link to [Druidic Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/bamum-symbols.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/bamum-symbols-1-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/bamum-symbols-1-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 darastrix, earenk, faessi, ekess, dartak, gix, jhank, kothar, hessjing, ghent

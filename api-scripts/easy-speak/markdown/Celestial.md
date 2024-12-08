@@ -3,12 +3,12 @@
 
 # Celestial
 
-| |  |
-|:---:|:---:|
-| Typical Speaker | Angels, good outsiders |
-| Phonetics | Repetitive, lyrical, song like |
-| Script | Dethek (Gnomish) or illustrated Common material permitting |
-| Difficulty | ★★★☆☆ |
+|                 |                                                            |
+| :-------------- | :--------------------------------------------------------- |
+| Typical Speaker | Angels, good outsiders                                     |
+| Phonetics       | Repetitive, lyrical, song like                             |
+| Script          | Dethek (Gnomish) or illustrated Common material permitting |
+| Difficulty      | ★★★☆☆                                                      |
 
 <div style="display: none;">
 <!-- ★ ☆ -->
@@ -31,9 +31,9 @@ Angels saw little need for writing before mortality embraced the practice of pre
 The language is about transmission of intent and purpose. Manuscripts of Celestial oaths and decrees will be accompanied by pictures, this practice forms the basis of illuminated manuscripts. Particularly when written in Common. The Gnomish language is also intricate and deep in its subtlety, therefore the Gnim *Dethek* Script is used when illustration is impractical, such as engravings or limited by space.
 
 ## Fonts
-Link to [Gnome Font](https://github.com/Tougher-Together-DnD/default-game-assets/blob/main/fonts/rpg-katakana.zip).
+Link to [Gnome Font](https://github.com/Tougher-Together-Gaming/default-game-assets/blob/main/fonts/rpg-katakana.zip).
 
-![img_center](https://raw.githubusercontent.com/Tougher-Together-DnD/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
+![img_center](https://raw.githubusercontent.com/Tougher-Together-Gaming/default-game-assets/refs/heads/main/fonts/images/rpg-katakana-font-charmap.png)
 
 <div style="display: none;" id="easySpeakWords">
 ohh ahh, leerin, teyfaal, meailnine, rueen, sofala, shalay, noon, feelu, cayne
