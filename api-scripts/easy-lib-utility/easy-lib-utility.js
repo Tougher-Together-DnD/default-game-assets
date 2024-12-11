@@ -1,4 +1,4 @@
-/*
+/*!
 @language: en-US
 @title: Easy Utility Library Module
 @subject: Utility Functions for Roll20 Easy Modules
@@ -28,7 +28,7 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 DEALINGS IN THE SOFTWARE.
-*/
+!*/
 
 // eslint-disable-next-line no-unused-vars
 const EASY_LIB_UTILITY = (() => {
@@ -40,11 +40,12 @@ const EASY_LIB_UTILITY = (() => {
 	// Configuration and settings for the module
 	const moduleSettings = {
 		modName: "Easy-LibUtility",
-		shortName: "easyutility",
+		chatName: "ezutility",
 		globalName: "EASY_LIB_UTILITY",
 		version: "0.1.0",
-		author: "Mhykiel2",
-		verbose: true
+		author: "Mhykiel",
+		verbose: true,
+		globalState: "EasyModules",
 	};
 
 	// !SECTION END of Private Data
@@ -52,6 +53,17 @@ const EASY_LIB_UTILITY = (() => {
 	/*******************************************************************************************************************
 	* SECTION UTILITY FUNCTIONS                                                                                        *
 	*******************************************************************************************************************/
+
+	function _fetchGlobalState() {
+
+		return state[moduleSettings.globalState];
+	}
+
+	const _convertToSingleLine = ({ multiline }) => {
+		const regex = /("[^"]*"|'[^']*')|\s+/g;
+
+		return multiline.replace(regex, (_, quoted) => { return (quoted ? quoted : " "); });
+	};
 
 	// ANCHOR Function Map for Status and Error Codes
 	/**
@@ -74,7 +86,7 @@ const EASY_LIB_UTILITY = (() => {
 	* statusHandlers["10000"]();
 	* statusHandlers["70000"]("Testing DEBUG message.");
 	*/
-	function _createStatusCodeMappings({ thisUtilities }) {
+	function _createStatusCodeStore({ thisUtilities }) {
 		const codeToFunctionMap = {
 			"0": () => { return thisUtilities.LogSyslogMessage({ severity: "INFO", code: "0", message: "Success" }); },
 			"1": () => { return thisUtilities.LogSyslogMessage({ severity: "ERROR", code: "1", message: "Failure" }); },
@@ -102,11 +114,11 @@ const EASY_LIB_UTILITY = (() => {
 
 		return {
 			// Get the entire map or a specific handler by code
-			get: ({ code } = {}) => {return (code ? codeToFunctionMap[code] : codeToFunctionMap);},
+			get: ({ code } = {}) => { return (code ? codeToFunctionMap[code] : codeToFunctionMap); },
 
 			// Set or replace the entire map
 			set: ({ newMap }) => {
-				Object.keys(codeToFunctionMap).forEach(key => {return delete codeToFunctionMap[key];}); // Clear existing entries
+				Object.keys(codeToFunctionMap).forEach(key => { return delete codeToFunctionMap[key]; }); // Clear existing entries
 				Object.assign(codeToFunctionMap, newMap); // Add new entries
 			},
 
@@ -122,32 +134,763 @@ const EASY_LIB_UTILITY = (() => {
 		};
 	};
 
-	function _createCssStyleMappings({ thisCssStyles }) {
-		const themeToFunctionMap = {
-			"chatError": () => { return thisCssStyles.({ }); },
+	function _createTemplateStore() {
+		// Ensure `state[moduleSettings.globalState]` exists
+		const globalState = state[moduleSettings.globalState] || (state[moduleSettings.globalState] = {});
+		const templates = globalState.templates || (globalState.templates = {});
+
+		// Default templates
+		const defaultTemplates = {
+			"default": () => {
+				return `
+			  <div>
+				<h1>Default Template</h1>
+				<p>This is the default HTML template.</p>
+			  </div>`;
+			},
+			"errorTemplate": () => {
+				return `
+			  <div class="error-message">
+				<h2 class="error-title">Error</h2>
+				<p class="error-text">An error occurred while processing your request.</p>
+				<div class="error-command">
+				  <p><strong>Command:</strong> /example-command</p>
+				</div>
+				<p class="error-description">Please try again later or contact support.</p>
+				<p class="error-footer">For assistance, visit <a href="#">support.example.com</a>.</p>
+			  </div>`;
+			},
+			"alertTemplate": () => {
+				return `
+			  <div class="alert-message">
+				<h2 class="alert-title">Alert</h2>
+				<p class="alert-text">This is an alert message.</p>
+			  </div>`;
+			}
+		};
+
+		const _convertToSingleLine = ({ multiline }) => {
+			const regex = /("[^"]*"|'[^']*')|\s+/g;
+
+			return multiline.replace(regex, (_, quoted) => { return (quoted ? quoted : " "); });
 		};
 
 		return {
-			// Get the entire map or a specific handler by code
-			get: ({ theme } = {}) => {return (theme ? themeToFunctionMap[theme] : themeToFunctionMap);},
+			// Initialize the global state with default templates
+			init: () => {
+				Object.assign(templates, defaultTemplates);
+			},
 
-			// Set or replace the entire map
+			// Get a specific template or fallback to "default"
+			get: ({ template } = {}) => {
+				const templateGenerator = templates[template] || templates["default"];
+
+				return _convertToSingleLine({ multiline: templateGenerator() });
+			},
+
+			// Set or replace all templates
 			set: ({ newMap }) => {
-				Object.keys(themeToFunctionMap).forEach(key => {return delete themeToFunctionMap[key];}); // Clear existing entries
-				Object.assign(themeToFunctionMap, newMap); // Add new entries
+				Object.keys(templates).forEach(key => { return delete templates[key]; }); // Clear existing templates
+				Object.assign(templates, newMap); // Add new templates
 			},
 
-			// Add new handlers or overwrite existing ones
-			add: ({ newHandlers }) => {
-				Object.assign(themeToFunctionMap, newHandlers);
+			// Add or update specific templates
+			add: ({ newTemplates }) => {
+				Object.assign(templates, newTemplates);
 			},
 
-			// Remove a specific handler by code
-			remove: ({ theme } = {}) => {
-				delete themeToFunctionMap[theme];
+			// Remove a specific template
+			remove: ({ template } = {}) => {
+				delete templates[template];
 			},
 		};
 	};
+
+	function _createThemeStore() {
+
+		// Ensure `state[moduleSettings.globalState]` exists
+		const globalState = state[moduleSettings.globalState] || (state[moduleSettings.globalState] = {});
+		const themes = globalState.themes || (globalState.themes = {});
+
+		// Default themes
+		const defaultThemes = {
+			"default": () => {
+				return `
+				table {
+					width: 100%;
+					border-collapse: collapse;
+				}
+				table th, table td {
+					border: 1px solid #000;
+					padding: 8px;
+					text-align: left;
+				}
+				div {
+					border: 1px solid #ccc;
+					padding: 10px;
+					margin: 5px;
+					border-radius: 5px;
+				}`;
+			},
+			"chatError": () => {
+				return `
+				.error-message {
+					border: 1px solid black;
+					background-color: #ffdddd;
+					padding: 10px;
+					border-radius: 10px;
+				}
+				.error-title {
+					color: #cc0000;
+					margin: 0;
+					font-size: 1.2em;
+				}
+				.error-text {
+					margin: 5px 0;
+				}
+				.error-command {
+					margin: 8px 0;
+					padding: 0 5px;
+					background-color: #ffffff;
+					border: 1px solid #cccccc;
+					border-radius: 5px;
+					font-family: monospace;
+				}
+				.error-description {
+					margin: 5px 0;
+				}
+				.error-footer {
+					margin: 5px 0;
+					font-size: 0.9em;
+					color: #555;
+				}`;
+			},
+			"chatAlert": () => {
+				return "";
+			}
+		};
+
+		return {
+			// Initialize the global state with default themes
+			init: () => {
+				Object.assign(themes, defaultThemes);
+			},
+
+			// Get a specific theme or fallback to "default"
+			get: ({ theme } = {}) => {
+				const cssGenerator = themes[theme] || themes["default"];
+
+				return _convertToSingleLine({ multiline: cssGenerator() });
+			},
+
+			// Set or replace all themes
+			set: ({ newMap }) => {
+				Object.keys(themes).forEach(key => { return delete themes[key]; }); // Clear existing themes
+				Object.assign(themes, newMap); // Add new themes
+			},
+
+			// Add or update specific themes
+			add: ({ newThemes }) => {
+				Object.assign(themes, newThemes);
+			},
+
+			// Remove a specific theme
+			remove: ({ theme } = {}) => {
+				delete themes[theme];
+			},
+		};
+	};
+
+	/**
+	 * Converts a multiline string into a single-line string while preserving quoted sections.
+	 *
+	 * This function takes a multiline string, removes unnecessary whitespace (e.g., newlines, tabs) 
+	 * outside of quoted sections, and converts it into a single-line string. Quoted sections are preserved as-is, 
+	 * ensuring that structured or sensitive data remains intact.
+	 *
+	 * Useful for normalizing text for processing, such as converting formatted strings (e.g., JSON, HTML, or CSS) 
+	 * into a single line while retaining their structural integrity.
+	 *
+	 * @example
+	 * const multiline = `
+	 *   {
+	 *     "key": "value",
+	 *     "multiline": "This text spans
+	 *     multiple lines"
+	 *   }
+	 * `;
+	 * const singleLine = _convertToSingleLine({ multiline });
+	 * console.log(singleLine);
+	 * 
+	 * // Output:
+	 * // { "key": "value", "multiline": "This text spans multiple lines" }
+	 *
+	 * @param {Object} param - Object containing the multiline string.
+	 * @param {string} param.multiline - The input multiline string.
+	 * @returns {string} - The single-line string with whitespace normalized.
+	 */
+	function _convertToSingleLine({ multiline }) {
+		const regex = /("[^"]*"|'[^']*')|\s+/g;
+
+		return multiline.replace(regex, (_, quoted) => { return (quoted ? quoted : " "); });
+	};
+
+	/**
+	 * Converts a CSS string into a JSON string representation.
+	 *
+	 * This function takes a CSS string, removes comments, processes selectors, 
+	 * and converts their properties into structured key-value pairs. It categorizes selectors 
+	 * into universal, elements, classes, and IDs, while also handling child selectors (e.g., `.parent > .child`).
+	 * 
+	 * Provides an easy way to programmatically interact with and manipulate CSS rules in JSON format.
+	 *
+	 * @example
+	 * const css = `
+	 *   * {
+	 *     margin: 0;
+	 *     padding: 0;
+	 *   }
+	 *   .class > .child {
+	 *     color: red;
+	 *   }
+	 * `;
+	 * const cssJson = _convertCssToJson(css);
+	 * console.log(JSON.parse(cssJson));
+	 * 
+	 * // Output:
+	 * // {
+	 * //   "universal": { "margin": "0", "padding": "0" },
+	 * //   "classes": {
+	 * //     ".class": {
+	 * //       "children": {
+	 * //         ".child": { "color": "red" }
+	 * //       }
+	 * //     }
+	 * //   },
+	 * //   "elements": {},
+	 * //   "ids": {}
+	 * // }
+	 * 
+	 * @param {string} css - The CSS string to parse.
+	 * @returns {string} - A stringified JSON representation of the CSS rules.
+	 */
+	function _convertCssToJson({ css }) {
+		const cleanedCSS = css
+
+			// Remove comments and Replace "*" universal selector with universal, as Json keys must start with an alphanumeric character.
+			.replace(/\/\*[\s\S]*?\*\//g, "")
+			.replace(/\*\s\{/g, "universal {");
+
+		// Create an empty object to hold the CSS rules as they are parsed
+		const cssRules = { universal: {}, elements: {}, classes: {}, ids: {} };
+
+		// Matches selectors by grabbing the characters before the opening curly bracket {
+		const ruleRegex = /([\w\.\#][^\{]+)\{([^\}]+)\}/g;
+
+		// Match the properties of those selectors as an object with key:value pairs
+		const propertiesRegex = /([\w-]+)\s*:\s*([^;]+);/g;
+
+		let match;
+		while ((match = ruleRegex.exec(cleanedCSS))) {
+			const selector = match[1].trim();
+			const properties = {};
+			let propMatch;
+
+			// This takes the properties of the selector and splits each prop (ex. color:red; font-size: 16px;) into its
+			// own key:value pair in a props node instead of keeping it as a single string.
+			while ((propMatch = propertiesRegex.exec(match[2].trim()))) {
+				const key = propMatch[1].trim();
+				const value = propMatch[2].trim();
+				properties[key] = value;
+			}
+
+			// We then append the object containing each selector's properties to the correct selector. the selectors having
+			// been divided up into type earlier.
+			switch (true) {
+				case selector === "universal":
+					cssRules.universal = properties;
+					break;
+				case selector.startsWith("."):
+					cssRules.classes[selector] = properties;
+					break;
+				case selector.startsWith("#"):
+					cssRules.ids[selector] = properties;
+					break;
+				default:
+					cssRules.elements[selector] = properties;
+					break;
+			}
+		}
+
+		// This is a helper function that performs additional parsing of child selectors such as: .class > .child {}
+		// previous code would think ".class > .child" was a type of class or element, we now find these and further split
+		// them into parent child nodes
+		const _processChildSelectors = (rules) => {
+			const expandedRules = {};
+			for (const [selector, styles] of Object.entries(rules)) {
+				if (selector.includes(">")) {
+					const [parent, child] = selector.split(">").map((s) => { return s.trim(); });
+
+					// Ensure parent exists in expandedRules
+					if (!expandedRules[parent]) {
+						expandedRules[parent] = { ...rules[parent], children: {} }; // Initialize parent with existing styles and children
+					}
+
+					// Ensure children object exists
+					if (!expandedRules[parent].children) {
+						expandedRules[parent].children = {};
+					}
+
+					// Add child styles under the parent's children
+					expandedRules[parent].children[child] = styles;
+				} else {
+					// Keep the selector as-is if it's not a child selector
+					expandedRules[selector] = styles;
+				}
+			}
+
+			return expandedRules;
+		};
+
+
+		// Using the helper function we iterate through the selector types splitting them into parent: child nodes in the json
+		cssRules.classes = _processChildSelectors(cssRules.classes);
+		cssRules.ids = _processChildSelectors(cssRules.ids);
+		cssRules.elements = _processChildSelectors(cssRules.elements);
+
+		return JSON.stringify(cssRules); // Return stringified JSON
+	};
+
+	/**
+ * Parses an HTML string into a JSON representation.
+ *
+ * This function tokenizes an HTML string into its components (tags and text), 
+ * builds a hierarchical JSON representation of the HTML structure, and supports attributes 
+ * such as styles, classes, and IDs for styling purposes. The resulting JSON is stringified 
+ * and ready for use in applications that need structured HTML data.
+ *
+ * Provides a structured representation of HTML for scenarios where JSON-based 
+ * data manipulation or storage is preferred, such as rendering in non-HTML environments 
+ * or integrating with APIs.
+ *
+ * @example
+ * const html = `
+ * <div class="container" style="color: red;">
+ *   <p>Hello, <span id="highlight">world</span>!</p>
+ * </div>`;
+ * 
+ * const json = _convertHtmlToJson({ html });
+ * console.log(JSON.parse(json));
+ *
+ * // Output:
+ * // [
+ * //   {
+ * //     "element": "div",
+ * //     "props": {
+ * //       "classes": "container",
+ * //       "inline-style": "color: red;"
+ * //     },
+ * //     "children": [
+ * //       {
+ * //         "element": "p",
+ * //         "props": {},
+ * //         "children": [
+ * //           { "innerText": "Hello, " },
+ * //           {
+ * //             "element": "span",
+ * //             "props": { "ids": "highlight" },
+ * //             "children": [ { "innerText": "world" } ]
+ * //           },
+ * //           { "innerText": "!" }
+ * //         ]
+ * //       }
+ * //     ]
+ * //   }
+ * // ]
+ *
+ * @param {Object} param - The parameter object.
+ * @param {string} param.html - The HTML string to convert.
+ * @returns {string} - A stringified JSON representation of the HTML structure.
+ */
+	function _convertHtmlToJson({ html }) {
+
+		// This regex matches on 2 groups either it is a tag text inside <...> OR it is innerText between >...<
+		const regex = /<\/?\w+[^>]*>|[^<>]+/g;
+
+		// After finding the tags and text this puts each, in order, in ana array. Removing any blank lines or empty quotes.
+		const elementsArray = html.match(regex).map((item) => { return item.trim(); }).filter(Boolean);
+
+		// This is a helper function to convert an array of HTML nodes (tags and text) into a JSON structure.
+		const parseHTMLToJSON = (nodeArray) => {
+
+			// Well formed HTML should be nested nodes. Every element we find should be a child to some parent.
+			// Create a 'root' to be the parent of all elements in the input (because some tags may be siblings or peers).
+			// The 'stack' is a container, work area to parse the input, discarded at the end.
+			const stack = [];
+			const root = { children: [] };
+			stack.push(root);
+
+			// Iterate through each element in the array of HTML tokens.
+			nodeArray.forEach((element) => {
+
+				// Match opening tags and capture the tag name and attributes.
+				const openingTagMatch = element.match(/^<(\w+)([^>]*)>$/);
+				const closingTagMatch = element.match(/^<\/(\w+)>$/);
+
+				// If the element is an opening tag:
+				if (openingTagMatch) {
+					const [, tag, attributes] = openingTagMatch;
+					const props = { styles: {} };
+
+					// If the tag has attributes, parse them into key-value pairs.
+					if (attributes) {
+
+						const attributeRegex = /(\w+)\s*=\s*["']([^"']+)["']/g;
+						let attrMatch;
+
+						while ((attrMatch = attributeRegex.exec(attributes))) {
+							const [, key, value] = attrMatch;
+
+							// An HTML tag could have multiple kinds of attributes, but we are only interested in
+							// style, class, and id; for styling with simplified CSS.
+							// TODO Account for attributes like [data-]
+							// NOTE we are taking style and putting it aside as inline-style; as it will have precedence
+							// and need to overwrite all other rules we find.
+							if (key === "style") {
+								props["inline-style"] = value;
+							} else if (key === "class") {
+								props["classes"] = value;
+							} else if (key === "id") {
+								props["ids"] = value;
+							} else {
+								// Preserve other HTML attributes in props
+								props[key] = value;
+							}
+						}
+					}
+
+					// Create a new node representing this element, with props and an empty children array.
+					const node = { element: tag, props, children: [] };
+					// Add the node as a child to the last parent node on the stack (an open tag with a closing one).
+					stack[stack.length - 1].children.push(node);
+					// Push the new node onto the stack to handle potential nested children.
+					stack.push(node);
+				}
+
+				// If the element is a closing tag:
+				else if (closingTagMatch) {
+					const [, tag] = closingTagMatch;
+
+					// Pop the last node from the stack. This is a closing tag no more children elements are possible
+					const top = stack.pop();
+
+					// Sanity Check, Ensure that the closing tag matches the most recently opened tag
+					if (top.element !== tag) {
+
+						// HTML is malformed (potentially) throw error
+						throw new Error(`Mismatched closing tag: </${tag}>`);
+					}
+				}
+
+				// If the element is text content:
+				else {
+
+					// Text nodes between >...< carets won't resemble key:value. Therefore create a key called innerText
+					// and make its value the text string.
+					const textNode = { innerText: element.trim() };
+
+					// Add the text node as a child of the last node on the stack.
+					stack[stack.length - 1].children.push(textNode);
+				}
+			});
+
+			// Sanity Check; After processing all elements, the stack should only contain the root node (the container we made)
+			if (stack.length !== 1) {
+				throw new Error("Unclosed tags remain in stack");
+			}
+
+			// Return the children of the root node, which represent the parsed HTML structure.
+			return root.children;
+		};
+
+
+		// Convert parsed HTML to JSON and stringify it
+		const parsedJson = parseHTMLToJSON(elementsArray);
+
+		return JSON.stringify(parsedJson);
+	};
+
+	/**
+ * Combines CSS and HTML JSON representations, applying styles creating inline styled html.
+ *
+ * This function takes JSON representations of CSS and HTML, applies styles inline based on a 
+ * precedence hierarchy (Universal > Element > Class > ID > Inline Styles), and supports child-specific styles. 
+ * The result is an updated HTML JSON where all applicable styles are applied directly to each node as inline styles.
+ *
+ * Simplifies the styling process by resolving all CSS rules into inline styles, making the resulting
+ * HTML JSON easier to render in contexts where external stylesheets are unavailable or impractical.
+ *
+ * @example
+ * const cssJsonString = `
+ * {
+ *   "universal": { "margin": "0" },
+ *   "elements": {
+ *     "div": { "color": "blue" },
+ *     "span": { "font-size": "14px" }
+ *   },
+ *   "classes": {
+ *     ".highlight": { "background": "yellow" }
+ *   },
+ *   "ids": {
+ *     "#unique": { "border": "1px solid black" }
+ *   }
+ * }`;
+ *
+ * const htmlJsonString = `
+ * [
+ *   {
+ *     "element": "div",
+ *     "props": { "classes": "highlight", "ids": "unique" },
+ *     "children": [
+ *       { "element": "span", "props": {}, "children": [{ "innerText": "Hello World" }] }
+ *     ]
+ *   }
+ * ]`;
+ *
+ * const combinedJsonString = combineCssAndHtml(cssJsonString, htmlJsonString);
+ * console.log(JSON.parse(combinedJsonString));
+ *
+ * // Output:
+ * // [
+ * //   {
+ * //     "element": "div",
+ * //     "props": {
+ * //       "styles": {
+ * //         "margin": "0",
+ * //         "color": "blue",
+ * //         "background": "yellow",
+ * //         "border": "1px solid black"
+ * //       }
+ * //     },
+ * //     "children": [
+ * //       {
+ * //         "element": "span",
+ * //         "props": { "styles": { "font-size": "14px" } },
+ * //         "children": [{ "innerText": "Hello World" }]
+ * //       }
+ * //     ]
+ * //   }
+ * // ]
+ *
+ * @param {string} cssJson - Stringified JSON representation of CSS rules.
+ * @param {string} htmlJson - Stringified JSON representation of HTML structure.
+ * @returns {string} - A stringified JSON representation of the HTML with inline styles applied.
+ */
+	function _combineCssAndHtml({ cssJson, htmlJson }) {
+		const cssObject = JSON.parse(cssJson);
+		const htmlObject = JSON.parse(htmlJson);
+
+		// This is a helper that takes a set of properties and merges them, overwriting, current props for an element.
+		// It deletes the children so it does not appear in the final html as an inline attribute.
+		const _mergeStyles = (base, overwrite) => {
+			const validStyles = { ...overwrite };
+			delete validStyles.children; // Exclude non-style properties
+
+			return { ...base, ...validStyles };
+		};
+
+		// The main function that will apply styles overwriting in accordance to precedence:
+		// Inline Styles > ID > Class > Element > Universal (lowest)
+		const _applyStyles = (node, parentSelector = "") => {
+
+			// Text nodes do not have styles, return them as is.
+			if (typeof node === "string" || node.innerText) {
+				return node;
+			}
+
+			const { element, props, children } = node;
+
+			// Initialize styles. This is a blank styles node that will eventually be used as the style="" attribute inline
+			// in the html tag. It will be a consolidation of all the different css rules that apply to this particular tag
+			const styles = {};
+
+			// 1. Apply universal styles
+			if (cssObject.universal) {
+				Object.assign(styles, cssObject.universal);
+			}
+
+			// 2. Apply element-specific styles
+			if (cssObject.elements[element]) {
+				Object.assign(styles, _mergeStyles(styles, cssObject.elements[element]));
+			}
+
+			// 3. Apply child-specific styles from the parent
+			if (parentSelector && cssObject.elements[parentSelector]?.children?.[element]) {
+				Object.assign(styles, _mergeStyles(styles, cssObject.elements[parentSelector].children[element]));
+			}
+
+			// 4. Apply class-specific styles
+			if (props?.classes) {
+				props.classes.split(" ").forEach((className) => {
+					if (cssObject.classes?.[`.${className}`]) {
+						Object.assign(styles, _mergeStyles(styles, cssObject.classes[`.${className}`]));
+					}
+				});
+			}
+
+			// 5. Apply ID-specific styles
+			if (props?.ids && cssObject.ids?.[`#${props.ids}`]) {
+				Object.assign(styles, _mergeStyles(styles, cssObject.ids[`#${props.ids}`]));
+			}
+
+			// 6. Apply inline styles
+			if (props?.["inline-style"]) {
+				const inlineStyles = props["inline-style"]
+					.split(";")
+					.filter(Boolean)
+					.reduce((acc, rule) => {
+						const [property, value] = rule.split(":").map((x) => { return x.trim(); });
+						acc[property] = value;
+
+						return acc;
+					}, {});
+				Object.assign(styles, _mergeStyles(styles, inlineStyles));
+			}
+
+			// Remove inline-style from props (as it's merged now in styles)
+			delete props["inline-style"];
+
+			// Add combined styles to props
+			props.styles = styles;
+
+			// Recursively process children
+			if (children) {
+				node.children = children.map((child) => { return _applyStyles(child, element); });
+			}
+
+			return node;
+		};
+
+		// Ensure `htmlJson` is an array for consistent processing
+		// The HTML JSON representation should be an array with nested objects. Each html node should be an item in the array
+		const htmlArray = Array.isArray(htmlObject) ? htmlObject : [htmlObject];
+
+		// We process each html node and apply all css rules that match selector to tag name
+		const output = htmlArray.map((node) => { return _applyStyles(node); });
+
+		return JSON.stringify(output);
+	};
+
+	/**
+ * Converts a JSON representation of HTML back into an HTML string.
+ *
+ * This function takes a JSON representation of HTML, processes each node recursively, and 
+ * generates an equivalent HTML string. Attributes and styles are converted into their inline formats, 
+ * and nested nodes are processed hierarchically.
+ *
+ * Useful for rendering structured data (e.g., JSON saved from a web application) back into a browser-friendly HTML format.
+ *
+ * @example
+ * const json = `
+ * [
+ *   {
+ *     "element": "div",
+ *     "props": { "styles": { "color": "red" }, "classes": "container" },
+ *     "children": [
+ *       {
+ *         "element": "p",
+ *         "props": {},
+ *         "children": [ { "innerText": "Hello, World!" } ]
+ *       }
+ *     ]
+ *   }
+ * ]`;
+ *
+ * const html = convertJsonToHtml(json);
+ * console.log(html);
+ *
+ * // Output:
+ * // <div class="container" style="color: red;"><p>Hello, World!</p></div>
+ *
+ * @param {object[]} json - The JSON representation of the HTML.
+ * @returns {string} - The reconstructed HTML string.
+ */
+	function _convertJsonToHtml({ json }) {
+
+		// Helper function to generate attributes from a props object
+		const _consolidateTagAttributes = (props) => {
+
+			// Preprocess return early if no styles need applying
+			if (!props) return "";
+
+			// Initialize an empty string for the attributes, which will become the inline style=""
+			let attributes = "";
+
+			// Iterate over each key-value pair in the props object
+			for (const [key, value] of Object.entries(props)) {
+
+				switch (key) {
+					case "styles":
+						if (Object.keys(value).length > 0) {
+							// Convert styles object into an inline style string
+							const styleString = Object.entries(value)
+								.map(([property, val]) => { return `${property}: ${val};`; })
+								.join(" ");
+							attributes += ` style="${styleString}"`;
+						}
+						break;
+
+					case "classes":
+						// Add class names to the attributes
+						attributes += ` class="${value}"`;
+						break;
+					case "ids":
+						// Add an ID to the attributes
+						attributes += ` id="${value}"`;
+						break;
+					default:
+						// Add other attributes
+						attributes += ` ${key}="${value}"`;
+						break;
+				}
+
+			}
+
+			return attributes.trim();
+		};
+
+		// Recursive function to process each node in the JSON tree
+		const _processNode = (node) => {
+			if (typeof node === "string") {
+				return node;
+			}
+
+			if (node.innerText) {
+				return node.innerText;
+			}
+
+			const element = node.element;
+			const props = node.props;
+			const children = node.children;
+
+			// Remove empty styles from props to avoid unnecessary output
+			if (props?.styles && Object.keys(props.styles).length === 0) {
+				delete props.styles;
+			}
+
+			const attributes = _consolidateTagAttributes(props || {});
+			const childHTML = (children || []).map(_processNode).join("");
+
+			// Return the reconstructed HTML string for this node
+			return `<${element}${attributes ? " " + attributes : ""}>${childHTML}</${element}>`;
+		};
+
+		// Parse the input JSON and process each node to build the HTML output
+		const htmlOutput = (JSON.parse(json)).map(_processNode).join("");
+
+		return htmlOutput;
+	};
+
 
 	// ANCHOR Utility Create System Log Message
 	/**
@@ -256,16 +999,28 @@ const EASY_LIB_UTILITY = (() => {
 	*/
 	function _whisperErrorMessage({ apiCall, errDescription }) {
 
-		// Construct the styled error message.
-		const styledMessage = "<div style=\"border:1px solid black; background-color:#ffdddd; padding:10px; border-radius:10px;\">" +
-			"<h3 style=\"color:#cc0000; margin:0; font-size:1.2em;\">Error</h3>" +
-			"<p style=\"margin:5px 0;\">You attempted to run the following command:</p>" +
-			"<div style=\"margin:8px 0; padding:0 5px; background-color:#ffffff; border:1px solid #cccccc; border-radius:5px; font-family:monospace;\">" +
-			`<p>${apiCall.content}<p>` +
-			"</div>" +
-			`<p style="margin:5px 0;">${errDescription}.</p>` +
-			`<p style="margin:5px 0; font-size:0.9em; color:#555;">If you continue to experience issues, contact the script author (${this.author}) for assistance.</p>` +
-			"</div>";
+		/* Construct the styled error message.
+		const styledMessage = `
+		<div style=\"border:1px solid black; background-color:#ffdddd; padding:10px; border-radius:10px;\">
+			<h3 style=\"color:#cc0000; margin:0; font-size:1.2em;\">Error</h3>
+			<p style=\"margin:5px 0;\">You attempted to run the following command:</p>
+			<div style=\"margin:8px 0; padding:0 5px; background-color:#ffffff; border:1px solid #cccccc; border-radius:5px; font-family:monospace;\">
+				<p>${apiCall.content}<p>
+			</div>
+			<p style="margin:5px 0;">${errDescription}.</p>
+			<p style="margin:5px 0; font-size:0.9em; color:#555;">If you continue to experience issues, contact the script author (${this.author}) for assistance.</p>
+		</div>`.replace(/\s*\n\s*<remove this space>/g, ""); // Removes newlines and leading/trailing spaces
+		*/
+
+		const styledMessage = `<div class="error-message">
+			<h3 class="error-title">Error</h3>
+			<p class="error-text">You attempted to run the following command:</p>
+			<div class="error-command">
+				<p>${apiCall.content}</p>
+			</div>
+			<p class="error-description">${errDescription}.</p>
+			<p class="error-footer">If you continue to experience issues, contact the script author (${this.author}) for assistance.</p>
+		</div>`.replace(/\s*\n\s*/g, ""); // Removes newlines and leading/trailing spaces;
 
 		// Use the _whisper function to send the message to the player.
 		_whisperPlayerMessage({
@@ -493,7 +1248,7 @@ const EASY_LIB_UTILITY = (() => {
 
 		const regex = new RegExp(`${regexString}`, "gs");
 		const matchesArray = [...content.matchAll(regex)];
-		
+
 		// Extract and return the matched content
 		return matchesArray.map(match => { return match[1] || ""; }).filter(Boolean);
 
@@ -515,9 +1270,26 @@ const EASY_LIB_UTILITY = (() => {
 			message: ".=> Initializing <=."
 		});
 
-		// NOTE Possibly more checks to perform in the future...
+		try {
 
-		return 0;
+			if (!state[moduleSettings.globalState]) {
+				state[moduleSettings.globalState] = {};
+			}
+
+			if (!state[moduleSettings.globalState].themes) {
+				state[moduleSettings.globalState].themes = {};
+			}
+
+			// Load default themes into state
+			const themeStore = _createThemeStore();
+			themeStore.init();
+
+			return 0;
+
+		} catch {
+
+			return 1;
+		}
 	};
 
 	// ANCHOR Register Handlers
@@ -556,8 +1328,8 @@ const EASY_LIB_UTILITY = (() => {
 	// FIXME For now hand writing functions in this mapping. Had issues automating because the object was not inialized
 	// and could not be inspected for each function starting with "_". 
 	const availableUtilities = {
-		CreateCssStyleMappings: _createCssStyleMappings,
-		CreateStatusCodeMappings: _createStatusCodeMappings,
+		CreateCssStyleMappings: _createThemeStore,
+		CreateStatusCodeStore: _createStatusCodeStore,
 		DecodeNoteContent: _decodeNoteContent,
 		EncodeNoteContent: _encodeNoteContent,
 		LogSyslogMessage: _logSyslogMessage,
@@ -600,7 +1372,7 @@ const EASY_LIB_UTILITY = (() => {
 		FetchUtilities: ({ requestedFunctionsArray = [], thisModuleSettings = {} } = {}) => {
 			const selectedUtilities = {};
 			const effectiveModuleSettings = { ...moduleSettings, ...thisModuleSettings };
-	
+
 			requestedFunctionsArray.forEach((aRequestedFunc) => {
 				if (availableUtilities[aRequestedFunc]) {
 					// Wrap each utility function to inject `moduleSettings` dynamically
@@ -616,7 +1388,7 @@ const EASY_LIB_UTILITY = (() => {
 					});
 				}
 			});
-	
+
 			return selectedUtilities;
 		},
 	};
