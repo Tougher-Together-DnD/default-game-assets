@@ -1,15 +1,12 @@
-/*
+/*!
 @language: en-US
-@title: Easy Module
-@subject: 
-@tags: Roll20, Easy Module
-@category: Roll20 API Scripting
-@content status: UAT
-@company: Tougher Together Gaming (https://github.com/Tougher-Together-Gaming)
+@title: Easy Module Template
+@subject: A structured template for developing Roll20 API scripts. Includes private data, utility functions, event handlers, and initialization logic.
 @author: Mhykiel
-@comment: 
-@license: MIT License
-*/
+@version 0.1.0
+@license MIT License
+@see {@link https://github.com/Tougher-Together-Gaming/Easy-LibUtilities|GitHub Repository}
+!*/
 
 // eslint-disable-next-line no-unused-vars
 const EASY_GLOBAL_NAME = (() => {
@@ -41,38 +38,48 @@ const EASY_GLOBAL_NAME = (() => {
 	*******************************************************************************************************************/
 
 	const handleChatMessages = () => {
-	}
+	};
 
 	// ANCHOR Check Install
 	const checkInstall = () => {
-		const utilities = EASY_LIB_UTILITY.getUtilities(
-			[
-				"DecodeNoteContent",
-				"EncodeNoteContent",
-				"LogSyslogMessage",
-				"ParseChatCommands",
-				"WhisperErrorMessage",
-				"WhisperPlayerMessage"
-			],
-			moduleSettings
-		);
+
+		// Alert Script is Initializing
+		_logSyslogMessage.call(moduleSettings, {
+			severity: "INFO",
+			code: "10000",
+			message: ".=> Initializing <=."
+		});
+
+		try {
+
+			return 0;
+
+		} catch {
+
+			return 1;
+		}
+	};
+
+	// ANCHOR Register Handlers
+	const registerEventHandlers = () => {
+
+		on("chat:message", (apiCall) => {
+			if (apiCall.type === "api" && apiCall.content.startsWith(`!${moduleSettings.shortName}`)) {
+			}
+		});
+
+		// NOTE Possibly more events to watch for in the future...
+
+		// Script is ready
+		_logSyslogMessage.call(moduleSettings, {
+			severity: "INFO",
+			code: "20000",
+			message: ".=> Ready <=."
+		});
 
 		return 0;
 	};
 
-	// Create a StatusHandlerMap dynamically bound to this module's settings and utilities
-	const StatusHandlerMap = 	EASY_LIB_UTILITY.CreateStatusHandlerMap(utilities, moduleSettings);
-
-	const registerEventHandlers = () => {
-		on("chat:message", (apiCall) => {
-			if (apiCall.type === "api" && apiCall.content.startsWith(`!${moduleSettings.shortName}`)) {
-				//handleChatMessages(apiCall);
-				StatusHandlerMap["70000"]("Made it here")
-			}
-		});
-
-		return 1;
-	};
 	// !SECTION End of Private Functions
 
 	/*******************************************************************************************************************
@@ -82,24 +89,12 @@ const EASY_GLOBAL_NAME = (() => {
 	// ANCHOR ...INITIALIZATION...
 	on("ready", () => {
 
-		// Alert Script is Initializing
-		EASY_LIB_UTILITY.LogSyslogMessage({
-			moduleName: moduleSettings.modName,
-			severity: "INFO",
-			code: "10000",
-			message: ".=> Initializing Easy-NoteStyles <=."
-		});
+		const continueMod = checkInstall();
 
-		checkInstall();
-		registerEventHandlers();
-
-		// Script is ready
-		EASY_LIB_UTILITY.LogSyslogMessage({
-			moduleName: moduleSettings.modName,
-			severity: "INFO",
-			code: "20000",
-			message: ".=> Ready <=."
-		});
+		// If installation successful continue
+		if (continueMod === 0) {
+			registerEventHandlers();
+		}
 	});
 
 	return {
